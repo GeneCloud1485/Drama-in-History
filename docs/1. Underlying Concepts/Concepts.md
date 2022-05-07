@@ -1,3 +1,8 @@
+---
+title: list
+layout: default
+---
+
 # Introduction to the underlying concept
 
 [Back to the Index](../index.md)

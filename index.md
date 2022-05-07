@@ -9,9 +9,10 @@
 ...blah
 
 ## Index
-1. [Underlying Concepts](/docs/Concepts.md)
-2. [Defining Your Actor](/docs/Your_Actor.md)
-3.
+1. [Underlying Concepts](/docs/concepts.md)
+2. [Defining Your Actor](/docs/your_actor.md)
+
+
 
 
 
