@@ -1,12 +1,17 @@
-## Drama in History
-> A Game About People
+## A Game About People
 
 ## Landing page...
-> Introducton
+> ...Introducton
+
+
+
+
+...blah
 
 ## Index
-[Underlying concepts](doc/0.Underlying Concepts Introduction.md)
-
+1. [Underlying Concepts](docs/concepts.md)
+2. [Defining Your Actor](docs/Your_Actor.md)
+4. 
 
 
 

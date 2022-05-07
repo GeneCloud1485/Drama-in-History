@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/2. Defining Your Actor/0. Defining Your Actor.md",
+            "file": "docs/2. Defining Your Actor/Your_Actor.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329
   },
   "right": {
     "id": "d55ff16b8b952423",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2. Defining Your Actor/0. Defining Your Actor.md",
+                "file": "docs/2. Defining Your Actor/Your_Actor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,10 @@
   },
   "active": "714f7eb165a3146a",
   "lastOpenFiles": [
-    "docs/2. Defining Your Actor/0. Defining Your Actor.md",
+    "docs/2. Defining Your Actor/Your_Actor.md",
     "index.md",
-    "docs/1. Underlying Concepts/0. Underlying Concepts Introducton.md",
+    "doc/0.Underlying.md",
+    "docs/1. Underlying Concepts/Concepts.md",
     "docs/1. Underlying Concepts/1. Seasons, Stories & Scenes.md"
   ]
 }
