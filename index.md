@@ -6,8 +6,8 @@
 ## Index
 1. [Underlying Concepts](/docs/1_concepts/1.0_concepts.md)
 2. [Defining Your Actor](/docs/2_actors/your_actor.md)
-3. three
-4. four
+3. [Mechanics](/docs/3_mechanics/basic_mechanics.md)
+4. [Combat](docs/4_combat/combat.md)
 5. five
 6. [Test](/docs/test.md)
 7. seven
