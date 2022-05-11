@@ -8,10 +8,8 @@
 2. [Defining Your Actor](/docs/2_actors/your_actor.md)
 3. [Mechanics](/docs/3_mechanics/basic_mechanics.md)
 4. [Combat](docs/4_combat/combat.md)
-5. five
-6. [Test](/docs/test.md)
-7. seven
-8. 
+
+
 
 
 
