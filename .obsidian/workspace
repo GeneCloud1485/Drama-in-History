@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/4_combat/combat.md",
+            "file": "docs/3_mechanics/basic_mechanics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/4_combat/combat.md",
+                "file": "docs/3_mechanics/basic_mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "714f7eb165a3146a",
   "lastOpenFiles": [
+    "docs/3_mechanics/basic_mechanics.md",
     "docs/4_combat/combat.md",
+    "docs/test.md",
     "docs/4_combat/Establishing a Deadly Opposed Test.md",
     "index.md",
     "docs/1_concepts/1.0_concepts.md",
-    "docs/3_mechanics/basic_mechanics.md",
     "docs/3_mechanics/Aiding Other.md",
     "docs/3_mechanics/Rest & Recovery.md",
     "docs/3_mechanics/Protracted Challenge Test.md",
-    "docs/3_mechanics/Persistent Penalty Dice.md",
-    "docs/3_mechanics/Opposed Skill Tests.md"
+    "docs/3_mechanics/Persistent Penalty Dice.md"
   ]
 }
