@@ -64,52 +64,20 @@ When simply contributing a PAMS attribute can be helpful. Where it makes sense, 
 
 ### **Working together or providing assistance**
 
-In the case of two people are working on a problem, and where two can realistically contribute simultaneously.
-
-Each person involved has additional 2P penalty resistance to reflect the overlapping efforts.
-
+In the case of two people are working on a problem, and where two can realistically contribute simultaneously. 
+- Each can roll and their results are combined.
+- Each receives the normal restistance/penalty dice
+- And each person involved has **additional** 2P penalty resistance to reflect the overlapping efforts and complexity of collaboration.
 
 ### **Providing advice**
 
-Where the supporting person has a higher skill than the person performing the test. The differences between the higher skill and the lower skill is added a risk dice
+Where the supporting person has a higher skill (just skill, not PAMS + skill) than the person performing the test. The differences between the higher skill and the lower skill divided by two (round up) is added in risk dice.
 
-> _E.g. A master provides advice to their student, contributing 4R for the difference between their skill levels. The student could benefit significantly from the masters advice, although could also fall foul of a misunderstanding reducing their understanding._
+> _E.g. A master (skill 4) provides advice to their student (skill 1), contributing 2R for the difference between their skill levels. The student could benefit significantly from the masters advice, although they could also fall foul of a misunderstanding reducing their understanding._
 
 ### **Adding to the drama** 
 
 Assuming a reasonable narrative explanation can be made, anyone can contribute a drama die to any contest including ones that they are not involved in
-
-# **Drunkenness** 
-
-After a period of indulgence and drinking to excess a state of drunkenness modifies personality traits, attribute pools and skill checks. The effects are broken into two tiers; Drunk and Very/Blind Drunk. Drunk is the 'normal' state of drunkenness after a period of indulgent drinking. Blind Drunk is only achieved after 'extreme' drinking and consumption.
-
-**While drunk the following are all applied until the drunkenness passes;**
-
-When drunk a character's courage and belief in themselves is exaggerated, at a cost of thinking straight and agility.
-
--   Plus 2R dice for;
--   All social based skills
--   And all Fortitude, Composure and Courage checks
--   Temporary +1 to Courage, Rash, Indulgent & optionally +1 to any trait, bond or passion
--   Plus 2P for everything else;
--   Knowledge based on Mental
--   All Agility based skills
--   Grit pool checks
-
-**Blind Drunk/Very Drunk**
-
--   Plus 2R dice for;
--   Fortitude and Courage checks
--   Temporary +2 to Courage, Rash, Indulgent & optionally +2 exaggeration to any trait, bond or passion
--   Plus 4P for everything else… including Composure checks and social skills
-
-Penalty dice are applied to all healing or recovery checks and will modify recovery times for Grit and from Penalties (the 2P need to be recovered with the normal Penalty recovery timeline)
-
-[TODO] deal with the penalties - are they temp or added to pool
-
-**Mechanics: Drugged Drunkenness Variant**
-
-[TODO] = Muses & creativity over social
 
 # **Opposed Skill Tests**
 
@@ -243,3 +211,36 @@ Once per story a character can make a narratively appropriate test to recover fo
 > _E.g. A monk encountering a ghost in the crypt of a church suffers the loss of 1 Fortitude. The monk, an 'Actor' can recover up to 2 points per Story. He decides to spend an hour in prayer at the Altar to calm himself. A successful Prayer test allows him to recover the lost point._
 
 Other than this Fortitude takes 1 month per point to recover. This can happen during the summer but is more often recovered over the winter period.
+
+
+# **Drunkenness** 
+
+After a period of indulgence and drinking to excess a state of drunkenness modifies personality traits, attribute pools and skill checks. The effects are broken into two tiers; Drunk and Very/Blind Drunk. Drunk is the 'normal' state of drunkenness after a period of indulgent drinking. Blind Drunk is only achieved after 'extreme' drinking and consumption.
+
+**While drunk the following are all applied until the drunkenness passes;**
+
+When drunk a character's courage and belief in themselves is exaggerated, at a cost of thinking straight and agility.
+
+-   Plus 2R dice for;
+-   All social based skills
+-   And all Fortitude, Composure and Courage checks
+-   Temporary +1 to Courage, Rash, Indulgent & optionally +1 to any trait, bond or passion
+-   Plus 2P for everything else;
+-   Knowledge based on Mental
+-   All Agility based skills
+-   Grit pool checks
+
+**Blind Drunk/Very Drunk**
+
+-   Plus 2R dice for;
+-   Fortitude and Courage checks
+-   Temporary +2 to Courage, Rash, Indulgent & optionally +2 exaggeration to any trait, bond or passion
+-   Plus 4P for everything else… including Composure checks and social skills
+
+Penalty dice are applied to all healing or recovery checks and will modify recovery times for Grit and from Penalties (the 2P need to be recovered with the normal Penalty recovery timeline)
+
+[TODO] deal with the penalties - are they temp or added to pool
+
+**Mechanics: Drugged Drunkenness Variant**
+
+[TODO] = Muses & creativity over social

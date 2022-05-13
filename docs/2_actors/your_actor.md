@@ -128,6 +128,7 @@ Example traits;
 - Angry
 - Calm
 - Gossip
+- Jeaous
 
 [TODO tidy up for PC traits, with example application]
 
@@ -152,6 +153,7 @@ Bonds are forged around connections which can be relied on. Normal subjects incl
 - Fellowship - fraternity, society or the bonds of belonging which comes from be part of something larger than oneself
 - Belief or Faith - religion, doctrine, science 
 - Reliance on... - something which gives the character confidence, reprieve from fears or pressure and without which they are 'in pieces'
+- Oaths or meaningful promises - something that has a strong purpose and lasting effect
 
 When a Bond is gained or recognized, it can contribute to a person’s Composure. When a Bond is broken, it can also reduce Composure.
 
