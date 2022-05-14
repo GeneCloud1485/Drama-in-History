@@ -5,8 +5,7 @@ layout: default
 
 # Defining Your Actor
 
-
-[Back to the Index](/index.md)
+[Back to the Index](/docs/index.md)
 
 # Boons & Flaws
 Roll for a boon and a flaw

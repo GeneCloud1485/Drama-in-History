@@ -3,7 +3,7 @@ title: Your Actor
 layout: default
 ---
 # Tests for Success
-[Back to the Index](/index.md)
+[Back to the Index](/docs/index.md)
 
 Tests take a number forms and draw upon a variety of attributes, skills and factors, but ultimately the goal is the same - to achieve a net TWO successes. Achieving two success is always enough to gain a base success, the difficulty of a test is handled via the additional of resistance penalty dice or with an opposed roll. Gaining more than two successes is an indication of greater level of success, which in some circumstances can improve or expand on the success.
 

@@ -3,6 +3,7 @@ title: Your Actor
 layout: default
 ---
 # Combat - A Deadly Opposed Test 
+[Back to the Index](/docs/index.md)
 
 **Establishing Momentum**
 
