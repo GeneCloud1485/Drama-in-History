@@ -139,6 +139,8 @@ Scars are negatives events which haunt a person, perhaps a fear or phobia, or a 
 
 Strength is the positive consequence of events or dramatic situations, the experience of which will positive impact future interactions of this nature.
 
+Each can contribute dice to a pool, a scar will contribute nPd penalties and strengths will contribue nBd base dice.
+
 # Dramatic Passions
 Dramatic passions are deeply held, sometimes are overwhelming and always core to a person's actions. Gaining a dramatic passion is usually the result of an event, situation or consequence of role playing. 
 A person can have **up to** THREE different dramatic passions, each is rated as a Passion (2D), Strong Passion (3D) or an Intense Passion (4D).

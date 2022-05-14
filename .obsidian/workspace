@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/1_concepts/1.0_concepts.md",
+            "file": "docs/2_actors/your_actor.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1_concepts/1.0_concepts.md",
+                "file": "docs/2_actors/your_actor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "714f7eb165a3146a",
   "lastOpenFiles": [
-    "docs/1_concepts/1.0_concepts.md",
     "docs/2_actors/your_actor.md",
     "docs/3_mechanics/basic_mechanics.md",
+    "docs/4_combat/combat.md",
+    "docs/1_concepts/1.0_concepts.md",
     "docs/test.md",
     "docs/2_actors/4. Personality.md",
     "docs/2_actors/3. Life History.md",
     "docs/2_actors/3. Core Attributes.md",
     "docs/2_actors/1. Initial Foundations.md",
-    "docs/4_combat/Establishing a Deadly Opposed Test.md",
-    "index.md"
+    "docs/4_combat/Establishing a Deadly Opposed Test.md"
   ]
 }

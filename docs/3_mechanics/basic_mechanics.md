@@ -109,15 +109,10 @@ TODO Lasting scars - is there a need to have a partial madness from loss in one 
 Highest # of Results | Effect
 
 6| Attempt to fight the source of the fear
-
 5| Shout, rant and scream - incoherent, quoting biblical texts, speaking in tongues
-
 4| Attempt to flee the scene, turn away and keep back to threat and be obsessed with leaving the scene
-
 3| Emotional & passionate response - cry, wail, impassioned railing against the situation
-
 2| Gag, vomit and freeze. Feel shortage of breath and hyper-tension.
-
 1| Rock catatonic, immobile, unresponsive and vulnerable
 
 
@@ -137,15 +132,10 @@ _E.g. Checking composure before making a Lie skill check is not necessary, the l
 Result | Effect
 
 6| No additional effects
-
 5| Exaggerated discomfort = double 'degree of failure' in composure loss
-
 4| Emotional reaction, visible to all. Reduce an existing or gain a negative bond or passion
-
 3| Sadness which lasts the 'degree of failure' in days
-
 2| Dizziness & Nausea, additional +1 P
-
 1| A stress induced Scar +1
 
 As well as any mechanical outcome the results should provide guidance on how to behave and informs role-playing.
