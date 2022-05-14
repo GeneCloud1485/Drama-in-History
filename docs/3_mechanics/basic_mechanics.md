@@ -5,7 +5,7 @@ layout: default
 # Tests for Success
 [Back to the Index](/docs/index.md)
 
-Tests take a number forms and draw upon a variety of attributes, skills and factors, but ultimately the goal is the same - to achieve a net TWO successes. Achieving two success is always enough to gain a base success, the difficulty of a test is handled via the additional of resistance penalty dice or with an opposed roll. Gaining more than two successes is an indication of greater level of success, which in some circumstances can improve or expand on the success.
+Tests take a number of forms and draw upon a variety of attributes, skills and factors, but ultimately the goal is the same - to achieve a net of TWO successes. Achieving two success is always enough to gain a base success, the difficulty of a test is handled via the additional of resistance penalty dice or with an opposed roll. Gaining more than two successes is an indication of greater level of success, which in some circumstances can improve or expand on the success.
 
 > E.g. 6Bd: 5, 5, 4, 3, 1, 1 = 2 net successes
 > or 5Bd: 6, 5, 3, 2, 2  & 2Pd: 2, 2 = 0 net successes and a failure
@@ -14,7 +14,7 @@ What about ONE success? It is close and triggers the option of a YES, BUT result
 
 > E.g. 4Bd: 5, 2, 2, 1 = 1 net success requiring an additional price to be paid to succeed.
 
-A CRITICAL success is achieved when 3 or more "6"s are rolled in the positive dice pools (Base, Dramatic Risk or Passion). Count the total number of "6"s in the positive dice pool, and deduct the number of "1"s in the negative dice pool, the result is added to the number of successes total. A critical result in combat has an additional effect [TODO link]
+A CRITICAL success is achieved when 3 or more "6"s are rolled in the Base or Drama dice pools. Count the total number of "6"s in the positive dice pool, and deduct the number of "1"s in the negative dice pool, the result is added to the number of successes total. A critical result in combat has an additional effect [TODO link]
 
 > E.g. rolling 7Bd: 6, 6, 6, 5, 3, 3, 1  plus 4Pd: 4, 4, 2, 1 creates an initial 2 net successes (4 positive and 2 negative). The 3 "6"s reveal a critical, which adds 2 (3-1) additional successes to the original result, bringing the final result to 4. 
 

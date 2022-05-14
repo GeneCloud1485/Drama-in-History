@@ -29,7 +29,7 @@ A favored attribute is easier to raise to a higher value, and a dis-favored attr
 	3. Rich or Poor 
 	4. Blessed or Loved - establish a childhood bond 
 	5. Educated or Trained - roll 8Bd each success is a skill point of basic knowledge skills
-	6. Healthy or Sickly - roll 6Bd and 6Pd, if net result is a positive +1 to an attribute, if negative then -1 to an attribute otherwise no effect.
+	6. Healthy or Sickly - test your luck (roll 6Bd and 6Rd), if net result is a positive +1 to an attribute, if negative then -1 to an attribute otherwise no effect.
 	
 # **Four Core Attributes**
 Four attributes are the basis of the characters statistical description and provide the foundation values for skill checks.
@@ -66,6 +66,15 @@ If Flesh or Fortitude pools reach ZERO the character is out of play, either dyin
 When Grit or Composure are reduced to ZERO gain +1 penalty die. Subsequent reductions to Grit or Composure are passed directly to Flesh or Fortitude.
 
 # Drama Points
+Drama points can be spent to take a dramatic risk, call on an advantage or to take advantage of an opportunity that presents itself (in the dice pool result). Drama points are a persistent currency pool, and spending them reduces the pool until the end of the **Season** when they recover. It is possible to recover Drama Points during play at the Director's discretion as a reward for dramatic outcomes, great RP or to keep the game flowing.
+A Drama Point can be spent to add to the drama pool;
+- +1Dd for a simple bonus where no appropriate advantages, skills or backgrounds to connect to the event
+- +2Dd if there is an interesting 'narratively' or dramatic risk related to a specific skill or background that the actor has. 
+- +3Dd + specific outcome if the Actor has a listed dramatic advantage
+Or to take advantage of a situation;
+- To convert one rolled base dice (Bd) '4' result into a '5' and therefore a success. This is can be chosen after the dice pool has been rolled.
+
+
 
 # Penalty Dice
 
@@ -80,8 +89,8 @@ When Grit or Composure are reduced to ZERO gain +1 penalty die. Subsequent reduc
 
 If no specific named skill available, backgrounds can be used in reflection of general experience.
 Ask does this background help with this skill test?
-- Yes directly = 1 background for +1B, 2 for +2, max of 3 for +3
-- Kinda or indirectly = 1 background for +1B & 1P, max of 2 for 2B & 1P
+- Yes directly = 1 background for +1Bd, 2 for +2Bd, max of 3 for +3Bd
+- Kinda or indirectly = 1 background for +1Bd & 1Rd, max of 2 for 2Bd & 1Rd [TODO - should this be 2Rd]
 
 
 # Skill Points
@@ -89,45 +98,21 @@ People are complex and varied, capturing and describing their personality and mo
 
 # Guiding Traits
 Up to three guiding traits are recorded to help define a characters personality and approach to life. The traits can contribute mechanically to situations, but are **mostly** used to guide and drive role playing, decision making and consistent action. 
-Primary trait is the single most dominant trait and can apply +3B dice to a pool when directly applicable.
-Secondary 2B and Tertiary 1B add more depth and color to a character's personality.
+
+[Primary trait is the single most dominant trait and can apply +3Bd dice to a pool when directly applicable.
+Secondary 2Bd and Tertiary 1Bd add more depth and color to a character's personality. - TODO, dial traits out of the mix?]
 
 Example traits;
-- Loyal
-- Self Controlled
-- Persistent
-- Spiritual
-- Impatient
-- Greedy
-- Cruel
-- Unforgiving
-- Ambitious
-- Fearless
-- Vengeful
-- Calculating
-- Desperate
-- Persuasive
-- Twisted
-- Faith/Principle
-- Worldly
-- Courageous
-- Cowardly
-- Honest & Fair
-- Deceitful/Untrustworthy
-- Abstaining
-- Indulgent
-- Shrewd
-- Rash
-- Insecure/Humble
-- Proud/Narcissist
-- Kind/Forgiving
-- Callous/Vengeful
-- Amiable/Generous
-- Greedy/Selfish
-- Angry
-- Calm
-- Gossip
-- Jeaous
+
+| Loyal | Self Controlled | Persistent | Spiritual |
+| Impatient | Greedy | Cruel | Unforgiving |
+| Ambitious | Fearless | Vengeful | Calculating |
+| Desperate | Persuasive | Twisted | Faith/Principle |
+| Worldly | Courageous | Cowardly | Honest & Fair |
+| Deceitful/Untrustworthy | Abstaining | Indulgent | Shrewd
+| Rash | Insecure/Humble | Proud/Narcissist | Envious |
+| Kind/Forgiving | Callous/Vengeful | Amiable/Generous | Greedy/Selfish |
+| Angry | Calm | Gossip | Jeaous |
 
 [TODO tidy up for PC traits, with example application]
 
