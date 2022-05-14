@@ -127,8 +127,8 @@ Each can contribute dice to a pool, a scar will contribute nPd penalties and str
 
 # Dramatic Passions
 Dramatic passions are deeply held, sometimes are overwhelming and always core to a person's actions. Gaining a dramatic passion is usually the result of an event, situation or consequence of role playing. 
-A person can have **up to** THREE different dramatic passions, each is rated as a Passion (2D), Strong Passion (3D) or an Intense Passion (4D).
-When called upon in support of an action or test, PASSION dice are 
+A person can have **up to** THREE different dramatic passions, each is rated as a Passion (2Dd), Strong Passion (3Dd) or an Intense Passion (4Dd).
+When called upon in support of an action or test, PASSION dice are rolled as part of the Drama Pool.
 
 # Bonds
 Bonds represent the strong, re-assuring connections, faith and relationships that influence people's personality and choices. A bond provides a strength which can be used in support or against appropriate situations, providing positive dice. 

@@ -104,11 +104,11 @@ Drama die can be used to add into the opposed roll. The dice can be rolled after
 
 -   Skill (which includes an underlying stat)
 
-_E.g. Strike 7D (skill 4 + 3 physical)_
+_E.g. Strike 7Bd (skill 4 + 3 physical)_
 
 -   Advantages or Risks
 
-_E.g. Feint 2R adds 2 risk dice, noting that each 1 will count as -1, plus if any 1s will add a (max of 1) penalty die for rest of conflict to reflect being out of position from failed feint_
+_E.g. Feint 2Dd adds 2 risk dice, noting that each 1 will count as -1, plus if any 1s will add a (max of 1) penalty die for rest of conflict to reflect being out of position from failed feint_
 
 -   Appropriate Traits
 
