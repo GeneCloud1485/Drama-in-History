@@ -8,8 +8,18 @@ layout: default
 [Back to the Index](/docs/index.md)
 
 # Boons & Flaws
-Roll for a boon and a flaw
-Adjust or adapt to fit an actor's story if the Director agrees.
+Roll for a boon and a flaw. Adjust or adapt to fit an actor's story if the Director agrees.
+
+Boon
+| Boon | Physical | Agility | Mental | Social | Trait | Strength |
+| | 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Strong as an Ox +1 Phy | Perfect Balance +1 Agl | Quick Witted +1 Mnt | Charismatic +1 Soc | Honest & Fair | Inured to Death |
+| 2 | Brawler (DA) | Steady Hand (DA) | Scholarly Mind (DA) | Extravert (DA) | Abstaining | Strength: Disease |
+|3 | Striking feature +1 Soc | Keen eyesight (DA) | Good memory for stories (DA) | Empathy (DA) | Shrewd | Strength: Pain |
+| 4 | Tough looking (DA) | Natural Horseman (DA) | Silver Tongue (DA) | Heard word of God, +Religious | Humble | Strength: phobia |
+| 5 | Great Stamina, ignore 1Pen | Acute Hearing (DA) | Natural Linguist (DA) | Judge of Character (DA) | Forgiving | Social Strength Confident in a crowd |
+| 6 | Resilient +1 Flesh | Quick +2 Grit | Strong Fortitude +1 | Calm Composure +2 | Generous | Strength... |
+
 
 # Favored and Disfavored Attribute
 Choose one of the four attributes to be favored and one which is dis-favored. 
@@ -18,6 +28,8 @@ A favored attribute is easier to raise to a higher value, and a dis-favored attr
 
 
 # Setting
+...
+
 
 # Formative Years
 ... family setup in keeping with the game setting, period, and Director's guidance.
@@ -65,6 +77,24 @@ If Flesh or Fortitude pools reach ZERO the character is out of play, either dyin
 
 When Grit or Composure are reduced to ZERO gain +1 penalty die. Subsequent reductions to Grit or Composure are passed directly to Flesh or Fortitude.
 
+# Actor Level
+For both players and NPC progression.
+
+[TODO advancement rules]
+
+Drama Points gained per Actor level
+Cast  0 DP
+Cameo + 1 DP
+Support + 3 DP
+Actor + 3 DP (6 DP)
+Lead Actor + 3 DP (9 DP)
+Principal + 3 DP (12 DP)
+Title Character + 3 DP (15 DP)
+Starring Actor + 3 DP (18 DP)
+Director + 3 DP (21 DP)
+
+Drama points can also be gained when a new passion is taken. 
+
 # Drama Points
 Drama points can be spent to take a dramatic risk, call on an advantage or to take advantage of an opportunity that presents itself (in the dice pool result). Drama points are a persistent currency pool, and spending them reduces the pool until the end of the **Season** when they recover. It is possible to recover Drama Points during play at the Director's discretion as a reward for dramatic outcomes, great RP or to keep the game flowing.
 A Drama Point can be spent to add to the drama pool;
@@ -78,29 +108,41 @@ Or to take advantage of a situation;
 
 # Penalty Dice
 
-# Building an Actor
-
 
 
 # Age Ranges
+While individual player Actors can have a specific age, they are treated as being in an age band. For simplicity actor's age is represented as a band rather than a specific age.
 
+> e.g. a 16 year old is recorded as being a Youth or a 32 year old actor is known to be Mature.
+
+The age ranges can change depending on the era of the game, but the names of the bands stay the same.
+
+> e.g. someone aged 32 in a modern 20/21st Century game is known as an Adult compared while they are Mature in a Medieval setting.
 
 # Background
-
 If no specific named skill available, backgrounds can be used in reflection of general experience.
 Ask does this background help with this skill test?
 - Yes directly = 1 background for +1Bd, 2 for +2Bd, max of 3 for +3Bd
 - Kinda or indirectly = 1 background for +1Bd & 1Rd, max of 2 for 2Bd & 1Rd [TODO - should this be 2Rd]
 
+# Training in Skills
+- Untrained 0Bd
+- Trained 2Bd
+- Accomplished 3Bd
+- Master 4Bd
+- Expert 5Bd
 
-# Skill Points
+# Skill Points & Learning Skills
 People are complex and varied, capturing and describing their personality and motivations is done through a matrix of definitions.
+
+
+
+
 
 # Guiding Traits
 Up to three guiding traits are recorded to help define a characters personality and approach to life. The traits can contribute mechanically to situations, but are **mostly** used to guide and drive role playing, decision making and consistent action. 
 
-[Primary trait is the single most dominant trait and can apply +3Bd dice to a pool when directly applicable.
-Secondary 2Bd and Tertiary 1Bd add more depth and color to a character's personality. - TODO, dial traits out of the mix?]
+[Primary trait is the single most dominant trait and can apply +3Bd dice to a pool when directly applicable. Secondary 2Bd and Tertiary 1Bd add more depth and color to a character's personality. - TODO, dial traits out of the mix?]
 
 Example traits;
 
@@ -112,23 +154,23 @@ Example traits;
 | Deceitful/Untrustworthy | Abstaining | Indulgent | Shrewd
 | Rash | Insecure/Humble | Proud/Narcissist | Envious |
 | Kind/Forgiving | Callous/Vengeful | Amiable/Generous | Greedy/Selfish |
-| Angry | Calm | Gossip | Jeaous |
+| Angry | Calm | Gossip | Jealous |
 
 [TODO tidy up for PC traits, with example application]
 
 # Scars & Strengths
 Scars and Strengths are two sides of the same coin, moments which have left a lasting mark on a character's psyche. When a dramatic and impactful event occurs it can be seen as something which has a lasting and mechanical effect on the character.
 
-Scars are negatives events which haunt a person, perhaps a fear or phobia, or a memory of situation with great consequence or impact to that person.
+- Scars are negatives events which haunt a person, perhaps a fear or phobia, or a memory of situation with great consequence or impact to that person.
+   A **Scar** **will contribute nRd resistance penalties** to tests which would trigger the actor's scar
 
-Strength is the positive consequence of events or dramatic situations, the experience of which will positive impact future interactions of this nature.
-
-Each can contribute dice to a pool, a scar will contribute nPd penalties and strengths will contribue nBd base dice.
+- Strength is the positive consequence of events or dramatic situations, the experience of which will positive impact future interactions of this nature.
+  A **Strength** **will contribute  nBd base dice** in situations which benefit from the actor's strength.
 
 # Dramatic Passions
 Dramatic passions are deeply held, sometimes are overwhelming and always core to a person's actions. Gaining a dramatic passion is usually the result of an event, situation or consequence of role playing. 
 A person can have **up to** THREE different dramatic passions, each is rated as a Passion (2Dd), Strong Passion (3Dd) or an Intense Passion (4Dd).
-When called upon in support of an action or test, PASSION dice are rolled as part of the Drama Pool.
+When called upon in support of an action or test, Passions are added as Drama dice (nDd) and are rolled as part of the Drama Pool.
 
 # Bonds
 Bonds represent the strong, re-assuring connections, faith and relationships that influence people's personality and choices. A bond provides a strength which can be used in support or against appropriate situations, providing positive dice. 

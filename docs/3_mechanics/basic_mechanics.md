@@ -17,9 +17,8 @@ When to test & roll, and when not to...
 How many tests per scene?
 Choosing appropriate skills and attributes
 
-
-
-## Test for Success
+## Success or Fail?
+### Two Successes Needed
 Tests take a number of forms and draw upon a variety of attributes, skills and factors, but ultimately the goal is the same - to achieve a net of TWO successes. Achieving two success is always enough to gain a base success, the difficulty of a test is handled via the additional of resistance dice or by an opposed roll. Gaining more than two successes is an indication of greater level of success, which in some circumstances can improve or expand on the success.
 
 > E.g. 6 Base dice 
@@ -28,11 +27,13 @@ Tests take a number of forms and draw upon a variety of attributes, skills and f
 > or 5 Base dice and 2 Resistance dice 
 > 5Bd: 6, 5, 3, 2, 2  & 2Rd: 2, 2 = 0 net successes and a failure
 
+### One equals Yes, But...
 What about ONE success? It is close and triggers the option of a YES, BUT result if the character can pay a meaningful price to achieve a success. The penalty could be narrative, could be a currency costs (attribute pool) or the addition of a persistent penalty - this is determined in negotiation with the Director.
 
 > E.g. 4 Base dice
 > 4Bd: 5, 2, 2, 1 = 1 net success requiring an additional price to be paid to succeed.
 
+### Three '6s' is a Critical
 A CRITICAL success is achieved when 3 or more "6"s are rolled in the Base or Drama dice pools. Count the total number of "6"s in the positive dice pool, and deduct the number of "1"s in the negative dice pool, the result is added to the number of successes total. A critical result in combat has an additional effect [TODO link]
 
 > E.g. 7 Base dice and 4 Resistance dice
@@ -48,22 +49,13 @@ An attribute check can sometimes be used where there isn’t an applicable skill
 > _He fails to move the cart and calls to his friend Peter of Lynn, who puts his shoulder to the other wheel and provides his 2 physical to help. The two roll (2 and 2) achieving 3 successes between them and they shove the cart free of the rut._
 
 # **Skill Tests**
-
 Skill tests can contain a number of combinations; single test, opposed, co-operative, multiple opponents and could consist of a single test or a series of tests.
 
 For unopposed tests, calculate the dice pool and roll to determine the number of successes to compare with the target number.
 
 For opposed tests, the parties calculate their dice pools and then compare the results to determine the levels of success.
 
-For complex or co-operative tests, additional dice can be added to a pool from assisting parties, pools can be split against multiple opponents and the test can be a series of tests,
-
-  
-
-## **Skill or Unopposed Tests**
-
-A simple unopposed test pits the skill of a person against the level of difficulty of a challenge. A dice pool is created based on skills, situation and penalties which are rolled against a target number of successes.
-
-  
+For complex or co-operative tests, additional dice can be added to a pool from assisting parties, pools can be split against multiple opponents and the test can be a series of tests.
 
 ## **Levels of Difficulty**
 
@@ -73,15 +65,37 @@ Very Easy through formidable
 
 +2Bd / 0 / 2Rd / 4Rd / 6Rd / 8Rd
 
+## **Unopposed** Skill Tests
+A simple unopposed test pits the skill of a person against the level of difficulty or resistance of a challenge.
+
+Build a dice pool from Base, Resistance, and Drama dice.
+1. **Base pool** = Attribute + Skill, or background
+2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers
+3. **Drama pool** = risks, dramatic advantages or passions applicable
+
+The pools are rolled and the number of net successes is calculated. If two or more net successes are achieved then the test is successful.
+
+## **Resisted** Skill Tests 
+A resisted skill test is used for where another person is being affected or influenced by the test, and so have a resistance to the skill. It is very similar to an unopposed skill test, with the addition of extra resistance from the targets stats or skills.
+
+Build a dice pool from Base, Resistance, and Drama dice.
+1. **Base pool** = Attribute + Skill, or background
+2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers + **the stat or skill of the target** in resistance
+3. **Drama pool** = risks, dramatic advantages or passions applicable
+
+The pools are rolled and the number of net successes is calculated. If two or more net successes are achieved then the test is successful.
 
 
-# **Opposed Skill Tests**
+## **Opposed** Skill Tests
 
 Opposed test have all of the same core elements as unopposed, rather than focusing on a target number of successes, the goal is to get more successes than the opposition. The degree of success is determined by the net difference between the two outcomes, and as with unopposed rolls, the scale of the difference  indicates how successful the outcome is.
 
 One form of opposed test might be a hunter and prey. While they may use different skills, be effected by different situational modifiers they still build a dice pool and compare the results.
 
 The two most complex forms of opposed test are Social Contests and Combat, and they have additional rules to be considered.
+
+## Currency Tests
+The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested 
 
 ## **Opposed Social Contests**
 
