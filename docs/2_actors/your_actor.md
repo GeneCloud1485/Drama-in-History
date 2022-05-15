@@ -3,7 +3,7 @@ title: Your Actor
 layout: default
 ---
 
-[Back to the Index](/docs/index.md)
+[Back to the Index](/index.md)
 
 # Consider the Setting
 ...

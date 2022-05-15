@@ -6,7 +6,7 @@ layout: default
 [Back to the Index](/../docs/index.md)
 
 # Types of Challenge Tests
-A dynamic story will have many moments where the outcome is not clear, or that an actor's wishes are opposed and scenes which are challenging for the actor's to deal with.  These situations are dealt with through the use of a challenge test. There are a number of different forms of test, but they all work on same basic principle of build a pool, roll and read the results!
+A dynamic story will have many moments where the outcome is not clear, or that an actor's wishes are opposed and scenes which are challenging for the actor's to deal with.  These situations are dealt with through the use of a challenge test. There are a number of different forms of test, but they all work on same basic principle; build a pool, roll dice and read the results!
 
 - Base Attribute Test
 - Skill Tests
@@ -170,9 +170,9 @@ A test of fortitude is made whenever the character is faced with a strongly dist
 - Shock 2Rd
 - Horror 4Rd
 - Trauma 6Rd
-- Amount at stake 2+Rd
-- Empathy 2Rd
-- Bonds 2Rd per
+- Considering the amount at stake +2/4Rd
+- Specific Empathy for the victim/situation 2Rd
+- A Bond which connects to the victim/trigger 2Rd
 
 Any appropriate traits or dramatic advantages could be added to the pool.
 
