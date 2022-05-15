@@ -115,6 +115,16 @@ The two most complex forms of opposed test are Social Contests and Combat, and t
 # Currency Tests
 The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested 
 
+## Flesh
+
+## Grit
+
+## Fortitude
+
+## Composure
+
+>>>>>>>>>>>>>> Refactor into the Currency Tests
+
 ## **Opposed Social Contests**
 
 _Design Goals: To encourage role-playing in line with the characters and story for mechanical advantages in resolving a complex opposed contest. Imaginative, narrative and dramatic role-play on the part of the players should contribute 50% of the dice pool. In most cases, the NPCs should present brief narrative and character defense, but use their composure pool rather than the GM counter arguing for dice._
