@@ -1,3 +1,8 @@
+---
+title: Your Actor
+layout: default
+---
+
 # Director's Advice
 
 
@@ -10,3 +15,4 @@
 - But penalty dice can be generally be recovered with rest and recuperation. Unless the story has time pressure the actors can probably balance their own risks
 > e.g. if there are three shocking moments each at 2Rd, there is fair chance that each actor will lose two fortitude as a result. This is unlikely to knock them out, or even push them to a persistent penalty, but will require a couple of months recovery.
 
+- Pushing buttons to focus on 'struggle' could easily lead to higher Fort risks

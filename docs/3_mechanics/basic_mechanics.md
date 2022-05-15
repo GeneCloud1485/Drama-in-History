@@ -2,20 +2,22 @@
 title: Your Actor
 layout: default
 ---
-[Back to the Index](/docs/index.md)
 
-# Types of Test
+[Back to the Index](/../index.md)
+
+# Types of Challenge Tests
+A dynamic story will have many moments where the outcome is not clear, or that an actor's wishes are opposed and scenes which are challenging for the actor's to deal with.  These situations are dealt with through the use of a challenge test. There are a number of different forms of test, but they all work on same basic principle of build a pool, roll and read the results!
+
 - Base Attribute Test
 - Skill Tests
-	- Unopposed Skill Test
-	- Resisted Skill Test
-	- Opposed Skill Test
+1. Unopposed Skill Test
+2. Resisted Skill Test
+3. Opposed Skill Test
 - Currency Test
 - Complex Test
+- Combat, a deadly opposed test!
 
-When to test & roll, and when not to...
-How many tests per scene?
-Choosing appropriate skills and attributes
+[TODO] Choosing appropriate skills and attributes. When to test & roll, and when not to... How many tests per scene?
 
 ## Success or Failure?
 ### Two Successes Needed
@@ -119,7 +121,7 @@ Possible outcomes;
 
 Momentum is determined by the person who won the 'last round' in a multi-round contest, or who has the highest appropriate attribute, or who has an advantage which can argued to influence the outcome.
 
-### **Opposed Social Contests**
+### *Opposed Social Contests*
 
 _Design Goals: To encourage role-playing in line with the characters and story for mechanical advantages in resolving a complex opposed contest. Imaginative, narrative and dramatic role-play on the part of the players should contribute 50% of the dice pool. In most cases, the NPCs should present brief narrative and character defense, but use their composure pool rather than the GM counter arguing for dice._
 
@@ -148,10 +150,13 @@ No double counting: The test only considers the current inflicted wound, as prev
 
 [TODO how long are you passed our for?]
 
+---
 
 ## Test of the Grit Pool
 
 - Opposed test to establish momentum in a combat situation
+
+---
 
 ## Tests of Fortitude 
 - Shock & Horror
@@ -219,6 +224,8 @@ Highest # of Results | Effect
 1| Rock catatonic, immobile, unresponsive and vulnerable
 
 [TODO] duration of effects, level of player agency throughout the episode?
+
+---
 
 ## Tests of Composure
 - Stress & Fear
