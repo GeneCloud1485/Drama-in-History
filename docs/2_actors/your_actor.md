@@ -8,9 +8,9 @@ layout: default
 [Back to the Index](/docs/index.md)
 
 # Boons & Flaws
-Roll for a boon and a flaw. Adjust or adapt to fit an actor's story if the Director agrees.
+Each actor has inherent boons or flaws which could for formative factors in their life story. 
 
-Boon
+Roll 2d6 for a Boon, read horizontally for the 1st die result and vertically for the 2nd.
 
 | Boon | Physical | Agility | Mental | Social | Trait | Strength |
 | ... | 1 | 2 | 3 | 4 | 5 | 6 |
@@ -21,18 +21,18 @@ Boon
 | 5 | Great Stamina, ignore 1Pen | Acute Hearing (DA) | Natural Linguist (DA) | Judge of Character (DA) | Forgiving | Social Strength Confident in a crowd |
 | 6 | Resilient +1 Flesh | Quick +2 Grit | Strong Fortitude +1 | Calm Composure +2 | Generous | Strength...|
 
-Flaw
+Roll 2d6 for a Flaw
 
 | Flaw | Physical | Agility | Mental | Social | Trait | Strength |
 | ... | 1 | 2 | 3 | 4 | 5 | 6 |
 | 1 | Weak constitution -1Phy | Clumsy -1Agl | Slow witted -1Mnt | Displeasing demeanor -1Soc | Untrustworthy | Scar: Death |
 | 2 | Physical impairment | Partially sighted 2Rd for distance | Dsylexic 2Rd written tasks |  | Gruff/Rude 2Rd on social tests | Indulgent | Scar: Disease |
-| 3 |  |  |  |  |  |  |
-| 4 |  |  |  |  |  |  |
-| 5 |  |  |  |  |  |  |
-| 6 |  |  |  |  |  |  |
+| 3 | Weak Grip 2Rd wpn skill | Two left feet 2Rd dance skills | Bad with numbers 2Rd | Illicit Love (bond) | Brash | Scar: Ghosts |
+| 4 | Strikingly unpleasant feature +5 Rep | Poor balance 2Rd | Unhealthy obsession (passion) | Scar: Religion | Proud | Scar: Phobia |
+| 5 | Quick to bleed, lose additional Flesh on any wounds | Slow -2 Grit | Unstable -1 Fort |  | Nervous -2 Composure | Cruel | Scar: Introvert |
+| 6 | Phlegmatic 2Rd phy skills | Choleric 2Rd Agl skills | Melancholic 2Rd Mnt skills | Bleak humor 2Rd Soc skills | Greedy | Harboring a dark secret |
 
-
+Adjust or adapt to fit an actor's story if the Director agrees.
 
 # Favored and Disfavored Attribute
 Choose one of the four attributes to be favored and one which is dis-favored. 
