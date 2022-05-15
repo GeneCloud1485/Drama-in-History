@@ -103,63 +103,95 @@ The pools are rolled and the number of net successes is calculated. If two or mo
 
 
 ## **Opposed** Skill Tests
+An opposed skill test is used when someone is actively engaged in attempting to win a contest of some form. Each party will build dice pools, roll and compare the results. The winner is the person with the highest number of net successes as long as the result is greater than two.
 
-Opposed test have all of the same core elements as unopposed, rather than focusing on a target number of successes, the goal is to get more successes than the opposition. The degree of success is determined by the net difference between the two outcomes, and as with unopposed rolls, the scale of the difference  indicates how successful the outcome is.
+Possible outcomes;
+- **Winner**: One party achieves two or more net successes and greater than the other person.
+- **Draw**: Both parties the same number of two or more net successes, leading to a draw. Draw will be resolved by who has momentum.
+- **Failure**: Both parties fail to gain two net successes
 
-One form of opposed test might be a hunter and prey. While they may use different skills, be effected by different situational modifiers they still build a dice pool and compare the results.
+> E.g. Two apprentices play marbles, the winner gets to ask the Master's daughter to accompany him for a walk by the river.
+> Each rolls Agl + 2bd for their Town Life backgrounds, and one adds 2Dd for his passion for the girl.
+> A: 5Bd {5,5,2,1,1} for net two successes vs B: 4Bd {5,3,2,2} + 2Dd {6,6,4,1} for net 3 successes
+> B wins the game of marbles, his passion drove him to throw a brave shot which paid off. A pleasant walk with his sweet heart awaits.
 
-The two most complex forms of opposed test are Social Contests and Combat, and they have additional rules to be considered.
+Momentum is determined by the person who won the 'last round' in a multi-round contest, or who has the highest appropriate attribute, or who has an advantage which can argued to influence the outcome.
+
+### **Opposed Social Contests**
+
+_Design Goals: To encourage role-playing in line with the characters and story for mechanical advantages in resolving a complex opposed contest. Imaginative, narrative and dramatic role-play on the part of the players should contribute 50% of the dice pool. In most cases, the NPCs should present brief narrative and character defense, but use their composure pool rather than the GM counter arguing for dice._
+
+A social contest brings together narrative & role-play with skills & context into a complex opposed dice pool test. The scene should be setup by establishing the contest goal, then freeform role-play which brings the major advantages into play. After the role-play reaches an appropriate and dramatic point the pools are calculated and rolled to see the result. Each contest should be resolved in one test, although it is possible to keep the contest going if it is satisfactorily resolves, but the skill checks & advantages & narrative needs to be different in the second round.
 
 ---
 
 # Currency Tests
 The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested 
 
-## Flesh
+## Test of the Flesh Pool
 Tested when receiving a physical or painful injury to resist passing out. Or tested when resisting or recovering from a fever or sickness.
 
-- Max Flesh pool as nBd + nRd = penalty + Flesh/Pain points incurred to trigger this test
-> E.g. An actor with Flesh of 8 takes a sword blow which inflicts 3 Flesh damage to them. The test would be 8Bd + 5Rd based on the 3pt Flesh wound and 2 persistent penalties.
+- nBd equals **Max Flesh pool** + nRd which is current persistent penalty dice + Flesh/Pain points incurred to trigger this test
+> E.g. An actor with Flesh pool of 8 with 2 current persistent penalties takes a sword blow which inflicts 3 Flesh damage to them. The test would be 8Bd + 5Rd based on the 3pt Flesh wound and 2 persistent penalties.
+
+Any appropriate traits or dramatic advantages could be added to the pool.
+
+- Success: the test is passed 
+- Yes, but: accept a persistent penalty dice to pass the test
+- Failed: failed the test and passed out, adding a persistent penalty dice 
 
 No double counting: The test only considers the current inflicted wound, as previous wounds will have potentially contributed persistent penalties which will be added into the test anyway.
 - Knock-out check
 - Fever & sickness check
 
+[TODO how long are you passed our for?]
 
-## Grit
 
-- Opposed Momentum tests
+## Test of the Grit Pool
 
-## Fortitude
+- Opposed test to establish momentum in a combat situation
 
+## Tests of Fortitude 
 - Shock & Horror
 - Scars
 
-## Composure
+A test of fortitude is made whenever the character is faced with a strongly disturbing, shocking, horrific or scary situation. These can be the results of phobias, encounters with death, disease or horrors of the battle field, or engaging in mortal sins.
 
-- Fear
-- Social composure
+- nBD is based on the **Max Fortitude pool** + nRd which is penalty + strength of the shock that triggered the test
 
->>>>>>>>>>>>>> Refactor into the Currency Tests
+**Strength of the shock sets the Resistance in Fortitude Tests**
+- Shock 2Rd
+- Horror 4Rd
+- Trauma 6Rd
+- Amount at stake 2+Rd
+- Empathy 2Rd
+- Bonds 2Rd per
 
-## **Opposed Social Contests**
+Any appropriate traits or dramatic advantages could be added to the pool.
 
-_Design Goals: To encourage role-playing in line with the characters and story for mechanical advantages in resolving a complex opposed contest. Imaginative, narrative and dramatic role-play on the part of the players should contribute 50% of the dice pool. In most cases, the NPCs should present brief narrative and character defense, but use their composure pool rather than the GM counter arguing for dice._
+Outcomes;
+- Success: the test is passed
+- Yes, but: accept a persistent penalty dice to pass the test
+- Failed: failed the test and passed out, adding a persistent penalty dice 
+- Regardless of the outcome, lose one point of Fortitude for each success in the Resistance pool
 
-A social contest brings together narrative & role-play with skills & context into a complex opposed dice pool test. The scene should be setup by establishing the contest goal, then freeform role-play which brings the major advantages into play. After the role-play reaches an appropriate and dramatic point the pools are calculated and rolled to see the result. Each contest should be resolved in one test, although it is possible to keep the contest going if it is satisfactorily resolves, but the skill checks & advantages & narrative needs to be different in the second round.
+ > E.g. A nervous priest is confronted by what he believes to be a ghost in the graveyard. He has a Fortitude of 6 and a trait of 'nervous" 1Rd, is carrying a persistent penalty from an earlier heated discussion with an angry scholar. The encounter is rated as a 2Rd shock.
+ > The test is 6Bd {6,6,3,3,3,1} for +2 successes + 4Rd (2Rd for test + 1Rd for penalty + 1Rd for nervous) {4,3,3,2} for -1 success = one net success. 
+ > The priest pays the price to pass the test by taking another penalty. He loses 1 point of Fortitude due to the single success of the resistance pool, and turns to flee. 
+ > He is sorely shaken (the penalty) and will remember the chill of the graveyard for at least the next month while his Fortitude recovers.
 
-## **Tests of Fortitude** 
+#### **Loss of Fortitude**
 
-A test of fortitude is made whenever the character is faced with a disturbing, shocking, horrific or scary situation. These can be the results of phobias, encounters with death, disease or horrors of the battle field, or engaging in mortal sins
+Loss of Fortitude reflects a weakening of the mind or soul, or grasp of normality. 
 
-**Loss of Fortitude**
+- If Fortitude is under 50% a persistent penalty is applied
+- If a character's Fortitude is reduced to **zero** they are taken regarded as deranged, insane, enfeebled and unable to act meaningfully. 
 
-Loss of Fortitude reflects a weakening of the mind and a grasp on reality. If a character's Fortitude is reduced to 0 they are taken temporarily mad and unable to act meaningfully. 
+[TODO] Lasting scars - is there a need to have a partial madness from loss in one story?
 
-TODO Lasting scars - is there a need to have a partial madness from loss in one story?
+Failing to succeed in a test of Fortitude leads to a an uncontrolled shock outcome [TODO is this too exaggerated?]
 
-
-**Uncontrolled Shock Effects**
+### **Uncontrolled Shock Effects**
 
 Highest # of Results | Effect
 
@@ -170,14 +202,17 @@ Highest # of Results | Effect
 2| Gag, vomit and freeze. Feel shortage of breath and hyper-tension.
 1| Rock catatonic, immobile, unresponsive and vulnerable
 
+## Tests of Composure
+- Stress & Fear
+- Social composure
 
-## **Test of Composure**
+A test of composure is called when the character needs to keep their cool, deal with social status pressure, contain their anger or passion, deal with feelings of uncertainty or personal struggles, strange atmospheres, or outright fear.
 
-A test of composure is made when the character needs to keep their cool, deal with social status pressure, contain their anger or passion, deal with feelings of uncertainty, strange atmospheres, fear
 
 These are unopposed single tests and are different than a social contest, the outcome of a composure check confirms the persons confidence in dealing with a situation and can apply penalties if failed. 
 
 [TODO] - how to simplify composure into skill checks like this?
+
 A composure check can be made before a subsequent test, but should aim to ask & resolve a different question and not just be a 'double' dice test.
 
 _E.g. Checking composure before making a Lie skill check is not necessary, the lie skill check would be enough._
@@ -195,13 +230,11 @@ Result | Effect
 
 As well as any mechanical outcome the results should provide guidance on how to behave and informs role-playing.
 
+
 ---
 
 # Protracted Complex Challenge Tests
 Some problems are extremely complex, protracted and involved that a single test is not sufficient to resolve. In a case of a protracted challenge test the results of multiple rounds combine to measure progress overcoming a challenge.
-
-
-
 
 
 ---
