@@ -51,6 +51,8 @@ It is likely that any test which has 3+ resistance successes will be unlikely to
 
 It is theoretically possible to get both a Critical and Critical Failure in the dice pool. The net successes will likely cancel each other out, use the opportunity to make the net result more exaggerated with the two critical results contributing to the dramatic outcome.
 
+---
+
 #  **Base Attribute Test**
 A simple attribute test is used as a basic and catch-all test, either opposed or unopposed. The pool is built from the attribute + situational modifiers and penalty dice.
 
@@ -59,6 +61,8 @@ An attribute check can sometimes be used where there isn’t an applicable skill
  >_E.g. A cart wheel stuck in a rutted track, a straightforward challenge requiring 2 successes on a Physical attribute check. Young William puts his shoulder to the wheel and rolls his physical of 2._
 
 > _He fails to move the cart and calls to his friend Peter of Lynn, who puts his shoulder to the other wheel and provides his 2 physical to help. The two roll (2 and 2) achieving 3 successes between them and they shove the cart free of the rut._
+
+---
 
 # **Skill Tests**
 Skill tests can contain a number of combinations; single test, opposed, co-operative, multiple opponents and could consist of a single test or a series of tests.
@@ -106,7 +110,9 @@ One form of opposed test might be a hunter and prey. While they may use differen
 
 The two most complex forms of opposed test are Social Contests and Combat, and they have additional rules to be considered.
 
-## Currency Tests
+---
+
+# Currency Tests
 The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested 
 
 ## **Opposed Social Contests**
@@ -162,8 +168,12 @@ Result | Effect
 
 As well as any mechanical outcome the results should provide guidance on how to behave and informs role-playing.
 
+---
+
 # Protracted Complex Challenge Tests
 Some problems are extremely complex, protracted and involved that a single test is not sufficient to resolve. In a case of a protracted challenge test the results of multiple rounds combine to measure progress overcoming a challenge.
+
+---
 
 # **Penalty Dice**
 
@@ -196,7 +206,7 @@ Penalty dice are applied to all healing or recovery checks and will modify recov
 
 [TODO] deal with the penalties - are they temp or added to pool
 
-
+---
 
 # Aiding Others
 
@@ -222,6 +232,8 @@ Where the supporting person has a higher skill (just skill, not PAMS + skill) th
 ### **Adding to the drama** 
 
 Assuming a reasonable narrative explanation can be made, anyone can contribute a drama die to any contest including ones that they are not involved in
+
+---
 
 # How to Recover?
 ### Recovering Penalty Dice
@@ -261,6 +273,7 @@ Other than this Fortitude takes 1 month per point to recover. This can happen du
 ### Recovering Drama Points
 Drama Points are general recovered at the end of the Season.
 
+---
 
 # Drunkenness
 
@@ -288,8 +301,7 @@ When drunk a character's courage and belief in themselves is exaggerated, at a c
 -   **Plus 4Rd for everything else**… including Composure checks and social skills
 
 
-
-**Mechanics: Drugged Drunkenness Variant**
+## Mechanics: Drugged Drunkenness Variant
 
 [TODO] = Muses & creativity over social
 
