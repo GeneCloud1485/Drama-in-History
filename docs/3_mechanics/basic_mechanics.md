@@ -17,7 +17,7 @@ When to test & roll, and when not to...
 How many tests per scene?
 Choosing appropriate skills and attributes
 
-## Success or Fail?
+## Success or Failure?
 ### Two Successes Needed
 Tests take a number of forms and draw upon a variety of attributes, skills and factors, but ultimately the goal is the same - to achieve a net of TWO successes. Achieving two success is always enough to gain a base success, the difficulty of a test is handled via the additional of resistance dice or by an opposed roll. Gaining more than two successes is an indication of greater level of success, which in some circumstances can improve or expand on the success.
 
@@ -34,10 +34,22 @@ What about ONE success? It is close and triggers the option of a YES, BUT result
 > 4Bd: 5, 2, 2, 1 = 1 net success requiring an additional price to be paid to succeed.
 
 ### Three '6s' is a Critical
-A CRITICAL success is achieved when 3 or more "6"s are rolled in the Base or Drama dice pools. Count the total number of "6"s in the positive dice pool, and deduct the number of "1"s in the negative dice pool, the result is added to the number of successes total. A critical result in combat has an additional effect [TODO link]
+A CRITICAL success is achieved when 3 or more "6"s are rolled in the Base or Drama dice pools. Count the total number of "6"s in the positive Base and Drama dice pool, and deduct the number of "1"s in the negative Resistance dice pool, the result is added to the number of successes total. A critical result in combat has an additional effect [TODO link]
 
 > E.g. 7 Base dice and 4 Resistance dice
 >  7Bd: {6, 6, 6, 5, 3, 3, 1}  plus 4Pd: {4, 4, 2, 1} creates an initial 2 net successes (4 positive and 2 negative). The 3 "6"s reveal a critical, which adds 2 (3-1) additional successes to the original result, bringing the final result to 4. 
+
+Any critical results provide the Director adds a Tension Die to their Tension Pool. [TODO]
+
+### Three '1s' is a Critical Failure
+A CRITICAL FAILURE happens when 3 or more '1s' are rolled in the Resistance pool result. The net number of resistance '1s' after deducting the Base & Drama pool '6s' are added to resistance pool successes
+
+> E.g 5 Base dice and 8 Resistance dice
+> 5Bd {6, 3, 3, 2, 1} and 8Rd {6, 5, 5, 3, 2, 1, 1, 1} creates an initial net -3 successes. The 3 '1s' in the resistance pool add an additional net -2 net successes, leading to a final result of -5 successes and a complete, unmitigated failure!
+
+It is likely that any test which has 3+ resistance successes will be unlikely to succeed, the critical failure makes that a certainty. The interesting value is to turn the failure into something more dramatic, challenging or trigger an inner struggle.
+
+It is theoretically possible to get both a Critical and Critical Failure in the dice pool. The net successes will likely cancel each other out, use the opportunity to make the net result more exaggerated with the two critical results contributing to the dramatic outcome.
 
 #  **Base Attribute Test**
 A simple attribute test is used as a basic and catch-all test, either opposed or unopposed. The pool is built from the attribute + situational modifiers and penalty dice.
