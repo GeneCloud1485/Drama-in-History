@@ -11,14 +11,27 @@ layout: default
 Roll for a boon and a flaw. Adjust or adapt to fit an actor's story if the Director agrees.
 
 Boon
+
 | Boon | Physical | Agility | Mental | Social | Trait | Strength |
-| | 1 | 2 | 3 | 4 | 5 | 6 |
+| ... | 1 | 2 | 3 | 4 | 5 | 6 |
 | 1 | Strong as an Ox +1 Phy | Perfect Balance +1 Agl | Quick Witted +1 Mnt | Charismatic +1 Soc | Honest & Fair | Inured to Death |
 | 2 | Brawler (DA) | Steady Hand (DA) | Scholarly Mind (DA) | Extravert (DA) | Abstaining | Strength: Disease |
 |3 | Striking feature +1 Soc | Keen eyesight (DA) | Good memory for stories (DA) | Empathy (DA) | Shrewd | Strength: Pain |
 | 4 | Tough looking (DA) | Natural Horseman (DA) | Silver Tongue (DA) | Heard word of God, +Religious | Humble | Strength: phobia |
 | 5 | Great Stamina, ignore 1Pen | Acute Hearing (DA) | Natural Linguist (DA) | Judge of Character (DA) | Forgiving | Social Strength Confident in a crowd |
-| 6 | Resilient +1 Flesh | Quick +2 Grit | Strong Fortitude +1 | Calm Composure +2 | Generous | Strength... |
+| 6 | Resilient +1 Flesh | Quick +2 Grit | Strong Fortitude +1 | Calm Composure +2 | Generous | Strength...|
+
+Flaw
+
+| Flaw | Physical | Agility | Mental | Social | Trait | Strength |
+| ... | 1 | 2 | 3 | 4 | 5 | 6 |
+| 1 | Weak constitution -1Phy | Clumsy -1Agl | Slow witted -1Mnt | Displeasing demeanor -1Soc | Untrustworthy | Scar: Death |
+| 2 | Physical impairment | Partially sighted 2Rd for distance | Dsylexic 2Rd written tasks |  | Gruff/Rude 2Rd on social tests | Indulgent | Scar: Disease |
+| 3 |  |  |  |  |  |  |
+| 4 |  |  |  |  |  |  |
+| 5 |  |  |  |  |  |  |
+| 6 |  |  |  |  |  |  |
+
 
 
 # Favored and Disfavored Attribute
