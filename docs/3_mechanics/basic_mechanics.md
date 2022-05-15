@@ -176,8 +176,11 @@ Outcomes;
 - Regardless of the outcome, lose one point of Fortitude for each success in the Resistance pool
 
  > E.g. A nervous priest is confronted by what he believes to be a ghost in the graveyard. He has a Fortitude of 6 and a trait of 'nervous" 1Rd, is carrying a persistent penalty from an earlier heated discussion with an angry scholar. The encounter is rated as a 2Rd shock.
+ > 
  > The test is 6Bd {6,6,3,3,3,1} for +2 successes + 4Rd (2Rd for test + 1Rd for penalty + 1Rd for nervous) {4,3,3,2} for -1 success = one net success. 
+ > 
  > The priest pays the price to pass the test by taking another penalty. He loses 1 point of Fortitude due to the single success of the resistance pool, and turns to flee. 
+ > 
  > He is sorely shaken (the penalty) and will remember the chill of the graveyard for at least the next month while his Fortitude recovers.
 
 #### **Loss of Fortitude**
@@ -190,6 +193,16 @@ Loss of Fortitude reflects a weakening of the mind or soul, or grasp of normalit
 [TODO] Lasting scars - is there a need to have a partial madness from loss in one story?
 
 Failing to succeed in a test of Fortitude leads to a an uncontrolled shock outcome [TODO is this too exaggerated?]
+
+> E.g. A week later, the nervous priest is wandering in the woods and comes across a sight of slaughter, a deer carcass has been ritually laid out and clear signs of devil worship overwhelm the priests mind.
+
+> He has had time to recover from the penalties he was carrying, but this encounter is shocking to him for both gruesome slaughter and the obvious signs of witchcraft. 
+
+> The test is 6Bd {4,3,3,2,1,1} for no successes + 5Rd (nervous + 4Rd shocking horror) {6,6,4,2,2} for -2 successes + 2D (for his Religious Faith) {3,1} for -1 success. The test is failed with a net -3 successes
+
+> The priest loses three points of Fortitude, taking him to below half and uncomfortably close to zero. He gains a persistent penalty for being under half Fortitude.
+
+> For failing the test he triggers an uncontrollable shock effect, and adds another penalty dice. The widest number in the combined pools is 3 (there are three '3s' and three '1s', as '3' is the highest it is chosen). The priest rails against the situation, crying out in an emotional outpouring. He is unable to leave the scene, until his rage of emotion expires.
 
 ### **Uncontrolled Shock Effects**
 
@@ -205,6 +218,8 @@ Highest # of Results | Effect
 ## Tests of Composure
 - Stress & Fear
 - Social composure
+
+Can be both a reaction and a pre test to establish the tone for RP
 
 A test of composure is called when the character needs to keep their cool, deal with social status pressure, contain their anger or passion, deal with feelings of uncertainty or personal struggles, strange atmospheres, or outright fear.
 
