@@ -3,13 +3,38 @@ title: Your Actor
 layout: default
 ---
 
-# Defining Your Actor
-
 [Back to the Index](/docs/index.md)
+
+# Consider the Setting
+...
+
+# Defining Your Actor
+1. Choose some key factors that made up your actor's formative years.
+2. Establish their initial Boon & Flaw
+3. Choose a favored and dis-favored attribute
+4. Choose a target age and background
+5. Work through the age bands
+	1. Rolling for PAMS attribute points
+	2. Assigning the points
+	3. Calculating skill points
+	4. Spending skill points on advancing skills
+
+# Formative Years
+The 1st age band... family setup in keeping with the game setting, period, and Director's guidance.
+
+1. Choose a family context - father & mother's position, status, standing, relative wealth and family outline.
+2. Choose Urban or Country life as the 1st background
+3. Decide on your actor's 'Start in Life' that is in keeping with the family background and your character concept. Were their early years;
+	3. Worldly, Secular or Pastoral?
+	4. Rich or Poor?  - determines the tone of your childhood
+	5. Loving, dramatic, hated or insignificant?  - establish a childhood bond 
+	6. Uneducated or Educated? - If educated roll 8Bd each success is a skill point of basic knowledge skills
+	7. Healthy or Sickly - test your luck (roll 6Bd and 6Rd), if net result is a positive +1 to an attribute, if negative then -1 to an attribute otherwise no effect.
 
 # Boons & Flaws
 Each actor has inherent boons or flaws which could for formative factors in their life story. 
 
+## Boons
 Roll 2d6 for a Boon, read horizontally for the 1st die result and vertically for the 2nd.
 
 | Boon | Physical | Agility | Mental | Social | Trait | Strength |
@@ -21,6 +46,7 @@ Roll 2d6 for a Boon, read horizontally for the 1st die result and vertically for
 | 5 | Great Stamina, ignore 1Pen | Acute Hearing (DA) | Natural Linguist (DA) | Judge of Character (DA) | Forgiving | Social Strength Confident in a crowd |
 | 6 | Resilient +1 Flesh | Quick +2 Grit | Strong Fortitude +1 | Calm Composure +2 | Generous | Strength...|
 
+## Flaws
 Roll 2d6 for a Flaw
 
 | Flaw | Physical | Agility | Mental | Social | Trait | Strength |
@@ -39,22 +65,6 @@ Choose one of the four attributes to be favored and one which is dis-favored.
 A favored attribute is easier to raise to a higher value, and a dis-favored attribute is harder to raise to a higher value.
 [[3. Core Attributes]]
 
-
-# Setting
-...
-
-
-# Formative Years
-... family setup in keeping with the game setting, period, and Director's guidance.
-
-1. Choose a family context - father & mother's position, status, standing, relative wealth and family outline.
-2. **Choose** a 'Start in Life' as a first background that is in keeping with the family background and your character concept.
-	1. Worldly & Urban
-	2. Pastoral & Country
-	3. Rich or Poor 
-	4. Blessed or Loved - establish a childhood bond 
-	5. Educated or Trained - roll 8Bd each success is a skill point of basic knowledge skills
-	6. Healthy or Sickly - test your luck (roll 6Bd and 6Rd), if net result is a positive +1 to an attribute, if negative then -1 to an attribute otherwise no effect.
 	
 # **Four Core Attributes**
 Four attributes are the basis of the characters statistical description and provide the foundation values for skill checks.
