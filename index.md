@@ -8,7 +8,7 @@
 2. [Defining Your Actor](/docs/2_actors/your_actor.md)
 3. [Mechanics](/docs/3_mechanics/basic_mechanics.md)
 4. [Combat](docs/4_combat/combat.md)
-5. [Director's Advice](docs/5_director/director_advice.md)
+5. [Director's Advice](docs/5_director/directors_advice.md)
 
 
 

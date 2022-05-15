@@ -3,7 +3,7 @@ title: Your Actor
 layout: default
 ---
 
-[Back to the Index](/../index.md)
+[Back to the Index](/../docs/index.md)
 
 # Types of Challenge Tests
 A dynamic story will have many moments where the outcome is not clear, or that an actor's wishes are opposed and scenes which are challenging for the actor's to deal with.  These situations are dealt with through the use of a challenge test. There are a number of different forms of test, but they all work on same basic principle of build a pool, roll and read the results!
