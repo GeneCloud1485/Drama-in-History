@@ -116,12 +116,29 @@ The two most complex forms of opposed test are Social Contests and Combat, and t
 The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested 
 
 ## Flesh
+Tested when receiving a physical or painful injury to resist passing out. Or tested when resisting or recovering from a fever or sickness.
+
+- Max Flesh pool as nBd + nRd = penalty + Flesh/Pain points incurred to trigger this test
+> E.g. An actor with Flesh of 8 takes a sword blow which inflicts 3 Flesh damage to them. The test would be 8Bd + 5Rd based on the 3pt Flesh wound and 2 persistent penalties.
+
+No double counting: The test only considers the current inflicted wound, as previous wounds will have potentially contributed persistent penalties which will be added into the test anyway.
+- Knock-out check
+- Fever & sickness check
+
 
 ## Grit
 
+- Opposed Momentum tests
+
 ## Fortitude
 
+- Shock & Horror
+- Scars
+
 ## Composure
+
+- Fear
+- Social composure
 
 >>>>>>>>>>>>>> Refactor into the Currency Tests
 
@@ -182,6 +199,10 @@ As well as any mechanical outcome the results should provide guidance on how to 
 
 # Protracted Complex Challenge Tests
 Some problems are extremely complex, protracted and involved that a single test is not sufficient to resolve. In a case of a protracted challenge test the results of multiple rounds combine to measure progress overcoming a challenge.
+
+
+
+
 
 ---
 
@@ -269,7 +290,17 @@ Grit is recovered by physically resting for an hour. Physical benefits can boost
 * Can't recover penalties caused by loss of Grit/Composure/infection until they have been recovered back to half or more.
 
 ### Recovering Flesh
-Critical Flesh adds +1 month to the recovery time
+Each point of each flesh damage taken in a wound takes a month to recover from. 
+
+> E.g.  A merchant is stabbed while returning to the Inn late at night, he takes a 2 point Flesh wound before fighting off his assailant. The wound is deep but not life threatening, it will take a full two months to recover.
+
+If an actor receives multiple wounds they recover in parallel.
+
+> E.g. If the merchant has been stabbed a second time, this time for 1 point of Flesh, that would would heal during the first month of his two months recovery.
+
+Critical Flesh wounds add two months to the recovery time for that wound.
+
+> E.g. a man-at-arms receives a critical wound which causes 5 points of Flesh damage. The 1st three months of recovery heals 1 point of flesh, and then the remaining points are healed over a further four months. The man requires seven months to recover fully from his grievous wound.
 
 ### Recovering Fortitude
 Fortitude is recovered through rest and calm contemplation. 
