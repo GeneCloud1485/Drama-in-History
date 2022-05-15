@@ -21,23 +21,21 @@ Choosing appropriate skills and attributes
 ### Two Successes Needed
 Tests take a number of forms and draw upon a variety of attributes, skills and factors, but ultimately the goal is the same - to achieve a net of TWO successes. Achieving two success is always enough to gain a base success, the difficulty of a test is handled via the additional of resistance dice or by an opposed roll. Gaining more than two successes is an indication of greater level of success, which in some circumstances can improve or expand on the success.
 
-> E.g. 6 Base dice 
-> 6Bd: 5, 5, 4, 3, 1, 1 = 2 net successes
+> E.g. 6 Base dice 6Bd {5,5,4,3,1,1} = 2 net successes 
 > 
-> or 5 Base dice and 2 Resistance dice 
-> 5Bd: 6, 5, 3, 2, 2  & 2Rd: 2, 2 = 0 net successes and a failure
+> or 5 Base dice and 2 Resistance dice 5Bd: {6,5,3,2,2}  & 2Rd: {2,2} = 0 net successes and a failure
 
 ### One equals Yes, But...
 What about ONE success? It is close and triggers the option of a YES, BUT result if the character can pay a meaningful price to achieve a success. The penalty could be narrative, could be a currency costs (attribute pool) or the addition of a persistent penalty - this is determined in negotiation with the Director.
 
-> E.g. 4 Base dice
-> 4Bd: 5, 2, 2, 1 = 1 net success requiring an additional price to be paid to succeed.
+> E.g. 4 Base dice 4Bd: {5,2,2,1} = 1 net success requiring an additional price to be paid to succeed.
 
 ### Three '6s' is a Critical
 A CRITICAL success is achieved when 3 or more "6"s are rolled in the Base or Drama dice pools. Count the total number of "6"s in the positive Base and Drama dice pool, and deduct the number of "1"s in the negative Resistance dice pool, the result is added to the number of successes total. A critical result in combat has an additional effect [TODO link]
 
 > E.g. 7 Base dice and 4 Resistance dice
->  7Bd: {6, 6, 6, 5, 3, 3, 1}  plus 4Pd: {4, 4, 2, 1} creates an initial 2 net successes (4 positive and 2 negative). The 3 "6"s reveal a critical, which adds 2 (3-1) additional successes to the original result, bringing the final result to 4. 
+> 
+>  7Bd: {6,6,6,5,3,3,1}  plus 4Pd: {4,4,2,1} creates an initial 2 net successes (4 positive and 2 negative). The 3 "6"s reveal a critical, which adds 2 (3-1) additional successes to the original result, bringing the final result to 4. 
 
 Any critical results provide the Director adds a Tension Die to their Tension Pool. [TODO]
 
@@ -45,7 +43,8 @@ Any critical results provide the Director adds a Tension Die to their Tension Po
 A CRITICAL FAILURE happens when 3 or more '1s' are rolled in the Resistance pool result. The net number of resistance '1s' after deducting the Base & Drama pool '6s' are added to resistance pool successes
 
 > E.g 5 Base dice and 8 Resistance dice
-> 5Bd {6, 3, 3, 2, 1} and 8Rd {6, 5, 5, 3, 2, 1, 1, 1} creates an initial net -3 successes. The 3 '1s' in the resistance pool add an additional net -2 net successes, leading to a final result of -5 successes and a complete, unmitigated failure!
+> 
+> 5Bd {6,3,3,2,1} and 8Rd {6,5,5,3,2,1,1,1} creates an initial net -3 successes. The 3 '1s' in the resistance pool add an additional net -2 net successes, leading to a final result of -5 successes and a complete, unmitigated failure!
 
 It is likely that any test which has 3+ resistance successes will be unlikely to succeed, the critical failure makes that a certainty. The interesting value is to turn the failure into something more dramatic, challenging or trigger an inner struggle.
 
@@ -73,13 +72,13 @@ For opposed tests, the parties calculate their dice pools and then compare the r
 
 For complex or co-operative tests, additional dice can be added to a pool from assisting parties, pools can be split against multiple opponents and the test can be a series of tests.
 
-## **Levels of Difficulty**
+## *Levels of Difficulty*
 
 Level of difficulty is reflected in the addition of penalty/resistance dice to the pool so that the target number is always 2 success to pass the test.
 
 Very Easy through formidable
 
-+2Bd / 0 / 2Rd / 4Rd / 6Rd / 8Rd
++2Bd / 0 / 2Rd / 4Rd / 6Rd / 8Rd / 10Rd
 
 ## **Unopposed** Skill Tests
 A simple unopposed test pits the skill of a person against the level of difficulty or resistance of a challenge.
@@ -111,8 +110,11 @@ Possible outcomes;
 - **Failure**: Both parties fail to gain two net successes
 
 > E.g. Two apprentices play marbles, the winner gets to ask the Master's daughter to accompany him for a walk by the river.
+> 
 > Each rolls Agl + 2bd for their Town Life backgrounds, and one adds 2Dd for his passion for the girl.
+> 
 > A: 5Bd {5,5,2,1,1} for net two successes vs B: 4Bd {5,3,2,2} + 2Dd {6,6,4,1} for net 3 successes
+> 
 > B wins the game of marbles, his passion drove him to throw a brave shot which paid off. A pleasant walk with his sweet heart awaits.
 
 Momentum is determined by the person who won the 'last round' in a multi-round contest, or who has the highest appropriate attribute, or who has an advantage which can argued to influence the outcome.
@@ -185,12 +187,13 @@ Outcomes;
 
 #### **Loss of Fortitude**
 
-Loss of Fortitude reflects a weakening of the mind or soul, or grasp of normality. 
+Loss of Fortitude reflects a weakening of the mind, soul, or one's grasp of normality. 
 
-- If Fortitude is under 50% a persistent penalty is applied
-- If a character's Fortitude is reduced to **zero** they are taken regarded as deranged, insane, enfeebled and unable to act meaningfully. 
+- If Fortitude is under 50% a persistent penalty is applied until Fortitude is recovered to greater than 50%. This penalty can't be recovered by any other means.
+- If a character's Fortitude is reduced to **zero** they are taken regarded as deranged, insane, enfeebled and unable to act meaningfully. They will be in this state until their Fortitude recovers a point.
 
 [TODO] Lasting scars - is there a need to have a partial madness from loss in one story?
+[TODO] risks of recovering from a zero Fort situation? 
 
 Failing to succeed in a test of Fortitude leads to a an uncontrolled shock outcome [TODO is this too exaggerated?]
 
@@ -214,6 +217,8 @@ Highest # of Results | Effect
 3| Emotional & passionate response - cry, wail, impassioned railing against the situation
 2| Gag, vomit and freeze. Feel shortage of breath and hyper-tension.
 1| Rock catatonic, immobile, unresponsive and vulnerable
+
+[TODO] duration of effects, level of player agency throughout the episode?
 
 ## Tests of Composure
 - Stress & Fear
