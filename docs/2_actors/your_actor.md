@@ -71,8 +71,8 @@ Additional Drama Points can also be gained when a new passion is taken.
 # Consider the Setting
 ...
 
-# Age Ranges
-For simplicity actor's age is represented as a band rather than a specific age.
+# Age Bands
+For simplicity actor's age is represented as a band rather than a specific age. The age bands are a way to summarize the actor's life, experiences and skills that they have developed.
 
 While individual player Actors are a specific age in years, they are treated as being in an age band that most closely reflects their age. Once the actor reaches the lowest age in an age band they are regarded as being in that band.
 
@@ -163,20 +163,40 @@ If no specific named skill available, backgrounds can be used in reflection of g
 - Yes directly = 1 background for +1Bd, 2 for +2Bd, max of 3 for +3Bd
 - Kinda or indirectly = 1 background for +1Bd & 1Rd, max of 2 for 2Bd & 1Rd [TODO - should this be 2Rd]
 
-## 4. Calculate Skill Points
-If a full age band is completed
-If partially completed
+## 4. Calculate Skill Points & Skills Available
+Everyone can learn, practice or improve their training level in common skills, no particular background situation is required to progress. Each age band provides **five skill points** to develop common skills.
+
+Depending on the setting, era and available education will determine how many additional skill points are available to an actor during a period of time reflected as an age band. An **additional five skills points** are available to spend on vocational or specific or knowledge skills related to the background.
+
+> E.g. If the actor was able to gain vocational training or through simple re-enforcement of core skills, or had free time to invest in skill development then they gain additional points to spend on more expert or knowledge skills.
+
+If a full age band is completed, allocate the five points. If it is partially completed, then pro rata the years completed for skill point development.
+
+> E.g. A mature actor serving in King Richard II's court gains 5 common skill points and 5 skill points to spend on social or courtly skills.
+
+> E.g. A 58 yr old,  senior actor is a private investigator in modern day London gets 2 additional common skill points.
+
+If the actor's age band is Elderly, no additional skill points are gained.
+
+Up to **two 'academic' age bands** can be spent in intense study during an Actor's life, these should be full time and dedicated periods of study. An additional five skill points to be spent on academic subjects.
 
 ## 5. Spend Skill Points on Skills
-People are complex and varied, capturing and describing their personality and motivations is done through a matrix of definitions.
-### Training in Skill
+Skill points should be spent on skills which are reasonably associated with the background, opportunities and the Actor's career path(s). An amount of flexibility and freedom can be allowed here, following the spirit of developing skills which would be available to the actor.
+
+Training in skills is tracked at five levels; untrained, training, accomplished, master and expert. An actor must spent points to move from one training level to the next level.
+
+### Points Required to Gain Training in Skills
 - Untrained 0Bd
 - Trained +2Bd
 - Accomplished +3Bd
 - Master +4Bd
 - Expert +5Bd
 
+If an age band doesn't provide enough points to elevate a skill to the next level, you can record the progress towards the next skill level and complete it in the next age band.
+
 ## 6. Adding Personality
+People are complex and varied, capturing and describing their personality and motivations is done through a matrix of definitions.
+
 - Guiding Traits
 - Scars & Strengths
 - Dramatic Passions
@@ -185,7 +205,7 @@ People are complex and varied, capturing and describing their personality and mo
 
 
 
-# Guiding Traits
+### Guiding Traits
 Up to three guiding traits are recorded to help define a characters personality and approach to life. The traits can contribute mechanically to situations, but are **mostly** used to guide and drive role playing, decision making and consistent action. 
 
 [Primary trait is the single most dominant trait and can apply +3Bd dice to a pool when directly applicable. Secondary 2Bd and Tertiary 1Bd add more depth and color to a character's personality. - TODO, dial traits out of the mix?]
@@ -204,7 +224,7 @@ Example traits;
 
 [TODO tidy up for PC traits, with example application]
 
-# Scars & Strengths
+### Scars & Strengths
 Scars and Strengths are two sides of the same coin, moments which have left a lasting mark on a character's psyche. When a dramatic and impactful event occurs it can be seen as something which has a lasting and mechanical effect on the character.
 
 - Scars are negatives events which haunt a person, perhaps a fear or phobia, or a memory of situation with great consequence or impact to that person.
@@ -213,12 +233,12 @@ Scars and Strengths are two sides of the same coin, moments which have left a la
 - Strength is the positive consequence of events or dramatic situations, the experience of which will positive impact future interactions of this nature.
   A **Strength** **will contribute  nBd base dice** in situations which benefit from the actor's strength.
 
-# Dramatic Passions
+### Dramatic Passions
 Dramatic passions are deeply held, sometimes are overwhelming and always core to a person's actions. Gaining a dramatic passion is usually the result of an event, situation or consequence of role playing. 
 A person can have **up to** THREE different dramatic passions, each is rated as a Passion (2Dd), Strong Passion (3Dd) or an Intense Passion (4Dd).
 When called upon in support of an action or test, Passions are added as Drama dice (nDd) and are rolled as part of the Drama Pool.
 
-# Bonds
+### Bonds
 Bonds represent the strong, re-assuring connections, faith and relationships that influence people's personality and choices. A bond provides a strength which can be used in support or against appropriate situations, providing positive dice. 
 
 Bonds are forged around connections which can be relied on. Normal subjects include family, friendship, fellowship, belief or faith but could also include a reliance on a drug or object. A bond can be recognized based on anything which is important to the character, one caveat, bonds must be able to be broken or shaken.
