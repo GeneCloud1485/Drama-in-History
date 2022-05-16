@@ -82,6 +82,31 @@ The age ranges can change depending on the era of the game, but the names of the
 
 > e.g. someone aged 32 in a modern 20/21st Century game is known as an Adult compared while they are Mature in a Medieval setting.
 
+|**15th C**|**18th C**|**20/21st C**|
+
+|Medieval|Renaissance|Modern|
+
+|Child|(5-10)|(5-10)|(5-10)|
+
+|Juvenile|(10-15)|(10-15)|(10-15) |
+
+|Youth|(15-20)|(15-20)|(15-20) |
+
+|Prime|(20-25)|(20-25)|(20-25) |
+
+|Adult|(25-30)|(25-30)|(25-35) |
+
+|Mature|(30-35)|(30-35)|(35-45) |
+
+|Veteran|(35-40)|(35-45)|(45-55) |
+
+|Senior|(40-50)|(45-55)|(55-65) |
+
+|Aged|50-60)|(55-65)|65-75) |
+
+|Elderly|(60+)|(65+)|(75+)|
+
+
 # Defining Your Actor
 1. Choose some key factors that made up your actor's formative years.
 2. Establish their initial Boon & Flaw
@@ -179,6 +204,8 @@ If a full age band is completed, allocate the five points. If it is partially co
 If the actor's age band is Elderly, no additional skill points are gained.
 
 Up to **two 'academic' age bands** can be spent in intense study during an Actor's life, these should be full time and dedicated periods of study. An additional five skill points to be spent on academic subjects.
+
+> E.g. An actor in the prime of their life attends university, they will receive 5 common skill points, 5 knowledge or specialist skill points and 5 knowledge skill points from academic study.
 
 ## 5. Spend Skill Points on Skills
 Skill points should be spent on skills which are reasonably associated with the background, opportunities and the Actor's career path(s). An amount of flexibility and freedom can be allowed here, following the spirit of developing skills which would be available to the actor.
