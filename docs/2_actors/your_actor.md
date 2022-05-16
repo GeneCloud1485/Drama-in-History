@@ -169,20 +169,25 @@ For each age band after 'Child' up to the current age band, follow these steps;
 
 |Age Band|Which Attributes|Fixed|Risk|Base|Aging P or A|Age M or S|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Child|PAMS|3|2|0|||
-|Juvenile|PAMS|3|2|0|||
-|Youth|PAMS|2|1|1|||
-|Prime|PAMS|1|1|1|||
-|Adult|PAMS|1|0|1|-1||
-|Mature|PAMS|1|0|1|-2|-1|
-|Veteran|MS|0|0|1|-2|-1|
-|Senior|MS|0|0|1|-3|-2|
-|Aged|MS|0|0|1|-4|-2|
-|Elderly| | | | |-4|-4|
+|Child|PAMS|3|2Dd|0|||
+|Juvenile|PAMS|3|2Dd|0|||
+|Youth|PAMS|2|1Dd|1Bd|||
+|Prime|PAMS|1|1Dd|1Bd|||
+|Adult|PAMS|1|0|1Bd|1Rd||
+|Mature|PAMS|1|0|1Bd|2Rd|1Rd|
+|Veteran|MS|0|0|1Bd|2Rd|1Rd|
+|Senior|MS|0|0|1Bd|3Rd|2Rd|
+|Aged|MS|0|0|1Bd|4Rd|2Rd|
+|Elderly| | | | |4Rd|4Rd|
 
 ## 2. Assign Point to Attributes
+Costs to increase an attribute by a point
+|Normal| Favored | Dis-favored|
+|---|---|---|---|
+| 1-4 = 1 pt | 1-5 = 1pt | 1-3 = 1 pt |
+| 5+ = 2 pts | 6+ = 2 pts | 4+ = 2 pts |
 
-## 3. Decide on a Background
+## 3. Decide on a Background for the Age Band
 
 
 # Background
