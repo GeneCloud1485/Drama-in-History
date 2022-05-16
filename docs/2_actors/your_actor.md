@@ -54,6 +54,7 @@ For both players and NPC progression.
 [TODO advancement rules]
 
 Drama Points gained per Actor level
+
 | Actor Level | Points Gained | Expected Total |
 | Cast | 0 DP | 0 DP |
 | Cameo | + 1 DP | 1 DP |
