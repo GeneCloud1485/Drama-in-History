@@ -41,16 +41,14 @@ A CRITICAL success is achieved when 3 or more "6"s are rolled in the Base or Dra
 
 Any critical results provide the Director adds a Tension Die to their Tension Pool. [TODO]
 
-### Three '1s' is a Critical Failure
-A CRITICAL FAILURE happens when 3 or more '1s' are rolled in the Resistance pool result. The net number of resistance '1s' after deducting the Base & Drama pool '6s' are added to resistance pool successes
+### Three '1s' cause Unintended Outcomes
+A Unintended Outcomes happens when 3 or more '1s' are rolled in the Resistance pool result. Although it is likely that any test which has 3+ resistance successes will be unlikely to succeed, it isn't necessarily the case. Regardless of the success, the interesting point of an Unintended Outcome is to add in something more dramatic, challenging or trigger an inner struggle for the Actor.
 
-> E.g 5 Base dice and 8 Resistance dice
+> E.g 5 Base dice and 8 Resistance dice 5Bd {6,3,3,2,1} and 8Rd {6,5,5,3,2,1,1,1} is a net -3 successes, triggering an unintended outcome.
 > 
-> 5Bd {6,3,3,2,1} and 8Rd {6,5,5,3,2,1,1,1} creates an initial net -3 successes. The 3 '1s' in the resistance pool add an additional net -2 net successes, leading to a final result of -5 successes and a complete, unmitigated failure!
+> In this example the archer firing at the distant archery butt seriously misjudged the wind and sent their arrow flying wide. The arrow slammed into the wooden structure on which the notables of the fair were sitting, causing everyone to dive for cover!
 
-It is likely that any test which has 3+ resistance successes will be unlikely to succeed, the critical failure makes that a certainty. The interesting value is to turn the failure into something more dramatic, challenging or trigger an inner struggle.
-
-It is theoretically possible to get both a Critical and Critical Failure in the dice pool. The net successes will likely cancel each other out, use the opportunity to make the net result more exaggerated with the two critical results contributing to the dramatic outcome.
+It is theoretically possible to get both a Critical and Unintended Outcomes in the same result of the dice pool - time to get creative with the narrative outcomes!
 
 ---
 
@@ -155,6 +153,7 @@ No double counting: The test only considers the current inflicted wound, as prev
 ## Test of the Grit Pool
 
 - Opposed test to establish momentum in a combat situation
+- Reaction or 'save' style test
 
 ---
 
@@ -236,6 +235,7 @@ Can be both a reaction and a pre test to establish the tone for RP
 A test of composure is called when the character needs to keep their cool, deal with social status pressure, contain their anger or passion, deal with feelings of uncertainty or personal struggles, strange atmospheres, or outright fear.
 
 
+
 These are unopposed single tests and are different than a social contest, the outcome of a composure check confirms the persons confidence in dealing with a situation and can apply penalties if failed. 
 
 [TODO] - how to simplify composure into skill checks like this?
@@ -256,6 +256,7 @@ Result | Effect
 1| A stress induced Scar +1
 
 As well as any mechanical outcome the results should provide guidance on how to behave and informs role-playing.
+> "You feel a lingering effect of the situation, this can be played out over the coming scene. Ideally these filter into your normal play rather than super clear moments which stand out as unique consequences. The effect will last for about an hour."
 
 
 ---
