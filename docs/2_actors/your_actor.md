@@ -175,6 +175,28 @@ For each age band after 'Child' up to the current age band, follow these steps;
 
 ## 1.  Additional Attribute Points
 
+**|Age Band|Which Attributes||Can be Applied To|Fixed|Risk|Base|Aging Penalties P or A|Age Penalties M or S|**
+
+|Child|PAMS|3|2|0|||
+
+|Juvenile|PAMS|3|2|0|||
+
+|Youth|PAMS|2|1|1|||
+
+|Prime|PAMS|1|1|1|||
+
+|Adult|PAMS|1|0|1|-1||
+
+|Mature|PAMS|1|0|1|-2|-1|
+
+|Veteran|MS|0|0|1|-2|-1|
+
+|Senior|MS|0|0|1|-3|-2|
+
+|Aged|MS|0|0|1|-4|-2|
+
+|Elderly| | | | |-4|-4|
+
 ## 2. Assign Point to Attributes
 
 ## 3. Decide on a Background
