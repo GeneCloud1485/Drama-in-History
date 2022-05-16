@@ -176,6 +176,7 @@ For each age band after 'Child' up to the current age band, follow these steps;
 ## 1.  Additional Attribute Points
 
 |Age Band|Which Attributes||Can be Applied To|Fixed|Risk|Base|Aging Penalties P or A|Age Penalties M or S|
+|---|---|---|---|---|---|---|---|
 
 |Child|PAMS|3|2|0|||
 
