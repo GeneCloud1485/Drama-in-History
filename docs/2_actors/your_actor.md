@@ -82,9 +82,9 @@ The age ranges can change depending on the era of the game, but the names of the
 
 > e.g. someone aged 32 in a modern 20/21st Century game is known as an Adult compared while they are Mature in a Medieval setting.
 
-|**15th C**|**18th C**|**20/21st C**|
+||**15th C**|**18th C**|**20/21st C**|
 
-|Medieval|Renaissance|Modern|
+||Medieval|Renaissance|Modern|
 
 |Child|(5-10)|(5-10)|(5-10)|
 
@@ -175,7 +175,7 @@ For each age band after 'Child' up to the current age band, follow these steps;
 
 ## 1.  Additional Attribute Points
 
-**|Age Band|Which Attributes||Can be Applied To|Fixed|Risk|Base|Aging Penalties P or A|Age Penalties M or S|**
+|Age Band|Which Attributes||Can be Applied To|Fixed|Risk|Base|Aging Penalties P or A|Age Penalties M or S|
 
 |Child|PAMS|3|2|0|||
 
