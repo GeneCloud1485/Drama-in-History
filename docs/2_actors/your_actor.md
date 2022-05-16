@@ -56,6 +56,7 @@ For both players and NPC progression.
 Drama Points gained per Actor level
 
 | Actor Level | Points Gained | Expected Total |
+|:---|:---|:---|
 | Cast | 0 DP | 0 DP |
 | Cameo | + 1 DP | 1 DP |
 | Support | + 3 DP | 4DP |
@@ -82,30 +83,19 @@ The age ranges can change depending on the era of the game, but the names of the
 
 > e.g. someone aged 32 in a modern 20/21st Century game is known as an Adult compared while they are Mature in a Medieval setting.
 
-||**15th C**|**18th C**|**20/21st C**|
-
+| |15th C|18th C|20/21st C|
+|:---|:---|:---|:---|
 ||Medieval|Renaissance|Modern|
-
 |Child|(5-10)|(5-10)|(5-10)|
-
 |Juvenile|(10-15)|(10-15)|(10-15) |
-
 |Youth|(15-20)|(15-20)|(15-20) |
-
 |Prime|(20-25)|(20-25)|(20-25) |
-
 |Adult|(25-30)|(25-30)|(25-35) |
-
 |Mature|(30-35)|(30-35)|(35-45) |
-
 |Veteran|(35-40)|(35-45)|(45-55) |
-
 |Senior|(40-50)|(45-55)|(55-65) |
-
 |Aged|50-60)|(55-65)|65-75) |
-
 |Elderly|(60+)|(65+)|(75+)|
-
 
 # Defining Your Actor
 1. Choose some key factors that made up your actor's formative years.
@@ -137,6 +127,7 @@ Each actor has inherent boons or flaws which could for formative factors in thei
 Roll 2d6 for a Boon, read horizontally for the 1st die result and vertically for the 2nd.
 
 | Boon | Physical | Agility | Mental | Social | Trait | Strength |
+|:---|:---|:---|:---|:---|:---|:---|
 | ... | 1 | 2 | 3 | 4 | 5 | 6 |
 | 1 | Strong as an Ox +1 Phy | Perfect Balance +1 Agl | Quick Witted +1 Mnt | Charismatic +1 Soc | Honest & Fair | Inured to Death |
 | 2 | Brawler (DA) | Steady Hand (DA) | Scholarly Mind (DA) | Extravert (DA) | Abstaining | Strength: Disease |
@@ -149,6 +140,7 @@ Roll 2d6 for a Boon, read horizontally for the 1st die result and vertically for
 Roll 2d6 for a Flaw
 
 | Flaw | Physical | Agility | Mental | Social | Trait | Strength |
+|:---|:---|:---|:---|:---|:---|:---|
 | ... | 1 | 2 | 3 | 4 | 5 | 6 |
 | 1 | Weak constitution -1Phy | Clumsy -1Agl | Slow witted -1Mnt | Displeasing demeanor -1Soc | Untrustworthy | Scar: Death |
 | 2 | Physical impairment | Partially sighted 2Rd for distance | Dsylexic 2Rd written tasks | Gruff/Rude 2Rd on social tests | Indulgent | Scar: Disease |
@@ -175,27 +167,17 @@ For each age band after 'Child' up to the current age band, follow these steps;
 
 ## 1.  Additional Attribute Points
 
-|Age Band|Which Attributes||Can be Applied To|Fixed|Risk|Base|Aging Penalties P or A|Age Penalties M or S|
-|---|---|---|---|---|---|---|---|
-
+|Age Band|Which Attributes|Fixed|Risk|Base|Aging P or A|Age M or S|
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Child|PAMS|3|2|0|||
-
 |Juvenile|PAMS|3|2|0|||
-
 |Youth|PAMS|2|1|1|||
-
 |Prime|PAMS|1|1|1|||
-
 |Adult|PAMS|1|0|1|-1||
-
 |Mature|PAMS|1|0|1|-2|-1|
-
 |Veteran|MS|0|0|1|-2|-1|
-
 |Senior|MS|0|0|1|-3|-2|
-
 |Aged|MS|0|0|1|-4|-2|
-
 |Elderly| | | | |-4|-4|
 
 ## 2. Assign Point to Attributes
