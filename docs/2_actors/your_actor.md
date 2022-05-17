@@ -182,8 +182,9 @@ For each age band after 'Child' up to the current age band, follow these steps;
 
 ## 2. Assign Point to Attributes
 Costs to increase an attribute by a point
+
 |Normal| Favored | Dis-favored|
-|---|---|---|---|
+|---|---|---|
 | 1-4 = 1 pt | 1-5 = 1pt | 1-3 = 1 pt |
 | 5+ = 2 pts | 6+ = 2 pts | 4+ = 2 pts |
 
