@@ -72,6 +72,18 @@ For opposed tests, the parties calculate their dice pools and then compare the r
 
 For complex or co-operative tests, additional dice can be added to a pool from assisting parties, pools can be split against multiple opponents and the test can be a series of tests.
 
+## Choice of Skill for the Test
+The Director can ask for a specific skill test or an Actor can request a skill test based on a specific skill.
+
+- Skills are specific...
+
+- Backgrounds for general cases...
+
+If no specific named skill available, backgrounds can be used in reflection of general experience.
+
+- Yes directly = 1 background for +1Bd, 2 for +2Bd, max of 3 for +3Bd
+- Kinda or indirectly = 1 background for +1Bd & 1Rd, max of 2 for 2Bd & 1Rd [TODO - should this be 2Rd]
+
 ## *Levels of Difficulty*
 
 Level of difficulty is reflected in the addition of penalty/resistance dice to the pool so that the target number is always 2 success to pass the test.
@@ -155,6 +167,8 @@ No double counting: The test only considers the current inflicted wound, as prev
 - Opposed test to establish momentum in a combat situation
 - Reaction or 'save' style test
 
+nBd is equal to **max Grit pool** + nRd from current persistent penalty dice + any situational modifiers
+
 ---
 
 ## Tests of Fortitude 
@@ -163,7 +177,7 @@ No double counting: The test only considers the current inflicted wound, as prev
 
 A test of fortitude is made whenever the character is faced with a strongly disturbing, shocking, horrific or scary situation. These can be the results of phobias, encounters with death, disease or horrors of the battle field, or engaging in mortal sins.
 
-- nBD is based on the **Max Fortitude pool** + nRd which is penalty + strength of the shock that triggered the test
+- nBD equals the **Max Fortitude pool** + nRd which is penalty + strength of the shock that triggered the test
 
 **Strength of the shock sets the Resistance in Fortitude Tests**
 - Shock 2Rd

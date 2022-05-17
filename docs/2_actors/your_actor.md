@@ -10,10 +10,10 @@ All Actors are represented by a number of core attributes, currency pools and a 
 # **Four Core Attributes**
 Four attributes are the basis of the characters statistical description and provide the foundation values for skill checks.
 
--   **Physical**
--   **Agility**
--   **Mental**
--   **Social**
+-   **Physical** (Phy)
+-   **Agility** (Agl)
+-   **Mental** (Mnt)
+-   **Social** (Soc)
 
 Each attribute from -3 up to 8
 
@@ -123,7 +123,7 @@ The 1st two age bands, baby & child, which take your actor through to age 10. Th
 4. Roll for and allocate the core attribute points
 	1. Allocate 3 + net successes from 2Dd to the core attributes
 
-> E.g. 3 + 2Dd {4,2} = 4 net successes. Allocated Phy:1 Agl:0 Mnt:1 Soc:2
+> E.g. 3 + 2Dd {4,2} = 4 net successes. Allocated 1 to Physical, none to Agility, 1 to Mental, and 2 to Social
 
 # Boons & Flaws
 Each actor has inherent boons or flaws which could for formative factors in their life story. 
@@ -162,7 +162,7 @@ A favored attribute is easier to raise to a higher value, and a dis-favored attr
 [[3. Core Attributes]]
 
 # An Actor's Past
-To understand and develop your actor's background follow each of the following steps for each of the age bands up to their current one. Starting with the age band after 'Child' up to the current age band, follow these steps;
+To develop your actor's background follow each of the following steps for each of the age bands up to their current one. Starting with the age band after 'Child' up to the current age band, follow these steps;
 1. Roll for the addition or loss of core attribute points
 2. Assign these points, remembering to take into account your favored and dis-favored attributes
 3. Decide on a background
@@ -194,15 +194,10 @@ Costs to increase an attribute by a point
 | 5+ = 2 pts | 6+ = 2 pts | 4+ = 2 pts |
 
 ## 3. Decide on a Background for the Age Band
+For each Age Band choose how your Actor spent the focus of their time during this Age Band.
 
-
-# Background
+### Background
 A background provides a summary of the main occupation or emphasis of a period of time in the actor's past.
-
-If no specific named skill available, backgrounds can be used in reflection of general experience.
-
-- Yes directly = 1 background for +1Bd, 2 for +2Bd, max of 3 for +3Bd
-- Kinda or indirectly = 1 background for +1Bd & 1Rd, max of 2 for 2Bd & 1Rd [TODO - should this be 2Rd]
 
 ## 4. Calculate Skill Points & Skills Available
 Everyone can learn, practice or improve their training level in common skills, no particular background situation is required to progress. Each age band provides **five skill points** to develop common skills.

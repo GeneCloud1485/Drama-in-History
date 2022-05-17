@@ -2,16 +2,27 @@
 title: Your Actor
 layout: default
 ---
+
 # Combat - A Deadly Opposed Test 
+
 [Back to the Index](/docs/index.md)
 
-**Establishing Momentum**
+## General Melee
+1. Establish Momentum
+2. Opposed Skill Test
+	1. Skills
+	2. Dramatic Advantages
+	3. Bonus patterns?
+3. Applying Results
+
+
+### Establishing Momentum
 
 Momentum tracks the ebb and flow of the upper hand in a conflict. Whoever has momentum will win ties in opposed rolls.
 
--   Opposed rolls testing current **Grit** + contextual situations + advantages to establish momentum
--   Highest has momentum
--   Ties resolved by the highest A or contextual situation
+- Take a Grit currency pool test
+	- The winner has momentum at the start of the melee
+-   Ties resolved by the highest Agility or contextual situation
 
 Momentum is passed to the winner in a round of opposed rolls, unless a specific action or risk is taken to 'grab' momentum.
 
