@@ -8,12 +8,16 @@ layout: default
 [Back to the Index](/docs/index.md)
 
 ## General Melee
-1. Establish Momentum
-2. Opposed Skill Test
+1. Joining the melee
+2. Establish Momentum
+3. Opposed Skill Test
 	1. Skills
 	2. Dramatic Advantages
 	3. Bonus patterns?
-3. Applying Results
+4. Applying Results
+
+
+### Joining the Melee
 
 
 ### Establishing Momentum
