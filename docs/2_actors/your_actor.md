@@ -66,6 +66,7 @@ Drama Points gained per Actor level and the likely number of total DP available 
 | Title Character | + 3 DP | 16 DP |
 | Starring Actor | + 3 DP | 19 DP |
 | Director | + 3 DP | 22 DP |
+
 See Drama Points for more information on the use of the currency.
 
 # Consider the Setting
