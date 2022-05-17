@@ -408,4 +408,9 @@ When drunk a character's courage and belief in themselves is exaggerated, at a c
 [TODO] = Muses & creativity over social
 
 
+# Test Your Luck
+Roll 6Bd and 6Rd, the net success outcome indicates the level of luck or mis-fortune.
 
+> E.g. 6Bd {6,4,4,3,2,2} vs 6Rd {6,6,4,2,1,1} = -2 net successes and a strongly unfortunate outcome.
+
+It might be possible to apply Dramatic Advantages, scars or strengths - use sparingly. It is possible to spend Drama Points for get 2Dd. Or for the Director to spend 1 tension dice for 2 additional Rd.

@@ -44,16 +44,16 @@ If Flesh or Fortitude pools reach ZERO the character is out of play, either dyin
 
 When Grit or Composure are reduced to ZERO gain +1 penalty die. Subsequent reductions to Grit or Composure are passed directly to Flesh or Fortitude.
 
-##### Additional Temporary Pools
+#### Additional Temporary Pools
 - **Penalty Pool** = the number of current, persistent penalty dice that an actor is dealing with. These penalties are applied to all tests, and are therefore a matter of concern for the Actor.
 - **Drama Point Pool** = the maximum number and current number of Drama Points available to the Actor.
 
 # Actor Level
-For both players and NPC progression.
+Actor level reflects the relative importance or 'experience' of both player and non-player Actors. 
 
 [TODO advancement rules]
 
-Drama Points gained per Actor level
+Drama Points gained per Actor level and the likely number of total DP available to each level of actor. Additional Drama Points can also be gained when a new passion is taken, so the individual total of DP will have some variation.
 
 | Actor Level | Points Gained | Expected Total |
 |:---|:---|:---|
@@ -66,8 +66,7 @@ Drama Points gained per Actor level
 | Title Character | + 3 DP | 16 DP |
 | Starring Actor | + 3 DP | 19 DP |
 | Director | + 3 DP | 22 DP |
-
-Additional Drama Points can also be gained when a new passion is taken. 
+See Drama Points for more information on the use of the currency.
 
 # Consider the Setting
 ...
@@ -86,6 +85,7 @@ The age ranges can change depending on the era of the game, but the names of the
 | |15th C|18th C|20/21st C|
 |:---|:---|:---|:---|
 ||Medieval|Renaissance|Modern|
+|Baby|(0-5)|(0-5)|(0-5)|
 |Child|(5-10)|(5-10)|(5-10)|
 |Juvenile|(10-15)|(10-15)|(10-15) |
 |Youth|(15-20)|(15-20)|(15-20) |
@@ -102,14 +102,14 @@ The age ranges can change depending on the era of the game, but the names of the
 2. Establish their initial Boon & Flaw
 3. Choose a favored and dis-favored attribute
 4. Choose a target age and background
-5. Work through the age bands
+5. Work through the age bands to define your actor's past
 	1. Rolling for PAMS attribute points
 	2. Assigning the points
 	3. Calculating skill points
 	4. Spending skill points on advancing skills
 
 # Formative Years
-The 1st age band... family setup in keeping with the game setting, period, and Director's guidance.
+The 1st two age bands, baby & child, which take your actor through to age 10. This will deal with your family situation and early years, customized to be in keeping with the game setting, period, and Director's guidance.
 
 1. Choose a family context - father & mother's position, status, standing, relative wealth and family outline.
 2. Choose Urban or Country life as the 1st background
@@ -119,6 +119,10 @@ The 1st age band... family setup in keeping with the game setting, period, and D
 	5. Loving, dramatic, hated or insignificant?  - establish a childhood bond 
 	6. Uneducated or Educated? - If educated roll 8Bd each success is a skill point of basic knowledge skills
 	7. Healthy or Sickly - test your luck (roll 6Bd and 6Rd), if net result is a positive +1 to an attribute, if negative then -1 to an attribute otherwise no effect.
+4. Roll for and allocate the core attribute points
+	1. Allocate 3 + net successes from 2Dd to the core attributes
+
+> E.g. 3 + 2Dd {4,2} = 4 net successes. Allocated Phy:1 Agl:0 Mnt:1 Soc:2
 
 # Boons & Flaws
 Each actor has inherent boons or flaws which could for formative factors in their life story. 
@@ -156,8 +160,8 @@ Choose one of the four attributes to be favored and one which is dis-favored.
 A favored attribute is easier to raise to a higher value, and a dis-favored attribute is harder to raise to a higher value.
 [[3. Core Attributes]]
 
-# Working through an Actor's past by Age Band
-For each age band after 'Child' up to the current age band, follow these steps;
+# An Actor's Past
+To understand and develop your actor's background follow each of the following steps for each of the age bands up to their current one. Starting with the age band after 'Child' up to the current age band, follow these steps;
 1. Roll for the addition or loss of core attribute points
 2. Assign these points, remembering to take into account your favored and dis-favored attributes
 3. Decide on a background
