@@ -77,11 +77,11 @@ For simplicity actor's age is represented as a band rather than a specific age. 
 
 While individual player Actors are a specific age in years, they are treated as being in an age band that most closely reflects their age. Once the actor reaches the lowest age in an age band they are regarded as being in that band.
 
-> e.g. a 16 year old is recorded as being a Youth or a 32 year old actor is known to be Mature.
+> e.g. a 16 year old is recorded as a Youth or a 42 year old actor is known to be Senior.
 
 The age ranges can change depending on the era of the game, but the names of the bands stay the same.
 
-> e.g. someone aged 32 in a modern 20/21st Century game is known as an Adult compared while they are Mature in a Medieval setting.
+> e.g. someone aged 32 in a modern 20/21st Century game is known as an Adult, while they are Mature in a Medieval setting.
 
 | |15th C|18th C|20/21st C|
 |:---|:---|:---|:---|
