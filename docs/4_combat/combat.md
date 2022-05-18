@@ -18,158 +18,90 @@ layout: default
 
 
 ### Joining the Melee
+How your actor joins melee is sometimes a choice and sometimes a reaction to a situation or circumstance.
 
+In the short beat before a melee is joined each aware participant has a beat to prepare themselves.
+
+They can choose to 
+	1. Prepare a dramatic action
+	2. Call upon deeply held passion
+
+And then declare their stance
+	1. Press
+	2. Stand
+	3. Defend
+
+Participants who are unaware or surprised don't get a chance to prepare, and their stance is decided by circumstance - likely Stand.
+
+#### 1. Press Attack
+> + 3 Momentum, + 1Dd, + 1Rd, + 1 to knock-back
+
+#### 2. Stand
+> No benefits
+
+#### 3. Defend
+> +3 Ad (armor), -1 Momentum, +1 brace vs knock-back
+
+#### 4. Dramatic Stance (situational)
+> benefits determined by the specific situation and/or dramatic advantage
+
+[TODO courage and bravery in the face on an enemy]
 
 ### Establishing Momentum
-
 Momentum tracks the ebb and flow of the upper hand in a conflict. Whoever has momentum will win ties in opposed rolls.
 
-- Take a Grit currency pool test
-	- The winner has momentum at the start of the melee
--   Ties resolved by the highest Agility or contextual situation
+For the 1st round of melee the momentum is determined by  
+- The highest ==Current== Grit pool value + modifier from stance
+	- Ties resolved by the highest Agility value
+	- Ties resolved in favor of the highest Actor level
+	- Ties go to the player Actors
 
 Momentum is passed to the winner in a round of opposed rolls, unless a specific action or risk is taken to 'grab' momentum.
 
-The loser declares their pool decisions first = use of Military Life, split of pools and/or use of Advantages. This provides the winner the chance to adjust their strategy based on the slower person's choices.
+[TODO] The loser declares their pool decisions first = use of Military Life, split of pools and/or use of Advantages. This provides the winner the chance to adjust their strategy based on the slower person's choices.
 
-**Opposed Dice Pool Rolls**
+## **Opposed Dice Pool Rolls**
 
-Each party calculates and rolls their dice pools based on the following;
+Build a dice pool from Base, Resistance, and Drama dice.
+1. **Base pool** = attribute + skill, or background
+2. **Resistance pool** = persistent penalties + situational modifiers + stance modifier
+3. **Drama pool** = risks, dramatic advantages or passions applicable + stance modifier
 
-  
+Pools are then rolled and the results calculated. The winner is the person with the highest number of successes, the number of successes must be TWO or more to be a successful 'hit'. 
 
--   Attribute
--   Skill
--   Dramatic Advantages 
--   Situational modifiers
--   Penalty
+- **Winner**: One party achieves two or more net successes and greater than the other person. The difference between the opposed net successes equals the level of success.
+- **Draw**: Both parties the same number of two or more net successes, leading to a draw. A draw is resolved by who has momentum.
+- **Failure**: Neither party gains two net successes. 
 
-Pools are then rolled and the results calculated.
-
-The winner is the person with the highest number of successes, the number of successes must be positive to be a 'hit'. The exception to this is when a critical success is rolled, while still having zero or less successes. 
-
-**Skills in Combat**
-
-The underlying skills that determine the base dice pool for opposed combat rolls. The level of the skill + the underlying core attribute sets the number of base dice.
-
-**Examples;**
-
--   Brawl (P or A)
--   Strike (P)
--   Knife Fight (A)
--   Spear Thrust (P)
--   Specific Ranged Weapon (A)
-
--   Bow
--   Arquebus/Musket
--   Crossbow
-
--   Specific Military Weapon (P)
-
--   Sword
--   Axe
--   Lance
--   ... etc
-
--   Evade (A)
--   Artillery (M)
-
-**Advantages or risks in Combat**
-
-Advanced or skilled moves contribute a specific risk/reward tactic or advantage. The level of the advantage is determined by the underlying skill level plus the supporting attribute stat.
-
-Risk dice explode leaving an open ended number of successes and contribution to critical successes. Each 1 on the risk dice contribute a miss, plus add a single persistent penalty die for future rounds and tests (regardless of number of 1's rolled)
-
-**Examples;**
-
-[TODO}
-
-  
-
-**Appropriate Traits**
-
-Traits at 5 which can be justified as contextually appropriate will add 1R die. Traits at 6 will add 2R dice.
-
-Appropriate Traits at 1 or 0 will add penalty dice
-
-**Situational Modifiers**
-
--   Context: terrain, height, visibility, weather conditions, footing, prone/knocked down
--   Tactical: choices: flanking, surprise etc
-
-**Military Life Training**
-
-Some or all of the Military Life dice can be added in addition to a base skill. Any remaining Military Life dice can be applied as defensive harness/armor dice. 
-
-The dice can be applied as base or as risk dice in attack or defensive dice 
-
-_E.g. a squire with 2 backgrounds in Military Life will have 4 dice in their military training pool. These dice can be allocated to Base, Risk/Advantages or in Defense._
-
-**Apply Penalties**
-
-The current persistent penalty pool plus any additional situational modifiers are rolled with 1s or 2s counting as misses. 
-
--   Any 1s rolled contribute to a critical failure, any 6s do *not* contribute to critical successes
-
-**Drama**
-
-Drama die can be used to add into the opposed roll. The dice can be rolled after the results are known.
-
-**Example Dice Pool**
-
--   Skill (which includes an underlying stat)
-
-_E.g. Strike 7Bd (skill 4 + 3 physical)_
-
--   Advantages or Risks
-
-_E.g. Feint 2Dd adds 2 risk dice, noting that each 1 will count as -1, plus if any 1s will add a (max of 1) penalty die for rest of conflict to reflect being out of position from failed feint_
-
--   Appropriate Traits
-
-_E.g. +1d base for Cruel 5 when striking opponent who has is effectively out of the combat due to a critical wound or courage test_
-
--   Situational Modifiers
-
-_E.g. Slippery ground 2P_
-
--   Military Life Training
-
-_E.g Military Life 2 = 4 dice, spending 2 on offense and 2 on defense_
-
--   Persistent penalty pool 
-
-_E.g. persistent penalty pool is at 2, as a result of difficult traveling conditions (1d) and a failed awareness check leaving a sense of being watched (1d)_
-
-_Or Bad footing gives both sides an additional 1d penalty_
-
--   Drama
-
-_E.g. hold of adding in a drama die until after the opposed roll is completed_
-
--   Defensive harness (Armour)
-
-_E.g. Heavy padded jack (2d) + Steel Sallet (2d), plus 2d from Military Life Training_
-
-**Combined Pool Result;**
-
-The offensive pool will be 8 **Base** dice + 5 **Risk** dice + 5 **Penalty** dice
-
-The defensive harness will be 6 **Defense** dice
-
-**Results of Combat Rolls**
-
-Whoever has the highest number of successes is the winner and applies damage to the other. Ties are resolved in favor of the person with momentum.
-
-  
-
+### Outcome of an Opposed Melee Round
+Level of Success
 The net difference between the two rolls creates the level of success, the greater the different the greater the success. Ties have 0 levels of success.
 
 _E.g. 6 successes vs 3 successes creates 3 levels of success_
 
 If one party has negative, that is factored into the net total as it contributes to the net difference.
 
-Note if the number of successes for the winner are an even or odd number - this is the count of success not the level of success
+The level of success determines additional damage that is inflicted on the loser
+
+
+[TODO]**Dramatic Advantages in Combat**
+
+
+Example **Situational Modifiers**
+[TODO]
+-   Context: terrain, height, visibility, weather conditions, footing, prone/knocked down
+-   Tactical: choices: flanking, surprise etc
+
+[TODO]**Military Life Training**
+
+[TODO]Some or all of the Military Life dice can be added in addition to a base skill. Any remaining Military Life dice can be applied as defensive harness/armor dice. 
+
+[TODO]The dice can be applied as base or as risk dice in attack or defensive dice 
+
+[TODO]_E.g. a squire with 2 backgrounds in Military Life will have 4 dice in their military training pool. These dice can be allocated to Base, Risk/Advantages or in Defense._
+
+
+
 
 **Weapons**
 
@@ -817,3 +749,37 @@ Size of Target|Adult|Child|Shield|Head|Bull's Eye
 -   If defender wins = miss
 -   Attacker applies critical hits as normal
 -   Defender critical result has no effect
+
+# Mounted Combat
+- Additional knock-back
+- Charge available
+- Height?
+- Horse attack
+- Knocked off
+- Long weapons
+- 
+
+# Fighting in Buildings/Castles
+
+# Defensive Formations
+- Shield Wall
+
+
+# Firearms
+
+## Weapons
+- Strength & Accuracy
+- Load-out/calibre
+
+## Effective Range
+
+## Fire Rates
+### Single Shot & Load
+### Single Round Fire
+### Semi Auto Fire
+### Full Auto Fire
+## Shotguns
+## Explosives
+## Suppression
+
+# Defensive Positions

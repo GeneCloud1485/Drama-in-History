@@ -116,6 +116,11 @@ The pools are rolled and the number of net successes is calculated. If two or mo
 ## **Opposed** Skill Tests
 An opposed skill test is used when someone is actively engaged in attempting to win a contest of some form. Each party will build dice pools, roll and compare the results. The winner is the person with the highest number of net successes as long as the result is greater than two.
 
+Build a dice pool from Base, Resistance, and Drama dice.
+1. **Base pool** = attribute + skill, or background
+2. **Resistance pool** = persistent penalties + situational modifiers
+3. **Drama pool** = risks, dramatic advantages or passions applicable
+
 Possible outcomes;
 - **Winner**: One party achieves two or more net successes and greater than the other person.
 - **Draw**: Both parties the same number of two or more net successes, leading to a draw. Draw will be resolved by who has momentum.

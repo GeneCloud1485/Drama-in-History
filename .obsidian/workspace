@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "9c5bf18a92baaf10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/3_mechanics/basic_mechanics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -91,9 +103,9 @@
   "lastOpenFiles": [
     "docs/4_combat/combat.md",
     "docs/3_mechanics/basic_mechanics.md",
+    "docs/1_concepts/1.0_concepts.md",
     "docs/2_actors/your_actor.md",
     "index.md",
-    "docs/1_concepts/1.0_concepts.md",
     "docs/5_director/directors_advice.md",
     "docs/2_actors/the_cast.md",
     "docs/test.md",
