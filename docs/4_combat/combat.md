@@ -132,7 +132,6 @@ It is important to track each wound which delivers flesh damage, to help identif
 > _E.g. Two wounds taken during a fight, would be tracked separately. A 2 point wound and a 1 point wound. 
 
 #### **Test of Courage**
-
 When receiving flesh damage of two or greater points, it is necessary to call upon ones courage to avoid passing out or being incapacitated by the pain. 
 
 See Test of the Flesh Pool
@@ -150,26 +149,32 @@ See Test of the Flesh Pool
 > Drama: 2Dd {6,1,1} for -1 success and a total of 1 net success. 
 > This is a Yes... but outcome, the squire is wavering, but decides to take the extra 1 penalty dice to convert this to a success. Shouting in pain, he grits his teeth and prepare to fight on (with two persistent penalty dice from the pain).
 
+Passing a courage test allows the actor to continue acting. Failing takes the actor out of the action.
+- Pass-out
+- Fall to floor, slump in saddle etc [TODO]
+- Consequences?
 
-**Check For Knock-down**
+#### **Check For Knock-down**
+A secondary consequence of melee
+- If the net number of successes is greater than P stat but less than P+A the defender is knocked to their knees
+- If the level of success is greater than P+A then the defender is knocked to the floor
+- If a courage test is failed the actor will fall to the floor
+- 
 
--   If the net number of successes is greater than P stat but less than P+A the defender is knocked to their knees
--   If the level of success is greater than P+A then the defender is knocked to the floor
+> _E.g. An attacker beating a defender who has P2 A2 by 1 level of success will push the defender back but not materially impact their position_
 
-_E.g. An attacker beating a defender who has P2 A2 by 1 level of success will push the defender back but not materially impact their position_
+> _Or if the level of success was 3, the defender is knocked to their knees_
 
-_Or if the level of success was 3, the defender is knocked to their knees_
+> _Or if 5 levels of success then the defender is knocked to the floor_
 
-_Or if 5 levels of success then the defender is knocked to the floor_
-
-**Surviving Damage**
-
+#### **Surviving Damage**
 -   When Grit = 0, add 1 additional die to the persistent penalty pool.
 -   Any Flesh wound of 2 or more requires a Courageous trait test at level 1 to avoid collapsing in pain
 
-_E.g. Having 'Courageous 5', after taking 2 points of Flesh from an axe hit the target much achieve 1 success from their 5 dice pool to stay in the fight._
+> _E.g. Having 'Courageous 5', after taking 2 points of Flesh from an axe hit the target much achieve 1 success from their 5 dice pool to stay in the fight._
 
--   Any critical hit Flesh wound or a wound which does 50% of max Flesh, requires an immediate test of TNS2 Courage check 2, requiring 2 successes to stay in the fight.
+-   Any critical hit Flesh wound or a wound which does 50% of max Flesh, requires medical attention
+[TODO]
 -   Critical wounds require medical attention and add 2 persistent penalty die to the pool. 
 -   Being reduced to 1 current flesh also requires a Courage test TNS 2 to avoid passing out
 -   When Flesh reaches 0 or below the target is automatically knocked out and falls prone
@@ -782,6 +787,8 @@ Size of Target|Adult|Child|Shield|Head|Bull's Eye
 - Knocked off
 - Long weapons
 - 
+
+# Duels 3.2.1
 
 # Fighting in Buildings/Castles
 
