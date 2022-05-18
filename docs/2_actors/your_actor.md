@@ -34,7 +34,7 @@ Maximum Currency Pool values are determined [TODO LINK] and record. The current 
 -   **Flesh Pool** =  physical health and core strength derived from the Physical attribute. Flesh damage represents a physical wound, recovery is a slow and potentially fraught journey.
 -   **Fortitude Pool** = mental strength and sanity derived from the Mental attribute. Fortitude can be reduced by shocking or horrifying situations. Recovery is a slow process.
 
-When Flesh or Fortitude pools are reduced to 50% or less the character gains +1 penalty die. 
+When Flesh or Fortitude pools are reduced to 50% or less the character gains +1 penalty dice. 
 If Flesh or Fortitude pools reach ZERO the character is out of play, either dying or potentially permanently insane. [TODO LINK]
 
 ### Temporary Pools
@@ -42,7 +42,7 @@ If Flesh or Fortitude pools reach ZERO the character is out of play, either dyin
 -   **Composure Pool** = confidence, social resilience to persuasion derived from the Social attribute. Composure is reduced in challenging, tense or social situations and it can recovered fairly quickly.
 [TODO could this be called Confidence rather than Composure?]
 
-When Grit or Composure are reduced to ZERO gain +1 penalty die. Subsequent reductions to Grit or Composure are passed directly to Flesh or Fortitude.
+When Grit or Composure are reduced to ZERO gain +1 persistent penalty dice. Subsequent reductions to Grit or Composure are passed directly to Flesh or Fortitude.
 
 #### Additional Temporary Pools
 - **Penalty Pool** = the number of current, persistent penalty dice that an actor is dealing with. These penalties are applied to all tests, and are therefore a matter of concern for the Actor.

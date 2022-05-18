@@ -7,17 +7,13 @@ layout: default
 
 [Back to the Index](/docs/index.md)
 
-## General Melee
+# General Melee
 1. Joining the melee
 2. Establish Momentum
 3. Opposed Skill Test
-	1. Skills
-	2. Dramatic Advantages
-	3. Bonus patterns?
-4. Applying Results
+4. Results of a Melee Round
 
-
-### Joining the Melee
+## Joining the Melee
 How your actor joins melee is sometimes a choice and sometimes a reaction to a situation or circumstance.
 
 In the short beat before a melee is joined each aware participant has a beat to prepare themselves.
@@ -47,7 +43,7 @@ Participants who are unaware or surprised don't get a chance to prepare, and the
 
 [TODO courage and bravery in the face on an enemy]
 
-### Establishing Momentum
+## Establishing Momentum
 Momentum tracks the ebb and flow of the upper hand in a conflict. Whoever has momentum will win ties in opposed rolls.
 
 For the 1st round of melee the momentum is determined by  
@@ -60,28 +56,124 @@ Momentum is passed to the winner in a round of opposed rolls, unless a specific 
 
 [TODO] The loser declares their pool decisions first = use of Military Life, split of pools and/or use of Advantages. This provides the winner the chance to adjust their strategy based on the slower person's choices.
 
-## **Opposed Dice Pool Rolls**
+## **Opposed Melee Rolls**
 
 Build a dice pool from Base, Resistance, and Drama dice.
 1. **Base pool** = attribute + skill, or background
 2. **Resistance pool** = persistent penalties + situational modifiers + stance modifier
 3. **Drama pool** = risks, dramatic advantages or passions applicable + stance modifier
 
-Pools are then rolled and the results calculated. The winner is the person with the highest number of successes, the number of successes must be TWO or more to be a successful 'hit'. 
+Pools are then rolled and the results calculated. Remember that critical hits will increase the number of successes.
 
-- **Winner**: One party achieves two or more net successes and greater than the other person. The difference between the opposed net successes equals the level of success.
-- **Draw**: Both parties the same number of two or more net successes, leading to a draw. A draw is resolved by who has momentum.
-- **Failure**: Neither party gains two net successes. 
+The winner is the person with the highest number of successes, the number of successes must be TWO or more to be a successful 'hit'. 
+
+[TODO bonus pattern matching in the pool for special outcomes]
 
 ### Outcome of an Opposed Melee Round
-Level of Success
-The net difference between the two rolls creates the level of success, the greater the different the greater the success. Ties have 0 levels of success.
+- **Winner**: One party achieves two or more net successes and greater than the other person. The difference between the opposed net successes equals the level of success.
+	- **Marginal Win**: One party achieves exactly one net success, which is greater than the other party. This is a marginal win and inflicts limited amount of damage. [Optional, otherwise it would be a failure]
+	- **Loser with Critical Success**: If the loser's roll included a critical success, and still had less successes than the winner, they will inflict a marginal win on the winner. [Optional]
+- **Draw**: Both parties the same number of two or more net successes, leading to a draw. A draw is resolved by who has momentum.
+	- **Marginal Draw**: Both parties have exactly one net success. The draw is resolved by who has momentum. [Optional, otherwise it would be a failure]
+- **Failure**: Neither party gains two net successes. 
 
-_E.g. 6 successes vs 3 successes creates 3 levels of success_
+#### Level of Success
+The net difference between the two rolls creates the level of success, the greater the different the greater the success. Ties have zero levels of success.
+> _E.g. 6 successes vs 3 successes creates 3 levels of success_
 
-If one party has negative, that is factored into the net total as it contributes to the net difference.
+If one party has negative result, that is factored into the level of success difference.
+> E.g. -1 success vs 3 successes creates 4 level of success
 
-The level of success determines additional damage that is inflicted on the loser
+The level of success determines the amount of additional damage that is inflicted on the loser.
+
+### Determine Armor Protection
+The loser rolls their Armor protection pool, counting success as stoppage of Flesh damage.
+- **Armor Pool** = Armor/Defensive harness + Shield + Stance + Situation + Dramatic Advantages
+
+>E.g. The loser, armed with a buckler rolls 3Ad {5,2,1} for 1 point of flesh damage stoppage.
+
+## Results of a Melee Round
+### Calculating Damage
+There are two types of damage inflicted by the winner;
+- Level of success applied to Grit pool
+- Weapon damage applied to Flesh pool
+
+### Applying Damage
+#### Grit Damage
+The winner's level of success is the amount of Grit damage that is applied to the loser. When a Grit pool is reduced to zero, further damage is done to the Flesh pool.
+-   If the target has remaining Grit, the level of success is deducted from their current Grit
+-   If the target runs out of Grit, 50% of the balance of damage is added to Flesh damage. (round up)
+-   If the target has zero Grit remaining, all damage is transferred to Flesh damage at 50% (round up)
+
+> _E.g. 3 levels of success are applied to the target's current Grit reducing it from 4 to 1_
+
+>_Or 5 levels of success take remaining Grit from 2 to 0, and the balance of 3 generate 2F damage (3 divided by 2 round up)_ 
+
+Note: When a Grit pool is reduced to zero, the actor adds a persistent penalty.
+See Recover of Grit
+
+#### Flesh Wounds
+Calculate the size of the wound, reduce by any Armor stoppage and then reduce the Flesh pool. Record the wound and deal with Courage Test and Knock-down.
+- Flesh damage is based on the power and size of the weapon
+- Plus any Grit damage that has been transferred to Flesh (see Grit Damage above)
+- Plus any additional damage from any dramatic advantage [TODO]
+- Reduced by the number of successful Armor stoppage success
+- The result reflects the size of the wound and the loser's current Flesh is reduced by the total
+	- If the causes 2+ points of Flesh damage it also adds 1 persistent penalty die
+	- A 2+ Flesh damage wound requires a courage test of the Flesh Pool to avoid passing out
+	- Wound bleeding [optional]
+
+> _E.g. An attacker wielding an axe, achieves two levels of success which is deducted from the losers Grit pool. The axe has 3F Flesh damage rating, and would do 3 flesh damage, causing a significant wound requiring a courage test and adding a persistent penalty dice.
+
+> If the loser had armor which achieved 2 successes, then all but 1 point would be blocked by the Armor. A 1 point wound does not trigger a courage test or risk continued bleeding or cause a persistent penalty.
+
+It is important to track each wound which delivers flesh damage, to help identify the source of penalty dice, bleeding and to manage recovery.
+
+> _E.g. Two wounds taken during a fight, would be tracked separately. A 2 point wound and a 1 point wound. 
+
+#### **Test of Courage**
+
+When receiving flesh damage of two or greater points, it is necessary to call upon ones courage to avoid passing out or being incapacitated by the pain. 
+
+See Test of the Flesh Pool
+
+- The pool can be modified by traits, bonds, passions or situational modifiers
+- These modifiers could be nBd or nRd or nDd depending on the source and the context.
+
+>E.g. In a skirmish to secure a bridge critical to the Yorkist vanguard's progress, a squire takes a 3pt flesh wound. This triggers a test of courage to continue in the fight.
+
+> The squire has max Flesh pool of 7, a family trait of 'brave' 2Bd, and has a 2Dd passion for the Yorkist cause. He has persistent penalty dice from this wound.
+
+> The Test of the Flesh Pool would be 
+> Base: 7+2Bd {6,6,5,5,4,3,2,2,1} for 4 successes
+> Resistance: 3+1Rd {4,3,2,2} for -2 successes
+> Drama: 2Dd {6,1,1} for -1 success and a total of 1 net success. 
+> This is a Yes... but outcome, the squire is wavering, but decides to take the extra 1 penalty dice to convert this to a success. Shouting in pain, he grits his teeth and prepare to fight on (with two persistent penalty dice from the pain).
+
+
+**Check For Knock-down**
+
+-   If the net number of successes is greater than P stat but less than P+A the defender is knocked to their knees
+-   If the level of success is greater than P+A then the defender is knocked to the floor
+
+_E.g. An attacker beating a defender who has P2 A2 by 1 level of success will push the defender back but not materially impact their position_
+
+_Or if the level of success was 3, the defender is knocked to their knees_
+
+_Or if 5 levels of success then the defender is knocked to the floor_
+
+**Surviving Damage**
+
+-   When Grit = 0, add 1 additional die to the persistent penalty pool.
+-   Any Flesh wound of 2 or more requires a Courageous trait test at level 1 to avoid collapsing in pain
+
+_E.g. Having 'Courageous 5', after taking 2 points of Flesh from an axe hit the target much achieve 1 success from their 5 dice pool to stay in the fight._
+
+-   Any critical hit Flesh wound or a wound which does 50% of max Flesh, requires an immediate test of TNS2 Courage check 2, requiring 2 successes to stay in the fight.
+-   Critical wounds require medical attention and add 2 persistent penalty die to the pool. 
+-   Being reduced to 1 current flesh also requires a Courage test TNS 2 to avoid passing out
+-   When Flesh reaches 0 or below the target is automatically knocked out and falls prone
+
 
 
 [TODO]**Dramatic Advantages in Combat**
@@ -211,7 +303,7 @@ Full Helm | 3D
 
 **Shields**|
 
-Buckler| 2D
+Buckler| 3D
 
 Medium shield | 4D
 
@@ -219,60 +311,8 @@ Large shield | 5D
 
 Special case - Some or all of Military Life Training dice can be added in addition to any physical harness dice.
 
-**Applying Damage**
 
-If the total number of success of the victor is even the blow is a full contact hit, if the result is odd then it is a glancing blow or close shave.
 
--   **Even results** apply level of success difference to Grit of the defender and then the weapon damage to the defender's Flesh. 
--   An **Odd result** applies both the level of success and weapon damage to Grit. (There are some exceptions; any un-absorbed Grit damage will roll over into Flesh, and Critical damage will go to Flesh)
-
-**Applying Grit Damage First**
-
--   If the target has remaining Grit, the level of success is deducted from their current Grit
--   If the target runs out of Grit, the balance of damage is transferred to Flesh damage at 50% (round up)
--   If the target has no Grit remaining, all damage is transferred to Flesh damage at 50% (round up)
-
-_E.g. 3 levels of success are applied to the target's current Grit reducing it from 4 to 1_
-
-_Or 5 levels of success take remaining Grit from 2 to 0, and balance of 3 generate 2F damage_ 
-
-**Taking Flesh Damage Second**
-
--   Flesh damage is based on the power and size of the weapon
--   Additionally any Grit damage that has been transferred to Flesh is counted
--   Any additional damage from a critical success or advantage [TODO]
--   This is then reduced by the number of successful defensive rolls
--   Each blow which causes Flesh damage also adds 1 penalty die (per blow not per point of damage) [TODO - maybe too negative] -> 2+ point wound
--   The loser's current Flesh is reduced by the combined totals
-
-_E.g. Assuming no additional Grit damage is transferred into Flesh, and the attacker is using an axe (3 damage) with 1 point blocked by the defensive harness. Causing a net of 2 points of damage, and reducing current Flesh from 7 to 5._
-
--   Track the scale of each hit which delivers flesh damage
-
-_E.g. Taking two wounds during a fight, each separate wounds damage is tracked. A 2 point wound and a 1 point wound. This is used for recovery and healing._
-
-**Check For Knock-down**
-
--   If the net number of successes is greater than P stat but less than P+A the defender is knocked to their knees
--   If the level of success is greater than P+A then the defender is knocked to the floor
-
-_E.g. An attacker beating a defender who has P2 A2 by 1 level of success will push the defender back but not materially impact their position_
-
-_Or if the level of success was 3, the defender is knocked to their knees_
-
-_Or if 5 levels of success then the defender is knocked to the floor_
-
-**Surviving Damage**
-
--   When Grit = 0, add 1 additional die to the persistent penalty pool.
--   Any Flesh wound of 2 or more requires a Courageous trait test at level 1 to avoid collapsing in pain
-
-_E.g. Having 'Courageous 5', after taking 2 points of Flesh from an axe hit the target much achieve 1 success from their 5 dice pool to stay in the fight._
-
--   Any critical hit Flesh wound or a wound which does 50% of max Flesh, requires an immediate test of TNS2 Courage check 2, requiring 2 successes to stay in the fight.
--   Critical wounds require medical attention and add 2 persistent penalty die to the pool. 
--   Being reduced to 1 current flesh also requires a Courage test TNS 2 to avoid passing out
--   When Flesh reaches 0 or below the target is automatically knocked out and falls prone
 
 **Optional Location of Wounds**
 
@@ -299,22 +339,6 @@ _E.g the attacker achieves 3 successes from 5 base dice and 2 risk advantage dic
 -   2 | Lower torso/Gut
 -   1 | Legs
 
-**Courage Tests**
-
-When receiving flesh damage it can be necessary to call upon ones courage to avoid passing out or being incapacitated by the pain. The level of the test is set by the amount of damage and situation.
-
--   Courage dice pool can be modified by other traits, passions or situational modifiers
--   The modifier could be positive or negative
-
-_E.g. In a skirmish to secure a bridge critical to the Yorkist vanguard's progress, a squire takes a 2pt flesh wound. This triggers a TNS 1 test of courage to continue in the fight._ 
-
-_In addition to the squire's courage of 4 (base pool), their passion for the Yorkist cause of 1 can be added to the pool. And their pride of 5 also adds 1 dice (traits contribute +1 at 5 and +2 at 6), as they don't want to let their family down._ 
-
-_This creates a pool of 6 seeking 1 success._
-
-_Or in the same situation, if the squire had a secret loyalty to the Lancastrian cause, they might collect a -1._
-
-_Or if they were drunk they could use the (penalty) dice from drunk as a positive modifier to their courage test_
 
   
 

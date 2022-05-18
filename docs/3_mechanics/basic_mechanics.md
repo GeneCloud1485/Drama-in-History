@@ -148,9 +148,9 @@ A social contest brings together narrative & role-play with skills & context int
 The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested 
 
 ## Test of the Flesh Pool
-Tested when receiving a physical or painful injury to resist passing out. Or tested when resisting or recovering from a fever or sickness.
+Tested in a Courage Test when receiving a physical or painful injury to resist passing out. Or tested when resisting or recovering from a fever or sickness.
 
-- nBd equals **Max Flesh pool** + nRd which is current persistent penalty dice + Flesh/Pain points incurred to trigger this test
+- nBd equals **Max Flesh pool** + nRd which is current persistent penalty dice + Flesh/Pain points incurred to trigger this test + any situational modifiers
 > E.g. An actor with Flesh pool of 8 with 2 current persistent penalties takes a sword blow which inflicts 3 Flesh damage to them. The test would be 8Bd + 5Rd based on the 3pt Flesh wound and 2 persistent penalties.
 
 Any appropriate traits or dramatic advantages could be added to the pool.
@@ -160,7 +160,7 @@ Any appropriate traits or dramatic advantages could be added to the pool.
 - Failed: failed the test and passed out, adding a persistent penalty dice 
 
 No double counting: The test only considers the current inflicted wound, as previous wounds will have potentially contributed persistent penalties which will be added into the test anyway.
-- Knock-out check
+- Courage Test
 - Fever & sickness check
 
 [TODO how long are you passed our for?]
