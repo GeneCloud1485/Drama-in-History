@@ -405,14 +405,13 @@ After a period of indulgence and drinking to excess a state of drunkenness modif
 When drunk a character's courage and belief in themselves is exaggerated, at a cost of thinking straight and agility.
 
 -   **Plus 1Dd dice for**;
-	-   All social based skills
-	-   And all Fortitude, Composure and Courage checks
-	-   An additonal Temporary Trait e.g. Courage, Rash, Indulgent 
+	-  All social based skills
+	-  And all Fortitude, Composure and Courage checks
+	-  An additional Temporary Trait e.g. Courage, Rash, Indulgent 
 	-  A temporary +1Dd to any passion which is tested or called upon while drunk
 -   **Plus 2Rd for everything else**;
-	-   Knowledge based on Mental
-	-   All Agility based skills
-	-   Grit pool checks
+	- Knowledge based on Mental
+	- Any context where being drunk is frowned upon
 
 **Blind Drunk/Very Drunk**
 

@@ -59,7 +59,7 @@ Momentum is passed to the winner in a round of opposed rolls, unless a specific 
 ## **Opposed Melee Rolls**
 
 Build a dice pool from Base, Resistance, and Drama dice.
-1. **Base pool** = attribute + skill, or background
+1. **Base pool** = attribute + skill, or background + situational modifier
 2. **Resistance pool** = persistent penalties + situational modifiers + stance modifier
 3. **Drama pool** = risks, dramatic advantages or passions applicable + stance modifier
 
@@ -69,10 +69,20 @@ The winner is the person with the highest number of successes, the number of suc
 
 [TODO bonus pattern matching in the pool for special outcomes]
 
+#### Example Situational Modifier 
+| Situation | Modifier | Beneficial | Modifier |
+| :---: | :---: | :---: | :---: |
+| Poor footing | 2Rd |  | |
+| Bad weather | 2/4Rd | | |
+| Dusk | 2Rd | | |
+| Darkness | 4Rd | | |
+| Into Narrow space | 2Rd | From Defensive space | 2Bd |
+| Height disadvantage | 2Rd | Height Advantage | 2Bd |
+
 ### Outcome of an Opposed Melee Round
 - **Winner**: One party achieves two or more net successes and greater than the other person. The difference between the opposed net successes equals the level of success.
 	- **Marginal Win**: One party achieves exactly one net success, which is greater than the other party. This is a marginal win and inflicts limited amount of damage. [Optional, otherwise it would be a failure]
-	- **Loser with Critical Success**: If the loser's roll included a critical success, and still had less successes than the winner, they will inflict a marginal win on the winner. [Optional]
+	- **Loser with Critical Success**: If the loser's roll included a critical success, and still had less successes than the winner, they will inflict a limited amount of damage on the winner. [Optional]
 - **Draw**: Both parties the same number of two or more net successes, leading to a draw. A draw is resolved by who has momentum.
 	- **Marginal Draw**: Both parties have exactly one net success. The draw is resolved by who has momentum. [Optional, otherwise it would be a failure]
 - **Failure**: Neither party gains two net successes. 
@@ -86,17 +96,11 @@ If one party has negative result, that is factored into the level of success dif
 
 The level of success determines the amount of additional damage that is inflicted on the loser.
 
-### Determine Armor Protection
-The loser rolls their Armor protection pool, counting success as stoppage of Flesh damage.
-- **Armor Pool** = Armor/Defensive harness + Shield + Stance + Situation + Dramatic Advantages
-
->E.g. The loser, armed with a buckler rolls 3Ad {5,2,1} for 1 point of flesh damage stoppage.
-
 ## Results of a Melee Round
 ### Calculating Damage
 There are two types of damage inflicted by the winner;
-- Level of success applied to Grit pool
-- Weapon damage applied to Flesh pool
+- The level of success is applied to the loser's Grit pool
+- Weapon damage is applied to Flesh pool
 
 ### Applying Damage
 #### Grit Damage
@@ -112,8 +116,14 @@ The winner's level of success is the amount of Grit damage that is applied to th
 Note: When a Grit pool is reduced to zero, the actor adds a persistent penalty.
 See Recover of Grit
 
+#### Determine Armor Protection
+The loser rolls their Armor protection pool, counting success as stoppage of Flesh damage.
+- **Armor Pool** = Agility + Armor/Defensive harness + Shield + Stance + Situation/cover + Dramatic Advantages
+
+>E.g. The loser, with Agl: 2 and armed with a buckler (3Ad) rolls 5Ad {5,3,3,2,1} for 1 point of flesh damage stoppage.
+
 #### Flesh Wounds
-Calculate the size of the wound, reduce by any Armor stoppage and then reduce the Flesh pool. Record the wound and deal with Courage Test and Knock-down.
+Calculate the size of the wound, reduce by any Armor stoppage and then reduce the Flesh pool. Record the wound and deal with Knock-down and courage test.
 - Flesh damage is based on the power and size of the weapon
 - Plus any Grit damage that has been transferred to Flesh (see Grit Damage above)
 - Plus any additional damage from any dramatic advantage [TODO]
@@ -130,6 +140,30 @@ Calculate the size of the wound, reduce by any Armor stoppage and then reduce th
 It is important to track each wound which delivers flesh damage, to help identify the source of penalty dice, bleeding and to manage recovery.
 
 > _E.g. Two wounds taken during a fight, would be tracked separately. A 2 point wound and a 1 point wound. 
+
+#### Limited Amount of Damage
+With a marginal win or when a loser achieves a critical, a limited amount of damage is delivered.
+- One point of Grit 
+- And one point of Flesh, which can be stopped by an armor roll
+- No knock-down check is made
+
+#### **Check For Knock-Down**
+A secondary consequence of melee, the loser must check to see if they are knocked back or prone.
+
+- **Knock-down** = Level of Success + Winner's Physical Attribute
+	- If the Knock-down is greater than **either** the loser's Physical or Agility attribute then loser is **disadvantaged** e.g. knocked to knees, stunned, disorientated
+	- If the Knock-down is greater than **the sum** of the loser's Physical and Agility attributes then they are **Doubly Disadvantaged** e.g. knocked down, ending the round off of their feet and dropped onto the floor.
+
+> _E.g. An attacker with Phy:3 strikes his target with 1 level of success achieving 4 knock-down. The defender who has Phy:3 Agl:4 is disadvantaged and knocked to his knees as the winner's knock-down is greater than one of the two attributes.
+
+> _Or if the level of success had been 3, the knock-down would have been 6 which is greater than either but less than the sum of the loser's Phy and Agl and so the loser is disadvantaged.
+
+> If the level of success has been 5, the knock-down would have been 8 which is greater than the sum of the loser's two attributes and the loser would be doubly disadvantaged.
+
+- **Disadvantage** is a situational  modifier applied to actions in the following round. The modifier is calculated as (4-Agility)Rd. (if Agility is higher than 4 the result is zero)
+>  E.g. Loser with Agl:2 would carry a 2Rd modifier for next round.
+- **Doubly Disadvantaged** is calculated as (8-Agility)Rd
+> E.g. The loser with an Agl:1 will carry 7Rd into the next round.
 
 #### **Test of Courage**
 When receiving flesh damage of two or greater points, it is necessary to call upon ones courage to avoid passing out or being incapacitated by the pain. 
@@ -156,20 +190,7 @@ Failing takes the actor out of the action.
 - Fall to floor, slump in saddle etc [TODO]
 - Consequences?
 
-#### **Check For Knock-Down**
-A secondary consequence of melee, the loser must check to see if they are knocked back or prone.
-- If the number net of successes is **greater** than loser's Physical stat **but less or equal** than their Physical and Agility combined then the loser is knocked to their knees
-- If the number of net successes is greater than Physical and Agility combined then the defender is knocked to the floor
-- If a courage test is failed the loser will fall to the floor
 
-Compare the number of winners number of net successes
-
-
-> _E.g. An attacker with 2 net successes beats a defender who has P2 A2, the defender takes the blow.
-
-> _Or if the level of success had been 3, then the defender is knocked to their knees_
-
-> _Or if 5 levels of success then the defender is knocked to the floor_
 
 #### **Surviving Damage**
 -   When Grit = 0, add 1 additional die to the persistent penalty pool.
