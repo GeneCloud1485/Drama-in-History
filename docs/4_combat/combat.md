@@ -30,16 +30,16 @@ And then declare their stance
 Participants who are unaware or surprised don't get a chance to prepare, and their stance is decided by circumstance - likely Stand.
 
 #### 1. Press Attack
-> + 3 Momentum, + 1Dd, + 1Rd, + 1 to knock-back
+> Add 3 to Momentum, + 1Dd, + 1Rd, + 1 to knock-back
 
 #### 2. Stand
 > No benefits
 
 #### 3. Defend
-> +3 Ad (armor), -1 Momentum, +1 brace vs knock-back
+> 3Ad (armor), -1 from Momentum, +1 brace vs knock-back
 
 #### 4. Dramatic Stance (situational)
-> benefits determined by the specific situation and/or dramatic advantage
+> Benefits determined by the specific situation and/or dramatic advantage
 
 [TODO courage and bravery in the face on an enemy]
 
@@ -47,7 +47,7 @@ Participants who are unaware or surprised don't get a chance to prepare, and the
 Momentum tracks the ebb and flow of the upper hand in a conflict. Whoever has momentum will win ties in opposed rolls.
 
 For the 1st round of melee the momentum is determined by  
-- The highest ==Current== Grit pool value + modifier from stance
+- The highest **Current Grit** pool value + modifier from stance
 	- Ties resolved by the highest Agility value
 	- Ties resolved in favor of the highest Actor level
 	- Ties go to the player Actors
@@ -149,21 +149,25 @@ See Test of the Flesh Pool
 > Drama: 2Dd {6,1,1} for -1 success and a total of 1 net success. 
 > This is a Yes... but outcome, the squire is wavering, but decides to take the extra 1 penalty dice to convert this to a success. Shouting in pain, he grits his teeth and prepare to fight on (with two persistent penalty dice from the pain).
 
-Passing a courage test allows the actor to continue acting. Failing takes the actor out of the action.
+Passing a courage test allows the actor to continue acting. 
+
+Failing takes the actor out of the action.
 - Pass-out
 - Fall to floor, slump in saddle etc [TODO]
 - Consequences?
 
-#### **Check For Knock-down**
-A secondary consequence of melee
-- If the net number of successes is greater than P stat but less than P+A the defender is knocked to their knees
-- If the level of success is greater than P+A then the defender is knocked to the floor
-- If a courage test is failed the actor will fall to the floor
-- 
+#### **Check For Knock-Down**
+A secondary consequence of melee, the loser must check to see if they are knocked back or prone.
+- If the number net of successes is **greater** than loser's Physical stat **but less or equal** than their Physical and Agility combined then the loser is knocked to their knees
+- If the number of net successes is greater than Physical and Agility combined then the defender is knocked to the floor
+- If a courage test is failed the loser will fall to the floor
 
-> _E.g. An attacker beating a defender who has P2 A2 by 1 level of success will push the defender back but not materially impact their position_
+Compare the number of winners number of net successes
 
-> _Or if the level of success was 3, the defender is knocked to their knees_
+
+> _E.g. An attacker with 2 net successes beats a defender who has P2 A2, the defender takes the blow.
+
+> _Or if the level of success had been 3, then the defender is knocked to their knees_
 
 > _Or if 5 levels of success then the defender is knocked to the floor_
 
