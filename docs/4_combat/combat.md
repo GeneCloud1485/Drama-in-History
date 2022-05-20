@@ -79,6 +79,7 @@ The winner is the person with the highest number of successes, the number of suc
 | Into Narrow space | 2Rd | From Defensive space | 2Bd |
 | Height disadvantage | 2Rd | Height Advantage | 2Bd |
 
+
 ### Outcome of an Opposed Melee Round
 - **Winner**: One party achieves two or more net successes and greater than the other person. The difference between the opposed net successes equals the level of success.
 	- **Marginal Win**: One party achieves exactly one net success, which is greater than the other party. This is a marginal win and inflicts limited amount of damage. [Optional, otherwise it would be a failure]
