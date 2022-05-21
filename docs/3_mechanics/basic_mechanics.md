@@ -280,10 +280,47 @@ As well as any mechanical outcome the results should provide guidance on how to 
 
 ---
 
-# Protracted Complex Challenge Tests
+# Complex Challenge Tests
 Some problems are extremely complex, protracted and involved that a single test is not sufficient to resolve. In a case of a protracted challenge test the results of multiple rounds combine to measure progress overcoming a challenge.
 
+Each complex test is unique and can allow different combinations of the cost of success and failure. The dimensions of the Complex Test may be transparent and clear to the actor, or it may be hidden, and only understood when earlier dimensions are resolved.
 
+Resolving the Complex Test;
+1. Tackle **each of the dimensions in turn**, each dimension can have a different resistance and cost
+	1. Some dimensions are one attempt only
+	2. Some have a cost for failure
+	3. And others allow a second attempt with an alternate cost.
+2. Success on a dimension **unlocks the next dimension**, and often will require a price to be paid. That cost could vary depending if it is the 1st or 2nd attempt.
+4. On a second attempt, the resistance is generally 2Rd less
+5. **Failure on the second attempt**, means that the dimension stays locked and the overall test has been failed. 
+
+Failed Complex Tests can be potentially be re-attempted once something substantial about the actor(s) or the situation has changed - growth in skills, new teacher, significant time has passed.
+
+Successful resolution will achieve the outcome, in some circumstances due to failed tests a partial outcomes can be achieved. Like failed tests, a partial outcome can't be improved upon unless something significant has changed.
+
+> Example - Attempting to read a complex book of arcane knowledge, the *Treatise on the Celestial Mind* or "Tractatus de Mente Coelesti".
+
+> The book is an arcane tome with 3 dimensions of complexity which need to be unlocked to receive the wisdom and knowledge it contains.
+> 
+> The first dimension is Geometry, it is difficult to understand (10Rd) but has no price to pay for an initial success. Failure on the 1st attempt means paying the cost of failure (loss of 1 Fort point). A second attempt is allowed, and the subsequent attempt is a little easier (8Rd), but success on the second attempt will limit the total value of the whole test to a partial outcome. Failure on the 2nd attempt will incur another cost, and will block further progress until something substantial changes about the reader or their resources.
+
+> The second dimension is Astronomy, the price for the 1st attempt is the passage of time (1 month), there is no additional cost of failure and a second attempt will take a further passage of time (2 months).
+
+> The third dimension is Religion, this test is more of a revelation and no subsequent attempts are allowed. Success incurs a cost (loss of 1F) before unlocking the reward/outcome of the complex test. Failure will end the Test, and incurs a substantial cost (-3 Fortitude + test for a scar)
+
+| Dimension | Resistance | Price on 1st attempt | Price on 2nd attempt | Cost of failure |
+| :--- | :--- | :--- | :--- | :--- |
+| Geometry | 10Rd | n/a | Partial Outcome | -1 Fort |
+| Astronomy | 8Rd | 1 month | 2 months | n/a | 
+| Religion | 8Rd | -1 Fort |none allowed | -3 Fort^1 | 
+
+> ^1 Test Fort pool or receive a scar 
+
+> The result of the Complex Test is either a full or partial Outcome. 
+> 
+> In this case the full outcome provides Training level skill in 'Celestial Mind' and an awareness or faith in the interconnectedness of the celestial and the human condition. This creates a Bond, which is immediately taken and which challenges any bond of faith or religion which exists.  The existing bond of faith or religion must be tested or potentially broken...
+
+> A partial outcome will create the bond and challenge existing bonds of faith without the training.
 ---
 
 # **Penalty Dice**

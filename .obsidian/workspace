@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/4_combat/combat.md",
+            "file": "docs/3_mechanics/basic_mechanics.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/4_combat/combat.md",
+                "file": "docs/3_mechanics/basic_mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,8 @@
   },
   "active": "714f7eb165a3146a",
   "lastOpenFiles": [
-    "docs/4_combat/combat.md",
     "docs/3_mechanics/basic_mechanics.md",
+    "docs/4_combat/combat.md",
     "docs/1_concepts/1.0_concepts.md",
     "docs/2_actors/your_actor.md",
     "index.md",
