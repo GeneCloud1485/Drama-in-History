@@ -296,6 +296,16 @@ Resolving the Complex Test;
 
 Failed Complex Tests can be potentially be re-attempted once something substantial about the actor(s) or the situation has changed - growth in skills, new teacher, significant time has passed.
 
+The Director can set most anything as a price to be paid for success and/or failure. Some examples;
+- Coin e.g. bribes or payments
+- Specific resources or items e.g. Alchemical components
+- Time e.g. time investment required
+- Fortitude e.g. disturbing knowledge that is unsettling 
+- Flesh e.g. a physical price to pay either an indirect consequence like a wound, or as a required contribution like a blood sacrifice...
+- Creation or breaking of a bond e.g. membership of a fraternity, or shaking of a previously held faith
+- Addition of a scar or strength e.g. confidence in their new knowledge, an actor gains a strength related to that knowlegde
+- Boon or Flaw e.g. temporary good luck will follow the actor, gaining +1Bd on luck checks (6Bd vs 6Rd)
+
 Successful resolution will achieve the outcome, in some circumstances due to failed tests a partial outcomes can be achieved. Like failed tests, a partial outcome can't be improved upon unless something significant has changed.
 
 > Example - Attempting to read a complex book of arcane knowledge, the *Treatise on the Celestial Mind* or "Tractatus de Mente Coelesti".
