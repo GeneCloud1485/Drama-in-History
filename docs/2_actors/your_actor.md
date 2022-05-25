@@ -276,6 +276,11 @@ Dramatic passions are deeply held, sometimes are overwhelming and always core to
 A person can have **up to** THREE different dramatic passions, each is rated as a Passion (2Dd), Strong Passion (3Dd) or an Intense Passion (4Dd).
 When called upon in support of an action or test, Passions are added as Drama dice (nDd) and are rolled as part of the Drama Pool.
 
+### Dramatic Actions
+[TODO]
+- Spend DA to trigger an action
+- Gain a dice pattern and special outcome (for combat especially)
+
 ### Bonds
 Bonds represent the strong, re-assuring connections, faith and relationships that influence people's personality and choices. A bond provides a strength which can be used in support or against appropriate situations, providing positive dice. 
 

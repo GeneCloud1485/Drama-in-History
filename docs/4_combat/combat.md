@@ -48,7 +48,7 @@ Participants who are unaware or surprised don't get a chance to prepare, and the
 - If they win the round, then -2 from their knock-back attempt
 
 #### 4. Dramatic Stance (situational)
-> Benefits determined by the specific situation and/or dramatic advantage
+> Benefits determined by the specific situation and/or dramatic advantage. These can expand the standard stances
 
 Joining the melee normally only happens in the opening rounds of an engagement. If combatants move around during combat the option can be selected again. An engaged opponent is considered as Standing.
 
@@ -75,7 +75,7 @@ Momentum is **passed to the winner** in a round of opposed rolls, unless a speci
 ## **Opposed Melee Rolls**
 
 Build a dice pool from Base, Resistance, and Drama dice;
-1. **Base pool** = attribute + skill or background + situational modifier
+1. **Base pool** = attribute + skill + situational modifier + military life 
 2. **Resistance pool** = persistent penalties + situational modifiers + stance modifier
 3. **Drama pool** = risks, dramatic advantages or passions if applicable + stance modifier
 
@@ -83,18 +83,30 @@ Pools are then rolled and the results calculated. Remember that critical hits wi
 
 The winner is the person with the highest number of successes, the number of successes must be TWO or more to be a successful 'hit'.  Tied results are resolved by whoever has momentum at this point.
 
-[TODO bonus pattern matching in the pool for special outcomes]
-
 #### Example Situational Modifier 
 
 | Situation | Modifier | Beneficial | Modifier |
-| :---: | :---: | :---: | :---: |
+| :--- | :---: | :--- | :---: |
 | Poor footing | 2Rd |  | |
 | Bad weather | 2/4Rd | | |
 | Dusk | 2Rd | | |
 | Darkness | 4Rd | | |
 | Into Narrow space | 2Rd | From Defensive space | 2Bd |
 | Height disadvantage | 2Rd | Height Advantage | 2Bd |
+
+#### **Military Training Dice**
+The benefit of backgrounds which count as military training is to provide an additional pool of dice which an be used as nBd or nAd. Each background provides 1 die to the pool.
+
+[TODO]Some or all of the Military Life dice can be added in addition to a base skill. Any remaining Military Life dice can be applied as defensive harness/armor dice. 
+
+[TODO]The dice can be applied as base in attack or armour dice in defense.
+
+>_E.g. a squire with 2 backgrounds in Military Life will have 2 dice in their military training pool.
+
+#### Declaring Dramatic Actions
+[TODO]
+- Declaring passions - no Drama Point cost
+- Declaring dramatic actions - spending Drama Points
 
 ### Outcome of an Opposed Melee Round
 - **Winner**: One party achieves two or more net successes and greater than the other person. The difference between the opposed net successes equals the level of success.
@@ -112,6 +124,18 @@ If one party has negative result, that is factored into the level of success dif
 > E.g. -1 success vs 3 successes creates 4 level of success
 
 The level of success determines the amount of additional damage that is inflicted on the loser.
+
+#### Dramatic Outcome Patterns (passive bonuses)
+[TODO bonus pattern matching in the pool for special outcomes]
+
+Based on the actor's **weapons or dramatic advantages**
+- Not modifying the result of the dice pool result
+- If win then...
+- If lose then...
+- If draw then...
+
+! Shields and defensive weapons use patterns to boost their nAd rolls [todo]
+
 
 ## Results of a Melee Round
 ### Wounds: Calculating Damage
@@ -221,40 +245,22 @@ A secondary consequence of melee, the loser must check to see if they are knocke
 ### Determining Momentum
 The winner of the rounds gains momentum for the next round of a melee.
 
+---
+
+
 [TODO dealing with multiple opponents]
 
-
-
-## **Dramatic Advantages in Combat**
-[TODO]
-
-
-Example **Situational Modifiers**
-[TODO]
--   Context: terrain, height, visibility, weather conditions, footing, prone/knocked down
--   Tactical: choices: flanking, surprise etc
-
-[TODO]**Military Life Training**
-
-[TODO]Some or all of the Military Life dice can be added in addition to a base skill. Any remaining Military Life dice can be applied as defensive harness/armor dice. 
-
-[TODO]The dice can be applied as base or as risk dice in attack or defensive dice 
-
-[TODO]_E.g. a squire with 2 backgrounds in Military Life will have 4 dice in their military training pool. These dice can be allocated to Base, Risk/Advantages or in Defense._
-
 ## **Fighting Multiple Opponents**
-
-When fighting multiple opponents the dice pool can be split between opponents
-
+When fighting multiple opponents the dice pool can be split between opponents, or an opponent left unopposed.
 
 -   Split pool or leave one unopposed - min split of base dice = 1/3rd to avoid being unopposed
--   Unopposed attacker = +2D 
--   Current penalty is  divided as close to evenly as possible
+-   What happens with an unopposed attack = +2Bd?
+-   Current penalty is divided as close to evenly as possible [TODO]
 -   ?resolving momentum = based on winners or A sequence is effective tie with multiple winners
 
 
 ## **Weapons**
-The use of weapons doesn't add dice to the opposed roll, but open up advantages and risk/reward opportunities. The rating of each weapon is the Flesh damage that the weapon will do before adding any Grit damage from levels of success.
+The use of weapons doesn't add dice to the opposed roll, but **opens up advantages and risk/reward opportunities**. The rating of each weapon is the Flesh damage that the weapon will do before adding any Grit damage from levels of success.
 
 | Weapon Class | Examples | Flesh Damage | 
 | :--- | :--- | :--- |
@@ -264,86 +270,63 @@ The use of weapons doesn't add dice to the opposed roll, but open up advantages 
 | Large | Spear, Axe, Sword, Long Bow or Crossbow | 3F |
 | Extra Large | Poleax, Lance | 4F |
 
-**Defensive Harness & Armour**
+## **Defensive Harness & Armour**
 
 Each item of defensive harness contributes dice to the armour pool. The armour pool is rolled and each success will block a point of potential Flesh damage. 
 
 Note - any 1s or 6s rolled do not contribute to a critical success or failure
 
-The wound inflicted is the net results of the damage - successful defense results.
+A wound inflicted is the net results of the damage - successful defense results.
 
-_E.g A sword doing full damage of 3F against a well armoured combatant who rolls 8D dice getting 2 blocking successes, the net damage is 1 point of Flesh._
+> _E.g A sword doing full damage of 3F against a well armoured combatant who rolls 8D dice getting 2 blocking successes, the net damage is 1 point of Flesh._
 
-_Or that same combat where the defender has no Grit remaining, taking 2 successes contributing an additional 1F, leading to a 2F wound total._
+> _Or that same combat where the defender has no Grit remaining, taking 2 successes contributing an additional 1F, leading to a 2F wound total._
 
-**Examples;**
+**Reference Armour Tables;**
 
-Armour | Defense Value
+| Armour | Defense Value |
+| :--- | :--- |
+| Cloak/Clothing | 1Ad|
+|Heavy Cloak | 2Ad |
+|Leather Cloak | 3Ad|
+|Leather Jack | 2Ad-3Ad |
+|Brigandine | 4Ad |
+| Leather Hood | 1Ad | 
+| Metal Helm | 2Ad |
 
-Cloak/Clothing | 1D
+| Armour | Defense Value |
+| :--- | :--- |
+|**Man-at-Arms** | 9Ad |
+|Arming Jack | 2Ad |
+|Breastplate | 4Ad |
+| Metal Helm | 2Ad |
+| ...Gauntlets | 1Ad |
 
-Heavy Cloak | 2D
+| Armour | Defense Value |
+| :--- | :--- |
+|**Full Plate Armour** | 18Ad|
+|Arming Jack | 2Ad|
+|Breastplate | 4Ad|
+|Full Helm | 3Ad|
+|...Arms | 3Ad|
+|...Legs | 3Ad|
+|...Feet | 1Ad|
+|...Gauntlets |1Ad|
+|...Neck |1Ad|
 
-Leather Cloak | 3D
+| Shields | Defense Value |
+| :--- | :--- |
+|Buckler| 3Ad|
+|Medium shield | 4Ad|
+|Large shield | 5Ad|
 
-Leather Jack | 2D-3D
-
-Brigandine | 4D
-
-Leather Hood | 1D
-
-Metal Helm | 2D
-
-  
-
-**Man-at-Arms** | 9D
-
-Arming Jack | 2D
-
-Breastplate | 4D
-
-Metal Helm | 2D
-
-...Gauntlets | 1D
-
-  
-
-**Full Plate Armour** | 18D
-
-Arming Jack | 2D
-
-Breastplate | 4D
-
-Full Helm | 3D
-
-...Arms | 3D
-
-...Legs | 3D
-
-...Feet | 1D
-
-...Gauntlets | 1D
-
-...Neck |1D
-
-  
-
-**Shields**|
-
-Buckler| 3D
-
-Medium shield | 4D
-
-Large shield | 5D
 
 Special case - Some or all of Military Life Training dice can be added in addition to any physical harness dice.
 
+Shields add a dice pattern match opportunity in the nBd pool which can trigger additional nAd additions.
+[TODO] dice pattern matches can improve the shield Ad
 
-
-
-
-  
-
+---
 
 
 **Defensive Options**
@@ -423,33 +406,21 @@ Defensive values;
 -   Improvised defensive objects' have a value based on the material they are made of and their size
 -   Shields are 3X their defensive blocking value when actively blocking
 
-  
-
 Item | Blocking Value
-
+:---| :---
 Dagger/Small Weapon| 3D
-
 Cudgel/Short Sword | 6D
-
 Sear/Sword/Axe | 9D
-
 Poleaxe|12D
-
 Buckler/Small Shield | 6D
-
 Medium Shield | 12D
-
 Large Shield | 15D
-
 Candlestick| 3D
-
 Log/Stave/Pitchfork | 6D
-
 Chair | 6D
-
 Chest/Barrel | 9D
 
-  
+[TODO skill of getting shield into position?]
 
 _E.g. a desperate man grabs a chair to attempt to block blows from an attacker._
 
@@ -595,29 +566,15 @@ Size of Target|Adult|Child|Shield|Head|Bull's Eye
 
 Based on the largest numbers of results of the dice in the positive dice pool, other than 6s. Use of hit location is optional for regular hits, it adds color and drama but not mechanical benefit.
 
-Number | Location
-
-5 | Head
-
-4 | Upper torso/Chest
-
-3 | Arms
-
-2 | Lower torso/Gut
-
-1 | Legs
+|Number | Location|
+| :--- | :--- |
+| 5 | Head |
+| 4 | Upper torso/Chest |
+|3 | Arms |
+| 2 | Lower torso/Gut |
+| 1 | Legs |
 
 _E.g the attacker achieves 3 successes from 5 base dice and 2 risk advantage dice. Results; 6, 5, 3, 3, 1 and 5, 3 = there are 3 three results so that determines the location. The blow lands on the defender's lower torso_
-
--   6 | Head
--   5 | Upper torso/Shoulders
--   4 | Torso/Chest
--   3 | Arms
--   2 | Lower torso/Gut
--   1 | Legs
-
-
-  
 
 _[TBD] courage and trait tests are all Risk dice?_
 
@@ -627,7 +584,7 @@ Any wound of 2+ points of Flesh damage will bleed and continue to bleed unless t
 
 [TBD = minutes & moments… combat is a moment, bleeding is in minutes]
 
->> 5 minutes / Flesh damage is the bleeding out cycle
+> 5 minutes / Flesh damage is the bleeding out cycle
 
 **Staunching Wounds**
 
@@ -665,13 +622,9 @@ Any significant physical action runs the risk of opening the wound and starting 
 **Unconscious & Dying**
 
 Flesh levels;
-
 * At 0 = unconscious
-
 * At -1 = major persistent injury, +4 weeks recovery time
-
 * At -2 = dying with little chance of recovery, need major and successful medical attention + 8 weeks recovery
-
 * At -3 = **death**
 
 _E.g. Having taken a couple of solid hits and having passed level 1 courage tests, the loser is then hit once more reducing their Flesh to 0. They fall unconscious to the ground, bleeding from their wounds. They must pass an additional level 1 Physical check after 5 minutes to see if the bleeding stops._
@@ -692,15 +645,10 @@ The initial recovery time and duration of the fever is a test of Flesh vs TNS of
 
 -   TNS is set by the largest wound + 2
 -   Flesh pool + situational benefits
-
 -   Care & treatment applied during the ~12 hours
-
 -   With penalties for situational conditions
-
 -   Environment (how far from the best conditions is the situation?)
-
 -   Levels of success of the roll indicates the duration of the fever period;
-
 -   Equal or greater than TNS = fever breaks, no further rolls required
 -   1 less = fever for another day
 -   2 less = fever for another 3 days & check for infection/sickness on odd
@@ -732,21 +680,14 @@ _Design goal: to create lasting color and memories of encounters, not to create 
 
 When a test of calls for a sickness check, review the results of the Flesh pool. Reading the pool, width determines the result 1-6, and even/odd of number of successes to determine the A/B outcome. The consequence adds +1 to the trait or MF.
 
-  
-
-Reading | Symptom | Outcome
-
-6 | Visions | religious or greedy & selfish traits
-
-5 | Melancholic | cold & dry, black bile - humble or indulgent traits
-
-4 | Choleric | hot & dry, yellow bile - courageous or cruel traits
-
-3 | Phlegmatic | cold & moist, phlegm - shrewd or cowardly traits
-
-2 | Sanguine | hot & moist, blood - generous or rash traits
-
-1 | Terrors | Mortal Fear - death or disease traits
+| Reading | Symptom | Outcome |
+| :--- | :--- | :--- |
+| 6 | Visions | religious or greedy & selfish traits|
+| 5 | Melancholic | cold & dry, black bile - humble or indulgent traits | 
+| 4 | Choleric | hot & dry, yellow bile - courageous or cruel traits |
+| 3 | Phlegmatic | cold & moist, phlegm - shrewd or cowardly traits| 
+| 2 | Sanguine | hot & moist, blood - generous or rash traits |
+| 1 | Terrors | Mortal Fear - death or disease traits |
 
 As well as the impact on the trait, the period of recovery is extended by +1 month.
 
@@ -774,25 +715,15 @@ _E.g. The winner of the combat has rolled 8 dice + 2R dice with the following re
 
 _In this examples is a  complication to a lower body wound_
 
-  
 
-Number | Highest # =Effect
-
-----------------|--------------------
-
-|6 | Minor scarring,
-
+| Number | Highest # =Effect |
+|:--- | :--- |
+|6 | Minor scarring
 |5 | Minor break, additional 1P until recovered
-
 |4 | Complication, requires an infection check at +2 
-
 |3 | Major cut or piercing + 1 bleeding, leading to distinct scaring
-
 |2 | Deep cut leading to additional bleeding +2 bleed and distinct scar
-
 |1 | Major break, with longer recovery & narrative limitations - depending on location
-
-  
 
 -   First Aid - stopping bleeding & 50% value for more specific healing
 -   Leechcraft - treating humours, sewing wounds, blood letting and treating sickness
@@ -801,3 +732,4 @@ Number | Highest # =Effect
 -   Medicine - understanding sickness beyond the obvious symptoms, knowing how the body works and theoretical treatments.
 
   
+

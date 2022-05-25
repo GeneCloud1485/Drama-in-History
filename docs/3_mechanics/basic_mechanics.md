@@ -216,6 +216,8 @@ Loss of Fortitude reflects a weakening of the mind, soul, or one's grasp of norm
 [TODO] Lasting scars - is there a need to have a partial madness from loss in one story?
 [TODO] risks of recovering from a zero Fort situation? 
 
+[TODO] tracking FORT wounds by wound
+
 Failing to succeed in a test of Fortitude leads to a an uncontrolled shock outcome [TODO is this too exaggerated?]
 
 > E.g. A week later, the nervous priest is wandering in the woods and comes across a sight of slaughter, a deer carcass has been ritually laid out and clear signs of devil worship overwhelm the priests mind.
