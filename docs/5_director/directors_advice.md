@@ -19,7 +19,20 @@ layout: default
 
 
 
-## Non Player Actors
+## The Three Dimensions of Non Player Actors
+Each non-player actor should be classified by their current importance in the story. 
+
+#### One Dimensional Cast & Cameos
+Cast or Cameo actors will tend to be one dimensional, and only need limited preparation. Along with the basics of who they are, they should have one personality trait, and one memorable moment prepared. This should provide enough for them to play their part as a supporting character, if they get more spot light or focus they should be upgraded to Supporting Actors with more depth and personality.
+- Basic description
+- One personality trait
+- One story or memorable moment
+
+#### Two Dimensional Supporting Actors
+
+
+#### Three Dimensional Actors & above
+
 
 
 ## Scenes

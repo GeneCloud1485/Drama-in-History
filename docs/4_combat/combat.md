@@ -12,56 +12,72 @@ layout: default
 2. Establish Momentum
 3. Opposed Skill Test
 4. Results of a Melee Round
+	1. Wounds
+	2. Knock-back
+	3. Momentum
 
 ## Joining the Melee
 How your actor joins melee is sometimes a choice and sometimes a reaction to a situation or circumstance.
 
-In the short beat before a melee is joined each aware participant has a beat to prepare themselves.
+In the short moment before a melee is joined each aware participant has a beat to prepare themselves.
 
-They can choose to 
-	1. Prepare a dramatic action
-	2. Call upon deeply held passion
+They can choose to; 
+1. Prepare a dramatic action
+2. Call upon deeply held passion
 
-And then declare their stance
-	1. Press
-	2. Stand
-	3. Defend
+And then declare their stance;
+1. Press Attack
+2. Stand
+3. Brace for the Fight
 
 Participants who are unaware or surprised don't get a chance to prepare, and their stance is decided by circumstance - likely Stand.
 
 #### 1. Press Attack
-> Add 3 to Momentum, + 1Dd, + 1Rd, + 1 to knock-back
+- Add 3 to Momentum
+- + 1Dd and + 1Rd
+- If they win the round, then + 1 to their knock-back attempt
+- If they lose the round, then their Agility is considered one point lower for the knock-back check
 
-#### 2. Stand
-> No benefits
+#### 2. Stand 
+- No benefits/penalties
 
-#### 3. Defend
-> 3Ad (armor), -1 from Momentum, +1 brace vs knock-back
+#### 3. Brace for the Fight
+- +3Ad (armor)
+- -1 from Momentum
+- If they lose the round, then their Physical & Agility is considered one point higher for the  knock-back test
+- If they win the round, then -2 from their knock-back attempt
 
 #### 4. Dramatic Stance (situational)
 > Benefits determined by the specific situation and/or dramatic advantage
+
+Joining the melee normally only happens in the opening rounds of an engagement. If combatants move around during combat the option can be selected again. An engaged opponent is considered as Standing.
 
 [TODO courage and bravery in the face on an enemy]
 
 ## Establishing Momentum
 Momentum tracks the ebb and flow of the upper hand in a conflict. Whoever has momentum will win ties in opposed rolls.
 
-For the 1st round of melee the momentum is determined by  
-- The highest **Current Grit** pool value + modifier from stance
-	- Ties resolved by the highest Agility value
-	- Ties resolved in favor of the highest Actor level
-	- Ties go to the player Actors
+For the 1st round of melee the momentum is determined by the highest **Current Grit** pool value + modifier from their stance.
+- Ties resolved by the highest Agility value
+- Ties resolved in favor of the highest Actor level
+- Ties go to the player Actors
 
-Momentum is passed to the winner in a round of opposed rolls, unless a specific action or risk is taken to 'grab' momentum.
+> E.g. Two angry farmers resort to blows over a field boundary dispute. The first has a max grit of 7 and the second 6. Both choose the Stand stance, which doesn't modify momentum calculations. The first will have momentum in the first round of the conflict.
+ 
+> or if the farmers both had max grit of 7, the tie would be resolved by their Agility attributes.
+
+> If the second farmer chooses to be more aggressive and Press the Attack, they would receive a +3 to their momentum score which means they would receive momentum. Farmer 1 with 7 and Farmer 2 with 9.
+
+Momentum is **passed to the winner** in a round of opposed rolls, unless a specific action or risk is taken to 'grab' momentum.
 
 [TODO] The loser declares their pool decisions first = use of Military Life, split of pools and/or use of Advantages. This provides the winner the chance to adjust their strategy based on the slower person's choices.
 
 ## **Opposed Melee Rolls**
 
-Build a dice pool from Base, Resistance, and Drama dice.
-1. **Base pool** = attribute + skill, or background + situational modifier
+Build a dice pool from Base, Resistance, and Drama dice;
+1. **Base pool** = attribute + skill or background + situational modifier
 2. **Resistance pool** = persistent penalties + situational modifiers + stance modifier
-3. **Drama pool** = risks, dramatic advantages or passions applicable + stance modifier
+3. **Drama pool** = risks, dramatic advantages or passions if applicable + stance modifier
 
 Pools are then rolled and the results calculated. Remember that critical hits will increase the number of successes.
 
@@ -70,6 +86,7 @@ The winner is the person with the highest number of successes, the number of suc
 [TODO bonus pattern matching in the pool for special outcomes]
 
 #### Example Situational Modifier 
+
 | Situation | Modifier | Beneficial | Modifier |
 | :---: | :---: | :---: | :---: |
 | Poor footing | 2Rd |  | |

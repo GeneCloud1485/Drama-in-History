@@ -27,7 +27,7 @@ Tests take a number of forms and draw upon a variety of attributes, skills and f
 > 
 > or 5 Base dice and 2 Resistance dice 5Bd: {6,5,3,2,2}  & 2Rd: {2,2} = 0 net successes and a failure
 
-### One equals Yes, But...
+### One success equals 'Yes, But...'
 What about ONE success? It is close and triggers the option of a YES, BUT result if the character can pay a meaningful price to achieve a success. The penalty could be narrative, could be a currency costs (attribute pool) or the addition of a persistent penalty - this is determined in negotiation with the Director.
 
 > E.g. 4 Base dice 4Bd: {5,2,2,1} = 1 net success requiring an additional price to be paid to succeed.
@@ -168,8 +168,6 @@ No double counting: The test only considers the current inflicted wound, as prev
 ---
 
 ## Test of the Grit Pool
-
-- Opposed test to establish momentum in a combat situation
 - Reaction or 'save' style test
 
 nBd is equal to **max Grit pool** + nRd from current persistent penalty dice + any situational modifiers
@@ -278,6 +276,13 @@ As well as any mechanical outcome the results should provide guidance on how to 
 > "You feel a lingering effect of the situation, this can be played out over the coming scene. Ideally these filter into your normal play rather than super clear moments which stand out as unique consequences. The effect will last for about an hour."
 
 
+## Test of Luck
+Roll 6Bd and 6Rd, the net success outcome indicates the level of luck or mis-fortune.
+
+> E.g. 6Bd {6,4,4,3,2,2} vs 6Rd {6,6,4,2,1,1} = -2 net successes and a strongly unfortunate outcome.
+
+It might be possible to apply Dramatic Advantages, scars or strengths - used sparingly. It is possible to spend Drama Points for get 2Dd. Or for the Director to spend 1 tension dice for 2 additional Rd.
+
 ---
 
 # Complex Challenge Tests
@@ -368,7 +373,7 @@ Penalty dice are applied to all healing or recovery checks and will modify recov
 
 # Aiding Others
 
-### **Lending a hand **
+### **Lending a hand**
 
 When simply contributing a PAMS attribute can be helpful. Where it makes sense, the supporting person can add their appropriate core attribute in support of the attempt. 
 
@@ -473,9 +478,3 @@ When drunk a character's courage and belief in themselves is exaggerated, at a c
 [TODO] = Muses & creativity over social
 
 
-# Test Your Luck
-Roll 6Bd and 6Rd, the net success outcome indicates the level of luck or mis-fortune.
-
-> E.g. 6Bd {6,4,4,3,2,2} vs 6Rd {6,6,4,2,1,1} = -2 net successes and a strongly unfortunate outcome.
-
-It might be possible to apply Dramatic Advantages, scars or strengths - use sparingly. It is possible to spend Drama Points for get 2Dd. Or for the Director to spend 1 tension dice for 2 additional Rd.
