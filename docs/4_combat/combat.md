@@ -75,7 +75,7 @@ Momentum is **passed to the winner** in a round of opposed rolls, unless a speci
 ## **Opposed Melee Rolls**
 
 Build a dice pool from Base, Resistance, and Drama dice;
-1. **Base pool** = attribute + skill + situational modifier + military life 
+1. **Base pool** = attribute + skill (capped by the attribute) + situational modifier + military life [todo should backgrounds be an option here, or does military life cover it?]
 2. **Resistance pool** = persistent penalties + situational modifiers + stance modifier
 3. **Drama pool** = risks, dramatic advantages or passions if applicable + stance modifier
 

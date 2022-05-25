@@ -75,14 +75,14 @@ For complex or co-operative tests, additional dice can be added to a pool from a
 ## Choice of Skill for the Test
 The Director can ask for a specific skill test or an Actor can request a skill test based on a specific skill.
 
-- Skills are specific...
-
-- Backgrounds for general cases...
+- Skills are specific, and combined with an appropriate attribute for a given test. The skill value is determined by the level of training and is capped by the appropriate attribute.
+- Where an actor doesn't have a specific skill a background can stand in.
 
 If no specific named skill available, backgrounds can be used in reflection of general experience.
-
 - Yes directly = 1 background for +1Bd, 2 for +2Bd, max of 3 for +3Bd
 - Kinda or indirectly = 1 background for +1Bd & 1Rd, max of 2 for 2Bd & 1Rd [TODO - should this be 2Rd]
+
+> E.g. An accomplished (skill 3) hunter with an Agility of 3 and Mental of 2, attempts to shoot a deer and lay snares for a rabbit. Shooting is based on Agility, and the actor has a combined skill & attribute of 6. Setting snares is based on Mental, and the actor has a combined skill & attribute of 4.
 
 ## *Levels of Difficulty*
 
@@ -96,7 +96,7 @@ Very Easy through formidable
 A simple unopposed test pits the skill of a person against the level of difficulty or resistance of a challenge.
 
 Build a dice pool from Base, Resistance, and Drama dice.
-1. **Base pool** = Attribute + Skill, or background
+1. **Base pool** = Attribute + Skill or background (capped by the attribute)
 2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers
 3. **Drama pool** = risks, dramatic advantages or passions applicable
 
@@ -106,7 +106,7 @@ The pools are rolled and the number of net successes is calculated. If two or mo
 A resisted skill test is used for where another person is being affected or influenced by the test, and so have a resistance to the skill. It is very similar to an unopposed skill test, with the addition of extra resistance from the targets stats or skills.
 
 Build a dice pool from Base, Resistance, and Drama dice.
-1. **Base pool** = Attribute + Skill, or background
+1. **Base pool** = Attribute + Skill or background (capped by the attribute)
 2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers + **the stat or skill of the target** in resistance
 3. **Drama pool** = risks, dramatic advantages or passions applicable
 
@@ -117,7 +117,7 @@ The pools are rolled and the number of net successes is calculated. If two or mo
 An opposed skill test is used when someone is actively engaged in attempting to win a contest of some form. Each party will build dice pools, roll and compare the results. The winner is the person with the highest number of net successes as long as the result is greater than two.
 
 Build a dice pool from Base, Resistance, and Drama dice.
-1. **Base pool** = attribute + skill, or background
+1. **Base pool** = attribute + skill or background  (capped by the attribute)
 2. **Resistance pool** = persistent penalties + situational modifiers
 3. **Drama pool** = risks, dramatic advantages or passions applicable
 
