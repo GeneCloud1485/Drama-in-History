@@ -85,6 +85,12 @@ The winner is the person with the highest number of successes, the number of suc
 
 ### 1. Base Pool
 #### Attribute + Skill
+Add the appropriate Attribute and Skill together to form the core of the Base Pool. An actor's skill is capped by their attribute.
+
+> E.g. Swinging a mace is based on the Physical attribute added to the Knightly weapon skill. A Knight with a Physical of 4 and mastery (+4) of his weapons would start his Base Dice Pool at 8.
+
+> If the knight trained to be an Expert in the weapons (+5), his skill would be capped at +4 by his Physical attribute, and his base pool would be 8.
+
 #### Situational Modifiers 
 
 | Beneficial | Modifier |
