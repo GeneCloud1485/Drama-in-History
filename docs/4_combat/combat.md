@@ -63,6 +63,8 @@ Participants who are unaware or surprised don't get a chance to prepare, and the
 - For Defend add weapon damage or shield value as **+nAd** (armor dice)
 - For Evade use **double Agility** rather than Agility & Skill
 - If the evader/defender wins the round, no blow lands in either direction
+- [TODO should this setup a chance to flee?] 
+- [TODO benefit in next round?]
 
 #### 5. Dramatic Stance (situational)
 > Benefits determined by the specific situation and/or dramatic advantage. These can expand the standard stances
@@ -189,6 +191,8 @@ The winner's level of success is the amount of Grit damage that is applied to th
 -   If the target has remaining Grit, the level of success is deducted from their current Grit
 -   If the target's Grit pool reaches zero, the remainder of the damage is added to Flesh damage. (round up)
 -   If the target has zero Grit remaining, all damage is transferred to Flesh damage
+
+[TODO up to weapon damage max or other limitations?]
 
 > _E.g. 3 levels of success are applied to the target's current Grit reducing it from 4 to 1_
 
@@ -324,7 +328,7 @@ Each split pool is resolved separately and the results applied simultaneously.
 > 
 > Fyrd #2 gets an unopposed attack on the warrior with 6Bd {5,5,3,2,1,1} and two levels of success. The warrior takes 2 points of Grit, and rolls his armor pool of 6Ad {6,6,2,2,2,1} which blocks both points of Flesh damage from the attack. The knock-back check indicates that the warrior is disadvantaged (2+3 vs warriors reduced Physical) in next round.
 
-> The second round, the warrior once again chooses to press his attack, although he is disadvantaged (4 - his 4 Agility) it doesn't impede him. The fyrd decides to Defend. The warrior has still 8Bd {6,6,6,6,3,3,1,1}+ 1Dd {1} vs the fyrd's 4Bd {5,3,3,1}, the warrior gets a critical success with four 6's, which counts the 6's twice, the 1 result on a Drama dice is a -1 for a net 7 vs 1 for the opponent to leave a level of success of 6.
+> The second round, the warrior once again chooses to press his attack, although he is disadvantaged (4 - his 4 Agility) it doesn't impede him. The fyrd decides to Defend. The warrior has still 8Bd {6,6,6,6,3,3,1,1}+ 1Dd {1} vs the fyrd's 4Bd {5,3,3,1}, the warrior gets a critical success with four 6's, which means he counts the 6's twice, the 1 result on a Drama dice is a -1 success for a net 7 vs 1 for the opponent to leave a level of success of 6.
 
 > The level of success is applied to Grit, passing 3 more through to Flesh along with the 2 from the weapon. The fyrd fought defensively so gets 3Ad + 2Ad for his weapon {6,3,2,2,1} blocking one point of Flesh damage. He takes a 4 point critical wound, requiring a test of courage which requires a roll of the Max Flesh Pool 7Bd {6,6,4,3,2,2,1} and 4Rd {5,3,3,1} for the wound he has just taken, the results being 1 success, he collapses to the ground with his wound bleeding copiously.
 
