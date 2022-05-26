@@ -8,14 +8,15 @@ layout: default
 [Back to the Index](/docs/index.md)
 
 # General Melee
-1. Joining the melee
-2. Establish Momentum
+1. Joining the Melee
+2. Declare Stance 
+	1. 1st Round Establish Momentum
 3. Opposed Skill Test
 4. Results of a Melee Round
-	1. Wounds
-	2. Knock-back
-	3. Momentum
-5. Repeat into new round
+	1. Deal with Wounds
+	2. Check for Knock-back
+	3. Confirm Momentum
+5. Repeat from step 2
 
 ## Joining the Melee
 How your actor joins melee is sometimes a choice and sometimes a reaction to a situation or circumstance.
@@ -25,37 +26,50 @@ In the short moment before a melee is joined each aware participant has a beat t
 They can choose to; 
 1. Prepare a dramatic action
 2. Call upon deeply held passion
+3. And then declare their opening stance in Actor rank order
 
-And then declare their stance;
+Joining the melee normally only happens in the opening rounds of an engagement. If combatants move around during combat the option can be selected again. An engaged opponent is considered as Standing.
+
+## Declare Stance
+Each round the combatants can choose their stance, which represents how aggressively or defensively they are fighting. The person with **momentum declares their stance second**, to provide them with a small tactical advantage.
+
+Choose from the following stances;
 1. Press Attack
 2. Stand
 3. Brace for the Fight
+4. Desperate Defend or Evade
+5. Dramatic Advantage Stance
 
 Participants who are unaware or surprised don't get a chance to prepare, and their stance is decided by circumstance - likely Stand.
 
 #### 1. Press Attack
-- Add 3 to Momentum
-- Plus **1Dd** and + **1Rd**
-- If they win the round, then + 1 to their knock-back attempt
-- If they lose the round, then their Agility is considered one point lower for the knock-back check
+- Add 2 to Momentum when joining a fight, no effect in subsequent rounds
+- Plus **1Dd**
+- If the round is won, then + 1 to knock-back attempts
+- If the round is lost, then Agility & Physical is considered one point lower for the knock-back check
 
 #### 2. Stand 
 - No benefits/penalties
 
 #### 3. Brace for the Fight
-- +**3Ad** (armor)
-- -1 from Momentum
-- If they lose the round, then their Physical & Agility is considered one point higher for the  knock-back test
-- If they win the round, then -2 from their knock-back attempt
+- Minus 2 from Momentum when joining a fight, no effect in subsequent rounds
+- Plus **1Ad** (armor) and **2Rd**
+- If the round is lost, then Physical & Agility are considered one point higher for a knock-back test
+- If the round is won, then -2 from knock-back attempts
 
-#### 4. Dramatic Stance (situational)
+#### 4. Desperate Defend or Evade
+- Minus 6 from Momentum when joining a fight, no effect in subsequent rounds
+- Plus **3Ad** (armor)
+- For Defend add weapon damage or shield value as **+nAd** (armor dice)
+- For Evade use **double Agility** rather than Agility & Skill
+- If the evader/defender wins the round, no blow lands in either direction
+
+#### 5. Dramatic Stance (situational)
 > Benefits determined by the specific situation and/or dramatic advantage. These can expand the standard stances
-
-Joining the melee normally only happens in the opening rounds of an engagement. If combatants move around during combat the option can be selected again. An engaged opponent is considered as Standing.
 
 [TODO courage and bravery in the face on an enemy]
 
-## Establishing Momentum
+## 1st Round Establishing Momentum
 Momentum tracks the ebb and flow of the upper hand in a conflict. Whoever has momentum will win ties in opposed rolls.
 
 For the 1st round of melee the momentum is determined by the highest **Current Grit** pool value + modifier from their stance.
@@ -69,11 +83,10 @@ For the 1st round of melee the momentum is determined by the highest **Current G
 
 > If the second farmer chooses to be more aggressive and Press the Attack, they would receive a +3 to their momentum score which means they would receive momentum. Farmer 1 with 7 and Farmer 2 with 9.
 
-Momentum is **passed to the winner** of the round, unless a specific action or risk is taken to 'grab' momentum.
-
-[TODO] The loser declares their pool decisions first = use of Military Life, split of pools and/or use of Advantages. This provides the winner the chance to adjust their strategy based on the slower person's choices.
+This step is skipped in subsequent rounds as Momentum is **passed to the winner** of the round, unless a specific action or risk is taken to 'grab' momentum. 
 
 ## **Opposed Melee Rolls**
+Each participants builds a dice pool, with whoever **has momentum going second**. This provides the person with momentum a small advantage of reading their opponent and responding to the allocation of military training dice or dramatic advantages.
 
 Build a dice pool from Base, Resistance, and Drama dice;
 1. **Base pool** = attribute + skill (capped by the attribute) + situational modifier + military Training [todo should backgrounds be an option here, or does military life cover it?]
@@ -272,6 +285,8 @@ A secondary consequence of melee, the loser must check to see if they are knocke
 ### Determining Momentum
 The winner of the rounds gains momentum for the next round of a melee.
 
+## Return to Declare Stance and repeat
+
 ---
 
 
@@ -313,42 +328,35 @@ A wound inflicted is the net results of the damage - successful defense results.
 
 | Armour | Defense Value |
 | :--- | :--- |
-| Cloak/Clothing | 1Ad|
-|Heavy Cloak | 2Ad |
-|Leather Cloak | 3Ad|
-|Leather Jack | 2Ad-3Ad |
-|Brigandine | 4Ad |
-| Leather Hood | 1Ad | 
-| Metal Helm | 2Ad |
+| Cloak/Clothing | 1 Ad|
+|Heavy Cloak | 2 Ad |
+|Leather Cloak | 3 Ad|
+|Leather Jack | 2 Ad-3 Ad |
+|Brigandine | 4 Ad |
+| Leather Hood | 1 Ad | 
+| Metal Helm | 2 Ad |
 
 | Armour | Defense Value |
 | :--- | :--- |
-|**Man-at-Arms** | 9Ad |
-|Arming Jack | 2Ad |
-|Breastplate | 4Ad |
-| Metal Helm | 2Ad |
-| ...Gauntlets | 1Ad |
+|**Man-at-Arms** | 8 Ad |
+|Arming Jack | 2 Ad |
+|Breastplate | 4 Ad |
+| Metal Helm | 2 Ad |
 
 | Armour | Defense Value |
 | :--- | :--- |
-|**Full Plate Armour** | 18Ad|
-|Arming Jack | 2Ad|
-|Breastplate | 4Ad|
-|Full Helm | 3Ad|
-|...Arms | 3Ad|
-|...Legs | 3Ad|
-|...Feet | 1Ad|
-|...Gauntlets |1Ad|
-|...Neck |1Ad|
+|**Full Plate Armour** | 16 Ad|
+|Arming Jack | 2 Ad|
+|Breastplate | 4 Ad|
+|Full Helm | 3 Ad|
+|...Arms | 3 Ad|
+|...Legs | 3 Ad|
 
 | Shields | Defense Value |
 | :--- | :--- |
-|Buckler| 3Ad|
-|Medium shield | 4Ad|
-|Large shield | 5Ad|
-
-
-Special case - Some or all of Military Life Training dice can be added in addition to any physical harness dice.
+|Buckler| 3 Ad|
+|Medium shield | 4 Ad|
+|Large shield | 5 Ad|
 
 Shields add a dice pattern match opportunity in the nBd pool which can trigger additional nAd additions.
 [TODO] dice pattern matches can improve the shield Ad
@@ -356,116 +364,8 @@ Shields add a dice pattern match opportunity in the nBd pool which can trigger a
 ---
 
 
-**Defensive Options**
 
-A number of options to improve the chances of surviving a combat, at a cost to offensive capabilities.
 
-**Fight Defensively**
-
-Use skill to focus on not taking Flesh damage. A defender can choose to allocate some or all of their base dice from a skill to be defensive rather than offensive, this equates to attempting to block Flesh damage rather than win the engagement. 
-
-_E.g. a wounded man is defending himself against an assailant. He switch all of his base dice into defensive dice to protect himself from another Flesh wound._
-
-_Defender P1, A2 with a remaining Grit 4 and a 2 pt flesh wound from Flesh 6_
-
-_Defender has Strike 5, as well as D2 from his heavy cloak and tunic, and 1 penalty_
-
-_Attacker has Sword 6 + 2R_
-
-_The ground is muddy and both suffer additional 2 penalties_
-
-_Attacker rolls; net 2 successes (an even number of successes leading to a full blow, the Sword will count as 3F)_
-
-_Defender rolls; net 3 successful defense rolls (7D with 3P)_
-
-_Attacker's net successes reduce the defender's Grit by 2, and the sword's 3F is fully blocked by the 3D successes._
-
-Advantages can only be use offensively, unless specifically stated. If advantage risk dice are rolled they can contribute to reducing the net success level. It is possible that the offensive risk dice rolled can win the outcome and deliver damage.
-
-When fighting multiple opponents, dice are allocated  against a specific attacker, unlike physical armour which is applied to all attacks. 
-
-Dice rolled on defense don't contribute to Critical Success or Failures.
-
-**Evade**
-
-Use a different non weapon agility skill to avoid wounds rather than fight with a weapon it is possible to try to evade an oncoming attack.
-
--   Roll normal opposed roll using the Evade skill
-
--   plus 2B for having momentum
--   plus defender's A if attempting to flee
-
--   If the defender's successes are greater than the attackers successes, it will be possible for the defender to dis-engage
--   Each successful evade = an additional armour dice for damage reduction
--   The defender can add their evade successes to the attackers for the purposes of determining a full or glancing blow (odd or even outcome)
-
-_E.g. Defender attempts to evade a cleaving blow from an attacker with a pole-axe._
-
-_Defender P1, A3 with basic evade of 5 and D4 and momentum_
-
-_Attacker with Strike skill of 6 + 2R + 2 Military Life as Risk dice_
-
-_Neither side has existing penalties_
-
-_Attacker rolls; 4 successes from 6 + 4R rolled_
-
-_Defender rolls; 3 successes from 7B + 1 defensive success from D6 rolled_
-
-_The defender counts their successes with the attackers to make the result odd, and cause a glancing blow_
-
-_Attackers net successes of 1 added with the 4 pts from the pole-axe reduces the defender's Grit to zero with 3 pts carrying 1 point over to Flesh, which is blocked by the defensive successes._
-
-**Actively Blocking**
-
-Use things to block blows to avoid taking damage. Similar to fighting defensively, the emphasis is on avoiding taking damage, but blocked blows can also block Grit damage as well as Flesh damage.
-
--   Add in base Physical attribute plus the defensive dice for the size and strength of the weapon, shield or items being used to block.
--   Forego any offensive roll, and roll only defensive dice (and penalty dice)
--   It is not possible to get a critical result on defensive dice rolls.
--   If the total successes + flesh damage is equal or greater than the defensive item/weapon value the items is knocked from the defender's hands or smashed.
--   The results of the defensive dice are applied to block any flesh damage 1st and then applied to block Grit.
-
-  
-
-Defensive values;
-
--   3X normal damage value
--   Improvised defensive objects' have a value based on the material they are made of and their size
--   Shields are 3X their defensive blocking value when actively blocking
-
-Item | Blocking Value
-:---| :---
-Dagger/Small Weapon| 3D
-Cudgel/Short Sword | 6D
-Sear/Sword/Axe | 9D
-Poleaxe|12D
-Buckler/Small Shield | 6D
-Medium Shield | 12D
-Large Shield | 15D
-Candlestick| 3D
-Log/Stave/Pitchfork | 6D
-Chair | 6D
-Chest/Barrel | 9D
-
-[TODO skill of getting shield into position?]
-
-_E.g. a desperate man grabs a chair to attempt to block blows from an attacker._
-
-_Defender P2, A1 with a chair (6D)_ 
-
-_Attacker Strike 5 + 2R + 1P with an axe_
-
-_Attacker rolls net 2 success, expecting to deliver 2 Grit + 3 Flesh. Since he rolled a '1' for a risk result he takes 1 point of Grit damage._
-
-_The net successes is equal and not greater than the defenders P attribute, so he is shaken but not knocked down._
-
-_Defender is lucky and rolls 4 successes from 8 dice to block the axe cleanly on the chair, saving himself from a Flesh wound and blocking 1 point of Grit with the last point of defense._ 
-
-_A chunk flies from the chair but it is still in the defender's hand and usable in a future round._
-
-  
-
-[TODO] - Advantage = bring shield into the fight while attacking = 2X?
 
 **Hiding in Terrain**
 
