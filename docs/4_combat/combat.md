@@ -89,8 +89,8 @@ This step is skipped in subsequent rounds as Momentum is **passed to the winner*
 Each participants builds a dice pool, with whoever **has momentum going second**. This provides the person with momentum a small advantage of reading their opponent and responding to the allocation of military training dice or dramatic advantages.
 
 Build a dice pool from Base, Resistance, and Drama dice;
-1. **Base pool** = attribute + skill (capped by the attribute) + situational modifier + military Training [todo should backgrounds be an option here, or does military life cover it?]
-2. **Resistance pool** = persistent penalties + situational modifiers + stance modifier
+1. **Base pool** = attribute + skill (capped by the attribute) + situational modifiers + military training (optional)
+2. **Resistance pool** = persistent penalties + situational modifiers + disadvantage + stance modifier
 3. **Drama pool** = risks, dramatic advantages or passions if applicable + stance modifier
 
 Pools are then rolled and the results calculated. Remember that critical hits will increase the number of successes.
@@ -187,12 +187,12 @@ There are two types of damage inflicted by the winner;
 ##### Receiving Grit Damage
 The winner's level of success is the amount of Grit damage that is applied to the loser. When a Grit pool is reduced to zero, further damage is done to the Flesh pool.
 -   If the target has remaining Grit, the level of success is deducted from their current Grit
--   If the target's Grit pool reaches zero, 50% of the remainder of the damage is added to Flesh damage. (round up)
--   If the target has zero Grit remaining, all damage is transferred to Flesh damage at 50% (round up)
+-   If the target's Grit pool reaches zero, the remainder of the damage is added to Flesh damage. (round up)
+-   If the target has zero Grit remaining, all damage is transferred to Flesh damage
 
 > _E.g. 3 levels of success are applied to the target's current Grit reducing it from 4 to 1_
 
->_Or 5 levels of success take the loser's Grit pool from 2 to 0, and the balance of 3 generates 2F flesh damage (3 divided by 2 round up)_ 
+>_Or 5 levels of success take the loser's Grit pool from 2 to 0, and the balance of 3 generates an additional 3F flesh damage 
 
 Note: When a Grit pool is reduced to zero, the actor adds a persistent penalty.
 See Recovery of Grit
@@ -293,13 +293,40 @@ The winner of the rounds gains momentum for the next round of a melee.
 [TODO dealing with multiple opponents]
 
 ## **Fighting Multiple Opponents**
-When fighting multiple opponents the dice pool can be split between opponents, or an opponent left unopposed.
+When fighting multiple opponents the an actor can choose to engage each of the opponents, or leave an opponent unopposed.
 
--   Split pool or leave one unopposed - min split of base dice = 1/3rd to avoid being unopposed
--   What happens with an unopposed attack = +2Bd?
--   Current penalty is divided as close to evenly as possible [TODO]
--   ?resolving momentum = based on winners or A sequence is effective tie with multiple winners
+- The **Base Pool is evenly split** (or as close as possible to even) between the opponents
+- If military experience points are applied to the Base Pool they can be applied to any opponents as the actor sees fit.
+- An unopposed opponent get +**2Bd**
+- Resistance pool is applied to each split
+	- Penalties, situational and stance modifiers apply to each attack
+- The Drama pool is allocated specifically to one opponent only, unless a unique Dramatic Advantage indicates differently
 
+Each split pool is resolved separately and the results applied simultaneously.
+
+> E.g. An accomplished and armored warrior (actor) with Physical of 3, and two points of military training is attacked by two unarmored members of the fyrd (cameo). The warrior has a base pool of 6Bd, which will split equally against each opponent. He decides to apply his military training to enhance his attack on one opponent, meaning his pool is split into two pools of 3Bd and 5Bd.
+
+> The Fyrd have Physical 2 and are trained in their weapons with base dice pools of 4Bd each.
+
+> The warrior also chooses to press his attack and the two fyrd choose to stand in the face of the experience warrior.
+
+> The warrior has the higher Grit Pool score, and wins momentum for the opening round. He receives a **1Dd** bonus from pressing his attack which he assigns to his 1st opponent, who also has the higher of his split pools.
+
+> The fight is happening on clear ground, and neither party has any persistent penalties to consider.
+
+> Fight 1: Warrior has 5Bd {6,3,2,1,1}+ 1Dd {5} vs his opponent with 4Bd {4,3,3,1} and Warrior wins with net Two levels of success, inflicting 2 Grit and 2 points of Flesh wound. The Fyrd opponent picks up a penalty for the 2F wound, and the knock-back check (2 levels of success + 3 Physical = vs 2 Physical + 3 Agility ) indicates that the fyrd #1 is knocked back and disadvantaged.
+
+> Fight 2: Warrior has 3Bd {4,2,1} vs 4Bd {6,2,1,1} has the fyrd #2 with a marginal win. The warrior takes 1 point of Grit, and then rolls his armor of 6Ad {5,4,4,3,2,2} which blocks 1 points of flesh damage, meaning he takes a 1 points flesh wound. The knock-back check (1 level of success + 2 physical = 3) compares to the warrior's lowest Physical or Agility modified by 1 due to his stance (meaning his attributes count at one point lower). His Physical of 3 counts as 2, and so he is off balance and disadvantaged into the next round.
+
+> Alternatively, the warrior could have focused all of his attack on the 1st opponent, trusting in his armor to protect him from the second's attack.
+
+> Warrior gets 8Bd {6,5,5,4,3,2,2,1}+ 1Dd {6,2} vs Fyrd #1 4Bd {4,3,1,1} = 4 levels of success. 4 Grit damage (3 as Grit and 1 passed to Flesh) plus 2+1 Flesh. The 3pt wound demands a courage test which the fyrd #1 fails, slumping to the ground.
+> 
+> Fyrd #2 gets an unopposed attack on the warrior with 6Bd {5,5,3,2,1,1} and two levels of success. The warrior takes 2 points of Grit, and rolls his armor pool of 6Ad {6,6,2,2,2,1} which blocks both points of Flesh damage from the attack. The knock-back check indicates that the warrior is disadvantaged (2+3 vs warriors reduced Physical) in next round.
+
+> The second round, the warrior once again chooses to press his attack, although he is disadvantaged (4 - his 4 Agility) it doesn't impede him. The fyrd decides to Defend. The warrior has still 8Bd {6,6,6,6,3,3,1,1}+ 1Dd {1} vs the fyrd's 4Bd {5,3,3,1}, the warrior gets a critical success with four 6's, which counts the 6's twice, the 1 result on a Drama dice is a -1 for a net 7 vs 1 for the opponent to leave a level of success of 6.
+
+> The level of success is applied to Grit, passing 3 more through to Flesh along with the 2 from the weapon. The fyrd fought defensively so gets 3Ad + 2Ad for his weapon {6,3,2,2,1} blocking one point of Flesh damage. He takes a 4 point critical wound, requiring a test of courage which requires a roll of the Max Flesh Pool 7Bd {6,6,4,3,2,2,1} and 4Rd {5,3,3,1} for the wound he has just taken, the results being 1 success, he collapses to the ground with his wound bleeding copiously.
 
 ## **Weapons**
 The use of weapons doesn't add dice to the opposed roll, but **opens up advantages and risk/reward opportunities**. The rating of each weapon is the Flesh damage that the weapon will do before adding any Grit damage from levels of success.
