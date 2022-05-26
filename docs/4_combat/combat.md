@@ -152,7 +152,7 @@ Add in the **1Dd** when an actor has adopted a press their attack stance.
 
 ## Outcome of an Opposed Melee Round
 - **Winner**: One party achieves two or more net successes and greater than the other person. The difference between the opposed net successes equals the level of success.
-	- **Marginal Win**: One party achieves exactly one net success, which is greater than the other party. This is a marginal win and inflicts limited amount of damage. [Optional, otherwise it would be a failure]
+	- **Marginal Win**: One party achieves exactly one net success, which is greater than the other party. This is a marginal win and inflicts limited amount of damage. Ignore the level of success, and apply a max of 1pt of Flesh damage, which can be blocked by Armor.
 	- **Loser with Critical Success**: If the loser's roll included a critical success, and still had less successes than the winner, they will inflict a limited amount of damage on the winner. [Optional]
 - **Draw**: Both parties the same number of two or more net successes, leading to a draw. A draw is resolved by who currently has momentum.
 	- **Marginal Draw**: Both parties have exactly one net success. The draw is resolved by who currently has momentum. [Optional, otherwise it would be a failure]
@@ -168,16 +168,13 @@ If one party has negative result, that is factored into the level of success dif
 The level of success determines the amount of additional damage that is inflicted on the loser.
 
 #### Dramatic Outcome Patterns (passive bonuses)
-[TODO bonus pattern matching in the pool for special outcomes]
-
-Based on the actor's **weapons or dramatic advantages**
-- Not modifying the result of the dice pool result
+Additional outcomes are possible by matching dice patterns in the base pool results. Based on the actor's **weapons or dramatic advantages**
+- Not modifying the result of the main dice pool result
 - If win then...
 - If lose then...
 - If draw then...
 
-! Shields and defensive weapons use patterns to boost their nAd rolls [todo]
-
+Shields and defensive weapons use patterns to boost their nAd rolls or additional outcomes [see shields]
 
 ## Results of a Melee Round
 ### Wounds: Calculating Damage
@@ -189,10 +186,8 @@ There are two types of damage inflicted by the winner;
 ##### Receiving Grit Damage
 The winner's level of success is the amount of Grit damage that is applied to the loser. When a Grit pool is reduced to zero, further damage is done to the Flesh pool.
 -   If the target has remaining Grit, the level of success is deducted from their current Grit
--   If the target's Grit pool reaches zero, the remainder of the damage is added to Flesh damage. (round up)
--   If the target has zero Grit remaining, all damage is transferred to Flesh damage
-
-[TODO up to weapon damage max or other limitations?]
+-   If the target's Grit pool reaches zero, the remainder of the damage is added to Flesh damage, up to a maximum of 3 points of Flesh.
+-   If the target has zero Grit remaining, the balance is transferred to Flesh damage up to a maximum of 3 Flesh.
 
 > _E.g. 3 levels of success are applied to the target's current Grit reducing it from 4 to 1_
 
@@ -330,7 +325,7 @@ Each split pool is resolved separately and the results applied simultaneously.
 
 > The second round, the warrior once again chooses to press his attack, although he is disadvantaged (4 - his 4 Agility) it doesn't impede him. The fyrd decides to Defend. The warrior has still 8Bd {6,6,6,6,3,3,1,1}+ 1Dd {1} vs the fyrd's 4Bd {5,3,3,1}, the warrior gets a critical success with four 6's, which means he counts the 6's twice, the 1 result on a Drama dice is a -1 success for a net 7 vs 1 for the opponent to leave a level of success of 6.
 
-> The level of success is applied to Grit, passing 3 more through to Flesh along with the 2 from the weapon. The fyrd fought defensively so gets 3Ad + 2Ad for his weapon {6,3,2,2,1} blocking one point of Flesh damage. He takes a 4 point critical wound, requiring a test of courage which requires a roll of the Max Flesh Pool 7Bd {6,6,4,3,2,2,1} and 4Rd {5,3,3,1} for the wound he has just taken, the results being 1 success, he collapses to the ground with his wound bleeding copiously.
+> The level of success is applied to Grit, passing the maximum of 3 through to Flesh along with the 2F from the weapon. The fyrd fought defensively so gets 3Ad + 2Ad for his weapon {6,3,2,2,1} blocking one point of Flesh damage. He takes a 4 point critical wound, requiring a test of courage which requires a roll of the Max Flesh Pool 7Bd {6,6,4,3,2,2,1} and 4Rd {5,3,3,1} for the wound he has just taken, the results being a net of 1 success, he collapses to the ground with his wound bleeding copiously.
 
 ## **Weapons**
 The use of weapons doesn't add dice to the opposed roll, but **opens up advantages and risk/reward opportunities**. The rating of each weapon is the Flesh damage that the weapon will do before adding any Grit damage from levels of success.
@@ -338,7 +333,7 @@ The use of weapons doesn't add dice to the opposed roll, but **opens up advantag
 | Weapon Class | Examples | Flesh Damage | 
 | :--- | :--- | :--- |
 | Unarmed or Improvised | Fist, Tankard, Hilt of Dagger | 0F | 
-| Small | Dagger | 1F | 
+| Small | Dagger, Club | 1F | 
 | Medium | Short Sword, Hunting Bow | 2F |
 | Large | Spear, Axe, Sword, Long Bow or Crossbow | 3F |
 | Extra Large | Poleax, Lance | 4F |
@@ -385,95 +380,58 @@ A wound inflicted is the net results of the damage - successful defense results.
 
 | Shields | Defense Value |
 | :--- | :--- |
+|Main Gauge or Improvised shield | 2 Ad |
 |Buckler| 3 Ad|
 |Medium shield | 4 Ad|
 |Large shield | 5 Ad|
 
-Shields add a dice pattern match opportunity in the nBd pool which can trigger additional nAd additions.
-[TODO] dice pattern matches can improve the shield Ad
+Shields add a dice pattern match opportunity in the **base** **nBd pool** which can trigger additional actions or armor dice.
+- Any Triple adds 3Ad
+- Any Quad adds Shield Bash delivering 1/2/3 Grit damage to the opponent, regardless of if the actor wins the round.
 
 ---
 
 
 
 
-
+[TODO]
 **Hiding in Terrain**
 
 hit location? = additional random on top of the roll which doesn't seem quite right...
 
 Additional defensive dice?
 
-**Ranged Attacks**
+# **Ranged Attacks**
+Ranged combat is resolved with a form of Unopposed Skill Test.
 
-Ranged combat is resolved by using a form of opposed test that tests the attackers positive dice with penalty dice based on the challenge of the shot against the defenders evasive pool (if any).
+Build a dice pool from Base, Resistance, and Drama dice.
+1. **Base pool** = Attribute + Skill or background (capped by the attribute)
+2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers
+3. **Drama pool** = risks, dramatic advantages or passions applicable
 
-If the defender is not aware that they are a target or don't have an option to take evasive action, they will not get a defense pool. The test is still considered opposed and the attacker is only hampered by the situational modifiers.
+### **Situational modifiers for Ranged Attacks**
 
--   If the target is an inanimate object or unaware of the attacker's shot, the test is effectively an unopposed roll
--   If the target is aware, active and not full engaged with something else, they can oppose the roll with their Evade
-
-**Sequence;**
-
-Establish if the defender is aware or has the ability to evade or take cover.
-
--   The opposed pools are generally not symmetrically sized
--   The attackers pool is created as normal including all situational modifiers for ranged combat
-
-_E.g._ 
-
-_Attacker is at mid range with a Bow skill of 7D + 2R for Called Shot_
-
-_Plus 2D for Military Life Training_
-
-_Minus 4P for range, 2P for wind and 2P for moving target and 2P for crouching target_
-
-_Pools: 7D 4R 10P >> rolling 5 successes and -3 penalty successes for a net 2_
-
--   The defenders pool is based on Evade + advantages + penalties + any situational modifiers
-
-_E.g._ 
-
-_Defenders has Evade of 4D_
-
-_Plus 2P for muddy footing and 1P for penalty/stress_
-
-_Adopted a shielded positioned 4 armour, in addition to the 8 armour points_
-
-_Pools: 4D 0R 3P and 12A >> 0 successes with -2 from penalties and 4 blocking_
-
-Taking cover can use hit location to help resolve
-
-**Ranged attack specific situational modifiers;**
-
-|Situation | 0 | 2P | 4P | 6P | 8P |
+|Situation | 0 | 2 Rd | 4 Rd | 6 Rd | 8 Rd |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Range| PB |Close| Mid | Long| Far|
 |Visibility| Clear | Mist/Glare | Rain/Dusk | Fog/Near Dark| Dark|
 |Wind| None| Light|Modest | Strong| Storm|
-|Target Move| Stationary| Walk | Dash| Run | Gallop|
-|Size of Target||Head|Bull's Eye|||
+|Target Move| Stationary| Walk/Moving| Dash| Run | Gallop|
+|Size of Target||Small Target|Head|Bull's Eye|
 
-* Range vs weapon capability; close 4P, mid 6P, long 8P and far 10P
+|Situation | +2 Bd |
+| :--- | :--- | 
+| Size bonus | vs Large target |
+| Preparation |Braced|
+| | Aiming for a turn|
 
-* Visibility; normal 0, smoke/mist/sunny 2P, rain/dawn/twilight 4P, snow/fog/near darkness 6P
+### **Results of Ranged Combat**
+The results of a ranged attack are resolved just like melee;
+- Net two plus successes = Win, calculate the level of success as net successes minus two, plus the weapon damage.
+- Net one success = Marginal Win, apply a max of 1pt of Flesh damage with no level of success.
+- Zero or less success = Miss
 
-* Wind penalty; modest effect 2P, strong wind 4P, significant wind 6P
-
-* Target movement speed; walk/moving 2P, quick moving 4P, fast moving 6P, charging horse 8P
-
-* Small target (half sized) 4P
-
--   Size bonus; large target provides attacker a bonus of 2P
-
--   Prepared shot +2B; braced aim +2B
-
-**Results of Ranged Combat**
-
--   If attacker wins the opposed role = hit with normal damage rules - even hits full and odds hit with 1
--   If defender wins = miss
--   Attacker applies critical hits as normal
--   Defender critical result has no effect
+> E.g. An accomplished archer with Agl 3, aiming before shooting at a deer walking in light woodland has a skill + attribute of 6Bd + 2Bd for aiming {6,5,5,4,4,2,1,1} + 4Rd for the woods and moving target {4,3,1,1} achieving a net 1 success and a marginal win. The shot wings the deer, inflicting 1F wound... which sends it racing into the trees and out of sight.
 
 # Mounted Combat
 - Additional knock-back
