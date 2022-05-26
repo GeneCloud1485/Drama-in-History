@@ -15,6 +15,7 @@ layout: default
 	1. Wounds
 	2. Knock-back
 	3. Momentum
+5. Repeat into new round
 
 ## Joining the Melee
 How your actor joins melee is sometimes a choice and sometimes a reaction to a situation or circumstance.
@@ -514,21 +515,13 @@ Taking cover can use hit location to help resolve
 
 **Ranged attack specific situational modifiers;**
 
-Situation | 0 | 2P | 4P | 6P | 8P 
-
---|--|--|--|--|--
-
-Range| PB |Close| Mid | Long| Far
-
-Visibility| Clear | Mist/Glare | Rain/Dusk | Fog/Near Dark| Dark
-
-Wind| None| Light|Modest | Strong| Storm
-
-Target Move| Stationary| Walk | Dash| Run | Gallop
-
-Size of Target|Adult|Child|Shield|Head|Bull's Eye
-
-  
+|Situation | 0 | 2P | 4P | 6P | 8P |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Range| PB |Close| Mid | Long| Far|
+|Visibility| Clear | Mist/Glare | Rain/Dusk | Fog/Near Dark| Dark|
+|Wind| None| Light|Modest | Strong| Storm|
+|Target Move| Stationary| Walk | Dash| Run | Gallop|
+|Size of Target||Head|Bull's Eye|||
 
 * Range vs weapon capability; close 4P, mid 6P, long 8P and far 10P
 
