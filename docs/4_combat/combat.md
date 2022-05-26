@@ -34,7 +34,7 @@ Participants who are unaware or surprised don't get a chance to prepare, and the
 
 #### 1. Press Attack
 - Add 3 to Momentum
-- + 1Dd and + 1Rd
+- Plus **1Dd** and + **1Rd**
 - If they win the round, then + 1 to their knock-back attempt
 - If they lose the round, then their Agility is considered one point lower for the knock-back check
 
@@ -42,7 +42,7 @@ Participants who are unaware or surprised don't get a chance to prepare, and the
 - No benefits/penalties
 
 #### 3. Brace for the Fight
-- +3Ad (armor)
+- +**3Ad** (armor)
 - -1 from Momentum
 - If they lose the round, then their Physical & Agility is considered one point higher for the  knock-back test
 - If they win the round, then -2 from their knock-back attempt
@@ -68,14 +68,14 @@ For the 1st round of melee the momentum is determined by the highest **Current G
 
 > If the second farmer chooses to be more aggressive and Press the Attack, they would receive a +3 to their momentum score which means they would receive momentum. Farmer 1 with 7 and Farmer 2 with 9.
 
-Momentum is **passed to the winner** in a round of opposed rolls, unless a specific action or risk is taken to 'grab' momentum.
+Momentum is **passed to the winner** of the round, unless a specific action or risk is taken to 'grab' momentum.
 
 [TODO] The loser declares their pool decisions first = use of Military Life, split of pools and/or use of Advantages. This provides the winner the chance to adjust their strategy based on the slower person's choices.
 
 ## **Opposed Melee Rolls**
 
 Build a dice pool from Base, Resistance, and Drama dice;
-1. **Base pool** = attribute + skill (capped by the attribute) + situational modifier + military life [todo should backgrounds be an option here, or does military life cover it?]
+1. **Base pool** = attribute + skill (capped by the attribute) + situational modifier + military Training [todo should backgrounds be an option here, or does military life cover it?]
 2. **Resistance pool** = persistent penalties + situational modifiers + stance modifier
 3. **Drama pool** = risks, dramatic advantages or passions if applicable + stance modifier
 
@@ -83,32 +83,52 @@ Pools are then rolled and the results calculated. Remember that critical hits wi
 
 The winner is the person with the highest number of successes, the number of successes must be TWO or more to be a successful 'hit'.  Tied results are resolved by whoever has momentum at this point.
 
-#### Example Situational Modifier 
+### 1. Base Pool
+#### Attribute + Skill
+#### Situational Modifiers 
 
-| Situation | Modifier | Beneficial | Modifier |
-| :--- | :---: | :--- | :---: |
-| Poor footing | 2Rd |  | |
-| Bad weather | 2/4Rd | | |
-| Dusk | 2Rd | | |
-| Darkness | 4Rd | | |
-| Into Narrow space | 2Rd | From Defensive space | 2Bd |
-| Height disadvantage | 2Rd | Height Advantage | 2Bd |
+| Beneficial | Modifier |
+| :--- | :---: |
+| From Defensive space | 2Bd |
+| Height Advantage | 2Bd |
 
 #### **Military Training Dice**
-The benefit of backgrounds which count as military training is to provide an additional pool of dice which an be used as nBd or nAd. Each background provides 1 die to the pool.
+The benefit of backgrounds which count as military training is to provide an additional pool of dice which an be used as **nBd** base dice or **nAd** armour dice. Each background provides 1 die to a pool.
 
-[TODO]Some or all of the Military Life dice can be added in addition to a base skill. Any remaining Military Life dice can be applied as defensive harness/armor dice. 
+>E.g. a squire with 2 backgrounds in Military Life will have 2 dice in their military training pool.
 
-[TODO]The dice can be applied as base in attack or armour dice in defense.
+### 2. Resistance Pool
+#### Persistent Penalties
+Add in the actor's current persistent penalty pool.
 
->_E.g. a squire with 2 backgrounds in Military Life will have 2 dice in their military training pool.
+> E.g. a man-at-arms is carrying 2 penalty dice. One as a result of a wound he sustained earlier in they day, and another for failing a Test of Composure before the battle. The 2 penalty dice are added into the resistance pool to reflect his distraction and weakened state.
 
-#### Declaring Dramatic Actions
+#### Situational Modifier
+Add in any Resistance dice to reflect the difficult of the current situation.
+
+| Situation | Modifier |
+| :--- | :---: |
+| Poor footing | 2Rd |  
+| Bad weather | 2/4Rd | 
+| Dusk | 2Rd | 
+| Darkness | 4Rd | 
+| Into Narrow space | 2Rd |
+| Height disadvantage | 2Rd |
+
+#### Stance Modifiers
+Add in the **1Rd** when an actor has adopted a press their attack stance.
+
+### 3. Drama Pool
+#### Declaring Dramatic Actions or Passions
 [TODO]
 - Declaring passions - no Drama Point cost
 - Declaring dramatic actions - spending Drama Points
 
-### Outcome of an Opposed Melee Round
+#### Stand Modifiers
+Add in the **1Dd** when an actor has adopted a press their attack stance.
+
+
+## Outcome of an Opposed Melee Round
 - **Winner**: One party achieves two or more net successes and greater than the other person. The difference between the opposed net successes equals the level of success.
 	- **Marginal Win**: One party achieves exactly one net success, which is greater than the other party. This is a marginal win and inflicts limited amount of damage. [Optional, otherwise it would be a failure]
 	- **Loser with Critical Success**: If the loser's roll included a critical success, and still had less successes than the winner, they will inflict a limited amount of damage on the winner. [Optional]
