@@ -288,9 +288,6 @@ The winner of the rounds gains momentum for the next round of a melee.
 
 ---
 
-
-[TODO dealing with multiple opponents]
-
 ## **Fighting Multiple Opponents**
 When fighting multiple opponents the an actor can choose to engage each of the opponents, or leave an opponent unopposed.
 
@@ -391,16 +388,6 @@ Shields add a dice pattern match opportunity in the **base** **nBd pool** which 
 
 ---
 
-
-
-
-[TODO]
-**Hiding in Terrain**
-
-hit location? = additional random on top of the roll which doesn't seem quite right...
-
-Additional defensive dice?
-
 # **Ranged Attacks**
 Ranged combat is resolved with a form of Unopposed Skill Test.
 
@@ -433,16 +420,35 @@ The results of a ranged attack are resolved just like melee;
 
 > E.g. An accomplished archer with Agl 3, aiming before shooting at a deer walking in light woodland has a skill + attribute of 6Bd + 2Bd for aiming {6,5,5,4,4,2,1,1} + 4Rd for the woods and moving target {4,3,1,1} achieving a net 1 success and a marginal win. The shot wings the deer, inflicting 1F wound... which sends it racing into the trees and out of sight.
 
+
+
+---
+# ==WIP SECTION==
+
+
 # Mounted Combat
-- Additional knock-back
+- Additional knock-back - force of horse
+- Variable horse size
+- Horse panic
+- Attacking horse
+- Shield/armor applied to the horse if attacked from the correct side
 - Charge available
 - Height?
 - Horse attack
 - Knocked off
 - Long weapons
-- 
+- Pulled from horse
+
+Skill capped by Ride skill
 
 # Duels 3.2.1
+
+[TODO]
+**Hiding in Terrain**
+
+hit location? = additional random on top of the roll which doesn't seem quite right...
+
+Additional defensive dice?
 
 # Fighting in Buildings/Castles
 

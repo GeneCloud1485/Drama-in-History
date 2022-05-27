@@ -253,8 +253,6 @@ Can be both a reaction and a pre test to establish the tone for RP
 
 A test of composure is called when the character needs to keep their cool, deal with social status pressure, contain their anger or passion, deal with feelings of uncertainty or personal struggles, strange atmospheres, or outright fear.
 
-
-
 These are unopposed single tests and are different than a social contest, the outcome of a composure check confirms the persons confidence in dealing with a situation and can apply penalties if failed. 
 
 [TODO] - how to simplify composure into skill checks like this?
