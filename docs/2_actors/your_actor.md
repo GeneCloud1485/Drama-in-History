@@ -72,6 +72,10 @@ See Drama Points for more information on the use of the currency.
 # Consider the Setting
 ...
 
+[TODO each setting will adapt and tweak the backgrounds, age bands and skills]
+
+...
+
 # Age Bands
 For simplicity actor's age is represented as a band rather than a specific age. The age bands are a way to summarize the actor's life, experiences and skills that they have developed.
 
@@ -99,6 +103,7 @@ The age ranges can change depending on the era of the game, but the names of the
 |Elderly|(60+)|(65+)|(75+)|
 
 # Defining Your Actor
+[TODO - explanation of sequence here...]
 1. Choose some key factors that made up your actor's formative years.
 2. Establish their initial Boon & Flaw
 3. Choose a favored and dis-favored attribute
