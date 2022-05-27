@@ -1,6 +1,6 @@
 
 
-## Landing page...
+# Drama in History RPG Rules
 > The **Drama in History** rules provide guidelines on running low fantasy, historically inspired, drama or horror games. They are focused as much on people, social relationships and investigations as physical conflicts.
 
 ![image ><](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg/300px-Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg)
