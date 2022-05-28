@@ -9,6 +9,7 @@ layout: default
 A lot of skills are shared across different historical settings, but some skills and knowledge are era specific. These lists are intended as a guideline and there is no restriction on expanding the lists.
 
 # Common Skills
+
 | Common Skill | Suggested Attribute(s) | Description |
 | :---|:--- |:--- |
 | Awareness | Mental | General observation | 
@@ -19,7 +20,7 @@ A lot of skills are shared across different historical settings, but some skills
 | Dancing | Agl | Ability to take part in common country dancing forms. |
 | Flatter or Flirt | Soc | Flattering, flirting or empathizing to achieve an outcome. |
 | Folk Lore | Soc | Knowledge of stories, tales and folk wisdom. |
-| Hunting | Men or Agl | Both the act of hunting, fishing or trapping as well knowledge of the methods and practices appropriate to the quarry.|
+| Hunting | Men or Agl | Both the act of hunting, fishing or trapping, and practiced at the common methods appropriate to the quarry and the era.|
 | Insight | Social | An impression or judgement on someone or a situation, formed by instinct. |
 | Life or Bluff | Soc ^ Men | Tell a lie and be believed, or bluff and fast talk you way through a situation. |
 | Natural Law | Men | A more academic understanding of how the world works. |
@@ -32,6 +33,7 @@ A lot of skills are shared across different historical settings, but some skills
 | Strike | Phy | A non-military 'hit' with a weapon to cause damage. |
 | Local History (place) | Men | Localized knowledge gained from living somewhere. |
 | Evade | Agl | Attempt to avoid being hit by something or someone. |
+
 # Late Medieval 
 [Reference Sheet](https://docs.google.com/spreadsheets/d/1rtYb2UpKtlO6_eGEjIrCoQXj27ivoJ3crSifqIi_HMU/edit?usp=sharing)
 
