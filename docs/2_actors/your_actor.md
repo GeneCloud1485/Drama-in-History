@@ -229,11 +229,14 @@ Skill points should be spent on skills which are reasonably associated with the 
 Training in skills is tracked at five levels; untrained, training, accomplished, master and expert. An actor must spent points to move from one training level to the next level.
 
 ### Points Required to Gain Training in Skills
-- Untrained 0Bd
-- Trained +2Bd
-- Accomplished +3Bd
-- Master +4Bd
-- Expert +5Bd
+
+| Level of Training | Cost | Cumulative Cost | Benefit |
+| :--- | :---: | :---: | :---:|
+| Untrained | 0 | 0 | 0 Bd |
+| Trained|  +2 | 2 | 2 Bd |
+|Accomplished | +3 | 5 | 3 Bd |
+| Master | +4 | 9 | 4 Bd |
+|Expert | +5 | 14 | 5 Bd | 
 
 If an age band doesn't provide enough points to elevate a skill to the next level, you can record the progress towards the next skill level and complete it in the next age band.
 
