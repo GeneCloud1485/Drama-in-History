@@ -242,7 +242,7 @@ If an age band doesn't provide enough points to elevate a skill to the next leve
 
 
 ### Example Skill Lists
-[TODO]
+[Link to Example Skill Lists](/docs/2_actors/skill_list.md)
 
 
 ## 6. Adding Personality

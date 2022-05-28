@@ -77,3 +77,7 @@ In game terms a vignette can take many forms, generally used as a stand-alone sc
 ## Foreshadowing
 
 ## Challenge & Struggle
+
+## Running investigations
+
+

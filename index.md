@@ -10,14 +10,16 @@ This is a **game about people**. Inspired by drama, tragedy and romance.
 
 It is a **role-playing game**.  The cast of actors in the game have personality traits, detailed backgrounds with meaningful bonds to help bring them to life and connect them with the world.
 
-It is a **shared story**. It plays out in the minds of the players, where they look for dramatic scenes to add to their shared world.
+It is a **shared curated story**. It plays out in the minds of the players, where they look for dramatic scenes to add to their shared world. The director curates the story, runs the cast and directs the scenes.
 
-**Drawing upon history**. History is rich, and full of drama. Be inspired by historical fiction or TV. It shouldn't seek to be a historical simulation. It is your history, through the lens of your actors.
+It should **draw upon** rather than be tied to historical accuracy. History is rich, and full of drama. Let historical fiction or TV drama be your inspiration. It is your version of history, through the lens of your actors.
 
-**Life isn't simple**. Expect games about people to be complex, emotional and providing dramatic struggles. Rarely should decisions be black or white.
+As **life isn't simple**, expect games about people to get complex, emotional and provide dramatic struggle and choice. Rarely should decisions be black or white.
 
 ## Assumptions
-This won't be your first role-playing game. You are familiar with the common principles of role-playing games. And won't be phased by building a dice pool rather than a single die roll. And you will find creative inspiration by 'reading the pool' in the dice results. 
+This won't be your first role-playing game. You are familiar with the common principles of role-playing games. In this game the GM is called the Director and all players and NPCs are called Actors.
+
+And won't be phased by building a dice pool rather than a single die roll. And you will find creative inspiration by 'reading the pool' in the dice results. 
 
 You are interested in real world history, but are unlikely to be a world expert in a given period. That shouldn't be a barrier to playing, although it can be a catalyst for you to immerse yourself into a setting more deeply.
 
@@ -27,7 +29,7 @@ The core game system is flexible, and can be adapted to work with many different
 
 The core rules will be a living SRD available for free. Hopefully we can grow and refine the game together.
 
-There are opportunities for specific rules and details related to an era which are not covered in the core rules, some will be added with specific settings and sandboxes expansions.
+There are opportunities for specific rules and details related to an era which are not covered in the core rules, some will be added with specific settings and sandboxes expansions. The leading version has been developed for a late medieval period.
 
 ## Index
 1. [Underlying Concepts](/docs/1_concepts/1.0_concepts.md)
