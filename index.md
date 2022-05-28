@@ -16,6 +16,8 @@ It should **draw upon** rather than be tied to historical accuracy. History is r
 
 As **life isn't simple**, expect games about people to get complex, emotional and provide dramatic struggle and choice. Rarely should decisions be black or white.
 
+For a game that aims to shine a light on people, it works best with smaller groups of players, 3-5 inc the director seems ideal. And to allow plenty of freedom and player led direction, sandbox style games are a good fit.
+
 ## Assumptions
 This won't be your first role-playing game. You are familiar with the common principles of role-playing games. In this game the GM is called the Director and all players and NPCs are called Actors.
 
@@ -23,7 +25,7 @@ And won't be phased by building a dice pool rather than a single die roll. And y
 
 You are interested in real world history, but are unlikely to be a world expert in a given period. That shouldn't be a barrier to playing, although it can be a catalyst for you to immerse yourself into a setting more deeply.
 
-You are willing to improvise, filling in the gas where needed, saying 'yes... and', being generous to the group's creativity and looking for interesting drama, challenge and struggle in scenes.
+You are willing to improvise, filling in the gaps where needed, saying 'yes... and', being generous to the group's creativity and looking for interesting drama, challenge and struggle in scenes.
 
 The core game system is flexible, and can be adapted to work with many different eras, settings and technology levels. While technology and culture changes over time, underneath it all we are human and share many of the same traits across the generations.
 
