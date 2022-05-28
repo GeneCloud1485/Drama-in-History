@@ -237,6 +237,11 @@ Training in skills is tracked at five levels; untrained, training, accomplished,
 
 If an age band doesn't provide enough points to elevate a skill to the next level, you can record the progress towards the next skill level and complete it in the next age band.
 
+
+### Example Skill Lists
+[TODO]
+
+
 ## 6. Adding Personality
 People are complex and varied, capturing and describing their personality and motivations is done through a matrix of definitions.
 
