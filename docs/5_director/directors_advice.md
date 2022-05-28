@@ -3,6 +3,8 @@ title: Your Actor
 layout: default
 ---
 
+[Back to the Index](https://genecloud1485.github.io/Drama-in-History/)
+
 # Director's Advice
 
 

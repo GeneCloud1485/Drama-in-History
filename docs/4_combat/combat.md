@@ -5,7 +5,7 @@ layout: default
 
 # Combat - A Deadly Opposed Test 
 
-[Back to the Index](/docs/index.md)
+[Back to the Index](https://genecloud1485.github.io/Drama-in-History/)
 
 # General Melee
 1. Joining the Melee

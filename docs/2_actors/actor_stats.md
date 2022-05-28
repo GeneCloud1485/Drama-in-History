@@ -148,3 +148,5 @@ Social Status is based on a character's family status at birth, their estate and
 [TODO add example social status table]
 
 ---
+[Creating Your Actor](/docs/2_actors/creating_actor.md)
+

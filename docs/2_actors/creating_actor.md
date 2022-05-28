@@ -13,7 +13,7 @@ layout: default
 4. Decide on the actor's **current age** and background
 5. Work through the **actor's past** up to their current age
 
-# Formative Years
+# 1. Formative Years
 The 1st two age bands, baby & child, which take your actor through to age 10. This will deal with your family situation and early years, customized to be in keeping with the game setting, period, and Director's guidance.
 
 1. Choose a family context - father & mother's position, status, standing, relative wealth and family outline.
@@ -29,7 +29,7 @@ The 1st two age bands, baby & child, which take your actor through to age 10. Th
 
 > E.g. 3 + 2Dd {4,2} = 4 net successes. Allocated 1 to Physical, none to Agility, 1 to Mental, and 2 to Social
 
-# Boons & Flaws
+# 2. Boons & Flaws
 Each actor has inherent boons or flaws which could for formative factors in their life story. 
 
 ## Boons
@@ -60,24 +60,24 @@ Roll 2d6 for a Flaw
 
 Adjust or adapt to fit an actor's story if the Director agrees.
 
-# Favored and Disfavored Attribute
+# 3. Favored and Disfavored Attribute
 Choose one of the four attributes to be favored and one which is dis-favored. 
 A favored attribute is easier to raise to a higher value, and a dis-favored attribute is harder to raise to a higher value.
 [[3. Core Attributes]]
 
-# Current Age & Background
+# 4. Current Age & Background
 
-# An Actor's Past
+# 5. An Actor's Past
 To develop your actor's background follow each of the following steps for **each of the age bands up to their current one**. Starting with the age band after 'Child' up to the current age band, follow these steps;
-1.  Roll for the addition or loss of core attribute points
-2. Assign these points, remembering to take into account your favored and dis-favored attributes
-3. Decide on a background
-4. Calculate the skill points
-5. Spend those skill points on skill
-6. Decide if there are any major or narrative events which happened during this period, generate bonds, traits, dramatic advantages or create scars or strengths accordingly.
-7. Agree on their current situation, occupation and location. Use this to determine their **starting resources** including their social status.
+A.  Roll for the addition or loss of core attribute points
+B. Assign these points, remembering to take into account your favored and dis-favored attributes
+C. Decide on a background
+D. Calculate the skill points
+E. Spend those skill points on skill
+F. Decide if there are any major or narrative events which happened during this period, generate bonds, traits, dramatic advantages or create scars or strengths accordingly.
+G. Agree on their current situation, occupation and location. Use this to determine their **starting resources** including their social status.
 
-## 1.  Additional Attribute Points
+## A.  Additional Attribute Points
 
 |Age Band|Which Attributes|Fixed|Risk|Base|Aging P or A|Age M or S|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -92,7 +92,7 @@ To develop your actor's background follow each of the following steps for **each
 |Aged|MS|0|0|1Bd|4Rd|2Rd|
 |Elderly| | | | |4Rd|4Rd|
 
-## 2. Assign Point to Attributes
+## B. Assign Point to Attributes
 Costs to increase an attribute by a point
 
 |Normal| Favored | Dis-favored|
@@ -100,13 +100,13 @@ Costs to increase an attribute by a point
 | 1-4 = 1 pt | 1-5 = 1pt | 1-3 = 1 pt |
 | 5+ = 2 pts | 6+ = 2 pts | 4+ = 2 pts |
 
-## 3. Decide on a Background for the Age Band
+## C. Decide on a Background for the Age Band
 For each Age Band choose how your Actor spent the focus of their time during this Age Band.
 
 ### Background
 A background provides a summary of the main occupation or emphasis of a period of time in the actor's past.
 
-## 4. Calculate Skill Points & Skills Available
+## D. Calculate Skill Points & Skills Available
 Everyone can learn, practice or improve their training level in common skills, no particular background situation is required to progress. Each age band provides **five skill points** to develop common skills.
 
 Depending on the setting, era and available education will determine how many additional skill points are available to an actor during a period of time reflected as an age band. An **additional five skills points** are available to spend on vocational or specific or knowledge skills related to the background.
@@ -125,7 +125,7 @@ Up to **two 'academic' age bands** can be spent in intense study during an Actor
 
 > E.g. An actor in the prime of their life attends university, they will receive 5 common skill points, 5 knowledge or specialist skill points and 5 knowledge skill points from academic study.
 
-## 5. Spend Skill Points on Skills
+## E. Spend Skill Points on Skills
 Skill points should be spent on skills which are reasonably associated with the background, opportunities and the Actor's career path(s). An amount of flexibility and freedom can be allowed here, following the spirit of developing skills which would be available to the actor.
 
 Training in skills is tracked at five levels; untrained, training, accomplished, master and expert. An actor must spent points to move from one training level to the next level.
@@ -149,7 +149,7 @@ Once an actor is a Master or Expert in a skill, they may acquire specific benefi
 [Link to Example Skill Lists](/docs/2_actors/skill_list.md)
 
 
-## 6. Adding Personality
+## F. Adding Personality
 People are complex and varied, capturing and describing their personality and motivations is done through a matrix of definitions.
 
 - Guiding Traits
@@ -209,7 +209,7 @@ Bonds are forged around connections which can be relied on. Normal subjects incl
 
 When a Bond is gained or recognized, it can contribute to a person’s Composure. When a Bond is broken, it can also reduce Composure.
 
-## 7. Starting Resources
+## G. Starting Resources
 - Social Status
 - Connections
 - Occupation
