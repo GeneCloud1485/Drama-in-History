@@ -107,23 +107,32 @@ For each Age Band choose how your Actor spent the focus of their time during thi
 A background provides a summary of the main occupation or emphasis of a period of time in the actor's past.
 
 ## D. Calculate Skill Points & Skills Available
-Everyone can learn, practice or improve their training level in common skills, no particular background situation is required to progress. Each age band provides **five skill points** to develop common skills.
+There are three sources of skill points; from life's general lessons, from vocational opportunities or through academic study. Skills points are only gained from Juvenile to Veteran.
 
-Depending on the setting, era and available education will determine how many additional skill points are available to an actor during a period of time reflected as an age band. An **additional five skills points** are available to spend on vocational or specific or knowledge skills related to the background.
+1. Life's lessons, each year that passes in an age band provides one point to be used on common skills.
+2. Vocational opportunities, each years of an age band provides one point to be use on common or vocational skills
+3. Optional academic study, is limited to total of three age bands and provides ten points per age band.
+
+### Developing Common Skills
+Everyone can learn, practice or improve their training level in common skills, no particular background situation is required to progress.
+
+> E.g. In a medieval setting, the 'mature' age band is 5 years long and provides 5 points to spend on common skills
+
+### Leaning Speciality Vocational Skills
+The setting and era will determine how many additional skill points are available to an actor from an age band. Each year provides one point that can be spent on common or specialist vocational skills. These points can only be spent on skills which align with the actor's profession and opportunity during this age band.
 
 > E.g. If the actor was able to gain vocational training or through simple re-enforcement of core skills, or had free time to invest in skill development then they gain additional points to spend on more expert or knowledge skills.
 
-If a full age band is completed, allocate the five points. If it is partially completed, then pro rata the years completed for skill point development.
-
 > E.g. A mature actor serving in King Richard II's court gains 5 common skill points and 5 skill points to spend on social or courtly skills.
 
-> E.g. A 58 yr old,  senior actor is a private investigator in modern day London gets 2 additional common skill points.
+> E.g. A 49 yr old, veteran actor is a private investigator in modern day London gets 4 additional common skill points and 4 points in vocationally appropriate skills.
 
-If the actor's age band is Elderly, no additional skill points are gained.
+If the actor's age band is **Senior or Elderly**, no additional skill points are gained.
 
-Up to **two 'academic' age bands** can be spent in intense study during an Actor's life, these should be full time and dedicated periods of study. An additional five skill points to be spent on academic subjects.
+### Intense Academic Study
+Up to **three 'academic' age bands** can be spent in intense study during an Actor's life, these should be dedicated periods of study. The actor receives **three points** per year, up to a maximum of fifteen points, to be spent on specialist or academic subjects for each age band. The actor **doesn't gain vocational** skill points during these periods.
 
-> E.g. An actor in the prime of their life attends university, they will receive 5 common skill points, 5 knowledge or specialist skill points and 5 knowledge skill points from academic study.
+> E.g. An actor in the prime of their life attends university, they will receive 5 common skill points, and 15 knowledge skill points from academic study.
 
 ## E. Spend Skill Points on Skills
 Skill points should be spent on skills which are reasonably associated with the background, opportunities and the Actor's career path(s). An amount of flexibility and freedom can be allowed here, following the spirit of developing skills which would be available to the actor.
@@ -142,12 +151,19 @@ Training in skills is tracked at five levels; untrained, training, accomplished,
 
 If an age band doesn't provide enough points to elevate a skill to the next level, you can record the progress towards the next skill level and complete it in the next age band.
 
-Once an actor is a Master or Expert in a skill, they may acquire specific benefits which can be triggered based on patterns of dice in the pool results. The benefits provide additional results, bonuses or benefits without changing the rolled dice results themselves (i.e. they shouldn't trigger a re-roll or change the core outcome of the result.)
+### Achieving Mastery
+Once an actor is a Master or Expert in a skill, they may acquire specific bonuses which can be triggered **based on patterns of dice** in the pool results. The benefits provide additional results, bonuses or benefits without changing the rolled dice themselves (i.e. they shouldn't trigger a re-roll of the pool)
 
+For each skill that an actor has mastery they gain an inspired bonus;
+- Triple '4's count as an additional success for that skill check
+
+For each skill that they are an expert in they gain;
+- Triple '3's or '4's count as an additional success for that skill check
+
+> E.g. a master of Law attempts to prepare a difficult case for court. The actor has a base pool of  Mental of 3Bd + mastery of law 4Bd vs a resistance pool of difficult task 4Rd + 1Rd for mental lower than skill training level. 7Bd {6,5,4,4,4,2,1} vs 5Rd {6,4,3,3,2} and a net 1 success. His mastery of the law inspired him to spot a loop hole, which he can exploit for an additional one success, which brings his successes to net two and an overall success.
 
 ### Example Skill Lists
 [Link to Example Skill Lists](/docs/2_actors/skill_list.md)
-
 
 ## F. Adding Personality
 People are complex and varied, capturing and describing their personality and motivations is done through a matrix of definitions.
@@ -156,7 +172,6 @@ People are complex and varied, capturing and describing their personality and mo
 - Scars & Strengths
 - Dramatic Passions
 - Bonds
-
 
 ### Guiding Traits
 Up to three guiding traits are recorded to help define a characters personality and approach to life. The traits can contribute mechanically to situations, but are **mostly** used to guide and drive role playing, decision making and consistent action. 
@@ -214,6 +229,7 @@ When a Bond is gained or recognized, it can contribute to a person’s Composure
 - Connections
 - Occupation
 - Era specific resources
+
 > E.g The number of Social Connections or 'followers' currency in a modern cyberpunk setting
 
 # Reference

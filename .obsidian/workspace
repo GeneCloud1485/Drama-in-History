@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/5_director/directors_advice.md",
+            "file": "docs/2_actors/skill_list.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/2_actors/actor_stats.md",
+            "file": "docs/3_mechanics/basic_mechanics.md",
             "mode": "source",
             "source": false
           }
@@ -114,13 +114,13 @@
   "active": "b41936e1219110fa",
   "lastOpenFiles": [
     "docs/2_actors/creating_actor.md",
+    "docs/3_mechanics/basic_mechanics.md",
     "docs/2_actors/actor_stats.md",
+    "docs/2_actors/skill_list.md",
     "docs/5_director/directors_advice.md",
     "docs/4_combat/combat.md",
-    "docs/3_mechanics/basic_mechanics.md",
     "docs/1_concepts/1.0_concepts.md",
     "index.md",
-    "docs/2_actors/skill_list.md",
     "docs/2_actors/the_cast.md",
     "Untitled.md"
   ]

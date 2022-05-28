@@ -67,22 +67,21 @@ Backgrounds can be a combination of a 'domain' and 'vocation'. They can indicate
 | Common Skill | Suggested Attribute(s) | Description |
 | :---|:--- |:--- |
 
-## Medieval Knowledge Skill Examples
+## Medieval Knowledge or Vocational Skill Examples
 
 | Knowledge Skill | Suggested Attribute(s) | Description |
 | :---|:--- |:--- |
-| Awareness | Mnt | General observation | 
 |Artisan' Skills (A^M)|Agl||
 |Sleight of hand (A)|Agl||
-|Ranged Weapon Skills (A)|Agl||
-|Knife - Fight (A)|Agl||
-|National History (M)|Mnt|Blah Blah|
+|Ranged Weapon (A)|Agl||
+|Knife & Blade - Fight (A)|Agl||
+|National History (M)|Mnt||
 |English Literacy (M)|Mnt||
 |Latin (M)|Mnt||
 |French (M)|Mnt||
 |Law (M)|Mnt||
 |Trivium (M)|Mnt||
-|Science (M)|Mnt||
+|General Science (M)|Mnt||
 |Composition (M)|Mnt||
 |Battle Tactics (M)|Mnt||
 |Deception (M)|Mnt|Construct and deliver clever deceptions to convince someone of something to achieve an outcome. A deception is more complex than the ability to tell a single falsehood and lie.|
@@ -94,46 +93,42 @@ Backgrounds can be a combination of a 'domain' and 'vocation'. They can indicate
 |Bible/Religion Knowledge (M)|Mnt||
 |Midwifery (M)|Mnt|Knowledge and practices surrounding pregnacy, child-birth and general woman's health.|
 |Swimming (P)|Phy||
-|Military Weapon Skills (P)|Phy||
-|Spear - thrust (P)* (Free option2)|Phy||
-|Intimidatation (M or S)|M or S|Direct intimidation to achieve an outcome, applying either Phy, Mnt or social attributes as appropriate to the approach.|
+|Military Weapons (P)|Phy||
+|Intimidation (M or S)|M or S|Direct intimidation to achieve an outcome, applying either Phy, Mnt or social attributes as appropriate to the approach.|
 |Playing (instrument) (S^A)|Social||
 |Courtly Dance (S)|Social||
 |Formal Courtesy (S)|Social|Formal courtly courtesy, dealing with the nuances of aristocratic, foreign, bureaucracratic and diplomatic courts.|
 |Seduction (S)|Social|An intentional approach to generate a sense of desire and romantic passion in someone. Removing barriers or resistance with seductive words and actions. Seduction is more subtle and long lasting than the action of flirting.|
+|Leadership (M^S)|Mnt||
+|History of X (Church, Family)|Mnt||
+|Other Continental Languages (M)|Mnt||
 
 
-## Specialist Skill Examples
+
+## Specialist or Academic Skill Examples
 
 | Specialist Skill | Suggested Attribute(s) | Description |
 | :---|:--- |:--- |
 |Alchemy (M)|Mnt||
 |Arabic (M)|Mnt||
 |Artillery (M)|Mnt||
-|Blessing (S)|Soc||
-|Chivarlic Ideals (S)|Soc||
+|Chivalric Ideals (S)|Soc||
 |Courtly Courtesy (S^M)|Soc||
-|Curse (S)|Soc||
-|Debate (M^S)|Mnt||
-|Deduction (M)|Mnt||
-|Demonic Lore (M)|Mnt||
 |Diplomacy (S^M)|Soc||
 |Ecclesiastical Law (M)|Mnt||
 |Formal Music (M)|Mnt||
 |Greek (M)|Mnt||
-|History of X (Church, Family)|Mnt|Blah|
-|Leadership (M^S)|Mnt||
-|Magikal Theories (M)|Mnt||
 |Medicine (M)|Mnt|Classical medical knowledge learnt from the ancients or possibly the arab world. Academic and theoretical approach to understanding the human body. Knowledge of humours and the treatment of such. Usually university trained. |
 |Mercantile Law (M)|Mnt||
-|Orate (S^M)|Soc||
-|Other Continental Languages (M)|Mnt||
-|Philisophy (M)|Mnt||
+|Orate & Debate (S^M)|Soc||
+|Philosophy (M)|Mnt||
 |Quadrivium (M)|Mnt||
 |Theology (M)|Mnt||
 
 
+|Magikal Theories (M)|Mnt||
+|Curse (S)|Soc||
+|Demonic Lore (M)|Mnt||
 
-
-
-
+|Blessing (S)|Soc||
+|Deduction (M)|Mnt||
