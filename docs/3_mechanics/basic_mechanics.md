@@ -53,13 +53,13 @@ It is theoretically possible to get both a Critical and Unintended Outcomes in t
 ---
 
 #  **Base Attribute Test**
-A simple attribute test is used as a basic and catch-all test, either opposed or unopposed. The pool is built from the attribute + situational modifiers and penalty dice.
+A simple attribute test is used as a basic and catch-all test, either opposed or unopposed. The pool is built from **double the attribute** + situational modifiers and penalty dice.
 
 An attribute check can sometimes be used where there isn’t an applicable skills, but never in place of a skill. This test is based on one of the Phy Agl Men Soc attributes.
 
- >_E.g. A cart wheel stuck in a rutted track, a straightforward challenge requiring 2 successes on a Physical attribute check. Young William puts his shoulder to the wheel and rolls his physical of 2._
+ >E.g. A cart wheel stuck in a rutted track, a straightforward challenge requiring 2 successes on a Physical attribute check. Young William puts his shoulder to the wheel and rolls his physical of 2 rolling 4Bd {4,3,3,1}
 
-> _He fails to move the cart and calls to his friend Peter of Lynn, who puts his shoulder to the other wheel and provides his 2 physical to help. The two roll (2 and 2) achieving 3 successes between them and they shove the cart free of the rut._
+> He fails to move the cart and calls to his friend Peter of Lynn, who puts his shoulder to the other wheel and provides his 2 physical to help. The two roll (4 and 4) achieving 3 successes between them and they shove the cart free of the rut._
 
 ---
 
