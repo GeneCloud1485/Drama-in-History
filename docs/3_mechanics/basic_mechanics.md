@@ -75,22 +75,42 @@ For complex or co-operative tests, additional dice can be added to a pool from a
 ## Choice of Skill for the Test
 The Director can ask for a specific skill test or an Actor can request a skill test based on a specific skill.
 
-- Skills are specific, and combined with an appropriate attribute for a given test. The skill value is determined by the level of training and is capped by the appropriate attribute.
-- Where an actor doesn't have a specific skill a background can stand in.
+- The skill value is determined by the level of training, and are added to the appropriate attribute to get the base pool dice.
 
-If no specific named skill available, backgrounds can be used in reflection of general experience.
-- Yes directly = 1 background for +1Bd, 2 for +2Bd, max of 3 for +3Bd
-- Kinda or indirectly = 1 background for +1Bd & 1Rd, max of 2 for 2Bd & 1Rd [TODO - should this be 2Rd]
+> E.g. An actor trained (+2) in Riding with an Agility of 3 will have a 5Bd
 
-> E.g. An accomplished (skill 3) hunter with an Agility of 3 and Mental of 2, attempts to shoot a deer and lay snares for a rabbit. Shooting is based on Agility, and the actor has a combined skill & attribute of 6. Setting snares is based on Mental, and the actor has a combined skill & attribute of 4.
+- If the attribute associated with the skill is lower than the value of the skill, and greater than zero then 1Rd resistance is added to the test.
+- If the attribute associated with the skill is zero or lower, then 2Rd are added.
+
+> E.g. An aging actor who is an accomplished (+3) Dancer, but now has an Agility of 2 will gain an additional 1Rd as well as their 5Bd for the skill + attribute.
+
+> E.g. An accomplished (skill 3) hunter with an Agility of 3 and Mental of 2, attempts to shoot a deer and lay snares for a rabbit. Shooting is based on Agility, and the actor has a combined skill & attribute of 6. Setting snares is based on Mental, and the actor has a combined skill & attribute of 5, since the Mental is lower than the skill they also pick up 1Rd.
+
+- Where an actor doesn't have a specific skill for a given situation, they can have a background can stand in if that background would reasonably have provide some experience in the skill test required.
+- Up to three of the same background bands can be considered as skill training replacement. More than three doesn't add to the stand-in skill replacement.
+- If the background can reasonably be considered as directly applicable then add 1Bd for each background.
+	- Directly = one background for +1Bd, two for +2Bd, max of three for +3Bd
+- If the background is too general, somewhat indirect or a stretch, add 1Rd for each Bd which is added.
+	- Indirectly = one background 1Bd + 1Rd, two for +2Bd + 2Rd, max of three for +3Bd + 3Rd
+
+> E.g.  The Director asks the player of a young monk who is sitting in the cloister watching a somewhat heated discussion between two fellow Brothers to make a 'Social Insight' test. The monk doesn't have the specific skill Insight, but can call upon their two backgrounds in Religious Life, since growing up in the Abbey he has given him a reasonable sense of what Brothers argue about. Two backgrounds count as 2Bd plus the Social attribute of 2, provides a base pool of 4Bd.
+
+> E.g. if the actor has been a Journeyman Cloth Merchant, with two backgrounds in Guild Merchant Life, it would still have been possible to use the backgrounds for the Insight skill but only as indirectly appropriate. The actor would get their 2Bd Social plus 2Bd for the backgrounds, along with 2Rd for being indirectly appropriate. The additional resistance reflects the potential for jumping to conclusions or mis-reading the situation due to the different experiences of a Monk's life compared to a Cloth Merchant's life.
 
 ## *Levels of Difficulty*
 
 Level of difficulty is reflected in the addition of penalty/resistance dice to the pool so that the target number is always 2 success to pass the test.
 
-Very Easy through formidable
-
-+2Bd / 0 / 2Rd / 4Rd / 6Rd / 8Rd / 10Rd
+| Difficulty | Modifier | Example |
+| :--- | :---: | :--- |
+| Very Easy | +4Bd | An average person, untrained has a reasonable chance to succeed |
+| Straightforward| +2Bd | An average person, trained in the skill should succeed most of the time|
+| Some Difficulty | 0 | ...should succeed half of the time |
+| Troublesome | 2Rd | ...will fail more than they succeed |
+| Difficult | 4Rd | A master of the skill should succeed |
+| Very Challenging | 6Rd | A master of the skill may fail more than they succeed |
+| Extremely Hard | 8Rd | Even an expert of the skill may struggle with this challenge |
+| Formidable | 10Rd | Likely to require a talented expert with advantages to succeed  |
 
 ## **Unopposed** Skill Tests
 A simple unopposed test pits the skill of a person against the level of difficulty or resistance of a challenge.

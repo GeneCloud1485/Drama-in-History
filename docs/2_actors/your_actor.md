@@ -7,6 +7,8 @@ layout: default
 
 All Actors are represented by a number of core attributes, currency pools and a list of skills, bonds, traits, scars & strengths and passions.
 
+[Actor Character Sheet](https://docs.google.com/spreadsheets/d/1MlQemuFafaUU84K-_Nkapsf_nrYnwLPwuweegK_m68A/edit?usp=sharing)
+
 # **Four Core Attributes**
 Four attributes are the basis of the characters statistical description and provide the foundation values for skill checks.
 
@@ -17,12 +19,14 @@ Four attributes are the basis of the characters statistical description and prov
 
 Each attribute from -3 up to 8
 
--   -3 represents incapacity
--   0 or less represent a weakness
--   1-2 represents average
--   3-4 is good
--   5 is greatly superior
--   6+ is extraordinary
+-   -3 represents total incapacity and retirement 
+-   0 or less represent a significant weakness or disability
+-   1 is a weakness
+-   2 represents average
+-   3-4 is above average or good talent
+-   5 is superior
+-   6 is uniquely talented or blessed
+-   7+ is extraordinary and very rare
 
 # Currency Pools
 Currency Pools represent a more dynamic value than the primary attributes. They start 
@@ -348,4 +352,6 @@ They differ from a situational modifier, which would typically be applied for on
 - Uncertainty & Stress - resulting from failed awareness in stressful situation (exploring), before battle, in unknown territory with failed Country Life, failing a social roll under scrutiny
 - Discombobulated - lost of social contest
 - Drunk or drugged - excess consumption
-- 
+
+# Reference
+[Actor Character Sheet](https://docs.google.com/spreadsheets/d/1MlQemuFafaUU84K-_Nkapsf_nrYnwLPwuweegK_m68A/edit?usp=sharing)
