@@ -280,6 +280,10 @@ A secondary consequence of melee, the loser must check to see if they are knocke
 - **Doubly Disadvantaged** is calculated as (8-Agility)Rd
 > E.g. The loser with an Agl:1 will carry 7Rd into the next round.
 
+#### Ranged Combat for Knock-Back
+Use level of success + weapon shot's flesh damage value for the knock-back check.
+
+> E.g. 2 levels of success + 3 for the 3F damage value = 5
 
 ### Determining Momentum
 The winner of the rounds gains momentum for the next round of a melee.

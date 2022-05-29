@@ -13,7 +13,8 @@ layout: default
 4. Decide on the actor's **current age** and background
 5. Work through the **actor's past** up to their current age
 6. Generate the **currency** pools
-7.  Fill out contacts and possessions
+7.  Fill out **contacts and possessions**
+8.  Record the actor's **goals**
 
 # 1. Formative Years
 The 1st two age bands, baby & child, which take your actor through to age 10. This will deal with your family situation and early years, customized to be in keeping with the game setting, period, and Director's guidance.
@@ -91,8 +92,8 @@ To develop your actor's background follow each of the following steps for **each
 |Juvenile|PAMS|3|2Dd|0|||
 |Youth|PAMS|2|1Dd|1Bd|1Rd||
 |Prime|PAMS|1|1Dd|1Bd|1Rd||
-|Adult|PAMS|1|0|1Bd|1Rd||
-|Mature|PAMS|1|0|1Bd|2Rd|1Rd|
+|Adult|PAMS|1|0|1Bd|2Rd||
+|Mature|PAMS|0|0|1Bd|2Rd|1Rd|
 |Veteran|MS|0|0|1Bd|2Rd|1Rd|
 |Senior|MS|0|0|1Bd|3Rd|2Rd|
 |Aged|MS|0|0|1Bd|4Rd|2Rd|
@@ -277,6 +278,9 @@ Actor level determines the basic number of drama points for the pool. For each p
 Add in a few key contacts and connections that the actor has. These people can provide contacts or resources in the future.
 
 List the main possessions that the actors has available, in keeping with the occupation, social status and situation. This may be a discussion with the Director.
+
+# 8. Initial Goals
+Record a goal which represents an initial objective or desire for the actor. This will likely expand with play.
 
 # Reference
 [Actor Character Sheet](https://docs.google.com/spreadsheets/d/1MlQemuFafaUU84K-_Nkapsf_nrYnwLPwuweegK_m68A/edit?usp=sharing)
