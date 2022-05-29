@@ -32,7 +32,6 @@ A lot of skills are shared across different historical settings, but some skills
 | Sing | Soc | Hold a tune, remember the words and sing songs. |
 | Strike | Phy | A non-military 'hit' with a weapon to cause damage. |
 | Local History (place) | Mnt | Localized knowledge gained from living somewhere. |
-| Evade | Agl | Attempt to avoid being hit by something or someone. |
 
 Where a skill is listed as X or Y, the attribute will be chosen based on the context of use.
 

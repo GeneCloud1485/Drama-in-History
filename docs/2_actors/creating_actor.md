@@ -12,17 +12,19 @@ layout: default
 3. Choose a **favored and dis-favored** attribute
 4. Decide on the actor's **current age** and background
 5. Work through the **actor's past** up to their current age
+6. Generate the **currency** pools
+7.  Fill out contacts and possessions
 
 # 1. Formative Years
 The 1st two age bands, baby & child, which take your actor through to age 10. This will deal with your family situation and early years, customized to be in keeping with the game setting, period, and Director's guidance.
 
 1. Choose a family context - father & mother's position, status, standing, relative wealth and family outline.
-2. Choose Urban or Country life as the 1st background
+2. Choose Urban or Country life as the 1st background 
 3. Decide on your actor's 'Start in Life' that is in keeping with the family background and your character concept. Were their early years;
-	3. Worldly, Secular or Pastoral?
-	4. Rich or Poor?  - determines the tone of your childhood
-	5. Loving, dramatic, hated or insignificant?  - establish a childhood bond 
-	6. Uneducated or Educated? - If educated roll 8Bd each success is a skill point of basic knowledge skills
+	3. Worldly, Secular or Pastoral? <- so what?
+	4. Rich or Poor?  - determines the tone of your childhood <- so what?
+	5. Loving, dramatic, hated or insignificant?  - establish a childhood bond, or add a scar?
+	6. Uneducated or Educated? - If educated roll 8Bd each success is a skill point of basic knowledge skills. If uneducated roll 8Bd each success is a common skill point.
 	7. Healthy or Sickly - test your luck (roll 6Bd and 6Rd), if net result is a positive +1 to an attribute, if negative then -1 to an attribute otherwise no effect.
 4. Roll for and allocate the core attribute points
 	1. Allocate 3 + net successes from 2Dd to the core attributes
@@ -53,7 +55,7 @@ Roll 2d6 for a Flaw
 | ... | 1 | 2 | 3 | 4 | 5 | 6 |
 | 1 | Weak constitution -1Phy | Clumsy -1Agl | Slow witted -1Mnt | Displeasing demeanor -1Soc | Untrustworthy | Scar: Death |
 | 2 | Physical impairment | Partially sighted 2Rd for distance | Dsylexic 2Rd written tasks | Gruff/Rude 2Rd on social tests | Indulgent | Scar: Disease |
-| 3 | Weak Grip 2Rd wpn skill | Two left feet 2Rd dance skills | Bad with numbers 2Rd | Illicit Love (bond) | Brash | Scar: Ghosts |
+| 3 | Weak Grip 2Rd Melee wpn skill | Two left feet 2Rd dance skills | Bad with numbers 2Rd | Illicit Love (bond) | Brash | Scar: Ghosts |
 | 4 | Strikingly unpleasant feature +5 Rep | Poor balance 2Rd | Unhealthy obsession (passion) | Scar: Religion | Proud | Scar: Phobia |
 | 5 | Quick to bleed, lose additional Flesh on any wounds | Slow -2 Grit | Unstable -1 Fort | Nervous -2 Composure | Cruel | Scar: Introvert |
 | 6 | Phlegmatic 2Rd phy skills | Choleric 2Rd Agl skills | Melancholic 2Rd Mnt skills | Bleak humor 2Rd Soc skills | Greedy | Harboring a dark secret |
@@ -63,19 +65,23 @@ Adjust or adapt to fit an actor's story if the Director agrees.
 # 3. Favored and Disfavored Attribute
 Choose one of the four attributes to be favored and one which is dis-favored. 
 A favored attribute is easier to raise to a higher value, and a dis-favored attribute is harder to raise to a higher value.
+
 [[3. Core Attributes]]
 
 # 4. Current Age & Background
+Choose a current age for your actor, and mark which age bands are part of their history.
+
+Agree with the director the background for your actor.
 
 # 5. An Actor's Past
 To develop your actor's background follow each of the following steps for **each of the age bands up to their current one**. Starting with the age band after 'Child' up to the current age band, follow these steps;
-A.  Roll for the addition or loss of core attribute points
-B. Assign these points, remembering to take into account your favored and dis-favored attributes
-C. Decide on a background
-D. Calculate the skill points
-E. Spend those skill points on skill
-F. Decide if there are any major or narrative events which happened during this period, generate bonds, traits, dramatic advantages or create scars or strengths accordingly.
-G. Agree on their current situation, occupation and location. Use this to determine their **starting resources** including their social status.
+- A.  Roll for the addition or loss of core attribute points
+- B. Assign these points, remembering to take into account your favored and dis-favored attributes
+- C. Decide on a background
+- D. Calculate the skill points
+- E. Spend those skill points on skill
+- F. Decide if there are any major or narrative events which happened during this period, generate bonds, traits, dramatic advantages or create scars or strengths accordingly.
+- G. Agree on their current situation, occupation and location. Use this to determine their **starting resources** including their social status.
 
 ## A.  Additional Attribute Points
 
@@ -83,8 +89,8 @@ G. Agree on their current situation, occupation and location. Use this to determ
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Child|PAMS|3|2Dd|0|||
 |Juvenile|PAMS|3|2Dd|0|||
-|Youth|PAMS|2|1Dd|1Bd|||
-|Prime|PAMS|1|1Dd|1Bd|||
+|Youth|PAMS|2|1Dd|1Bd|1Rd||
+|Prime|PAMS|1|1Dd|1Bd|1Rd||
 |Adult|PAMS|1|0|1Bd|1Rd||
 |Mature|PAMS|1|0|1Bd|2Rd|1Rd|
 |Veteran|MS|0|0|1Bd|2Rd|1Rd|
@@ -151,6 +157,8 @@ Training in skills is tracked at five levels; untrained, training, accomplished,
 
 If an age band doesn't provide enough points to elevate a skill to the next level, you can record the progress towards the next skill level and complete it in the next age band.
 
+If this you are recording a new skill, add it to the trained section and note the 1pt invested. The actor can use this skill as if trained, with an additional 1Rd penalty.
+
 ### Achieving Mastery
 Once an actor is a Master or Expert in a skill, they may acquire specific bonuses which can be triggered **based on patterns of dice** in the pool results. The benefits provide additional results, bonuses or benefits without changing the rolled dice themselves (i.e. they shouldn't trigger a re-roll of the pool)
 
@@ -172,6 +180,7 @@ People are complex and varied, capturing and describing their personality and mo
 - Scars & Strengths
 - Dramatic Passions
 - Bonds
+- Goals
 
 ### Guiding Traits
 Up to three guiding traits are recorded to help define a characters personality and approach to life. The traits can contribute mechanically to situations, but are **mostly** used to guide and drive role playing, decision making and consistent action. 
@@ -224,6 +233,9 @@ Bonds are forged around connections which can be relied on. Normal subjects incl
 
 When a Bond is gained or recognized, it can contribute to a person’s Composure. When a Bond is broken, it can also reduce Composure.
 
+### Goals
+[TODO]
+
 ## G. Starting Resources
 - Social Status
 - Connections
@@ -231,6 +243,40 @@ When a Bond is gained or recognized, it can contribute to a person’s Composure
 - Era specific resources
 
 > E.g The number of Social Connections or 'followers' currency in a modern cyberpunk setting
+
+# 6. Generate the Currency Pools
+- A. Flesh
+- B. Grit
+- C. Fortitude
+- D. Composure
+- E. Drama Points
+
+## A. Flesh Currency Pool
+The starting value of 5 + a pool of 5 + 3Bd + 3Rd + 2 times Physical as Dd
+
+> E.g. 5 + 3Bd {4,3,2} = 0 + 3Rd {5,3,2} = -1 + 4Dd {6,4,4,3,1} = 2 which equals a total of 6 Flesh
+
+## B. Grit Currency Pool
+The starting value of 5 + a pool of5 + 3Bd + 3Rd + 2 times Agility as Dd
+
+## C. Fortitude Currency Pool
+The starting value of 5 + a pool of 3Bd + 3Rd + 2 times Mental as Dd
+
+## D. Composure Pool
+The starting value of 5 + a pool of 5 + 2 times number of bonds as Bd + 3Rd + Social as Dd
+
+> E.g. 5 + three bonds 6Bd {6,5,3,3,2,1} = 2 + 3Rd {6,3,2} = -1 + 3Dd {5,4,2} = 2 which equals a total of 8
+
+## E. Drama Point Pool
+Actor level determines the basic number of drama points for the pool. For each passion that the actor has taken, they get an additional drama point to their maximum.
+
+> E.g. A supporting actor has a single passion, they have a total of 5 drama points, 4 from being a supporting actor and 1 for their passion.
+
+
+# 7. Contacts and Possessions
+Add in a few key contacts and connections that the actor has. These people can provide contacts or resources in the future.
+
+List the main possessions that the actors has available, in keeping with the occupation, social status and situation. This may be a discussion with the Director.
 
 # Reference
 [Actor Character Sheet](https://docs.google.com/spreadsheets/d/1MlQemuFafaUU84K-_Nkapsf_nrYnwLPwuweegK_m68A/edit?usp=sharing)
