@@ -13,8 +13,6 @@ layout: default
 4. Decide on the actor's **current age** and background
 5. Work through the **actor's past** up to their current age
 6. Generate the **currency** pools
-7.  Fill out **contacts and possessions**
-8.  Record the actor's **goals**
 
 # 1. Formative Years
 The 1st two age bands, baby & child, which take your actor through to age 10. This will deal with your family situation and early years, customized to be in keeping with the game setting, period, and Director's guidance.
@@ -235,15 +233,21 @@ Bonds are forged around connections which can be relied on. Normal subjects incl
 When a Bond is gained or recognized, it can contribute to a person’s Composure. When a Bond is broken, it can also reduce Composure.
 
 ### Goals
-[TODO]
+Record a goal which represents an initial objective or desire for the actor. This will likely expand with play.
 
 ## G. Starting Resources
-- Social Status
+- Calculate the actor's Social Status
 - Connections
 - Occupation
-- Era specific resources
+- Era specific resources and possessions
+
+Calculate the actor's current Social Status.
+
+Add in a few key contacts and connections that the actor has. These people can provide contacts or resources in the future.
 
 > E.g The number of Social Connections or 'followers' currency in a modern cyberpunk setting
+
+List the main possessions that the actors has available, in keeping with the occupation, social status and situation. This may be a discussion with the Director.
 
 # 6. Generate the Currency Pools
 - A. Flesh
@@ -274,13 +278,6 @@ Actor level determines the basic number of drama points for the pool. For each p
 > E.g. A supporting actor has a single passion, they have a total of 5 drama points, 4 from being a supporting actor and 1 for their passion.
 
 
-# 7. Contacts and Possessions
-Add in a few key contacts and connections that the actor has. These people can provide contacts or resources in the future.
-
-List the main possessions that the actors has available, in keeping with the occupation, social status and situation. This may be a discussion with the Director.
-
-# 8. Initial Goals
-Record a goal which represents an initial objective or desire for the actor. This will likely expand with play.
 
 # Reference
 [Actor Character Sheet](https://docs.google.com/spreadsheets/d/1MlQemuFafaUU84K-_Nkapsf_nrYnwLPwuweegK_m68A/edit?usp=sharing)

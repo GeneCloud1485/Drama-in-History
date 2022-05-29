@@ -139,13 +139,71 @@ The later age bands apply **nRd** to the rolls for changes in Primary Attributes
 See An Actor's Past.
 
 # Social Status
+Depending on the era, social status is more or less important. In early periods social status can be very impactful and important, in later periods social status can reflect opportunity or a reflection of connections and respect.
+
+An actor's reputation has an additional impact on the actor's social status.
+
+## Late Medieval Social Status
 Social Status is based on a character's family status at birth, their estate and their current office or role.
 
 > _E.g. Born to a Townsman Burgess (2), working as an artisan (+1) and holding the office of Journeyman (2) for a total combined status of 5._
 
 > _Or Born of a Common: 1/2 Virgator (1), after years of service in the Church (4) and now holding the office of Almoner at the Abbey (4) for a combined status of 9_
 
-[TODO add example social status table]
+Combine the Social Status for Class of Birth, Estate and Office, and then add a factor for reputation.
+
+| Class of Birth | Social Status | 
+| :--- | :---:|
+| Cottar | 0 | 
+|Townsman: non-burgess|	0|
+|Common: 1/2 Virgater|	1|
+|Common: Virgater	|2|
+|Townsman: burgess|	2|
+|Guildsmaster	|3|
+|Petty Noble/Gentry|	5|
+|Noble	|8|
+|Aristocracy	|12|
+|Royalty	|15|
+
+| Estate | Social Status | 
+| :--- | :---:|
+|Unskilled/Worker/Servant	|0|
+|Respected/Craftsman/Artisan	|1|
+|Nobility/Land Owners (Gentry)|	3|
+|Churchman	|4|
+
+| Office or Position | Example | Social Status | 
+| :--- | :--- | :---:|
+|Absolute Royalty|"King"|20|
+|Royal Title	| Queen, Prince	|15|
+|Elite Office|	Arch Bishop	|12|
+|Elite Title|	Duke	|12|
+|High Office	|Sheriff, Bishop, Abbot, Lord Mayor	|8|
+|High Title|	Earl	|8|
+|Mid Title	|Marquis, Lord of larger estates	|6|
+|Guild Master|	Head of the Tailor’s Guild in x town|	4|
+|Office of Rank|	Justice of the Peace, Mayor, Named position at Abbey (Cellarer, Almoner etc), Alderman	|4|
+|Low Title	|Lord small manorial estate|	4|
+|Common Office	|Deacon, Parson, Priest, Bailiff	|3|
+|Pre-Title	|Squire, Esquire	|3|
+|Land owner |Manorial	Franklin	|3|
+|Master with reputation	|Master tailor|	3|
+|Tradesman - worthy profession|	Blacksmith, Inn keeper	|2|
+|Journeyman of Guild|	Journeyman merchant trader|	2|
+|Low Office	|Field Steward|	2|
+|Tradesman - unworthy field|	Tanner, Carter, Brothelkeeper	|1|
+|Apprentice	|Assistant to an Office Role, Lay Brother, or Guild apprentice	|1|
+|Diverse other|	Servant, simple tradesman, militiaman, farmer	|1|
+|None	|	|0|
+
+> E.g. an actor born to a family who have a smallholding and farm, common: 1/2 virgator +1. The actor's estate is as a respected craftsman +2, and the actor has the low office of field steward for +2. The actor's combined social status is 4.
+
+## Reputation
+Reputation reflects both notable and notorious acts and stories that are told about the actor. It is earn't as a result of dramatic and important actions, scenes and stories.
+
+The social status addition is calculated by current reputation divided by five.
+
+> E.g. The farmer is known for his honesty, and is relied on to resolve matters of common law around the village. He has a reputation of 8, which adds +1 to his reputation.
 
 ---
 [Creating Your Actor](/docs/2_actors/creating_actor.md)

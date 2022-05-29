@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/2_actors/creating_actor.md",
+            "file": "docs/2_actors/actor_stats.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2_actors/creating_actor.md",
+                "file": "docs/2_actors/actor_stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "b41936e1219110fa",
   "lastOpenFiles": [
+    "docs/2_actors/actor_stats.md",
     "docs/2_actors/creating_actor.md",
     "docs/4_combat/combat.md",
     "docs/2_actors/skill_list.md",
-    "docs/2_actors/actor_stats.md",
     "index.md",
     "docs/3_mechanics/basic_mechanics.md",
     "docs/5_director/directors_advice.md",
