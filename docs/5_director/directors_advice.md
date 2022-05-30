@@ -81,9 +81,20 @@ In game terms a vignette can take many forms, generally used as a stand-alone sc
 ## Challenge & Struggle
 
 ## Running investigations
-
+- Can this be treated like a complex challenge?
 
 # Non Player Actor Tracking
 - Storage
 - Reference
 - 1 - 3D
+
+
+# Creating Sandboxes
+- Developed setting
+- All about the people
+	- A few with goals and plans
+	- Which the players can tangle with
+	- but which can change and evolve as the players get involved
+- Which creates situations
+- And scenes and hard struggle choices
+- Ready to evolve with player emphasis

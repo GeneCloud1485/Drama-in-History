@@ -29,8 +29,7 @@ Each attribute from -3 up to 8
 -   7+ is extraordinary and very rare
 
 # Currency Pools
-Currency Pools represent a more dynamic value than the primary attributes. They start 
-Maximum Currency Pool values are determined [TODO LINK] and record. The current pool value is tracked separately as the pool can be reduced as a result of the outcome of situations, and recover with the passage of time. 
+Currency Pools represent a more dynamic value than the primary attributes. They start at Maximum Currency Pool value and the current pool value is tracked separately as the pool can be reduced as a result of the outcome of situations, and recover with the passage of time. 
 
 > A currency pool is just like tracking maximum hit points and current hit points in many other games.
 
@@ -39,7 +38,7 @@ Maximum Currency Pool values are determined [TODO LINK] and record. The current 
 -   **Fortitude Pool** = mental strength and sanity derived from the Mental attribute. Fortitude can be reduced by shocking or horrifying situations. Recovery is a slow process.
 
 When Flesh or Fortitude pools are reduced to 50% or less the character gains +1 penalty dice. 
-If Flesh or Fortitude pools reach ZERO the character is out of play, either dying or potentially permanently insane. [TODO LINK]
+If Flesh or Fortitude pools reach ZERO the character is out of play, either dying or potentially permanently insane. 
 
 ### Temporary Pools
 -   **Grit Pool** = quickness and good luck derived from the Agility attribute. Grit reduction reflects fatigue or the use of luck or experience to avoid physical harm. Recovery is a relatively quick process, measured in hours.

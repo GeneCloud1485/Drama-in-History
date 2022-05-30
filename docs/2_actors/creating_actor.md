@@ -198,8 +198,6 @@ Example traits;
 | Kind/Forgiving | Callous/Vengeful | Amiable/Generous | Greedy/Selfish |
 | Angry | Calm | Gossip | Jealous |
 
-[TODO tidy up for PC traits, with example application]
-
 ### Scars & Strengths
 Scars and Strengths are two sides of the same coin, moments which have left a lasting mark on a character's psyche. When a dramatic and impactful event occurs it can be seen as something which has a lasting and mechanical effect on the character.
 

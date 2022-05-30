@@ -6,7 +6,7 @@ layout: default
 [Back to the Index](https://genecloud1485.github.io/Drama-in-History/)
 
 # Types of Challenge Tests
-A dynamic story will have many moments where the outcome is not clear, or that an actor's wishes are opposed and scenes which are challenging for the actor's to deal with.  These situations are dealt with through the use of a challenge test. There are a number of different forms of test, but they all work on same basic principle; build a pool, roll dice and read the results!
+A dynamic story will have many moments where the outcome is not clear, or that an actor's wishes are opposed, or scenes which are challenging for the actor's to deal with.  These situations are dealt with by the use of a challenge test. There are a number of different forms of test, but they all work on same basic principle; build a pool, roll dice and read the results!
 
 - Base Attribute Test
 - Skill Tests
@@ -17,7 +17,11 @@ A dynamic story will have many moments where the outcome is not clear, or that a
 - Complex Test
 - Combat, a deadly opposed test!
 
-[TODO] Choosing appropriate skills and attributes. When to test & roll, and when not to... How many tests per scene?
+The goal is to make each test meaningful, sometimes dramatic but always with something that matters to be resolved. This doesn't need to be life or death, and could be of quite a mundane nature, as long as it matters to the actors and their story.
+
+Some groups may like to roll more frequently than others, this is personal preference. Since building a pool is a little more complex than roll a d20, it is generally good to pace yourselves with tests. 
+
+Use the results of the pool to help make the roll more meaningful, let the pool help expand the narrative where appropriate.
 
 ## Success or Failure?
 ### Two Successes Needed
@@ -53,13 +57,17 @@ It is theoretically possible to get both a Critical and Unintended Outcomes in t
 ---
 
 #  **Base Attribute Test**
-A simple attribute test is used as a basic and catch-all test, either opposed or unopposed. The pool is built from **double the attribute** + situational modifiers and penalty dice.
+A simple attribute test is used as a basic and catch-all test, either opposed or unopposed. Build the following pools;
 
-An attribute check can sometimes be used where there isn’t an applicable skills, but never in place of a skill. This test is based on one of the Phy Agl Men Soc attributes.
+1.  **Base pool** = Double the Attribute + situational modifiers
+2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers
+3. **Drama pool** = risks, dramatic advantages or passions applicable
 
- >E.g. A cart wheel stuck in a rutted track, a straightforward challenge requiring 2 successes on a Physical attribute check. Young William puts his shoulder to the wheel and rolls his physical of 2 rolling 4Bd {4,3,3,1}
+An attribute check can sometimes be used where there isn’t an applicable skills, but never in place of a skill. This test is based on one of the Physical, Agility, Mental, Social attributes.
 
-> He fails to move the cart and calls to his friend Peter of Lynn, who puts his shoulder to the other wheel and provides his 2 physical to help. The two roll (4 and 4) achieving 3 successes between them and they shove the cart free of the rut._
+ >E.g. A cart wheel stuck in a rutted track, a challenge with some difficulty requiring 2 successes on a Physical attribute check. He has no penalties, there is no modifiers and the difficulty of the task is 0. Young William puts his shoulder to the wheel with his physical attribute of 2 he rolls 4Bd {4,3,3,1}
+
+> He fails to move the cart and calls to his friend Peter of Lynn, who puts his shoulder to the other wheel and provides his 2 physical to help. The two roll (4 and 4) achieving 3 successes between them and they shove the cart free of the rut.
 
 ---
 
@@ -70,12 +78,12 @@ For unopposed tests, calculate the dice pool and roll to determine the number of
 
 For opposed tests, the parties calculate their dice pools and then compare the results to determine the levels of success.
 
-For complex or co-operative tests, additional dice can be added to a pool from assisting parties, pools can be split against multiple opponents and the test can be a series of tests.
+For complex or co-operative tests, additional dice can be added to a pool from assisting parties, pools can be split against multiple opponents and the test can connected to create a series of tests.
 
 ## Choice of Skill for the Test
 The Director can ask for a specific skill test or an Actor can request a skill test based on a specific skill.
 
-- The skill value is determined by the level of training, and are added to the appropriate attribute to get the base pool dice.
+- The **skill value** is determined by the level of training, and are added to the **appropriate attribute** to get the base pool dice.
 
 > E.g. An actor trained (+2) in Riding with an Agility of 3 will have a 5Bd
 
@@ -87,11 +95,12 @@ The Director can ask for a specific skill test or an Actor can request a skill t
 > E.g. An accomplished (skill 3) hunter with an Agility of 3 and Mental of 2, attempts to shoot a deer and lay snares for a rabbit. Shooting is based on Agility, and the actor has a combined skill & attribute of 6. Setting snares is based on Mental, and the actor has a combined skill & attribute of 5, since the Mental is lower than the skill they also pick up 1Rd.
 
 - Where an actor doesn't have a specific skill for a given situation, they can have a background can stand in if that background would reasonably have provide some experience in the skill test required.
-- Up to three of the same background bands can be considered as skill training replacement. More than three doesn't add to the stand-in skill replacement.
+- Up to three of the same background bands can be considered as skill training replacement. More than three doesn't add to the stand-in skill replacement. 
 - If the background can reasonably be considered as directly applicable then add 1Bd for each background.
 	- Directly = one background for +1Bd, two for +2Bd, max of three for +3Bd
 - If the background is too general, somewhat indirect or a stretch, add 1Rd for each Bd which is added.
 	- Indirectly = one background 1Bd + 1Rd, two for +2Bd + 2Rd, max of three for +3Bd + 3Rd
+- As with skills, if the number of backgrounds counted is higher than the attribute add 1Rd, and if the attribute is zero or lower add 2Rd
 
 > E.g.  The Director asks the player of a young monk who is sitting in the cloister watching a somewhat heated discussion between two fellow Brothers to make a 'Social Insight' test. The monk doesn't have the specific skill Insight, but can call upon their two backgrounds in Religious Life, since growing up in the Abbey he has given him a reasonable sense of what Brothers argue about. Two backgrounds count as 2Bd plus the Social attribute of 2, provides a base pool of 4Bd.
 
@@ -116,9 +125,11 @@ Level of difficulty is reflected in the addition of penalty/resistance dice to t
 A simple unopposed test pits the skill of a person against the level of difficulty or resistance of a challenge.
 
 Build a dice pool from Base, Resistance, and Drama dice.
-1. **Base pool** = Attribute + Skill or background (capped by the attribute)
+1.  **Base pool** = Attribute + Skill or background
 2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers
 3. **Drama pool** = risks, dramatic advantages or passions applicable
+
+Remember that in all skill tests if the Attribute is lower than the Skill, add 1Rd. If the attribute is zero or lower, add 2Rd.
 
 The pools are rolled and the number of net successes is calculated. If two or more net successes are achieved then the test is successful.
 
@@ -126,7 +137,7 @@ The pools are rolled and the number of net successes is calculated. If two or mo
 A resisted skill test is used for where another person is being affected or influenced by the test, and so have a resistance to the skill. It is very similar to an unopposed skill test, with the addition of extra resistance from the targets stats or skills.
 
 Build a dice pool from Base, Resistance, and Drama dice.
-1. **Base pool** = Attribute + Skill or background (capped by the attribute)
+1. **Base pool** = Attribute + Skill or background
 2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers + **the stat or skill of the target** in resistance
 3. **Drama pool** = risks, dramatic advantages or passions applicable
 
@@ -137,7 +148,7 @@ The pools are rolled and the number of net successes is calculated. If two or mo
 An opposed skill test is used when someone is actively engaged in attempting to win a contest of some form. Each party will build dice pools, roll and compare the results. The winner is the person with the highest number of net successes as long as the result is greater than two.
 
 Build a dice pool from Base, Resistance, and Drama dice.
-1. **Base pool** = attribute + skill or background  (capped by the attribute)
+1. **Base pool** = attribute + skill or background 
 2. **Resistance pool** = persistent penalties + situational modifiers
 3. **Drama pool** = risks, dramatic advantages or passions applicable
 
@@ -162,9 +173,11 @@ _Design Goals: To encourage role-playing in line with the characters and story f
 
 A social contest brings together narrative & role-play with skills & context into a complex opposed dice pool test. The scene should be setup by establishing the contest goal, then freeform role-play which brings the major advantages into play. After the role-play reaches an appropriate and dramatic point the pools are calculated and rolled to see the result. Each contest should be resolved in one test, although it is possible to keep the contest going if it is satisfactorily resolves, but the skill checks & advantages & narrative needs to be different in the second round.
 
+[TODO]
+
 ---
 
-# Currency Tests
+# Tests of the Currency Pools
 The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested 
 
 ## Test of the Flesh Pool
@@ -176,14 +189,19 @@ Tested in a Courage Test when receiving a physical or painful injury to resist p
 Any appropriate traits or dramatic advantages could be added to the pool.
 
 - Success: the test is passed 
-- Yes, but: accept a persistent penalty dice to pass the test
+- Yes, but: accept a persistent penalty dice to pass the test or pass out
 - Failed: failed the test and passed out, adding a persistent penalty dice 
+
+Once an actor is passed out, they stay out until at lest the end of the scene. There are circumstance where the actor can recover their senses;
+- Receive medical aid
+- Receive a stimulant which brings them into consciousness
+- By spending a drama point to recover
+
+Waiting from being passed out doesn't change injuries or bleeding conditions.
 
 No double counting: The test only considers the current inflicted wound, as previous wounds will have potentially contributed persistent penalties which will be added into the test anyway.
 - Courage Test
 - Fever & sickness check
-
-[TODO how long are you passed our for?]
 
 ---
 
@@ -356,6 +374,7 @@ Successful resolution will achieve the outcome, in some circumstances due to fai
 > In this case the full outcome provides Training level skill in 'Celestial Mind' and an awareness or faith in the interconnectedness of the celestial and the human condition. This creates a Bond, which is immediately taken and which challenges any bond of faith or religion which exists.  The existing bond of faith or religion must be tested or potentially broken...
 
 > A partial outcome will create the bond and challenge existing bonds of faith without the training.
+
 ---
 
 # **Penalty Dice**
