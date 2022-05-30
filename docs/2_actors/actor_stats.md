@@ -137,10 +137,35 @@ The later age bands apply **nRd** to the rolls for changes in Primary Attributes
 
 See An Actor's Past.
 
-# Social Status
-Depending on the era, social status is more or less important. In early periods social status can be very impactful and important, in later periods social status can reflect opportunity or a reflection of connections and respect.
+# Status
+Depending on the era, status is more or less important. In early periods 'social' status can be very impactful and important, in later periods status can reflect opportunity or a reflection of connections and respect.
 
-An actor's reputation has an additional impact on the actor's social status.
+Status is a reflection of birth, occupation, office or rank and reputation.
+
+# Reputation
+- Notable
+- Notorious
+
+~Each story completed is worth ~5-10 reputation depending on the importance, profile
+
+## Reputation Bands
+| Total Reputation | Description | Min # Stories | Cast Rank | Effect | 
+| :---| :---| :--- |:--- |:--- |
+|0-5 | Little reputation | 1 story | Cast | None|
+| 5-10 | ... | 2 stories| Cameo |  +1 pt status|
+| 10-20 | | 3 stories | Support| +2 pt status|
+| 20-40|| 4 stories | Actor| +4 pt status|
+| 40-70 | | 6 stories | Lead Actor| +6 pt status|
+| 70-120 | | 8 stories | Principal| +8 pt status|
+| 120-180 | | 10 stories | Title Character| +10 pt status|
+| 180+ || 12 stories | Starring Actor| +12 pt status|
+
+[TODO] Reputation is the driver of progression...
+- Maximum of 1 level of rank increased per Year in the Autumn & Winter season
+- 'Distance' reduces status
+
+- Uses of reputation
+- /10 round down into status
 
 ## Late Medieval Social Status
 Social Status is based on a character's family status at birth, their estate and their current office or role.

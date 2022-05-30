@@ -65,6 +65,7 @@ Backgrounds can be a combination of a 'domain' and 'vocation'. They can indicate
 
 | Common Skill | Suggested Attribute(s) | Description |
 | :---|:--- |:--- |
+| Skill | Attribute | ... |
 
 ## Medieval Knowledge or Vocational Skill Examples
 
