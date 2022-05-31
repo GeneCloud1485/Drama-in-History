@@ -143,8 +143,7 @@ Depending on the era, status is more or less important. In early periods 'social
 Status is a reflection of birth, occupation, office or rank and reputation.
 
 # Reputation
-- Notable
-- Notorious
+Total reputation reflects the an actor's notable & notorious acts 
 
 ~Each story completed is worth ~5-10 reputation depending on the importance, profile
 
