@@ -148,6 +148,7 @@ Total reputation reflects the an actor's notable & notorious acts
 ~Each story completed is worth ~5-10 reputation depending on the importance, profile
 
 ## Reputation Bands
+
 | Total Reputation | Description | Min # Stories | Cast Rank | Effect | 
 | :---| :---| :--- |:--- |:--- |
 |0-5 | Little reputation | 1 story | Cast | None|

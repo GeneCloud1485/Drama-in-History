@@ -156,7 +156,9 @@ Training in skills is tracked at five levels; untrained, training, accomplished,
 
 If an age band doesn't provide enough points to elevate a skill to the next level, you can record the progress towards the next skill level and complete it in the next age band.
 
-If this you are recording a new skill, add it to the trained section and note the 1pt invested. The actor can use this skill as if trained, with an additional 1Rd penalty.
+If this you are recording a **new** skill, add it to the trained section and note the 1pt invested. The actor can use this skill as if trained, with an additional 1Rd penalty.
+
+With **existing** skills that are partially advanced to the next level of mastery, keep a record of the points invested but don't move the skill up to the next level until the full amount has been invested.
 
 ### Achieving Mastery
 Once an actor is a Master or Expert in a skill, they may acquire specific bonuses which can be triggered **based on patterns of dice** in the pool results. The benefits provide additional results, bonuses or benefits without changing the rolled dice themselves (i.e. they shouldn't trigger a re-roll of the pool)
@@ -255,18 +257,18 @@ List the main possessions that the actors has available, in keeping with the occ
 - E. Drama Points
 
 ## A. Flesh Currency Pool
-The starting value of 5 + a pool of 5 + 3Bd + 3Rd + 2 times Physical as Dd
+The starting value of 5 + the successes from a pool of 3Bd + 3Rd + 2 times Physical as Dd
 
 > E.g. 5 + 3Bd {4,3,2} = 0 + 3Rd {5,3,2} = -1 + 4Dd {6,4,4,3,1} = 2 which equals a total of 6 Flesh
 
 ## B. Grit Currency Pool
-The starting value of 5 + a pool of5 + 3Bd + 3Rd + 2 times Agility as Dd
+The starting value of 5 + the successes from a pool of 3Bd + 3Rd + 2 times Agility as Dd
 
 ## C. Fortitude Currency Pool
-The starting value of 5 + a pool of 3Bd + 3Rd + 2 times Mental as Dd
+The starting value of 5 + the successes from a pool of 3Bd + 3Rd + 2 times Mental as Dd
 
 ## D. Composure Pool
-The starting value of 5 + a pool of 5 + 2 times number of bonds as Bd + 3Rd + Social as Dd
+The starting value of 5 + the successes from a pool of 2 times number of bonds as Bd + 3Rd + Social as Dd
 
 > E.g. 5 + three bonds 6Bd {6,5,3,3,2,1} = 2 + 3Rd {6,3,2} = -1 + 3Dd {5,4,2} = 2 which equals a total of 8
 
