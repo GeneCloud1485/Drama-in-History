@@ -167,6 +167,10 @@ Possible outcomes;
 
 Momentum is determined by the person who won the 'last round' in a multi-round contest, or who has the highest appropriate attribute, or who has an advantage which can argued to influence the outcome.
 
+The skills chosen don't need to be the same, sometimes the appropriate skill is not the same one that the initiating party is calling up. 
+
+> E.g. an angry woman suddenly attempts to slap an unsuspecting man standing in her way. She uses her Brawling skill and the defender uses awareness to avoid being caught by surprise. [todo - needs some tweaking]
+
 ### *Opposed Social Contests*
 
 _Design Goals: To encourage role-playing in line with the characters and story for mechanical advantages in resolving a complex opposed contest. Imaginative, narrative and dramatic role-play on the part of the players should contribute 50% of the dice pool. In most cases, the NPCs should present brief narrative and character defense, but use their composure pool rather than the GM counter arguing for dice._
@@ -252,6 +256,9 @@ Loss of Fortitude reflects a weakening of the mind, soul, or one's grasp of norm
 - If a character's Fortitude is reduced to **zero** they are taken regarded as deranged, insane, enfeebled and unable to act meaningfully. They will be in this state until their Fortitude recovers a point.
 
 [TODO] Lasting scars - is there a need to have a partial madness from loss in one story?
+-> a negative number of results leads to gaining a Scars 
+
+
 [TODO] risks of recovering from a zero Fort situation? 
 
 [TODO] tracking FORT wounds by wound
