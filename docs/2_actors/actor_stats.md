@@ -52,11 +52,12 @@ When Grit or Composure are reduced to ZERO gain +1 persistent penalty dice. Subs
 - **Drama Point Pool** = the maximum number and current number of Drama Points available to the Actor.
 
 # Actor Level
-Actor level reflects the relative importance or 'experience' of both player and non-player Actors. 
+Actor level reflects the relative importance or 'experience' of both player and non-player Actors.  Player Actors tend to start at the Cameo level rather than Cast.
 
-[TODO advancement rules]
+The greater the actor's reputation the higher the actor level they attain. Actor level represents a general assessment of their importance to stories that are playing out. 
 
-Drama Points gained per Actor level and the likely number of total DP available to each level of actor. Additional Drama Points can also be gained when a new passion is taken, so the individual total of DP will have some variation.
+### Benefits of advancing in Actor Levels
+When an actor advances to a new actor level they gain +1 currency point into either their Grit or Composure max value, and they gain additional Drama Points. The Drama Points gained per Actor level and the likely number of total DP available to each level of actor. 
 
 | Actor Level | Points Gained | Expected Total |
 |:---|:---|:---|
@@ -69,6 +70,8 @@ Drama Points gained per Actor level and the likely number of total DP available 
 | Title Character | + 3 DP | 16 DP |
 | Starring Actor | + 3 DP | 19 DP |
 | Director | + 3 DP | 22 DP |
+
+Additional Drama Points can also be gained when a new dramatic passion is taken, and so an individual's total of DP will have some variation from this table.
 
 See Drama Points for more information on the use of the currency.
 

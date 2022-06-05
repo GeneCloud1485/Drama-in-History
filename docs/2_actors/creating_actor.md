@@ -84,18 +84,18 @@ To develop your actor's background follow each of the following steps for **each
 
 ## A.  Additional Attribute Points
 
-|Age Band|Which Attributes|Fixed|Risk|Base|Aging P or A|Age M or S|
+|Age Band|Which Attributes|Fixed Value|nBd Base|nDd Drama|nRd Aging P or A|nRd Age M or S|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Child|PAMS|3|2Dd|0|||
-|Juvenile|PAMS|3|2Dd|0|||
-|Youth|PAMS|2|1Dd|1Bd|1Rd||
-|Prime|PAMS|1|1Dd|1Bd|1Rd||
-|Adult|PAMS|1|0|1Bd|2Rd||
-|Mature|PAMS|0|0|1Bd|2Rd|1Rd|
-|Veteran|MS|0|0|1Bd|2Rd|1Rd|
-|Senior|MS|0|0|1Bd|3Rd|2Rd|
-|Aged|MS|0|0|1Bd|4Rd|2Rd|
-|Elderly| | | | |4Rd|4Rd|
+|Child|PAMS|3|0|2Dd|||
+|Juvenile|PAMS|3|0|2Dd|||
+|Youth|PAMS|2|1Bd|1Dd|1Rd||
+|Prime|PAMS|1|1Bd|1Dd|1Rd||
+|Adult|PAMS|1|1Bd|0|2Rd||
+|Mature|PAMS|0|1Bd|0|2Rd|1Rd|
+|Veteran|MS|0|1Bd|0|2Rd|1Rd|
+|Senior|MS|0|1Bd|0|3Rd|2Rd|
+|Aged|MS|0|1Bd|0|4Rd|2Rd|
+|Elderly|-| 0| 0|0|4Rd|4Rd|
 
 ## B. Assign Point to Attributes
 Costs to increase an attribute by a point
