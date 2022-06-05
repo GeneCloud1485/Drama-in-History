@@ -6,7 +6,10 @@ layout: default
 [Back to the Index](https://genecloud1485.github.io/Drama-in-History/)
 
 # Creating Your Actor
-[TODO - explanation of sequence here...]
+> Design goals: to build characters that have rich and interesting personalities and backgrounds. The approach is to build the actor in layers, taking blocks of time that represent their past in turn and building up the attributes, skills and personality details along that journey. The character and story of the actor is revealed as the layers are added on the base. 
+
+Step tone is to set the tone for the character's life by looking at their formative years, and then working through each age band through to the actor's current age. You can create young or old characters this way, and each will have a basic journey and backstory developed at the end of the process. There is plenty of room to embellish and add to the actor's narrative as you work through the bands.
+
 1. Choose some key factors that made up your actor's **formative years**.
 2. Establish their initial **Boon & Flaw**
 3. Choose a **favored and dis-favored** attribute
@@ -220,12 +223,19 @@ Scars and Strengths are two sides of the same coin, moments which have left a la
   A **Strength** **will contribute  nBd base dice** in situations which benefit from the actor's strength.
 
 ### Dramatic Passions
-Dramatic passions are deeply held, and sometimes are overwhelming but always core to a person's actions. Gaining a dramatic passion is usually the result of an event, situation or consequence of role playing. 
+Dramatic passions are deeply held, and sometimes overwhelming but always core to an actor's decision and actions. A dramatic passion can be established during the actor creation process, or can be taken during play.
 
-[todo add gaining a passion]
+The opportunity to gain a dramatic passion is usually the result of a situation, event or meeting, and should be the consequence of role play and player interest. The taking of a passion should be initiated by the Actor, but needs the Director's agreement.
 
-A person can have **up to** THREE different dramatic passions, each is rated as a Passion (2Dd), Strong Passion (3Dd) or an Intense Passion (4Dd).
-When called upon in support of an action or test, Passions are added as Drama dice (nDd) and are rolled as part of the Drama Pool.
+> E.g A young woman, recently spurned in love, meets an attentive, charismatic older man at a party. The player decides that sparks fly and she is swept up in a passionate attraction to the man. The Actor and Director agree, and they take a passion for the man.
+
+A person can have **up to** THREE different dramatic passions, each is rated as a Passion (2Dd), Strong Passion (3Dd) or an Intense Passion (4Dd). When called upon in support of an action or test, Passions are added as Drama dice (nDd) and are rolled as part of the Drama Pool. Passions can be called on a limited number of times per story.
+
+| Passion | Drama nDd | Times per Story |
+| :---| :---: | :---:|
+| Passion | 2Dd | 2|
+| Strong Passion | 3Dd | 3 | 
+| Intense Passion | 4Dd | 4 |
 
 ### Dramatic Actions
 [TODO]
