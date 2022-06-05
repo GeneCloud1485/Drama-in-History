@@ -98,8 +98,8 @@ To develop your actor's background follow each of the following steps for **each
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Child|PAMS|3|0|2Dd|||
 |Juvenile|PAMS|3|0|2Dd|||
-|Youth|PAMS|2|1Bd|1Dd|1Rd||
-|Prime|PAMS|1|1Bd|1Dd|1Rd||
+|Youth|PAMS|2|1Bd|2Dd|1Rd||
+|Prime|PAMS|1|1Bd|0|1Rd||
 |Adult|PAMS|1|1Bd|0|2Rd||
 |Mature|PAMS|0|1Bd|0|2Rd|1Rd|
 |Veteran|MS|0|1Bd|0|2Rd|1Rd|
