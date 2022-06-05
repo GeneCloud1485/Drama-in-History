@@ -20,7 +20,7 @@ The 1st two age bands, baby & child, which take your actor through to age 10. Th
 1. Choose a family context - father & mother's position, status, standing, relative wealth and family outline.
 2. Choose Urban or Country life as the 1st background 
 3. Decide on your actor's 'Start in Life' that is in keeping with the family background and your character concept. Were their early years;
-	3. Worldly, Secular or Pastoral? <- so what?
+	3. Religious, Secular or Pastoral? <- so what?
 	4. Rich or Poor?  - determines the tone of your childhood <- so what?
 	5. Loving, dramatic, hated or insignificant?  - establish a childhood bond, or add a scar?
 	6. Uneducated or Educated? - If educated roll 8Bd each success is a skill point of basic knowledge skills. If uneducated roll 8Bd each success is a common skill point.
@@ -210,7 +210,10 @@ Scars and Strengths are two sides of the same coin, moments which have left a la
   A **Strength** **will contribute  nBd base dice** in situations which benefit from the actor's strength.
 
 ### Dramatic Passions
-Dramatic passions are deeply held, sometimes are overwhelming and always core to a person's actions. Gaining a dramatic passion is usually the result of an event, situation or consequence of role playing. 
+Dramatic passions are deeply held, and sometimes are overwhelming but always core to a person's actions. Gaining a dramatic passion is usually the result of an event, situation or consequence of role playing. 
+
+[todo add gaining a passion]
+
 A person can have **up to** THREE different dramatic passions, each is rated as a Passion (2Dd), Strong Passion (3Dd) or an Intense Passion (4Dd).
 When called upon in support of an action or test, Passions are added as Drama dice (nDd) and are rolled as part of the Drama Pool.
 

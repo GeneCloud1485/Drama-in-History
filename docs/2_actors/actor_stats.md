@@ -62,7 +62,7 @@ Drama Points gained per Actor level and the likely number of total DP available 
 |:---|:---|:---|
 | Cast | 0 DP | 0 DP |
 | Cameo | + 1 DP | 1 DP |
-| Support | + 3 DP | 4DP |
+| Support | + 3 DP | 4 DP |
 | Actor | + 3 DP | 7 DP |
 | Lead Actor | + 3 DP | 10 DP |
 | Principal | + 3 DP | 13 DP |
@@ -162,10 +162,9 @@ Total reputation reflects the an actor's notable & notorious acts
 
 [TODO] Reputation is the driver of progression...
 - Maximum of 1 level of rank increased per Year in the Autumn & Winter season
-- 'Distance' reduces status
 
-- Uses of reputation
-- /10 round down into status
+
+- 'Distance' impact the benefit of reputation.
 
 ## Late Medieval Social Status
 Social Status is based on a character's family status at birth, their estate and their current office or role.
