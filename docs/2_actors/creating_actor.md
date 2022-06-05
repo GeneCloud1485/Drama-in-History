@@ -17,16 +17,26 @@ layout: default
 # 1. Formative Years
 The 1st two age bands, baby & child, which take your actor through to age 10. This will deal with your family situation and early years, customized to be in keeping with the game setting, period, and Director's guidance.
 
-1. Choose a family context - father & mother's position, status, standing, relative wealth and family outline.
-2. Choose Urban or Country life as the 1st background 
-3. Decide on your actor's 'Start in Life' that is in keeping with the family background and your character concept. Were their early years;
-	3. Religious, Secular or Pastoral? <- so what?
-	4. Rich or Poor?  - determines the tone of your childhood <- so what?
-	5. Loving, dramatic, hated or insignificant?  - establish a childhood bond, or add a scar?
-	6. Uneducated or Educated? - If educated roll 8Bd each success is a skill point of basic knowledge skills. If uneducated roll 8Bd each success is a common skill point.
-	7. Healthy or Sickly - test your luck (roll 6Bd and 6Rd), if net result is a positive +1 to an attribute, if negative then -1 to an attribute otherwise no effect.
-4. Roll for and allocate the core attribute points
-	1. Allocate 3 + net successes from 2Dd to the core attributes
+- Choose a family context
+	- Father & mother's position, status, standing, relative wealth and family outline.
+- Choose Urban or Country life as the 1st background 
+- Decide on a 'Start in Life' that is in keeping with the family background and your character concept. Were their early years;
+	- Religious, Secular or Pastoral?
+		- Establish if faith is important in your actor's life, create an appropriate bond
+	- Rich or Poor?
+		- Does this situation impact the actor's personality and thinking? Is money a goal? 
+	- Is the actor's life considered loving, dramatic, hated or insignificant?  
+		- Establish a childhood bond, or add a scar, or lifetime goal
+	- Are they Uneducated or Educated?
+		- If educated roll 8Bd each success is a skill point of basic knowledge skills. 
+		- If uneducated roll 8Bd each success is a common skill point.
+	- Healthy or Sickly
+		- Test your luck (roll 6Bd and 6Rd)
+		- If net result is a positive +1 to an attribute
+		- If negative then -1 to an attribute otherwise no effect.
+		- Use the level of success to add their narrative 
+- Roll for and allocate the core attribute points
+	- Allocate 3 + net successes from 2Dd to the core attributes
 
 > E.g. 3 + 2Dd {4,2} = 4 net successes. Allocated 1 to Physical, none to Agility, 1 to Mental, and 2 to Social
 
