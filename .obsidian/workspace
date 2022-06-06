@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "c4023b9fedbc4df7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/2_actors/actor_stats.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"

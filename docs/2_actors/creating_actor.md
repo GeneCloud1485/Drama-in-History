@@ -14,7 +14,7 @@ Step tone is to set the tone for the character's life by looking at their format
 2. Establish their initial **Boon & Flaw**
 3. Choose a **favored and dis-favored** attribute
 4. Decide on the actor's **current age** and background
-5. Work through the **actor's past** up to their current age
+5. Work through the **actor's past** up to their current age - repeat this stage for each age band until you reach the actor's current age band.
 6. Generate the **currency** pools
 
 # 1. Formative Years
@@ -86,37 +86,52 @@ Choose a current age for your actor, and mark which age bands are part of their 
 Agree with the director the background for your actor.
 
 # 5. An Actor's Past
-To develop your actor's background follow each of the following steps for **each of the age bands up to their current one**. Starting with the age band after 'Child' up to the current age band, follow these steps;
+To develop your actor's background follow each of the following steps for **each of the age bands up to their current one**. Starting with the Juvenile age band, repeat this stage until you complete the current age band. Follow these steps;
 - A.  Roll for the addition or loss of core attribute points
 - B. Assign these points, remembering to take into account your favored and dis-favored attributes
 - C. Decide on a background
 - D. Calculate the skill points
 - E. Spend those skill points on skill
-- F. Decide if there are any major or narrative events which happened during this period, generate bonds, traits, dramatic advantages or create scars or strengths accordingly.
-- G. Agree on their current situation, occupation and location. Use this to determine their **starting resources** including their social status.
+- F. Decide if there are any major or narrative events which happened during this period. Use this to agree with the Director on their reputation, bonds generated, traits, or create scars or strengths accordingly.
+- G. If appropriate increase the actor level and apply the benefits of increase an actor level.
 
 ## A.  Additional Attribute Points
+For the age band, add the **net success results** of a dice poo to any fixed value and spend those points on increasing or reducing attributes. Any attribute can be increased for age bands through Mature, after that only Mental or Social can be improved.
 
-|Age Band|Which Attributes|Fixed Value|nBd Base|nDd Drama|nRd Aging P or A|nRd Age M or S|
+The dice pool is built using the base, resistance and drama dice from the table below, using the row for the age band being calculated. The resistance checks reflect the consequence of aging or sickness, and are tested for Physical/Agility or Mental/Social attributes separately.
+
+|Age Band|Which Attributes|Fixed Value|nBd Base|nRd Aging P or A|nRd Aging M or S|nDd Drama|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Child|PAMS|3|0|2Dd|||
-|Juvenile|PAMS|3|0|2Dd|||
-|Youth|PAMS|2|1Bd|2Dd|1Rd||
-|Prime|PAMS|1|1Bd|0|1Rd||
-|Adult|PAMS|1|1Bd|0|2Rd||
-|Mature|PAMS|0|1Bd|0|2Rd|1Rd|
-|Veteran|MS|0|1Bd|0|2Rd|1Rd|
-|Senior|MS|0|1Bd|0|3Rd|2Rd|
-|Aged|MS|0|1Bd|0|4Rd|2Rd|
-|Elderly|-| 0| 0|0|4Rd|4Rd|
+|Child|PAMS|3|0|||2Dd|
+|Juvenile|PAMS|3|0|||2Dd|
+|Youth|PAMS|2|1Bd|1Rd||1Dd|
+|Prime|PAMS|1|2Bd|1Rd||0|
+|Adult|PAMS|1|1Bd|2Rd||0|
+|Mature|PAMS|0|1Bd|2Rd|1Rd|0|
+|Veteran|MS|0|1Bd|2Rd|1Rd|0|
+|Senior|MS|0|1Bd|3Rd|2Rd|0|
+|Aged|MS|0|1Bd|4Rd|2Rd|0|
+|Elderly|-| 0| 0|4Rd|4Rd|0|
+
+> E.g. Juvenile = 3 + 2Dd {6,4,2} for a total of 5 pts
+
+> or Veteran = 0 + 1Bd {4} + 2Rd {4,3} + 1Rd {2} for a loss of 1 pt, which should reduced either Mental or Social
 
 ## B. Assign Point to Attributes
-Costs to increase an attribute by a point
+The cost to increase an attribute by a point is determined by level of the new attribute value, and modified if favored or dis-favored
 
 |Normal| Favored | Dis-favored|
 |---|---|---|
 | 1-4 = 1 pt | 1-5 = 1pt | 1-3 = 1 pt |
 | 5+ = 2 pts | 6+ = 2 pts | 4+ = 2 pts |
+
+> E.g. Raising Physical from 3 to 4 costs 1 pt unless it is the dis-favored attribute, in which case it would cost 2 pts
+
+Attributes of 5+ are superior, and attributes of 0 or less represent a significant weakness. Any attribute which reaches -3 represents an incapacity and the actor is retired.
+
+Reducing an attribute always costs 1 point, regardless of the level of the attribute.
+
+> E.g Raising a favored Social from 5 to 6 would cost 2 pts but 4 would only cost 1 pt to drop it back from 6 to 5 as a result of aging.
 
 ## C. Decide on a Background for the Age Band
 For each Age Band choose how your Actor spent the focus of their time during this Age Band.
@@ -127,9 +142,9 @@ A background provides a summary of the main occupation or emphasis of a period o
 ## D. Calculate Skill Points & Skills Available
 There are three sources of skill points; from life's general lessons, from vocational opportunities or through academic study. Skills points are only gained from Juvenile to Veteran.
 
-1. Life's lessons, each year that passes in an age band provides one point to be used on common skills.
-2. Vocational opportunities, each years of an age band provides one point to be use on common or vocational skills
-3. Optional academic study, is limited to total of three age bands and provides ten points per age band.
+1. Life's lessons, **each year that passes** in an age band provides **one point** to be used on common skills.
+2. Vocational opportunities, each year of an age band provides **one point** to be use on common or vocational skills
+3. Optional academic study, is limited to total of three age bands and provides **ten points per age band** to be spent on academic knowledge skills.
 
 ### Developing Common Skills
 Everyone can learn, practice or improve their training level in common skills, no particular background situation is required to progress.
@@ -197,9 +212,9 @@ People are complex and varied, capturing and describing their personality and mo
 - Goals
 
 ### Guiding Traits
-Up to three guiding traits are recorded to help define a characters personality and approach to life. The traits can contribute mechanically to situations, but are **mostly** used to guide and drive role playing, decision making and consistent action. 
+Up to three guiding traits are recorded to help define a characters personality and approach to life. The traits can on occasions contribute mechanically to situations, but are **mostly** used to guide and drive role playing, decision making and consistent action. 
 
-[Primary trait is the single most dominant trait and can apply +3Bd dice to a pool when directly applicable. Secondary 2Bd and Tertiary 1Bd add more depth and color to a character's personality. - TODO, dial traits out of the mix?]
+Primary trait is the actor's dominant trait, and when directly appropriate can apply +2Bd dice to a pool. Secondary and Tertiary are to add more depth and color to a character's personality, without mechanical benefit.
 
 Example traits;
 
@@ -237,10 +252,14 @@ A person can have **up to** THREE different dramatic passions, each is rated as 
 | Strong Passion | 3Dd | 3 | 
 | Intense Passion | 4Dd | 4 |
 
+[TODO] creating dice patterns which represent 'dramatic' outcomes the passion is used
+
 ### Dramatic Actions
+When an actor advances in Actor Level they can gain an additional dramatic action.
+Starting DA
+Gaining DA in play?
+
 [TODO]
-- Spend DA to trigger an action
-- Gain a dice pattern and special outcome (for combat especially)
 
 ### Bonds
 Bonds represent the strong, re-assuring connections, faith and relationships that influence people's personality and choices. A bond provides a strength which can be used in support or against appropriate situations, providing positive dice. 
@@ -255,22 +274,15 @@ Bonds are forged around connections which can be relied on. Normal subjects incl
 
 When a Bond is gained or recognized, it can contribute to a person’s Composure. When a Bond is broken, it can also reduce Composure.
 
-### Goals
-Record a goal which represents an initial objective or desire for the actor. This will likely expand with play.
+### Current Goals
+Try to set a dominant, life defining goal and spine of the the actor's motivations. This goal should be an itch that will be very hard to scratch, and something which will influence the actors choices for good or bad. The goal should create opportunities for drama, conflict and struggle in their story.
 
-## G. Starting Resources
-- Calculate the actor's Social Status
-- Connections
-- Occupation
-- Era specific resources and possessions
+> E.g. To find a reason for life, or see justice and peace prevail, or seeking parent's approval, prove their self-worth, to be unconditionally loved, to be the best.
 
-Calculate the actor's current Social Status.
+Add any supporting, shorter term goals which represents an initial objective or desire for the actor. This will likely expand with play.
 
-Add in a few key contacts and connections that the actor has. These people can provide contacts or resources in the future.
+> E.g. Solve the case and get the recognition, get enough money to buy a race horse, survive the upcoming battle
 
-> E.g The number of Social Connections or 'followers' currency in a modern cyberpunk setting
-
-List the main possessions that the actors has available, in keeping with the occupation, social status and situation. This may be a discussion with the Director.
 
 # 6. Generate the Currency Pools
 - A. Flesh
@@ -300,7 +312,21 @@ Actor level determines the basic number of drama points for the pool. For each p
 
 > E.g. A supporting actor has a single passion, they have a total of 5 drama points, 4 from being a supporting actor and 1 for their passion.
 
+## E. Starting Resources
+Agree on their current situation, occupation and location. Use this to determine their **starting resources** including their social status.
 
+- Calculate the actor's Social Status
+- List major connections
+- Occupation
+- Era specific resources and possessions
+
+Calculate the actor's current Status (or social status depending on the era.
+
+Add in a few key contacts and connections that the actor has. These people can provide contacts or resources in the future.
+
+> E.g The number of Social Connections or 'followers' currency in a modern cyberpunk setting
+
+List the main possessions that the actors has available, in keeping with the occupation, social status and situation. This may be a discussion with the Director.
 
 # Reference
 [Actor Character Sheet](https://docs.google.com/spreadsheets/d/1MlQemuFafaUU84K-_Nkapsf_nrYnwLPwuweegK_m68A/edit?usp=sharing)

@@ -20,8 +20,8 @@ Four attributes are the basis of the characters statistical description and prov
 Each attribute from -3 up to 8
 
 -   -3 represents total incapacity and retirement 
--   0 or less represent a significant weakness or disability
--   1 is a weakness
+-   0 or less represents a significant weakness or disability
+-   1 is below average and a weakness
 -   2 represents average
 -   3-4 is above average or good talent
 -   5 is superior
@@ -57,32 +57,36 @@ Actor level reflects the relative importance or 'experience' of both player and 
 The greater the actor's reputation the higher the actor level they attain. Actor level represents a general assessment of their importance to stories that are playing out. 
 
 ### Benefits of advancing in Actor Levels
-When an actor advances to a new actor level they gain +1 currency point into either their Grit or Composure max value, and they gain additional Drama Points. The Drama Points gained per Actor level and the likely number of total DP available to each level of actor. 
+When an actor advances to a new actor level they gain +1 currency point into either their Grit or Composure max value, they gain additional Drama Points, and at some levels gain a new Dramatic Action. 
 
-| Actor Level | Points Gained | Expected Total |
-|:---|:---|:---|
-| Cast | 0 DP | 0 DP |
-| Cameo | + 1 DP | 1 DP |
-| Support | + 3 DP | 4 DP |
-| Actor | + 3 DP | 7 DP |
-| Lead Actor | + 3 DP | 10 DP |
-| Principal | + 3 DP | 13 DP |
-| Title Character | + 3 DP | 16 DP |
-| Starring Actor | + 3 DP | 19 DP |
-| Director | + 3 DP | 22 DP |
+| Actor Level | Points Gained | Expected Total | Dramatic Actions |
+|:---|:---:|:---:|:---:|
+| Cast | 0 DP | 0 DP ||
+| Cameo | + 1 DP | 1 DP ||
+| Support | + 3 DP | 4 DP |+1|
+| Actor | + 3 DP | 7 DP |+1|
+| Lead Actor | + 3 DP | 10 DP |+1|
+| Principal | + 3 DP | 13 DP |+1|
+| Title Character | + 3 DP | 16 DP |+1|
+| Starring Actor | + 3 DP | 19 DP |+1|
+| Director | + 3 DP | 22 DP |+1|
 
 Additional Drama Points can also be gained when a new dramatic passion is taken, and so an individual's total of DP will have some variation from this table.
 
 See Drama Points for more information on the use of the currency.
 
 # Drama Points
-Drama points can be spent to take a dramatic risk, call on an advantage or to take advantage of an opportunity that presents itself (in the dice pool result). Drama points are a persistent currency pool, and spending them reduces the pool until the end of the **Season** when they recover. It is possible to recover Drama Points during play at the Director's discretion as a reward for dramatic outcomes, great RP or to keep the game flowing.
+Drama points can be spent to call on a dramatic action or an advantage or to take advantage of an opportunity that presents itself (in the dice pool result). Drama points are a persistent currency pool, and spending them reduces the pool until the end of the **Season** when they recover. It is possible to recover Drama Points during play at the Director's discretion as a reward for dramatic outcomes, great RP or to keep the game flowing.
+
 A Drama Point can be spent to add to the drama pool;
-- +1Dd for a simple bonus where no appropriate advantages, skills or backgrounds to connect to the event
-- +2Dd if there is an interesting 'narratively' or dramatic risk related to a specific skill or background that the actor has. 
-- +3Dd + specific outcome if the Actor has a listed dramatic advantage
+- +1Dd for a simple bonus where **no** appropriate advantages, skills or backgrounds to connect to the event
+- +2Dd if there is an interesting drama/narrative connection, or related to a specific skill or background that the actor has. 
+- +3Dd plus a specific benefit or outcome beyond the dice pool, if the Actor has a specific listed dramatic advantage
+
 Or to take advantage of a situation;
-- To convert one rolled base dice (Bd) '4' result into a '5' and therefore a success. This is can be chosen after the dice pool has been rolled.
+- To convert **one** rolled base dice (Bd) '4' result into a '5' and therefore a success. This is can be chosen **after the dice pool has been rolled**. The '4' still counts as a '4' for the dice pool result pattern matching.
+
+> E.g. an actor in a very challenging test have initially come up short with zero net successes. They mastery of the skill, and rolled triple 4's which provides +1 success, they decide to spend a drama point to upgrade one of the '4' into a '5' to gain additional +1. Converting the '4' doesn't break the triple, and they achieve a net two success and succeed.
 
 # Penalty Dice
 Penalty dice represent the persistent but temporary stress, pressure or disadvantages that an actor is suffering from. They can be gained as a result of a number of actions or outcomes, and can be recovered by rest without the cause of stress.
