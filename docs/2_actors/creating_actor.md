@@ -54,7 +54,7 @@ Roll 2d6 for a Boon, read horizontally for the 1st die result and vertically for
 | ... | 1 | 2 | 3 | 4 | 5 | 6 |
 | 1 | Strong as an Ox +1 Phy | Perfect Balance +1 Agl | Quick Witted +1 Mnt | Charismatic +1 Soc | Honest & Fair | Inured to Death |
 | 2 | Brawler (DA) | Steady Hand (DA) | Scholarly Mind (DA) | Extravert (DA) | Abstaining | Strength: Disease |
-|3 | Striking feature +1 Soc | Keen eyesight (DA) | Good memory for stories (DA) | Empathy (DA) | Shrewd | Strength: Pain |
+|3 | Striking feature +1 Soc | Healthy -2 Aging | Good memory for stories (DA) | Empathy (DA) | Shrewd | Strength: Pain |
 | 4 | Tough looking (DA) | Natural Horseman (DA) | Silver Tongue (DA) | Heard word of God, +Religious | Humble | Strength: phobia |
 | 5 | Great Stamina, ignore 1Pen | Acute Hearing (DA) | Natural Linguist (DA) | Judge of Character (DA) | Forgiving | Social Strength Confident in a crowd |
 | 6 | Resilient +1 Flesh | Quick +2 Grit | Strong Fortitude +1 | Calm Composure +2 | Generous | Strength...|
@@ -68,7 +68,7 @@ Roll 2d6 for a Flaw
 | 1 | Weak constitution -1Phy | Clumsy -1Agl | Slow witted -1Mnt | Displeasing demeanor -1Soc | Untrustworthy | Scar: Death |
 | 2 | Physical impairment | Partially sighted 2Rd for distance | Dsylexic 2Rd written tasks | Gruff/Rude 2Rd on social tests | Indulgent | Scar: Disease |
 | 3 | Weak Grip 2Rd Melee wpn skill | Two left feet 2Rd dance skills | Bad with numbers 2Rd | Illicit Love (bond) | Brash | Scar: Ghosts |
-| 4 | Strikingly unpleasant feature +5 Rep | Poor balance 2Rd | Unhealthy obsession (passion) | Scar: Religion | Proud | Scar: Phobia |
+| 4 | Persistent sickness, aging +2 | Poor balance 2Rd | Unhealthy obsession (passion) | Scar: Religion | Proud | Scar: Phobia |
 | 5 | Quick to bleed, lose additional Flesh on any wounds | Slow -2 Grit | Unstable -1 Fort | Nervous -2 Composure | Cruel | Scar: Introvert |
 | 6 | Phlegmatic 2Rd phy skills | Choleric 2Rd Agl skills | Melancholic 2Rd Mnt skills | Bleak humor 2Rd Soc skills | Greedy | Harboring a dark secret |
 
@@ -87,18 +87,52 @@ Agree with the director the background for your actor.
 
 # 5. An Actor's Past
 To develop your actor's background follow each of the following steps for **each of the age bands up to their current one**. Starting with the Juvenile age band, repeat this stage until you complete the current age band. Follow these steps;
-- A.  Roll for the addition or loss of core attribute points
-- B. Assign these points, remembering to take into account your favored and dis-favored attributes
-- C. Decide on a background
-- D. Calculate the skill points
-- E. Spend those skill points on skill
-- F. Decide if there are any major or narrative events which happened during this period. Use this to agree with the Director on their reputation, bonds generated, traits, or create scars or strengths accordingly.
-- G. If appropriate increase the actor level and apply the benefits of increase an actor level.
+- A. Check for the effects of Aging
+- B.  Roll for the addition or loss of core attribute points
+- C. Assign these points, remembering to take into account your favored and dis-favored attributes
+- D. Decide on a background
+- E. Calculate the skill points
+- F. Spend those skill points on skill
+- G. Decide if there are any major or narrative events which happened during this period. Use this to agree with the Director on their reputation, bonds generated, traits, or create scars or strengths accordingly.
+- H. If appropriate increase the actor level and apply the benefits of increase an actor level.
 
-## A.  Additional Attribute Points
-For the age band, add the **net success results** of a dice poo to any fixed value and spend those points on increasing or reducing attributes. Any attribute can be increased for age bands through Mature, after that only Mental or Social can be improved.
+## A. Check for the Effects of Aging 
+The first step is to check for the effects of aging. The Aging currency reflects how likely the actor is to suffer from serious illness which impacts their attributes. The older the actor the more likely they are to see a reduction in attributes below zero.
 
-The dice pool is built using the base, resistance and drama dice from the table below, using the row for the age band being calculated. The resistance checks reflect the consequence of aging or sickness, and are tested for Physical/Agility or Mental/Social attributes separately.
+Aging starts at 0 for all age bands through Prime, unless a childhood illness increased the starting Aging currency value. For the Adult and for each subsequent age band 1 is added the Aging value.
+
+- Roll 6Bd + Aging as Rd, with the result having the following effect;
+
+| Net Level of Success| Effect |
+| :---| :---|
+| 0 | Additional +1 to Aging | 
+| -1 or less | Loss of attribute = level of success, and +1 Aging|
+
+> E.g. An actor hitting the Mature age band has an Aging of 2, they roll 6Bd {5,5,3,2,2,1} and 2Rd {6,1} for a net 1 level of success, and no additional aging effects.
+
+When an attribute loss is rolled,  use the width of the positive roll to determine which attribute;
+
+| Width | Attribute | 
+| :--- | :--- |
+| 6 | Physical |
+| 5 | Physical |
+|4 | Physical | 
+| 3 | Agility |
+| 2 | Mental | 
+| 1 | Social | 
+
+Attribute loss through aging can take the attribute below zero. If an attribute reaches -3 the actor has to retire.
+
+> E.g. An actor reaching Senior has an Aging of 6 (4 + 2 from prior effects of aging rolls), they roll 6Bd {6,6,5,3,1,1} and 7 Rd {5,4,2,2,1,1} for a net -1. This adds an additional 1 to their Aging currency, and lose 1 point of Physical. The attribute is determined by looking at the base dice result and seeing which number has the widest result i.e. the most of that number. In this case two '6's are the widest. It tied, take the highest.
+
+A Drama Point permanently deducted from Max Drama Points can be used to offset each point of attribute loss due to aging.
+
+## b.  Additional Attribute Points
+For the age band, add the **net success results** of a dice pool to any fixed value and spend those points on increasing or reducing attributes. Any attribute can be increased for age bands through Mature, after that only Mental or Social can be improved.
+
+The dice pool is built using the base, resistance and drama dice from the table below, based on the row for the age band being calculated.
+
+When reducing attributes, **ignore any reduction below zero** due this step of generating an Actor's past. [TODO - knock on from adding in aging, can you choose to target an attribute at 0 to avoid a penalty? or should you have to take it if you can?]
 
 |Age Band|Which Attributes|Fixed Value|nBd Base|nRd Aging P or A|nRd Aging M or S|nDd Drama|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -106,18 +140,18 @@ The dice pool is built using the base, resistance and drama dice from the table 
 |Juvenile|PAMS|3|0|||2Dd|
 |Youth|PAMS|2|1Bd|1Rd||1Dd|
 |Prime|PAMS|1|2Bd|1Rd||0|
-|Adult|PAMS|1|1Bd|2Rd||0|
-|Mature|PAMS|0|1Bd|2Rd|1Rd|0|
-|Veteran|MS|0|1Bd|2Rd|1Rd|0|
+|Adult|PAMS|1|2Bd|2Rd||0|
+|Mature|PAMS|0|2Bd|2Rd|1Rd|0|
+|Veteran|MS|0|2Bd|2Rd|1Rd|0|
 |Senior|MS|0|1Bd|3Rd|2Rd|0|
 |Aged|MS|0|1Bd|4Rd|2Rd|0|
 |Elderly|-| 0| 0|4Rd|4Rd|0|
 
 > E.g. Juvenile = 3 + 2Dd {6,4,2} for a total of 5 pts
 
-> or Veteran = 0 + 1Bd {4} + 2Rd {4,3} + 1Rd {2} for a loss of 1 pt, which should reduced either Mental or Social
+> or Veteran = 0 + 2Bd {4,4} + 2Rd {4,2} + 1Rd {2} for a loss of 1 pt, which should reduced either Mental or Social
 
-## B. Assign Point to Attributes
+## C. Assign Point to Attributes
 The cost to increase an attribute by a point is determined by level of the new attribute value, and modified if favored or dis-favored
 
 |Normal| Favored | Dis-favored|
@@ -133,13 +167,13 @@ Reducing an attribute always costs 1 point, regardless of the level of the attri
 
 > E.g Raising a favored Social from 5 to 6 would cost 2 pts but 4 would only cost 1 pt to drop it back from 6 to 5 as a result of aging.
 
-## C. Decide on a Background for the Age Band
+## D. Decide on a Background for the Age Band
 For each Age Band choose how your Actor spent the focus of their time during this Age Band.
 
 ### Background
 A background provides a summary of the main occupation or emphasis of a period of time in the actor's past.
 
-## D. Calculate Skill Points & Skills Available
+## E. Calculate Skill Points & Skills Available
 There are three sources of skill points; from life's general lessons, from vocational opportunities or through academic study. Skills points are only gained from Juvenile to Veteran.
 
 1. Life's lessons, **each year that passes** in an age band provides **one point** to be used on common skills.
@@ -167,7 +201,7 @@ Up to **three 'academic' age bands** can be spent in intense study during an Act
 
 > E.g. An actor in the prime of their life attends university, they will receive 5 common skill points, and 15 knowledge skill points from academic study.
 
-## E. Spend Skill Points on Skills
+## F. Spend Skill Points on Skills
 Skill points should be spent on skills which are reasonably associated with the background, opportunities and the Actor's career path(s). An amount of flexibility and freedom can be allowed here, following the spirit of developing skills which would be available to the actor.
 
 Training in skills is tracked at five levels; untrained, training, accomplished, master and expert. An actor must spent points to move from one training level to the next level.
@@ -202,7 +236,7 @@ For each skill that they are an expert in they gain;
 ### Example Skill Lists
 [Link to Example Skill Lists](/docs/2_actors/skill_list.md)
 
-## F. Adding Personality
+## G. Adding Personality
 People are complex and varied, capturing and describing their personality and motivations is done through a matrix of definitions.
 
 - Guiding Traits
@@ -284,12 +318,16 @@ Add any supporting, shorter term goals which represents an initial objective or 
 > E.g. Solve the case and get the recognition, get enough money to buy a race horse, survive the upcoming battle
 
 
+## H. Advance the Actor Level if appropriate
+[TODO]
+
 # 6. Generate the Currency Pools
 - A. Flesh
 - B. Grit
 - C. Fortitude
 - D. Composure
 - E. Drama Points
+- F. Starting Resources
 
 ## A. Flesh Currency Pool
 The starting value of 5 + the successes from a pool of 3Bd + 3Rd + 2 times Physical as Dd
@@ -312,7 +350,7 @@ Actor level determines the basic number of drama points for the pool. For each p
 
 > E.g. A supporting actor has a single passion, they have a total of 5 drama points, 4 from being a supporting actor and 1 for their passion.
 
-## E. Starting Resources
+## F. Starting Resources
 Agree on their current situation, occupation and location. Use this to determine their **starting resources** including their social status.
 
 - Calculate the actor's Social Status

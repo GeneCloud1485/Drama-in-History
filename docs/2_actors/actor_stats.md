@@ -17,7 +17,7 @@ Four attributes are the basis of the characters statistical description and prov
 -   **Mental** (Mnt)
 -   **Social** (Soc)
 
-Each attribute from -3 up to 8
+Each attribute can range from -3 up to 8
 
 -   -3 represents total incapacity and retirement 
 -   0 or less represents a significant weakness or disability
@@ -140,9 +140,11 @@ The age ranges can change depending on the era of the game, but the names of the
 |Elderly|(60+)|(65+)|(75+)|
 
 # Aging
-The later age bands apply **nRd** to the rolls for changes in Primary Attributes with the possibility of reducing the Actor's core attributes with time.
+Aging tends to reduce the Primary Attributes to zero, and creates the possibility of sickness reducing the Actor's core attributes below zero with the possibility of becoming infirm to the the point of retirement.
 
-See An Actor's Past.
+Aging is a currency which is normally 0 until an actor reaches their Prime, at which point it rises by 1 per age band by default. Aging rolls can increase and decrease the aging currency.
+
+See An Actor's Past for the aging process.
 
 # Status
 Depending on the era, status is more or less important. In early periods 'social' status can be very impactful and important, in later periods status can reflect opportunity or a reflection of connections and respect.

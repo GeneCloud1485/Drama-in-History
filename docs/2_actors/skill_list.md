@@ -132,3 +132,27 @@ Backgrounds can be a combination of a 'domain' and 'vocation'. They can indicate
 
 |Blessing (S)|Soc||
 |Deduction (M)|Mnt||
+
+
+
+21st Century
+
+Technology
+- Basic Computing & Support 'IT' = base level
+- Cryptography & code breaking = cracking codes
+- Security systems = creating and bypassing security systems
+- Crypto & Data systems = dealing with large data
+- Application development = building applications, interfaces and functionality
+- Identity & Anonymity = social media, presence and obfuscation
+
+
+- Sciences
+	- ...
+- Finance
+- Marketing
+- Health
+
+- Explosives
+- Firearms
+- Brawling
+- 

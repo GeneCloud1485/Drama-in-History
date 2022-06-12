@@ -98,3 +98,7 @@ In game terms a vignette can take many forms, generally used as a stand-alone sc
 - Which creates situations
 - And scenes and hard struggle choices
 - Ready to evolve with player emphasis
+
+
+Story/plot design -> asking questions which can be answered by progression
+2 + 2 = ... let the players work through the answer and don't tell them that the answer is 4
