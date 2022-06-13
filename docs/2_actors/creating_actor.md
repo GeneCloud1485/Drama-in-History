@@ -105,6 +105,7 @@ Aging starts at 0 for all age bands through Prime, unless a childhood illness in
 
 | Net Level of Success| Effect |
 | :---| :---|
+|1+ | no effect |
 | 0 | Additional +1 to Aging | 
 | -1 or less | Loss of attribute = level of success, and +1 Aging|
 

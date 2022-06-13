@@ -90,14 +90,14 @@
   "active": "b41936e1219110fa",
   "lastOpenFiles": [
     "docs/2_actors/creating_actor.md",
-    "docs/2_actors/actor_stats.md",
     "docs/1_concepts/1.0_concepts.md",
-    "docs/5_director/directors_advice.md",
-    "docs/2_actors/skill_list.md",
-    "docs/3_mechanics/basic_mechanics.md",
-    "index.md",
     "docs/4_combat/combat.md",
+    "docs/3_mechanics/basic_mechanics.md",
+    "docs/2_actors/skill_list.md",
     "docs/2_actors/the_cast.md",
+    "docs/2_actors/actor_stats.md",
+    "docs/5_director/directors_advice.md",
+    "index.md",
     "Untitled.md"
   ]
 }
