@@ -522,3 +522,17 @@ When drunk a character's courage and belief in themselves is exaggerated, at a c
 [TODO] = Muses & creativity over social
 
 
+# Disease
+
+1. Exposure & Contamination
+	1. Test luck
+	2. Plus protection nBd modifiers
+	3. Plus exposure nRd modifiers
+	4. Plus boons/flaws or benefits
+2. Severity & Symptoms
+	1. Specific to the disease
+	2. Severity modified by success/failure of exposure
+3. Recovery
+	1. Specific to the disease
+4. Consequences
+	1. 
