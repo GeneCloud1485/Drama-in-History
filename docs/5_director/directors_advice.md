@@ -102,3 +102,36 @@ In game terms a vignette can take many forms, generally used as a stand-alone sc
 
 Story/plot design -> asking questions which can be answered by progression
 2 + 2 = ... let the players work through the answer and don't tell them that the answer is 4
+
+
+Spine is the life goal  
+People are contradictory
+Dramatic transformation- a guide to npc development over time. Not an immediate guide to their personalities
+
+
+Describe don’t explain  -> there is fine line to be walked, if players don't understand the cues or clues you are sharing the game may be derailed or mixed up. Allowing players to work it out for themselves from the cue and acting you provide, will be more engaging and feel better.
+2+2 = 4
+
+Self conscious concerns about being the npc  
+  
+
+  
+
+
+Listen to players. Respond to their cues and listen. Show you are listening.  
+Leads to being generous or improv opportunities 
+
+
+1. One to Three action verbs to use in an NPCs personality - they can be used in one scene, or consistent in every scene. 1D to 3D determines how many action verbs an actor needs. The more the more nuanced a performance, but the more challenging for the Director to play and recall scene after scene. The action verbs can be chosen to fit the scene, again the more variations then less clear and consistent the NPC will be to the players. Some simplification or characterization can help an NPC be consistent and come alive. The repetition is likely to be more noticeable to the Director than the actors.
+	1. to... do something to the players
+2. A fact about the NPC actor which will influence their thinking, approach and style. This fact does not always need to be something that the player actors know about or learn. It is something which provides insight into the personality of the actor.
+	1. A secret or event in the actor's past, or possibly an outcome in the future which is destined to happen.
+	2. A story from their past, or a story that they will tell
+	3. Information that they can draw upon
+	4. Something which helps inform you about their character
+3. Define their spine, what one trait or idea defines this person. Something substantial, that spans their life and helps determine who they are
+
+**Film acting is, in large part, reacting and listening** - Michael Caine
+- be present!
+
+Talk to the mic like a person

@@ -532,7 +532,9 @@ When drunk a character's courage and belief in themselves is exaggerated, at a c
 2. Severity & Symptoms
 	1. Specific to the disease
 	2. Severity modified by success/failure of exposure
+		1. Persistent penalties
 3. Recovery
 	1. Specific to the disease
+	2. ... could just be recovery of the significant number of penalties?
 4. Consequences
-	1. 
+	1. Attribute damage in the extreme
