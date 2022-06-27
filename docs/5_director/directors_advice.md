@@ -71,6 +71,7 @@ It can be broken down and prepared as follows;
 ## Season Arcs
 
 
+
 ## Vignette Scenes
 > Vignette  "A brief evocative description, account, or episode"
 
@@ -135,3 +136,17 @@ Leads to being generous or improv opportunities
 - be present!
 
 Talk to the mic like a person
+
+
+
+Aristotle said that the struggle of the individual to win as the essence of all drama.
+
+Your pure concentration on accomplishing a goal makes you unaware of what you look like, and allows your naturally distinctive mannerisms and quirks to come forward
+
+Use of memorable 'spectacle' (Aristotle's drama) - impactful scenes or moments, powerful characterization or remarkable moments, choices or characters.
+
+Stories should have a theme that give players something to recognize and feel part of. Another opportunity for 2+2 rather than 4 (giving players the pieces that they can connect and feel smart rather than telling the answers)
+
+How will a story be remarkable? something which the players/actors will remember, talk about and recount to friends later. Remarkable could be something spectacular or over the top, but is much more likely to be a result of player agency, involvement and tough or dramatic choices. 
+
+We have become desensitized to the impact of big 'action' scenes, but we are always engaged by people's emotional & dramatic stories.
