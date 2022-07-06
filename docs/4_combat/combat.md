@@ -7,6 +7,10 @@ layout: default
 
 [Back to the Index](https://genecloud1485.github.io/Drama-in-History/)
 
+[TODO] Combat covers a number of different types of engagements; brawls, melee, ranged shots, gunfights or firefights
+
+
+
 # General Melee
 1. Joining the Melee
 2. Declare Stance 
@@ -393,14 +397,29 @@ Shields add a dice pattern match opportunity in the **base** **nBd pool** which 
 ---
 
 # **Ranged Attacks**
-Ranged combat is resolved with a form of Unopposed Skill Test.
+Ranged combat is resolved with a form of Unopposed Skill Test, and is resolved in sequence.
+
+## Engaging in Ranged Attack
+1. Prepare a dramatic action
+2. Declare action
+
+### Who shoots first?
+1. Is it clear who gets 1st shot?
+2. If not resolve in Agility order
+	- Ties resolved by the highest Agility value
+	- Ties resolved in favor of the highest Actor level
+	- Ties go to the player Actors
+
+
+### Resolving a shot
+
 
 Build a dice pool from Base, Resistance, and Drama dice.
 1. **Base pool** = Attribute + Skill or background (capped by the attribute)
 2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers
 3. **Drama pool** = risks, dramatic advantages or passions applicable
 
-### **Situational modifiers for Ranged Attacks**
+#### **Situational modifiers for Ranged Attacks**
 
 |Situation | 0 | 2 Rd | 4 Rd | 6 Rd | 8 Rd |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -427,6 +446,9 @@ The results of a ranged attack are resolved just like melee;
 
 
 ---
+# Brawls
+# Gunfights
+# Firefights
 # ==WIP SECTION==
 
 

@@ -150,3 +150,11 @@ Stories should have a theme that give players something to recognize and feel pa
 How will a story be remarkable? something which the players/actors will remember, talk about and recount to friends later. Remarkable could be something spectacular or over the top, but is much more likely to be a result of player agency, involvement and tough or dramatic choices. 
 
 We have become desensitized to the impact of big 'action' scenes, but we are always engaged by people's emotional & dramatic stories.
+
+
+|Antagonist | |
+|:---|:---|
+|Painful Spine||
+|Goals in Conflict||
+|Power to Menace||
+|Presence Revealed||
