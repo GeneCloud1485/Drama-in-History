@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/2_actors/creating_actor.md",
+            "file": "docs/5_director/directors_advice.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2_actors/creating_actor.md",
+                "file": "docs/4_combat/combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +99,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b41936e1219110fa",
+  "active": "c0d68153a7a1227c",
   "lastOpenFiles": [
+    "docs/5_director/directors_advice.md",
     "docs/2_actors/creating_actor.md",
     "docs/2_actors/actor_stats.md",
     "docs/4_combat/combat.md",
     "docs/3_mechanics/basic_mechanics.md",
-    "docs/5_director/directors_advice.md",
     "docs/1_concepts/1.0_concepts.md",
     "index.md",
     "img/Dice Pool Statistics.png",

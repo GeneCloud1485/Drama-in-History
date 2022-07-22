@@ -447,6 +447,17 @@ The results of a ranged attack are resolved just like melee;
 
 ---
 # Brawls
+# Shields
+- Finding matches in the dice pool to provide additional defense successes
+- Size of the shield changes the matches needed
+- Shield Wall extends to add more matches 
+
+- Small -> Any quad
+- Medium -> Any triple = +1, two triples = +2
+- Large -> Two pairs = +1, three pairs = +2, four pairs = +3
+- Shield Wall -> 
+
+
 # Gunfights
 # Firefights
 # ==WIP SECTION==
