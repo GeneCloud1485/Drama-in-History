@@ -165,9 +165,9 @@ Maximum of 1 level of rank increased per Year in the Autumn & Winter season
 
 ## Reputation Bands
 
-Total reputation determines the rank of the Actor, and has an effect on social status. Improving the Cast Rank of the actor will also increase the number of drama points available.
+Total reputation determines the rank of the Actor, and has an effect on social status. Improving the Actor Level of the actor will also increase the number of drama points available.
 
-| Total Reputation | Description | Min # Stories | Cast Rank | Effect | 
+| Total Reputation | Description | Min # Stories | Actor Level | Effect | 
 | :---| :---| :--- |:--- |:--- |
 |0-5 | Little reputation | 1 story | Cast | None|
 | 5-10 | ... | 2 stories| Cameo |  +1 pt status|
