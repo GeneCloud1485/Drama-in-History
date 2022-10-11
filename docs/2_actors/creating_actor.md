@@ -186,7 +186,7 @@ Everyone can learn, practice or improve their training level in common skills, n
 
 > E.g. In a medieval setting, the 'mature' age band is 5 years long and provides 5 points to spend on common skills
 
-### Leaning Speciality Vocational Skills
+### Learning Speciality Vocational Skills
 The setting and era will determine how many additional skill points are available to an actor from an age band. Each year provides one point that can be spent on common or specialist vocational skills. These points can only be spent on skills which align with the actor's profession and opportunity during this age band.
 
 > E.g. If the actor was able to gain vocational training or through simple re-enforcement of core skills, or had free time to invest in skill development then they gain additional points to spend on more expert or knowledge skills.

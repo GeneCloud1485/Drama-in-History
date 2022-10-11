@@ -152,11 +152,20 @@ Depending on the era, status is more or less important. In early periods 'social
 Status is a reflection of birth, occupation, office or rank and reputation.
 
 # Reputation
-Total reputation reflects the an actor's notable & notorious acts 
+Total reputation reflects the sum of the actor's dramatic, notable or notorious acts recorded throughout their career. 
 
-~Each story completed is worth ~5-10 reputation depending on the importance, profile
+~Each story completed can be worth ~5-10 reputation depending on the importance of the story, the actor's performance.
+
+> E.g. An actor receives 3 reputation for their role in the completion of a story, and an additional 2 points for playing strongly to their dramatic traits & passions.
+
+## Gaining Reputation
+Reputation reflects both notable and notorious acts and stories that are told about the actor. It is gained as a result of dramatic, important actions, completing scenes and stories.
+
+Maximum of 1 level of rank increased per Year in the Autumn & Winter season
 
 ## Reputation Bands
+
+Total reputation determines the rank of the Actor, and has an effect on social status. Improving the Cast Rank of the actor will also increase the number of drama points available.
 
 | Total Reputation | Description | Min # Stories | Cast Rank | Effect | 
 | :---| :---| :--- |:--- |:--- |
@@ -169,11 +178,12 @@ Total reputation reflects the an actor's notable & notorious acts
 | 120-180 | | 10 stories | Title Character| +10 pt status|
 | 180+ || 12 stories | Starring Actor| +12 pt status|
 
-[TODO] Reputation is the driver of progression...
-- Maximum of 1 level of rank increased per Year in the Autumn & Winter season
+The social status addition is calculated by current reputation divided by five.
 
+> E.g. The farmer is known for his honesty, and is relied on to resolve matters of common law around the village. He has a reputation of 8, which adds +1 to his social status.
 
-- 'Distance' impact the benefit of reputation.
+---
+[Creating Your Actor](/docs/2_actors/creating_actor.md)
 
 ## Late Medieval Social Status
 Social Status is based on a character's family status at birth, their estate and their current office or role.
@@ -229,14 +239,3 @@ Combine the Social Status for Class of Birth, Estate and Office, and then add a 
 |None	|	|0|
 
 > E.g. an actor born to a family who have a smallholding and farm, common: 1/2 virgator +1. The actor's estate is as a respected craftsman +2, and the actor has the low office of field steward for +2. The actor's combined social status is 4.
-
-## Reputation
-Reputation reflects both notable and notorious acts and stories that are told about the actor. It is earn't as a result of dramatic and important actions, scenes and stories.
-
-The social status addition is calculated by current reputation divided by five.
-
-> E.g. The farmer is known for his honesty, and is relied on to resolve matters of common law around the village. He has a reputation of 8, which adds +1 to his reputation.
-
----
-[Creating Your Actor](/docs/2_actors/creating_actor.md)
-
