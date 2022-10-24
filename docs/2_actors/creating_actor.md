@@ -107,7 +107,7 @@ Aging starts at 0 for all age bands through Prime, unless a childhood illness in
 | :---| :---|
 |1+ | no effect |
 | 0 | Additional +1 to Aging | 
-| -1 or less | Loss of attribute = level of success, and +1 Aging|
+| -1 or less | Loss of attribute = level of success, and +1 additional Aging|
 
 > E.g. An actor hitting the Mature age band has an Aging of 2, they roll 6Bd {5,5,3,2,2,1} and 2Rd {6,1} for a net 1 level of success, and no additional aging effects.
 
