@@ -6,6 +6,7 @@
       {
         "id": "ba9f234a418a3a81",
         "type": "tabs",
+        "dimension": 50.87802562885619,
         "children": [
           {
             "id": "c0d68153a7a1227c",
@@ -24,6 +25,7 @@
       {
         "id": "d0b1ab806af41a54",
         "type": "tabs",
+        "dimension": 49.12197437114381,
         "children": [
           {
             "id": "9eb8bbe9203d548e",
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3_mechanics/basic_mechanics.md",
+                "file": "docs/4_combat/combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +118,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9eb8bbe9203d548e",
+  "active": "c0d68153a7a1227c",
   "lastOpenFiles": [
+    "docs/3_mechanics/basic_mechanics.md",
     "docs/4_combat/combat.md",
     "docs/2_actors/actor_stats.md",
     "docs/2_actors/creating_actor.md",
-    "docs/3_mechanics/basic_mechanics.md",
     "docs/2_actors/skill_list.md",
     "docs/5_director/directors_advice.md",
     "docs/1_concepts/1.0_concepts.md",

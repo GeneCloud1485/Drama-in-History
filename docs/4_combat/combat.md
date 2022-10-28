@@ -633,12 +633,12 @@ When a test of calls for a sickness check, review the results of the Flesh pool.
 
 | Reading | Symptom | Outcome |
 | :--- | :--- | :--- |
-| 6 | Visions | religious or greedy & selfish traits|
-| 5 | Melancholic | cold & dry, black bile - humble or indulgent traits | 
-| 4 | Choleric | hot & dry, yellow bile - courageous or cruel traits |
-| 3 | Phlegmatic | cold & moist, phlegm - shrewd or cowardly traits| 
-| 2 | Sanguine | hot & moist, blood - generous or rash traits |
-| 1 | Terrors | Mortal Fear - death or disease traits |
+| 6 | Visions | fevered dreams - gain a religious or greedy & selfish trait|
+| 5 | Melancholic | cold & dry, black bile - gain a humble or indulgent traits | 
+| 4 | Choleric | hot & dry, yellow bile - gain a courageous or cruel traits, lose 1 Grit from max |
+| 3 | Phlegmatic | cold & moist, phlegm - gain a shrewd or cowardly traits, lose 1 Composure from max| 
+| 2 | Sanguine | hot & moist, blood - gain a generous or rash traits, lose 1 Flesh from max |
+| 1 | Terrors | Mortal Fear - gain a death or disease scar, lose 1 Fort from max |
 
 As well as the impact on the trait, the period of recovery is extended by +1 month.
 
