@@ -8,6 +8,20 @@ layout: default
 # Director's Advice
 
 
+# Seasons
+
+
+# The Turning of the Year
+Depending on the setting and the cadence of your game's Seasons, the Turning of the Year could align with the end of the calendar year, or it could just represent a period of 'down time'. It helps to be broadly consistent and have a 12 month period between your Turning of the Year scenes.
+
+During the Turning of the Year each Actor reflects on their story, shines a light on their family, business or more mundane activities.
+- Advancement
+- Family
+- Vignettes 
+
+
+
+
 
 ## Fortitude Loss
 - Balancing the risk of the tests - regardless of the person's fortitude pool size, the threat is based on the number of Rd rolled.
