@@ -9,6 +9,9 @@ layout: default
 
 
 # Seasons
+A season covers a larger story or perhaps a number of smaller, connected stories which end at a logical point allowing the Actor's to pause for breath and reflect on the chronicle of their lives.
+
+At the end of each season the actor can recover their Drama Points back to their current maximum level. Recovery can 
 
 
 # The Turning of the Year

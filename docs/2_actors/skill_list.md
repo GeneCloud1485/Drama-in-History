@@ -41,6 +41,19 @@ Where a skill is listed as X ^ Y it means that the first attribute is capped by 
 
 > E.g. Attempting to lie is a Social skill, but the Social attribute is capped by the Mental attribute. A person with a Social of 4 with a Mental of 2, will contribute 2 to the skill rather than 4 of their social. Being silver tongued is only so useful, if you can't stay true to your story or forget details!
 
+
+## Basic Skill Checks or Common Skills or Backgrounds
+- Awareness
+- Sneaking
+- Instinct or insight
+- Local knowledge
+- Athletics
+- Basic social - persuade, lie, bluff, flatter
+??double core attribute?
+Or background
+
+[TODO]
+
 # Late Medieval 
 [Reference Sheet](https://docs.google.com/spreadsheets/d/1rtYb2UpKtlO6_eGEjIrCoQXj27ivoJ3crSifqIi_HMU/edit?usp=sharing)
 
