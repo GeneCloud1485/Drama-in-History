@@ -85,6 +85,24 @@ It can be broken down and prepared as follows;
 	* Direction, what next?
 	* Foreshadowing
 
+
+## Stories
+
+#### Questions
+Questions are mysteries which drive the player to find answers, they create interest, surprise, delight and a sense of accomplishment on completion.
+
+- Questions that 'demand' to be answered
+	- Find ways to have questions in the player's minds
+	- Questions need answers
+	- Seeking answers drives player action and engagement
+- Questions can be created by the Director as part of the story
+- Or be part of the setting & context
+- Or be seeded by NPCs
+- Or be a hook for a new story 
+
+- Answers indicate closure and resolution
+- They mark achievements and celebrate the player's progress and completion.
+
 ## Season Arcs
 
 
