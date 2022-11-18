@@ -182,18 +182,29 @@ A social contest brings together narrative & role-play with skills & context int
 ---
 
 # Tests of the Currency Pools
-The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested 
+The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested in different circumstances.
+
+Min nBd dice pool is 2 for all currency pool tests.
+
+[TODO WIP notes]
+- All test rolled at Max Pool value
+- Expecting Composure and Grit to drop more quickly
+	- Losing Composure and Grit when at zero -> 1/2 passed through to next level
+- Test with 'Difficulty' in Rd, and lose 'Difficulty' - number of successes from pool
+	- E.g. A tense situation which could lead to violence tests Composure with 4Rd. The number of 4 - success will be removed from pool.
+- There will always be an Rd modifier on Composure and Fort checks
+
 
 ## Test of the Flesh Pool
 Tested in a Courage Test when receiving a physical or painful injury to resist passing out. Or tested when resisting or recovering from a fever or sickness.
 
-- nBd equals **Max Flesh pool** + nRd which is current persistent penalty dice + Flesh/Pain points incurred to trigger this test + any situational modifiers
+- Pool of nBd equals **Max Flesh** + nRd from current persistent penalty dice + Flesh/Pain points incurred to trigger this test + any situational modifiers
+
 > E.g. An actor with Flesh pool of 8 with 2 current persistent penalties takes a sword blow which inflicts 3 Flesh damage to them. The test would be 8Bd + 5Rd based on the 3pt Flesh wound and 2 persistent penalties.
 
 Any appropriate traits or dramatic advantages could be added to the pool.
 
 - Success: the test is passed 
-- Yes, but: accept a persistent penalty dice to pass the test or pass out
 - Failed: failed the test and passed out, adding a persistent penalty dice 
 
 Once an actor is passed out, they stay out until at lest the end of the scene. There are circumstance where the actor can recover their senses;
@@ -538,3 +549,13 @@ When drunk a character's courage and belief in themselves is exaggerated, at a c
 	2. ... could just be recovery of the significant number of penalties?
 4. Consequences
 	1. Attribute damage in the extreme
+
+# People  & Connections
+
+Building a record of meaningful people
+
+## Three Meaningful Scenes
+
+1. Contact
+2. Connection
+3. Commitment
