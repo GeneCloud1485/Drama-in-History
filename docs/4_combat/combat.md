@@ -48,18 +48,18 @@ Participants who are unaware or surprised don't get a chance to prepare, and the
 
 #### 1. Press Attack
 - Add 2 to Momentum when joining a fight, no effect in subsequent rounds
-- Plus **1Dd**
-- If the round is won, then + 1 to knock-back attempts
-- If the round is lost, then Agility & Physical is considered one point lower for the knock-back check
+- Plus **2Bd** advantage
+- If the round is won, then + 1 to knock-back attempts (more chance of knocking back opponent)
+- If the round is lost, then Agility & Physical is considered one point lower for the knock-back check (more chance of being knocked back)
 
 #### 2. Stand 
 - No benefits/penalties
 
 #### 3. Brace for the Fight
 - Minus 2 from Momentum when joining a fight, no effect in subsequent rounds
-- Plus **1Ad** (armor) and **2Rd**
-- If the round is lost, then Physical & Agility are considered one point higher for a knock-back test
-- If the round is won, then -2 from knock-back attempts
+- Plus **1Ad** (armor) and **1Bd**
+- If the round is lost, then Physical & Agility are considered one point higher for a knock-back test (less chance of being knocked back)
+- If the round is won, then -2 from knock-back attempts (reduced chance of knocking back opponent)
 
 #### 4. Desperate Defend or Evade
 - Minus 6 from Momentum when joining a fight, no effect in subsequent rounds
