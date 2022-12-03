@@ -57,7 +57,7 @@ Participants who are unaware or surprised don't get a chance to prepare, and the
 
 #### 3. Brace for the Fight
 - Minus 2 from Momentum when joining a fight, no effect in subsequent rounds
-- Plus **1Ad** (armor) and **1Bd**
+- Plus **nAd** (armor) equal to weapon damage (Flesh damage) and **1Rd**
 - If the round is lost, then Physical & Agility are considered one point higher for a knock-back test (less chance of being knocked back)
 - If the round is won, then -2 from knock-back attempts (reduced chance of knocking back opponent)
 
