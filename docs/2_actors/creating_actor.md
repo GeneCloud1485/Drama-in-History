@@ -31,8 +31,8 @@ The 1st two age bands, baby & child, which take your actor through to age 10. Th
 	- Is the actor's life considered loving, dramatic, hated or insignificant?  
 		- Establish a childhood bond, or add a scar, or lifetime goal
 	- Are they Uneducated or Educated?
-		- If educated roll 8Bd each success is a skill point of basic knowledge skills. 
-		- If uneducated roll 8Bd each success is a common skill point.
+		- If educated roll 10Bd each success is a skill point of common or knowledge skills. 
+		- If uneducated roll 10Bd each success is a common skill point.
 	- Healthy or Sickly
 		- Test your luck (roll 6Bd and 6Rd)
 		- If net result is a positive +1 to an attribute

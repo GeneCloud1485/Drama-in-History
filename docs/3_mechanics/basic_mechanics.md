@@ -228,8 +228,9 @@ nBd is equal to **max Grit pool** + nRd from current persistent penalty dice + a
 ---
 
 ## Tests of Fortitude 
-- Shock & Horror
-- Scars
+- Unnatural - devils, demons, sorcerors
+- Horror - battle, bodies, wounds, torture
+- Escalated Composure checks due to Scars
 
 A test of fortitude is made whenever the character is faced with a strongly disturbing, shocking, horrific or scary situation. These can be the results of phobias, encounters with death, disease or horrors of the battle field, or engaging in mortal sins.
 
@@ -280,7 +281,7 @@ Failing to succeed in a test of Fortitude leads to a an uncontrolled shock outco
 
 > He has had time to recover from the penalties he was carrying, but this encounter is shocking to him for both gruesome slaughter and the obvious signs of witchcraft. 
 
-> The test is 6Bd {4,3,3,2,1,1} for no successes + 5Rd (nervous + 4Rd shocking horror) {6,6,4,2,2} for -2 successes + 2D (for his Religious Faith) {3,1} for -1 success. The test is failed with a net -3 successes
+> The test is 6Bd {4,3,3,2,1,1} for no successes + 5Rd (nervous + 4Rd shocking horror) {6,6,4,2,2} for -2 successes + 2Dd (for his Religious Faith) {3,1} for -1 success. The test is failed with a net -3 successes
 
 > The priest loses three points of Fortitude, taking him to below half and uncomfortably close to zero. He gains a persistent penalty for being under half Fortitude.
 
@@ -302,7 +303,9 @@ Highest # of Results | Effect
 ---
 
 ## Tests of Composure
-- Stress & Fear
+- Tension - risks, threat or dangerous situations
+- Stresses - of sins, 
+- Fears - ghosts, phobia, disease
 - Social composure
 
 Can be both a reaction and a pre test to establish the tone for RP
@@ -317,7 +320,7 @@ A composure check can be made before a subsequent test, but should aim to ask & 
 
 _E.g. Checking composure before making a Lie skill check is not necessary, the lie skill check would be enough._
 
-**Social failure effects**
+**Composure failure effects**
 
 Result | Effect
 
