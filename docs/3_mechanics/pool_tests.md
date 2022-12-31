@@ -216,56 +216,50 @@ _E.g. Checking composure before making a Lie skill check is not necessary, the l
  > He is sorely shaken (the penalty) and will remember the chill of the graveyard for at least the next month while his Fortitude recovers.
 
 ---
+# How to Recover?
+### Recovering Penalty Dice
 
-# Complex Challenge Tests
-Some problems are extremely complex, protracted and involved that a single test is not sufficient to resolve. In a case of a protracted challenge test the results of multiple rounds combine to measure progress overcoming a challenge.
+Penalties are recovered by sleep or serious rest. Each point requires 3 hours sleep to recover from. 
+- If an age cap penalty exists, then the last point will take a full day of rest to recover from.
 
-Each complex test is unique and can allow different combinations of the cost of success and failure. The dimensions of the Complex Test may be transparent and clear to the actor, or it may be hidden, and only understood when earlier dimensions are resolved.
+### Recovering Composure
+Composure is recovered by restful calm without the stressful trigger circumstances. Relaxation can take many forms, and can be aided by external situation and/or influences (music, drink, drugs, sex, meditation etc)
 
-Resolving the Complex Test;
-1. Tackle **each of the dimensions in turn**, each dimension can have a different resistance and cost
-	1. Some dimensions are one attempt only
-	2. Some have a cost for failure
-	3. And others allow a second attempt with an alternate cost.
-2. Success on a dimension **unlocks the next dimension**, and often will require a price to be paid. That cost could vary depending if it is the 1st or 2nd attempt.
-4. On a second attempt, the resistance is generally 2Rd less
-5. **Failure on the second attempt**, means that the dimension stays locked and the overall test has been failed. 
+-> 1 hour = current raised to max - current penalty - age penalty cap + external benefits
 
-Failed Complex Tests can be potentially be re-attempted once something substantial about the actor(s) or the situation has changed - growth in skills, new teacher, significant time has passed.
+-> Each point after the 1st hour takes 2 hours to recover from  
 
-The Director can set most anything as a price to be paid for success and/or failure. Some examples;
-- Coin e.g. bribes or payments
-- Specific resources or items e.g. Alchemical components
-- Time e.g. time investment required
-- Fortitude e.g. disturbing knowledge that is unsettling 
-- Flesh e.g. a physical price to pay either an indirect consequence like a wound, or as a required contribution like a blood sacrifice...
-- Creation or breaking of a bond e.g. membership of a fraternity, or shaking of a previously held faith
-- Addition of a scar or strength e.g. confidence in their new knowledge, an actor gains a strength related to that knowlegde
-- Boon or Flaw e.g. temporary good luck will follow the actor, gaining +1Bd on luck checks (6Bd vs 6Rd)
+### Recovering Grit
+Grit is recovered by physically resting for an hour. Physical benefits can boost the recovery countering age or penalties (e.g. drink, drugs, energy bars, massage etc)
 
-Successful resolution will achieve the outcome, in some circumstances due to failed tests a partial outcomes can be achieved. Like failed tests, a partial outcome can't be improved upon unless something significant has changed.
+-> 1 hour = current raised to max - current penalty - age penalty cap + external benefits
 
-> Example - Attempting to read a complex book of arcane knowledge, the *Treatise on the Celestial Mind* or "Tractatus de Mente Coelesti".
+-> Each point after the 1st hours takes 2 hours to recover from
 
-> The book is an arcane tome with 3 dimensions of complexity which need to be unlocked to receive the wisdom and knowledge it contains.
-> 
-> The first dimension is Geometry, it is difficult to understand (10Rd) but has no price to pay for an initial success. Failure on the 1st attempt means paying the cost of failure (loss of 1 Fort point). A second attempt is allowed, and the subsequent attempt is a little easier (8Rd), but success on the second attempt will limit the total value of the whole test to a partial outcome. Failure on the 2nd attempt will incur another cost, and will block further progress until something substantial changes about the reader or their resources.
+* Do Penalty and Composure and Grit recover in parallel? -> yes
+* Can't recover penalties caused by loss of Grit/Composure/infection until they have been recovered back to half or more.
 
-> The second dimension is Astronomy, the price for the 1st attempt is the passage of time (1 month), there is no additional cost of failure and a second attempt will take a further passage of time (2 months).
+### Recovering Flesh
+Each point of each flesh damage taken in a wound takes a month to recover from. 
 
-> The third dimension is Religion, this test is more of a revelation and no subsequent attempts are allowed. Success incurs a cost (loss of 1F) before unlocking the reward/outcome of the complex test. Failure will end the Test, and incurs a substantial cost (-3 Fortitude + test for a scar)
+> E.g.  A merchant is stabbed while returning to the Inn late at night, he takes a 2 point Flesh wound before fighting off his assailant. The wound is deep but not life threatening, it will take a full two months to recover.
 
-| Dimension | Resistance | Price on 1st attempt | Price on 2nd attempt | Cost of failure |
-| :--- | :--- | :--- | :--- | :--- |
-| Geometry | 10Rd | n/a | Partial Outcome | -1 Fort |
-| Astronomy | 8Rd | 1 month | 2 months | n/a | 
-| Religion | 8Rd | -1 Fort |none allowed | -3 Fort^1 | 
+If an actor receives multiple wounds they recover in parallel.
 
-> ^1 Test Fort pool or receive a scar 
+> E.g. If the merchant has been stabbed a second time, this time for 1 point of Flesh, that would would heal during the first month of his two months recovery.
 
-> The result of the Complex Test is either a full or partial Outcome. 
-> 
-> In this case the full outcome provides Training level skill in 'Celestial Mind' and an awareness or faith in the interconnectedness of the celestial and the human condition. This creates a Bond, which is immediately taken and which challenges any bond of faith or religion which exists.  The existing bond of faith or religion must be tested or potentially broken...
+Critical Flesh wounds add two months to the recovery time for that wound.
 
-> A partial outcome will create the bond and challenge existing bonds of faith without the training.
+> E.g. a man-at-arms receives a critical wound which causes 5 points of Flesh damage. The 1st three months of recovery heals 1 point of flesh, and then the remaining points are healed over a further four months. The man requires seven months to recover fully from his grievous wound.
 
+### Recovering Fortitude
+Fortitude is recovered through rest and calm contemplation. 
+
+Once per story a character can make a narratively appropriate test to recover fortitude. Based on the actor level of the character, that many points per Story can be recovered through a narratively appropriate skill hard test, the recovery returns at 1 point per hour.
+
+> _E.g. A monk encountering a ghost in the crypt of a church suffers the loss of 1 Fortitude. The monk, an 'Actor' can recover up to 2 points per Story. He decides to spend an hour in prayer at the Altar to calm himself. A successful Prayer test allows him to recover the lost point._
+
+Other than this Fortitude takes 1 month per point to recover. This can happen during the summer but is more often recovered over the winter period.
+
+### Recovering Drama Points
+Drama Points are general recovered at the end of the Season.

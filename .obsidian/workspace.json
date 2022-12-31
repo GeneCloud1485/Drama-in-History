@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/3_mechanics/advanced_mechanics.md",
+                "file": "docs/3_mechanics/pool_tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1322e0eb213aabcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/3_mechanics/pool_tests.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2c2b0148351b6b3a",
@@ -45,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/3_mechanics/basic_mechanics.md",
+                "file": "docs/3_mechanics/base_test_mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3_mechanics/advanced_mechanics.md",
+                "file": "docs/3_mechanics/pool_tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,17 +150,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9eb8bbe9203d548e",
+  "active": "1322e0eb213aabcc",
   "lastOpenFiles": [
-    "docs/3_mechanics/basic_mechanics.md",
-    "docs/3_mechanics/advanced_mechanics.md",
+    "docs/3_mechanics/complex_test_mechanics.md",
+    "docs/3_mechanics/base_test_mechanics.md",
+    "docs/3_mechanics/pool_tests.md",
     "docs/4_combat/combat.md",
     "docs/2_actors/creating_actor.md",
     "docs/1_concepts/1.0_concepts.md",
     "index.md",
     "docs/2_actors/skill_list.md",
     "docs/2_actors/actor_stats.md",
-    "docs/2_actors/the_cast.md",
-    "docs/5_director/directors_advice.md"
+    "docs/2_actors/the_cast.md"
   ]
 }

@@ -239,53 +239,7 @@ Assuming a reasonable narrative explanation can be made, anyone can contribute a
 
 ---
 
-# How to Recover?
-### Recovering Penalty Dice
 
-Penalties are recovered by sleep or serious rest. Each point requires 3 hours sleep to recover from. 
-- If an age cap penalty exists, then the last point will take a full day of rest to recover from.
-
-### Recovering Composure
-Composure is recovered by restful calm without the stressful trigger circumstances. Relaxation can take many forms, and can be aided by external situation and/or influences (music, drink, drugs, sex, meditation etc)
-
--> 1 hour = current raised to max - current penalty - age penalty cap + external benefits
-
--> Each point after the 1st hour takes 2 hours to recover from  
-
-### Recovering Grit
-Grit is recovered by physically resting for an hour. Physical benefits can boost the recovery countering age or penalties (e.g. drink, drugs, energy bars, massage etc)
-
--> 1 hour = current raised to max - current penalty - age penalty cap + external benefits
-
--> Each point after the 1st hours takes 2 hours to recover from
-
-* Do Penalty and Composure and Grit recover in parallel? -> yes
-* Can't recover penalties caused by loss of Grit/Composure/infection until they have been recovered back to half or more.
-
-### Recovering Flesh
-Each point of each flesh damage taken in a wound takes a month to recover from. 
-
-> E.g.  A merchant is stabbed while returning to the Inn late at night, he takes a 2 point Flesh wound before fighting off his assailant. The wound is deep but not life threatening, it will take a full two months to recover.
-
-If an actor receives multiple wounds they recover in parallel.
-
-> E.g. If the merchant has been stabbed a second time, this time for 1 point of Flesh, that would would heal during the first month of his two months recovery.
-
-Critical Flesh wounds add two months to the recovery time for that wound.
-
-> E.g. a man-at-arms receives a critical wound which causes 5 points of Flesh damage. The 1st three months of recovery heals 1 point of flesh, and then the remaining points are healed over a further four months. The man requires seven months to recover fully from his grievous wound.
-
-### Recovering Fortitude
-Fortitude is recovered through rest and calm contemplation. 
-
-Once per story a character can make a narratively appropriate test to recover fortitude. Based on the actor level of the character, that many points per Story can be recovered through a narratively appropriate skill hard test, the recovery returns at 1 point per hour.
-
-> _E.g. A monk encountering a ghost in the crypt of a church suffers the loss of 1 Fortitude. The monk, an 'Actor' can recover up to 2 points per Story. He decides to spend an hour in prayer at the Altar to calm himself. A successful Prayer test allows him to recover the lost point._
-
-Other than this Fortitude takes 1 month per point to recover. This can happen during the summer but is more often recovered over the winter period.
-
-### Recovering Drama Points
-Drama Points are general recovered at the end of the Season.
 
 ---
 
@@ -297,21 +251,20 @@ After a period of indulgence and drinking to excess a state of drunkenness modif
 
 When drunk a character's courage and belief in themselves is exaggerated, at a cost of thinking straight and agility.
 
--   **Plus 1Dd dice for**;
+- **Plus 1Dd dice for**;
 	-  All social based skills
-	-  And all Fortitude, Composure and Courage checks
+	-  All pool checks - composure, fortitude, grit and flesh
 	-  An additional Temporary Trait e.g. Courage, Rash, Indulgent 
-	-  A temporary +1Dd to any passion which is tested or called upon while drunk
--   **Plus 2Rd for everything else**;
+- **Plus 2Rd for everything else**;
 	- Knowledge based on Mental
 	- Any context where being drunk is frowned upon
 
 **Blind Drunk/Very Drunk**
 
--   **Plus 2Dd for;**
--   Fortitude and Courage checks
--   Temporary +2 to Courage, Rash, Indulgent & optionally +2 exaggeration to any trait, bond or passion
--   **Plus 4Rd for everything else**… including Composure checks and social skills
+- Drunk effects
+- **Plus 2Dd for;**
+	- Fortitude and Courage checks	- 
+- **Plus 4Rd for everything else**… including Social skills, Composure & Grit checks 
 
 
 ## Mechanics: Drugged Drunkenness Variant
@@ -319,7 +272,7 @@ When drunk a character's courage and belief in themselves is exaggerated, at a c
 [TODO] = Muses & creativity over social
 
 
-# Disease
+# Disease [TODO]
 
 1. Exposure & Contamination
 	1. Test luck
