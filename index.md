@@ -38,7 +38,7 @@ There are opportunities for specific rules and details related to an era which a
 2. [Actor's Stats](/docs/2_actors/actor_stats.md)
 3. [Creating Your Actor](/docs/2_actors/creating_actor.md)
 4. [Example Skill Lists](/docs/2_actors/skill_list.md)
-5. [Mechanics](/docs/3_mechanics/basic_mechanics.md)
+5. [Mechanics](advanced_mechanics.md)
 6. [Combat](docs/4_combat/combat.md)
 7. [Director's Advice](docs/5_director/directors_advice.md)
 

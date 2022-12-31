@@ -6,9 +6,41 @@
       {
         "id": "d0b1ab806af41a54",
         "type": "tabs",
+        "dimension": 56.198798470781,
         "children": [
           {
             "id": "9eb8bbe9203d548e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/3_mechanics/advanced_mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2c2b0148351b6b3a",
+        "type": "tabs",
+        "dimension": 43.80120152921901,
+        "children": [
+          {
+            "id": "699aab3963965944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/4_combat/combat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc7464ba603a0d53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3_mechanics/basic_mechanics.md",
+                "file": "docs/3_mechanics/advanced_mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +137,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5662d385c9795bcf",
+  "active": "9eb8bbe9203d548e",
   "lastOpenFiles": [
-    "docs/1_concepts/1.0_concepts.md",
     "docs/3_mechanics/basic_mechanics.md",
+    "docs/3_mechanics/advanced_mechanics.md",
+    "docs/4_combat/combat.md",
+    "docs/2_actors/creating_actor.md",
+    "docs/1_concepts/1.0_concepts.md",
     "index.md",
     "docs/2_actors/skill_list.md",
-    "docs/2_actors/creating_actor.md",
-    "docs/4_combat/combat.md",
     "docs/2_actors/actor_stats.md",
     "docs/2_actors/the_cast.md",
-    "docs/5_director/directors_advice.md",
-    "docs/5_director/Reference.md"
+    "docs/5_director/directors_advice.md"
   ]
 }

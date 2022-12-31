@@ -228,7 +228,8 @@ It is important to track each wound which delivers flesh damage, to help identif
 #### **Test of Courage**
 When receiving flesh damage of two or greater points, it is necessary to call upon ones courage to avoid passing out or being incapacitated by the pain. 
 
-See Test of the Flesh Pool
+[[advanced_mechanics#Tests of the Currency Pools]]
+
 
 - The pool can be modified by traits, bonds, passions or situational modifiers
 - These modifiers could be nBd or nRd or nDd depending on the source and the context.

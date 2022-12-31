@@ -331,20 +331,22 @@ Add any supporting, shorter term goals which represents an initial objective or 
 - F. Starting Resources
 
 ## A. Flesh Currency Pool
-The starting value of 5 + the successes from a pool of 3Bd + 3Rd + Physical as Dd
+The starting value of 4 + the successes from a pool of double the Physical attribute as Bd + 2Dd
 
-> E.g. 5 + 3Bd {4,3,2} = 0 + 3Rd {5,3,2} = -1 + 4Dd {6,4,4,3,1} = 2 which equals a total of 6 Flesh
+[OLD VERSION The starting value of 5 + the successes from a pool of 3Bd + 3Rd + Physical as Dd]
+
+> E.g. 4 + two Physical 4Bd {5,3,3,2} = 1 + 2Dd {6,4,1} = 1 for a total of 2 which equals a total of 6 Flesh
 
 ## B. Grit Currency Pool
-The starting value of 5 + the successes from a pool of 3Bd + 3Rd + Agility as Dd
+The starting value of 4 + the successes from a pool of double the Agility attribute as Bd + 2Dd
 
 ## C. Fortitude Currency Pool
-The starting value of 5 + the successes from a pool of 3Bd + 3Rd + Mental as Dd
+The starting value of 4 + the successes from a pool of Mental + Social attributes as Bd + 2Dd
 
 ## D. Composure Pool
-The starting value of 5 + the successes from a pool of the number of bonds as Bd + 3Rd + Social as Dd
+The starting value of 4 + the successes from a pool of the number of Bonds + Social as Bd + 2Dd
 
-> E.g. 5 + three bonds 3Bd {6,5,1} = 2 + 3Rd {6,3,2} = -1 + 3Dd {5,4,2} = 2 which equals a total of 8
+> E.g. 4 + three bonds + Social of three for 6Bd {6,6,5,3,2,1} = 3 success + 2Dd {5,2} = 2 successes which equals a total of 9 Composure
 
 ## E. Drama Point Pool
 Actor level determines the basic number of drama points for the pool. For each passion that the actor has taken, they get an additional drama point to their maximum.
