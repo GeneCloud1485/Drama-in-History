@@ -5,6 +5,63 @@ layout: default
 
 [Back to the Index](https://genecloud1485.github.io/Drama-in-History/)
 
+
+# Drunkenness
+
+After a period of indulgence and drinking to excess a state of drunkenness modifies personality traits, attribute pools and skill checks. The effects are broken into two tiers; Drunk and Very/Blind Drunk. Drunk is the 'normal' state of drunkenness after a period of indulgent drinking. Blind Drunk is only achieved after 'extreme' drinking and consumption.
+
+**While drunk the following are all applied until the drunkenness passes;**
+
+When drunk a character's courage and belief in themselves is exaggerated, at a cost of thinking straight and agility.
+
+- **Plus 1Dd dice for**;
+	-  All social based skills
+	-  All pool checks - composure, fortitude, grit and flesh
+	-  An additional Temporary Trait e.g. Courage, Rash, Indulgent 
+- **Plus 2Rd for everything else**;
+	- Knowledge based on Mental
+	- Any context where being drunk is frowned upon
+
+**Blind Drunk/Very Drunk**
+
+- Drunk effects
+- **Plus 2Dd for;**
+	- Fortitude and Courage checks	- 
+- **Plus 4Rd for everything else**… including Social skills, Composure & Grit checks 
+
+
+## Mechanics: Drugged Drunkenness Variant
+
+[TODO] = Muses & creativity over social
+
+
+# Disease [TODO]
+
+1. Exposure & Contamination
+	1. Test luck
+	2. Plus protection nBd modifiers
+	3. Plus exposure nRd modifiers
+	4. Plus boons/flaws or benefits
+2. Severity & Symptoms
+	1. Specific to the disease
+	2. Severity modified by success/failure of exposure
+		1. Persistent penalties
+3. Recovery
+	1. Specific to the disease
+	2. ... could just be recovery of the significant number of penalties?
+4. Consequences
+	1. Attribute damage in the extreme
+
+# People  & Connections [TODO]
+
+Building a record of meaningful people
+
+## Three Meaningful Scenes
+
+1. Contact
+2. Connection
+3. Commitment
+
 # Complex Challenge Tests
 Some problems are extremely complex, protracted and involved that a single test is not sufficient to resolve. In a case of a protracted challenge test the results of multiple rounds combine to measure progress overcoming a challenge.
 
@@ -57,3 +114,6 @@ Successful resolution will achieve the outcome, in some circumstances due to fai
 
 > A partial outcome will create the bond and challenge existing bonds of faith without the training.
 
+
+
+---

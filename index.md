@@ -39,6 +39,9 @@ There are opportunities for specific rules and details related to an era which a
 3. [Creating Your Actor](/docs/2_actors/creating_actor.md)
 4. [Example Skill Lists](/docs/2_actors/skill_list.md)
 5. [Mechanics](pool_tests.md)
+	1. [Base](/docs/3_mechanics/base_test_mechanics.md)
+	2. [Pool](/docs/3_mechanics/pool_tests.md)
+	4. [Optional](/docs/3_mechanics/optional_mechanics.md)
 6. [Combat](docs/4_combat/combat.md)
 7. [Director's Advice](docs/5_director/directors_advice.md)
 

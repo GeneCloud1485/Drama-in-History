@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/3_mechanics/pool_tests.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 232.5
   },
   "right": {
     "id": "d55ff16b8b952423",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/3_mechanics/pool_tests.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
   },
   "active": "1322e0eb213aabcc",
   "lastOpenFiles": [
-    "docs/3_mechanics/complex_test_mechanics.md",
-    "docs/3_mechanics/base_test_mechanics.md",
-    "docs/3_mechanics/pool_tests.md",
-    "docs/4_combat/combat.md",
-    "docs/2_actors/creating_actor.md",
-    "docs/1_concepts/1.0_concepts.md",
+    "docs/3_mechanics/optional_mechanics.md",
     "index.md",
-    "docs/2_actors/skill_list.md",
-    "docs/2_actors/actor_stats.md",
-    "docs/2_actors/the_cast.md"
+    "docs/3_mechanics/pool_tests.md",
+    "docs/3_mechanics/pool_machanics.md",
+    "docs/3_mechanics/base_test_mechanics.md",
+    "docs/3_mechanics/base_test_machanics.md",
+    "docs/1_concepts/1.0_concepts.md",
+    "docs/5_director/directors_advice.md",
+    "docs/5_director/Reference.md",
+    "docs/4_combat/combat.md"
   ]
 }
