@@ -1,4 +1,7 @@
-
+---
+title: Index
+layout: default
+---
 
 # Drama in History RPG Rules
 > The **Drama in History** rules provide guidelines on running low fantasy, historically inspired, drama or horror games. They are focused as much on people, social relationships and investigations as physical conflicts.

@@ -1,5 +1,5 @@
 ---
-title: Your Actor
+title: The Cast
 layout: default
 ---
 

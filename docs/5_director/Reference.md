@@ -1,3 +1,8 @@
+---
+title: Refenece
+layout: default
+---
+
 # Reference
 
 ## AnyDice.com

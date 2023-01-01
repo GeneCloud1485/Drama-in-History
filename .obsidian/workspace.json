@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4_combat/wip_combat.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4_combat/wounds_fever.md",
+                "file": "docs/4_combat/combat.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tension",
+                "query": "advantage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/4_combat/wip_combat.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,14 +177,14 @@
   "active": "490d103619232a99",
   "lastOpenFiles": [
     "docs/5_director/Reference.md",
+    "docs/5_director/directors_advice.md",
+    "docs/4_combat/wounds_fever.md",
     "docs/4_combat/wip_combat.md",
     "docs/4_combat/combat.md",
-    "index.md",
-    "docs/4_combat/wounds_fever.md",
     "docs/3_mechanics/pool_tests.md",
     "docs/3_mechanics/optional_mechanics.md",
-    "docs/3_mechanics/pool_machanics.md",
     "docs/3_mechanics/base_test_mechanics.md",
-    "docs/3_mechanics/base_test_machanics.md"
+    "docs/2_actors/the_cast.md",
+    "docs/2_actors/skill_list.md"
   ]
 }

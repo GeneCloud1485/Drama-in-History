@@ -1,10 +1,11 @@
 ---
-title: Your Actor
+title: Wounds & Fevee
 layout: default
 ---
 
-# Optional Rules TODO
-**Optional Location of Wounds**
+# Optional Rules for Wounds and Fever
+
+## **Optional Location of Wounds**
 
 Based on the largest numbers of results of the dice in the positive dice pool, other than 6s. Use of hit location is optional for regular hits, it adds color and drama but not mechanical benefit.
 
@@ -20,15 +21,15 @@ _E.g the attacker achieves 3 successes from 5 base dice and 2 risk advantage dic
 
 _[TBD] courage and trait tests are all Risk dice?_
 
-**Ongoing Bleeding Wounds**
+## **Ongoing Bleeding Wounds**
 
-Any wound of 2+ points of Flesh damage will bleed and continue to bleed unless treated. The bleeding value is equal to the wound value + any critical hit modifiers. Bleeding happens on a ~5 minute cycle, additional damage being endured if bleeding is not staunched.
+Any wound of 3+ points of Flesh damage will bleed and continue to bleed unless treated. The bleeding value is equal to the wound value + any critical hit modifiers. Bleeding happens on a ~5 minute cycle, additional damage being endured if bleeding is not staunched.
 
 [TBD = minutes & moments… combat is a moment, bleeding is in minutes]
 
 > 5 minutes / Flesh damage is the bleeding out cycle
 
-**Staunching Wounds**
+### **Staunching Wounds**
 
 Each bleeding wound can be staunched by achieving equal or more successes than the wound level using First Aid. This is a cumulative process until wound's bleed value is met, otherwise the wound still counts as bleeding. Only one wound can be treated per 5 minutes by one person.
 
@@ -36,7 +37,7 @@ _E.g. a 3 point wound requires 3 levels of First Aid successes to staunch it._ 
 
 When the cumulative success of First Aid has met the bleed value, the wound is staunched and in normal circumstance won't cause further damage.
 
-**Continued Bleeding**
+### **Continued Bleeding**
 
 Each ~5 minutes a bleeding wounds requires the wounded to take a test of their (max) Flesh pool to avoid further bleeding. 
 
@@ -61,7 +62,7 @@ _If the friend had not rushed to aid the wounded man, he would have needed to pa
 
 Any significant physical action runs the risk of opening the wound and starting the bleeding process again.
 
-**Unconscious & Dying**
+## **Unconscious & Dying**
 
 Flesh levels;
 * At 0 = unconscious
@@ -71,7 +72,7 @@ Flesh levels;
 
 _E.g. Having taken a couple of solid hits and having passed level 1 courage tests, the loser is then hit once more reducing their Flesh to 0. They fall unconscious to the ground, bleeding from their wounds. They must pass an additional level 1 Physical check after 5 minutes to see if the bleeding stops._
 
-**Recovering & Healing**
+# **Recovering & Healing**
 
 _Design Goal: Create opportunities to apply wider range of skills, encourage empathy & care, and generate colorful dramatic outcomes which can persist. At a risk of additional complexity_
 
@@ -81,7 +82,7 @@ After the immediate risk of death and bleeding from a wound is completed, and in
 
 Each wound that caused Flesh damage is tracked separately. The size of the wound determines the difficulty in healing, the risk of infection and the recovery time. For simplicity focus on the largest wound received and only bleeding wounds are at risk of infection.
 
-**Fever & Infection**
+## **Fever & Infection**
 
 The initial recovery time and duration of the fever is a test of Flesh vs TNS of the largest Flesh wound taken, modified by the situation and the care applied. The test is made after ~12 hours or/plus the following morning.
 
@@ -116,7 +117,7 @@ _The Priest decides to bleed the man-at-arms to reduce the 'hot moist' humors of
 
 _The result matches the TNS and the man's fever breaks and he will start his full recovery the following day._ 
 
-**Sickness & Infection**
+# **Sickness & Infection**
 
 _Design goal: to create lasting color and memories of encounters, not to create a death spiral or punishment._
 
@@ -147,7 +148,7 @@ Critical wound recovery is extended by 4 weeks recovery time
 
 
 
-**Critical Wounds**
+# **Critical Wounds**
 
 When achieving a critical hit in combat, read the positive combat dice pool of the **loser** to determine the additional impact of the hit.
 
