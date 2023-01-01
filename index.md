@@ -3,6 +3,19 @@ title: Index
 layout: default
 ---
 
+## Index
+1. [Underlying Concepts](/docs/1_concepts/1.0_concepts.md)
+2. [Actor's Stats](/docs/2_actors/actor_stats.md)
+3. [Creating Your Actor](/docs/2_actors/creating_actor.md)
+4. [Example Skill Lists](/docs/2_actors/skill_list.md)
+5. [Mechanics](pool_tests.md)
+	1. [Base](/docs/3_mechanics/base_test_mechanics.md)
+	2. [Pool](/docs/3_mechanics/pool_tests.md)
+	4. [Optional](/docs/3_mechanics/optional_mechanics.md)
+6. [Combat](docs/4_combat/combat.md)
+7. [Wounds & Fever](docs/4_combat/wounds_fever.md)
+8. [Director's Advice](docs/5_director/directors_advice.md)
+ 
 # Drama in History RPG Rules
 > The **Drama in History** rules provide guidelines on running low fantasy, historically inspired, drama or horror games. They are focused as much on people, social relationships and investigations as physical conflicts.
 
@@ -36,18 +49,7 @@ The core rules will be a living SRD available for free. Hopefully we can grow an
 
 There are opportunities for specific rules and details related to an era which are not covered in the core rules, some will be added with specific settings and sandboxes expansions. The leading version has been developed for a late medieval period.
 
-## Index
-1. [Underlying Concepts](/docs/1_concepts/1.0_concepts.md)
-2. [Actor's Stats](/docs/2_actors/actor_stats.md)
-3. [Creating Your Actor](/docs/2_actors/creating_actor.md)
-4. [Example Skill Lists](/docs/2_actors/skill_list.md)
-5. [Mechanics](pool_tests.md)
-	1. [Base](/docs/3_mechanics/base_test_mechanics.md)
-	2. [Pool](/docs/3_mechanics/pool_tests.md)
-	4. [Optional](/docs/3_mechanics/optional_mechanics.md)
-6. [Combat](docs/4_combat/combat.md)
-7. [Wounds & Fever](docs/4_combat/wounds_fever.md)
-8. [Director's Advice](docs/5_director/directors_advice.md)
+
 
 
 
