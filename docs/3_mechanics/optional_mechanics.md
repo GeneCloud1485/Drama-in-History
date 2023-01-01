@@ -114,6 +114,26 @@ Successful resolution will achieve the outcome, in some circumstances due to fai
 
 > A partial outcome will create the bond and challenge existing bonds of faith without the training.
 
+# Critical and Unintended Consequences
+## Three '6s' is a Critical
+A CRITICAL success is achieved when 3 or more "6"s are rolled in the Base or Drama dice pools. Count the total number of "6"s in the positive Base and Drama dice pool, and deduct the number of "1"s in the negative Resistance dice pool, the result is added to the number of successes total. A critical result in combat has an additional effect [TODO link]
+
+> E.g. 7 Base dice and 4 Resistance dice
+> 
+>  7Bd: {6,6,6,5,3,3,1}  plus 4Pd: {4,4,2,1} creates an initial 2 net successes (4 positive and 2 negative). The 3 "6"s reveal a critical, which adds 2 (3-1) additional successes to the original result, bringing the final result to 4. 
+
+Any critical results provide the Director adds a Tension Die to their Tension Pool. [TODO]
+
+## Three '1s' cause Unintended Outcomes
+A Unintended Outcomes happens when 3 or more '1s' are rolled in the Resistance pool result. Although it is likely that any test which has 3+ resistance successes will be unlikely to succeed, it isn't necessarily the case. Regardless of the success, the interesting point of an Unintended Outcome is to add in something more dramatic, challenging or trigger an inner struggle for the Actor.
+
+> E.g 5 Base dice and 8 Resistance dice 5Bd {6,3,3,2,1} and 8Rd {6,5,5,3,2,1,1,1} is a net -3 successes, triggering an unintended outcome.
+> 
+> In this example the archer firing at the distant archery butt seriously misjudged the wind and sent their arrow flying wide. The arrow slammed into the wooden structure on which the notables of the fair were sitting, causing everyone to dive for cover!
+
+It is theoretically possible to get both a Critical and Unintended Outcomes in the same result of the dice pool - time to get creative with the narrative outcomes!
+
+---
 
 
 ---

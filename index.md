@@ -32,7 +32,7 @@ It should **draw upon** rather than be tied to historical accuracy. History is r
 
 As **life isn't simple**, expect games about people to get complex, emotional and provide dramatic struggle and choice. Rarely should decisions be black or white.
 
-For a game that aims to shine a light on people, it works best with smaller groups of players, 3-5 inc the director seems ideal. And to allow plenty of freedom and player led direction, sandbox style games are a good fit.
+For a game that aims to shine a light on people, it works best with smaller groups of players, 3-4 inc the director seems ideal. And to allow plenty of freedom and player led direction, open sandbox style games are a good fit.
 
 ## Assumptions
 This won't be your first role-playing game. You are familiar with the common principles of role-playing games. In this game the GM is called the Director and all players and NPCs are called Actors.

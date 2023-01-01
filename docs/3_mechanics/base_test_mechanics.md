@@ -8,14 +8,14 @@ layout: default
 # Types of Challenge Tests
 A dynamic story will have many moments where the outcome is not clear, or that an actor's wishes are opposed, or scenes which are challenging for the actor's to deal with.  These situations are dealt with by the use of a challenge test. There are a number of different forms of test, but they all work on same basic principle; build a pool, roll dice and read the results!
 
-- Base Attribute Test
-- Skill Tests
+- Base Attribute Test [[#**Base Attribute Test**]]
+- Skill Tests [[#**Skill Tests**]]
 1. Unopposed Skill Test
 2. Resisted Skill Test
 3. Opposed Skill Test
-- Currency Test
-- Complex Test
-- Combat, a deadly opposed test!
+- Currency Pool Test [[pool_tests]]
+- Complex Test [[optional_mechanics]]
+- Combat, a deadly opposed test! [[combat]]
 
 The goal is to make each test meaningful, sometimes dramatic but always with something that matters to be resolved. This doesn't need to be life or death, and could be of quite a mundane nature, as long as it matters to the actors and their story.
 
@@ -23,38 +23,12 @@ Some groups may like to roll more frequently than others, this is personal prefe
 
 Use the results of the pool to help make the roll more meaningful, let the pool help expand the narrative where appropriate.
 
-## Success or Failure?
-### Two Successes Needed
-Tests take a number of forms and draw upon a variety of attributes, skills and factors, but ultimately the goal is the same - to achieve a net of TWO successes. Achieving two success is always enough to gain a base success, the difficulty of a test is handled via the additional of resistance dice or by an opposed roll. Gaining more than two successes is an indication of greater level of success, which in some circumstances can improve or expand on the success.
+## Success or Failure? 
+- Two success are needed for success in an unopposed test
+- Two success and more than the opponent are needed in an opposed test
 
-> E.g. 6 Base dice 6Bd {5,5,4,3,1,1} = 2 net successes 
-> 
-> or 5 Base dice and 2 Resistance dice 5Bd: {6,5,3,2,2}  & 2Rd: {2,2} = 0 net successes and a failure
+[[1.0_concepts#Reading the Results]]
 
-### One success equals 'Yes, But...'
-What about ONE success? It is close and triggers the option of a YES, BUT result if the character can pay a meaningful price to achieve a success. The penalty could be narrative, could be a currency costs (attribute pool) or spending a Drama Pt - this is determined in negotiation with the Director.
-
-> E.g. 4 Base dice 4Bd: {5,2,2,1} = 1 net success requiring an additional price to be paid to succeed.
-
-### Three '6s' is a Critical
-A CRITICAL success is achieved when 3 or more "6"s are rolled in the Base or Drama dice pools. Count the total number of "6"s in the positive Base and Drama dice pool, and deduct the number of "1"s in the negative Resistance dice pool, the result is added to the number of successes total. A critical result in combat has an additional effect [TODO link]
-
-> E.g. 7 Base dice and 4 Resistance dice
-> 
->  7Bd: {6,6,6,5,3,3,1}  plus 4Pd: {4,4,2,1} creates an initial 2 net successes (4 positive and 2 negative). The 3 "6"s reveal a critical, which adds 2 (3-1) additional successes to the original result, bringing the final result to 4. 
-
-Any critical results provide the Director adds a Tension Die to their Tension Pool. [TODO]
-
-### Three '1s' cause Unintended Outcomes
-A Unintended Outcomes happens when 3 or more '1s' are rolled in the Resistance pool result. Although it is likely that any test which has 3+ resistance successes will be unlikely to succeed, it isn't necessarily the case. Regardless of the success, the interesting point of an Unintended Outcome is to add in something more dramatic, challenging or trigger an inner struggle for the Actor.
-
-> E.g 5 Base dice and 8 Resistance dice 5Bd {6,3,3,2,1} and 8Rd {6,5,5,3,2,1,1,1} is a net -3 successes, triggering an unintended outcome.
-> 
-> In this example the archer firing at the distant archery butt seriously misjudged the wind and sent their arrow flying wide. The arrow slammed into the wooden structure on which the notables of the fair were sitting, causing everyone to dive for cover!
-
-It is theoretically possible to get both a Critical and Unintended Outcomes in the same result of the dice pool - time to get creative with the narrative outcomes!
-
----
 
 #  **Base Attribute Test**
 A simple attribute test is used as a basic and catch-all test, either opposed or unopposed. Build the following pools;
@@ -125,7 +99,7 @@ Level of difficulty is reflected in the addition of penalty/resistance dice to t
 A simple unopposed test pits the skill of a person against the level of difficulty or resistance of a challenge.
 
 Build a dice pool from Base, Resistance, and Drama dice.
-1.  **Base pool** = Attribute + Skill or background
+1. **Base pool** = Attribute + Skill or background
 2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers
 3. **Drama pool** = risks, dramatic advantages or passions applicable
 
@@ -142,7 +116,6 @@ Build a dice pool from Base, Resistance, and Drama dice.
 3. **Drama pool** = risks, dramatic advantages or passions applicable
 
 The pools are rolled and the number of net successes is calculated. If two or more net successes are achieved then the test is successful.
-
 
 ## **Opposed** Skill Tests
 An opposed skill test is used when someone is actively engaged in attempting to win a contest of some form. Each party will build dice pools, roll and compare the results. The winner is the person with the highest number of net successes as long as the result is greater than two.
@@ -216,22 +189,21 @@ Penalty dice are applied to all healing or recovery checks and will modify recov
 
 ### **Lending a hand**
 
-When simply contributing a PAMS attribute can be helpful. Where it makes sense, the supporting person can add their appropriate core attribute in support of the attempt. 
+Where it makes sense, the supporting person can add their appropriate core attribute in support of the attempt. 
 
 > _E.g. a simple physical test to lift a broken cart off of an injured person, both parties contribute their full Physical attribute to the pool. One roll is made for the pair working together to lift the cart against a target number of successes._
 
 ### **Working together or providing assistance**
 
 In the case of two people are working on a problem, and where two can realistically contribute simultaneously. 
-- Each can roll and their results are combined.
-- Each receives the normal restistance/penalty dice
-- And each person involved has **additional** 2Rd penalty resistance to reflect the overlapping efforts and complexity of collaboration.
+- Each can roll and their results are combined, including any net negative successes
+- Each receives the full normal resistance/penalty dice 
 
-### **Providing advice**
+> E.g. Two apprentices working on a Difficult 4Rd problem set by their Master. They each have skill of 2Bd, one  has a Attribute of 3 and the other 2. They tests will be 4Bd vs 4Rd and 5Bd vs 4Rd, and the net successes combined.
 
-Where the supporting person has a higher skill (just skill, not PAMS + skill) than the person performing the test. The differences between the higher skill and the lower skill divided by two (round up) is added in risk dice.
+> E.g. Example one; {5,5,3,1} vs {4,4,3,1} = net 1 plus {6,6,4,3,1,1} vs {6,5,3,2} = net 1 which combine to net two successes
 
-> _E.g. A master (skill 4) provides advice to their student (skill 1), contributing 2R for the difference between their skill levels. The student could benefit significantly from the masters advice, although they could also fall foul of a misunderstanding reducing their understanding._
+> E.g. Example two; {6,5,2,2} vs {5,2,1,1} = net -1 plus {5,5,4,1,1} vs {6,4,4,3} = net 2 which combine for a net 1 success. The 1st apprentice misdirects and confuses the pair such that they fail to clearly resolve the challenge set by their Master.
 
 ### **Adding to the drama** 
 
