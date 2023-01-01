@@ -43,7 +43,8 @@ There are opportunities for specific rules and details related to an era which a
 	2. [Pool](/docs/3_mechanics/pool_tests.md)
 	4. [Optional](/docs/3_mechanics/optional_mechanics.md)
 6. [Combat](docs/4_combat/combat.md)
-7. [Director's Advice](docs/5_director/directors_advice.md)
+7. [Wounds & Fever](docs/4_combat/wounds_fever.md)
+8. [Director's Advice](docs/5_director/directors_advice.md)
 
 
 

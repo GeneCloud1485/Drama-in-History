@@ -6,7 +6,7 @@ layout: default
 [Back to the Index](https://genecloud1485.github.io/Drama-in-History/)
 
 # Tests of the Currency Pools
-The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested in different circumstances.
+The currency pools are Flesh, Grit, Composure and Fortitude. Each can be tested .
 
 ### Tests of Flesh
 - Courage after taking a flesh wound
@@ -60,6 +60,7 @@ No double counting: The test only considers the current inflicted wound, as prev
 - Fever & sickness check
 
 ### Incapacitated State
+When an actor has zero or lower flesh they are considered incapacitated, and unable to act.
 
 ---
 
@@ -69,6 +70,7 @@ No double counting: The test only considers the current inflicted wound, as prev
 nBd is equal to **max Grit pool** + nRd from current persistent penalty dice + any situational modifiers
 
 ### Blown State
+An actor is considered blown when they have no Grit remaining. They are slower to react, winded or out of luck. They gain +1Rd persistent penalty until they recover some grit to move out of the blown state.
 
 ---
 
@@ -99,8 +101,9 @@ The test is modified by the actor's scars, strength, bonds and context;
 
 Loss of Fortitude reflects a weakening of the mind, soul, or one's grasp of normality. 
 
-- If Fortitude **reduced by 2 pts or more**, the actor faces an uncontrolled shock moment + gain 1Rd persistent penalty.
-- If Fortitude is reduced by 50% of Max in one event, the actor takes on a lasting scar reflecting the situation.
+- If Fortitude **reduced by 3 pts or more**, the actor faces an uncontrolled shock moment 
+- If Fortitude is reduced *to* 50% of max, the actor gains +1Rd persistent penalty.
+- If Fortitude is reduced *by* 50% of Max in one event, the actor takes on a lasting scar reflecting the situation.
 - If an actor's Fortitude is reduced to **zero** they are 'Broken'.
 - If Fortitude is reduced to -3 the actor is permanently and irrevocably insane.
 
@@ -162,7 +165,7 @@ The test is modified by the context, what is at stake and the actor's bonds or s
 - The net outcome reduces the current Composure pool
 	- If this loss of 50% of max Composure in a single event leads to an Uncontrolled Failure of Composure
 	- If this loss reduces the actor's composure to 0, they are in a Shaken State
-	- Any remaining loss of composure will pass on to Fortitude at 50%. 
+	- Any remaining loss of composure will pass on to Fortitude up to a maximum of 3 points.
 
 > E.g. a city private detective has been on the trail of a potential brutal serial killer, who they believe has kidnapped a child. They have tracked the killer through a misty pine forest, losing composure as the tension of their situation sinks in;  alone, mist reducing their visibility, unfamiliar sounds of the forest, along with the threat of the killer themself. 
 
@@ -172,7 +175,7 @@ The test is modified by the context, what is at stake and the actor's bonds or s
 - Composure 7Bd + Strength: Determined 2Bd = 9Bd
 - vs Fear 4Rd + Context, 'potentially' a child's life at stake 2Rd + a persistent penalty of 1Rd = 7Rd
 
-> The detective should lose 4 composure, since they only have 2 points remaining 2 pass through to Fortitude at 50%. Their Composure is reduced to 0 and their Fortitude is reduced by 1. Also, as 4 points lost is greater than 50% of their max composure they take an uncontrolled Failure of Composure effect, and a 0 Composure leaves them in a Shaken State. 
+> The detective should lose 4 composure, since they only have 2 points remaining 2 pass through to Fortitude. Their Composure is reduced to 0 and their Fortitude is reduced by 2. Also, as 4 points lost is greater than 50% of their max composure they take an uncontrolled Failure of Composure effect, and a 0 Composure leaves them in a Shaken State. 
 
 > The width of the base dice pool determines the outcome. In this case, {6,5,5,4,4,4,4,2,1}, there are more 4's indicating that the detective suffers an emotional reaction. Perhaps a flashback reminds them of the child they are attempting to save, creating a new bond of care for the child. If they fail to save the child, they will gain a permanent Scar. They have to take a moment of pause, to compose themselves and wipe a tear from their eyes before moving on.
 
