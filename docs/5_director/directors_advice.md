@@ -196,3 +196,9 @@ We have become desensitized to the impact of big 'action' scenes, but we are alw
 |Goals in Conflict||
 |Power to Menace||
 |Presence Revealed||
+
+
+# Clues & Revelations
+
+https://arsludi.lamemage.com/index.php/41/revelations/
+https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule

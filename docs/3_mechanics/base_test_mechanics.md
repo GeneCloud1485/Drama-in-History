@@ -8,7 +8,7 @@ layout: default
 # Types of Challenge Tests
 A dynamic story will have many moments where the outcome is not clear, or that an actor's wishes are opposed, or scenes which are challenging for the actor's to deal with.  These situations are dealt with by the use of a challenge test. There are a number of different forms of test, but they all work on same basic principle; build a pool, roll dice and read the results!
 
-- Base Attribute Test [[#**Base Attribute Test**]]
+- Base Attribute Tests [[#**Base Attribute Test**]]
 - Skill Tests [[#**Skill Tests**]]
 1. Unopposed Skill Test
 2. Resisted Skill Test
@@ -29,8 +29,9 @@ Use the results of the pool to help make the roll more meaningful, let the pool 
 
 [[1.0_concepts#Reading the Results]]
 
+---
 
-#  **Base Attribute Test**
+# **Base Attribute Test**
 A simple attribute test is used as a basic and catch-all test, either opposed or unopposed. Build the following pools;
 
 1.  **Base pool** = Double the Attribute + situational modifiers
