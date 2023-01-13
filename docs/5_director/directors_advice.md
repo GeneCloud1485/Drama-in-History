@@ -51,6 +51,13 @@ Cast or Cameo actors will tend to be one dimensional, and only need limited prep
 
 
 #### Three Dimensional Actors & above
+- Traits
+- Spine
+- 1+ Fact
+- Personality & Action verbs
+- Mannerisms & Performance
+- Description
+- Bonds & Beliefs
 
 
 
@@ -198,7 +205,60 @@ We have become desensitized to the impact of big 'action' scenes, but we are alw
 |Presence Revealed||
 
 
-# Clues & Revelations
+# Connections & Clues
+A 'connection' is a point of understanding in the Story, an insight the players need, a scene with a person or location, and a connective idea between scenes. They make up the fabric of the [[1.0_concepts#Seasons, Stories & Scenes|Story]] and the relationship between information. For players to understand the story or mystery they will need to make the necessary connections. Most connections will be made through clues, some will be made by player instinct or deduction or assumption.
+
+> E.g. Brother Renard is possessed
+
+
+Clues should support one or more Connection.
+
+
+
+
+... revelations in the sense of understanding rather than enlightenment...
+- Discoveries
+- Revelations
+- Understanding
+- Clues
+- Facts
 
 https://arsludi.lamemage.com/index.php/41/revelations/
 https://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule
+
+
+# Premise
+A story’s premise is the foundational idea that expresses the plot in simple terms. A good premise will communicate your story’s essence in a one-sentence or two-sentence statement.
+[TODO provide examples...]
+
+- Not player facing
+- Director guidance
+- Help bring focus, consistent and emphasis to a story
+
+> E.g. Croyland - question of what you believe, and how much you will risk for what you believe
+
+
+
+## Soaps
+- Cast of characters
+- With regular stories and changing relationships and perpetual drama
+- Yet nothing really changes
+- Cast left with unfulfilled relationship goals
+
+"So then, the term “soap opera” might be better referred to as “longform drama” or “longform dramatic narrative”. It is a style of narrative that is not only designed to span chronologically over long breadths of time, but also to delve deeply into each character’s story arcs and growth, and it is a style of narrative designed to constantly engage the viewer with new developments that will not immediately be resolved."
+
+https://www.tumblr.com/dearwriters/627179215445475328/soap-opera-writing-tips
+1. _**Create a fixed community**_
+   ...soaps revolve around fixed communities caught up in melodramatic story lines. Creating a fixed community allows an audience to become fully invested in characters that may range from all ages but will all center around a center point.
+2.  _**Perpetual drama**_
+   ...the drama never stops in a soap- there is never a time where the characters aren’t involved in some sort of predicament.
+3. _**Use of events**_
+   ...Unexpected tragedies, revelations and general mayhem occur with frequency at weddings, births, funerals, christenings, anniversaries and other major life events in a soap. Soap opera writers use life events to reveal plot points or to stir up further crises, but the use of dramatic happenings at an event where most characters in the fixed community are gathered is found in almost every soap opera.
+4. _**Make the bizarre believable**_
+   ...Soap opera audiences rarely analyze the absurdity of the scenario soap characters are in if the soap opera creator has done their job in making the bizarre believable.
+5. _**Controversial topics**_
+   ...Of course, a soap opera writer needs to treat these topics with dignity and sensitivity. Thorough research is required for deeper topics. Still, don’t be afraid to use these controversial topics in a story line because they are usually what keeps an audience interested and wanting to know the outcome.
+6. _**Cliff hangers**_
+   ...Leaving a plot in suspense is what keeps soap opera lovers coming back for more! It also allows the soap opera writer to shift onto another topic before getting back to the cliff hanger.
+7. _**Wild imagination**_
+   ...A soap opera writer should never stop dreaming up absurdities, calamities, romance, melodrama- it is the one genre in which even fantasy elements can be added.

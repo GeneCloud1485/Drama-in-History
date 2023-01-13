@@ -147,7 +147,7 @@ A test of composure is called when the character needs to keep their cool, deal 
 
 - nBD equals the **Max Fortitude pool** + nRd from any current persistent penalties + strength of the shock that triggered the test
 
-| Test | Resistance | Outcome Fort Loss|
+| Test | Resistance | Outcome Comp Loss|
 | :--- | :--- | :--- |
 | Worry & Unease | 0 | 2 - net successes |
 | Tension | 2Rd | 3 - net successes |

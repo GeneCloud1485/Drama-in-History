@@ -142,7 +142,7 @@ Add in any Resistance dice to reflect the difficult of the current situation.
 | Height disadvantage | 2Rd |
 
 #### Stance Modifiers
-Add in the **1Rd** when an actor has adopted a press their attack stance.
+Add in the **1Rd** when an actor has adopted a press their attack stance. [todo]
 
 ### 3. Drama Pool
 #### Declaring Dramatic Actions or Passions

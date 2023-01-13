@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "167ca0e00ff7a893",
+        "id": "e76499abece0fce2",
         "type": "tabs",
         "children": [
           {
-            "id": "65dba9a4d4bbc7ec",
+            "id": "29600eb3db9e5ada",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "docs/1_concepts/1.0_concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,15 +124,15 @@
   },
   "active": "490d103619232a99",
   "lastOpenFiles": [
+    "docs/1_concepts/1.0_concepts.md",
+    "docs/5_director/directors_advice.md",
+    "docs/4_combat/combat.md",
+    "docs/3_mechanics/pool_tests.md",
+    "docs/4_combat/wip_combat.md",
     "docs/5_director/Reference.md",
     "docs/3_mechanics/base_test_mechanics.md",
     "index.md",
-    "docs/1_concepts/1.0_concepts.md",
     "docs/3_mechanics/optional_mechanics.md",
-    "docs/5_director/directors_advice.md",
-    "docs/4_combat/wounds_fever.md",
-    "docs/4_combat/wip_combat.md",
-    "docs/4_combat/combat.md",
-    "docs/3_mechanics/pool_tests.md"
+    "docs/4_combat/wounds_fever.md"
   ]
 }
