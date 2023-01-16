@@ -62,7 +62,7 @@ The Director can ask for a specific skill test or an Actor can request a skill t
 
 > E.g. An actor trained (+2) in Riding with an Agility of 3 will have a 5Bd
 
-- If the attribute associated with the skill is lower than the value of the skill, and greater than zero then 1Rd resistance is added to the test.
+- If the attribute associated with the skill is half or less than the value of the skill, and greater than zero then 1Rd resistance is added to the test.
 - If the attribute associated with the skill is zero or lower, then 2Rd are added.
 
 > E.g. An aging actor who is an accomplished (+3) Dancer, but now has an Agility of 2 will gain an additional 1Rd as well as their 5Bd for the skill + attribute.
