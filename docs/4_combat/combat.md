@@ -9,7 +9,7 @@ layout: default
 
 [TODO] Combat covers a number of different types of engagements; brawls, melee, ranged shots, gunfights or firefights
 
-
+Each round of melee represents about 10 seconds. 
 
 # General Melee
 1. Joining the Melee

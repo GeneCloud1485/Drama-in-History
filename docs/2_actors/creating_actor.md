@@ -46,6 +46,18 @@ The 1st two age bands, baby & child, which take your actor through to age 10. Th
 # 2. Boons & Flaws
 Each actor has inherent boons or flaws which could for formative factors in their life story. 
 
+## Common Skill Favour/Dis-Favour
+
+Roll 1d6 twice to select which common skills are favored or dis-favored. If a common skill is favored and dis-favored, they cancel out.
+
+| ... | 1 | 2 | 3 | 4 | 5 | 6 |
+|:---|:---|:---|:---|:---|:---|:---|
+| Favour | Common Courtesy | Observation | Local Knowledge | Circumspect Movement | Inspiration | Strike |
+| Dis-Favour | Common Courtesy | Observation | Local Knowledge | Circumspect Movement | Inspiration | Strike |
+
+
+
+
 ## Boons
 Roll 2d6 for a Boon, read horizontally for the 1st die result and vertically for the 2nd.
 

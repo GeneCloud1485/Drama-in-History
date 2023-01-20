@@ -4,15 +4,17 @@ layout: default
 ---
 
 # Brawls
-# Shields
-- Finding matches in the dice pool to provide additional defense successes
-- Size of the shield changes the matches needed
-- Shield Wall extends to add more matches 
 
-- Small -> Any quad
-- Medium -> Any triple = +1, two triples = +2
-- Large -> Two pairs = +1, three pairs = +2, four pairs = +3
-- Shield Wall -> 
+
+# Shields
+- Shields provide defensive Armor dice
+- Finding matches in the main dice pool to provide additional ==offense== successes
+- Size of the shield changes the matches needed
+
+- Small -> Any triple = +1, quad = +2, quintuple = +3
+- Medium/Large -> Any triple or quad = +2 successes, quintuple = +3
+
+### Shield Wall
 
 
 # Gunfights
@@ -29,6 +31,9 @@ layout: default
 - Charge available
 - Height?
 - Horse attack
+
+- Additional stance options?
+
 - Knocked off
 - Long weapons
 - Pulled from horse
@@ -60,13 +65,28 @@ Additional defensive dice?
 ## Effective Range
 
 ## Fire Rates
+
 ### Single Shot & Load
+- Slow loading weapons can take 1 turn to load
+
 ### Single Round Fire
-### Semi Auto Fire
-### Full Auto Fire
+- 
+
+### Automatic Fire
+- Roll additional Drama Dice representing the effect of the extra shots
+- Two successes in the Drama pool equal a second wound, which attracts the full Flesh damage of the shot, less any defensive armor saves. This would mean the defender rolling additionally for their armor against this shot.
+- Two '1s' in the Drama pool indicates a jam, out of ammo or mis-fire
+
+| Auto Fire | Additional Dice | Extra Phy required |
+| :--- | :--- |:----|
+| Semi Auto Fire | +2 Dd | +1 Phy |
+| Full Auto Fire | +4 Dd | +2 Phy |
+
 ## Shotguns
 ## Explosives
 ## Suppression
+- Dice pattern to cause suppression
+- Effects of suppression -> 
 
 # Defensive Positions
 
