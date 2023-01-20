@@ -4,13 +4,20 @@ layout: default
 ---
 
 # Brawls
+- Phy -> brawl, punch and swings
+- Agl -> judo and more martial arts style
+- Dice patterns for moves
+
+- Grapple
+- Throw
+- Slug
 
 
 # Shields
 - Shields provide defensive Armor dice
 
 - Finding matches in the main dice pool to provide additional ==offense== successes
-| Any Triples | Any Quad | Any Quintuples |
+| Any Trips (3) | Any Quads (4) | Any Quins (5) |
 | :--- |:----|:---|
 | +1 succes | +2 successes | +3 successes |
 | +2 successes | +2 successes | +2 successes |
@@ -23,42 +30,6 @@ layout: default
 
 # Gunfights
 # Firefights
-# ==WIP SECTION==
-
-
-# Mounted Combat
-- Additional knock-back - force of horse
-- Variable horse size
-- Horse panic
-- Attacking horse
-- Shield/armor applied to the horse if attacked from the correct side
-- Charge available
-- Height?
-- Horse attack
-
-- Additional stance options?
-
-- Knocked off
-- Long weapons
-- Pulled from horse
-
-Skill capped by Ride skill
-
-# Duels 3.2.1
-
-[TODO]
-**Hiding in Terrain**
-
-hit location? = additional random on top of the roll which doesn't seem quite right...
-
-Additional defensive dice?
-
-# Fighting in Buildings/Castles
-
-# Defensive Formations
-- Shield Wall
-- Weapons with reach
-
 
 # Firearms
 
@@ -108,10 +79,47 @@ Additional defensive dice?
 | :--- | :--- |:----|
 | Semi Auto Fire | Quad | 2Rd |
 | Full Auto Fire | Trip | 4Rd |
+- Effects of suppression -> Additions of Rd on ==subsequent round
+- Use of a Drama Point in the subsequent round allows the suppression to be ignored
+
+# ==WIP SECTION==
+
+
+# Mounted Combat
+- Additional knock-back - force of horse
+- Variable horse size
+- Horse panic
+- Attacking horse
+- Shield/armor applied to the horse if attacked from the correct side
+- Charge available
+- Height?
+- Horse attack
+
+- Additional stance options?
+
+- Knocked off
+- Long weapons
+- Pulled from horse
+
+Skill capped by Ride skill
+
+# Duels 3.2.1
+
+[TODO]
+**Hiding in Terrain**
+
+hit location? = additional random on top of the roll which doesn't seem quite right...
+
+Additional defensive dice?
+
+# Fighting in Buildings/Castles
+
+# Defensive Formations
+- Shield Wall
+- Weapons with reach
 
 
 
-- Effects of suppression -> Additions of Rd on subsequent rounds
 
 # Defensive Positions
 
