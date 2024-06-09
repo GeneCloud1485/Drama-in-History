@@ -17,7 +17,7 @@ Four attributes are the basis of the characters statistical description and prov
 -   **Mental** (Mnt)
 -   **Social** (Soc)
 
-Each attribute can range from -3 up to 6
+Each attribute can range from -3 up to 6(+)
 
 -   -3 represents total incapacity and retirement 
 -   0 or less represents a significant weakness or disability
@@ -33,23 +33,14 @@ Currency Pools represent a more dynamic value than the primary attributes. They 
 
 > A currency pool is just like tracking maximum hit points and current hit points in many other games.
 
-### Core Pools
--   **Flesh Pool** =  physical health and core strength derived from the Physical attribute. Flesh damage represents a physical wound, recovery is a slow and potentially fraught journey.
--   **Fortitude Pool** = mental strength and sanity derived from the Mental attribute. Fortitude can be reduced by shocking or horrifying situations. Recovery is a slow process.
+-   **FLESH Pool** =  physical health and core strength derived from the Physical attribute. Flesh damage represents a physical wound, recovery is a slow and potentially fraught journey.
+-   **LUCK Pool** = 
+-   **FORTITUDE Pool** = mental strength and sanity derived from the Mental attribute. Fortitude can be reduced by shocking or horrifying situations. Recovery is a slow process.
+-   **COMPOSURE Pool** = confidence, social resilience to persuasion derived from the Social attribute. Composure is reduced in challenging, tense or social situations and it can recovered fairly quickly.
 
-When Flesh or Fortitude pools are reduced to 50% or less the character gains +1 penalty dice. 
-If Flesh or Fortitude pools reach ZERO the character is out of play, either dying or potentially permanently insane. 
-
-### Temporary Pools
--   **Grit Pool** = quickness and good luck derived from the Agility attribute. Grit reduction reflects fatigue or the use of luck or experience to avoid physical harm. Recovery is a relatively quick process, measured in hours.
--   **Composure Pool** = confidence, social resilience to persuasion derived from the Social attribute. Composure is reduced in challenging, tense or social situations and it can recovered fairly quickly.
 [TODO could this be called Confidence rather than Composure?]
 
-When Grit or Composure are reduced to ZERO gain +1 persistent penalty dice. Subsequent reductions to Grit or Composure are passed directly to Flesh or Fortitude.
-
-#### Additional Temporary Pools
-- **Penalty Pool** = the number of current, persistent penalty dice that an actor is dealing with. These penalties are applied to all tests, and are therefore a matter of concern for the Actor.
-- **Drama Point Pool** = the maximum number and current number of Drama Points available to the Actor.
+#### TBD CONDITIONS
 
 # Actor Level
 Actor level reflects the relative importance or 'experience' of both player and non-player Actors.  Player Actors tend to start at the Cameo level rather than Cast.
@@ -75,7 +66,7 @@ Additional Drama Points can also be gained when a new dramatic passion is taken,
 
 See Drama Points for more information on the use of the currency.
 
-# Drama Points
+# TBD Drama Points
 Drama points can be spent to call on a dramatic action or an advantage or to take advantage of an opportunity that presents itself (in the dice pool result). Drama points are a persistent currency pool, and spending them reduces the pool until the end of the **Season** when they recover. It is possible to recover Drama Points during play at the Director's discretion as a reward for dramatic outcomes, great RP or to keep the game flowing.
 
 A Drama Point can be spent to add to the drama pool;
@@ -88,8 +79,8 @@ Or to take advantage of a situation;
 
 > E.g. an actor in a very challenging test have initially come up short with zero net successes. They mastery of the skill, and rolled triple 4's which provides +1 success, they decide to spend a drama point to upgrade one of the '4' into a '5' to gain additional +1. Converting the '4' doesn't break the triple, and they achieve a net two success and succeed.
 
-# Penalty Dice
-Penalty dice represent the persistent but temporary stress, pressure or disadvantages that an actor is suffering from. They can be gained as a result of a number of actions or outcomes, and can be recovered by rest without the cause of stress.
+# TBD Resistance Dice
+Resistance dice represent the persistent but temporary stress, pressure or disadvantages that an actor is suffering from. They can be gained as a result of a number of actions or outcomes, and can be recovered by rest without the cause of stress.
 
 They differ from a situational modifier, which would typically be applied for one test or roll. Penalty dice are persistent and apply to all skill tests.
 
