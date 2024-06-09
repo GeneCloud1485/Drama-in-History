@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "docs/4_combat/Concept & Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "docs/4_combat/Concept & Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "docs/4_combat/Concept & Tables.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "c5630c68377e248d",
   "lastOpenFiles": [
+    "index.md",
     "docs/4_combat/Concept & Tables.md",
     "docs/3_mechanics/base_test_mechanics.md",
     "docs/4_combat/Combat Summary.md",
@@ -196,7 +197,6 @@
     "docs/1_concepts/Quick Summary.md",
     "docs/2_actors/skill_list.md",
     "img/Pasted image 20240324083451.png",
-    "index.md",
     "docs/2_actors/creating_actor.md",
     "img/Pasted image 20231202151026.png",
     "docs/1_concepts/1.0_concepts.md",
