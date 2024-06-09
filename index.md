@@ -12,7 +12,7 @@ layout: default
 	1. [Base](/docs/3_mechanics/base_test_mechanics.md)
 	2. [Pool](/docs/3_mechanics/pool_tests.md)
 	4. [Optional](/docs/3_mechanics/optional_mechanics.md)
-6. [Combat](combat_old.md)
+6. [Combat](/docs/4_combat/Concept & Tables.md)
 7. [Wounds & Fever](docs/4_combat/wounds_fever.md)
 8. [Director's Advice](docs/5_director/directors_advice.md)
  
