@@ -137,3 +137,42 @@ It is theoretically possible to get both a Critical and Unintended Outcomes in t
 
 
 ---
+# Ideas
+
+- Use of Drama Points to get past a particular 'lock'
+	- E.g. get access to someone beyond your social status
+
+
+# Chases
+1. How much head start?
+	1. 'Agreed' distance in 0-4 units (units vary depending on the form of transport)
+		1. 0... same place/caught
+		2. 1-3...close/medium/far etc 
+		3. 4 outdistanced
+	2. Starting Momentum
+		1. Does someone have a clear head-start or momentum?
+		2. Or highest Agility
+		3. Or highest skill in a skill based opposed roll
+	3. Depending on the outcome of an opposed awareness vs circumspect movement if spotting a target
+	4. Difference = informs gap between opponents + estimate of real distance
+3. Form of Chase = Opposed roll + conditions + modifiers
+	1. On Foot
+		1. Opposed Athletics
+	2. Horse
+		1. Opposed Athletics/Vocational Skill + Horse quality
+	3. Vehicle
+		1. Opposed Skill + vehicle quality
+	4. Situational modifiers
+		1. Surprise
+		2. Reaction time
+		3. Form of transport differences
+		4. 
+	5. Dice pattern Boosts
+		1. Doubles based on Agility = +1 success
+		2. Triple, if within 1 distances can be used as a closing move
+		3. Lucky sixes
+		4. Rd
+	6. Burn Luck?
+5. Flesh + Rd + wounds equals number of rounds of athletics which be undertaken before moving to Strength & Stamina
+	1. Opposing with Strength & Stamina
+	2. Different outcome

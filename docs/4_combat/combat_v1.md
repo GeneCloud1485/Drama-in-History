@@ -15,6 +15,7 @@ Each round of melee represents about 10 seconds.
 1. Joining the Melee
 2. Declare Stance 
 	1. 1st Round Establish Momentum
+	2. Establish melee range, and weapon reach
 3. Opposed Skill Test
 4. Results of a Melee Round
 	1. Deal with Wounds
@@ -75,11 +76,19 @@ Participants who are unaware or surprised don't get a chance to prepare, and the
 
 [TODO courage and bravery in the face on an enemy]
 
+| Stance | Modifier |
+| :--- | :---: |
+| Press Attack | +2 Momentum, 2Bd & easier knock-back |
+| Stand | n/a |
+| Brace for fight | -2 Momentum, 1-4Ad & harder knock-back|
+| Defend | Not opposed, 6Ad + shield/weapon size 1-4 |
+| Evade | Oppose with 2xAgility + Agl Ad |
+
 ## 1st Round Establishing Momentum
 Momentum tracks the ebb and flow of the upper hand in a conflict. Whoever has momentum will win ties in opposed rolls.
 
-For the 1st round of melee the momentum is determined by the highest **Current Grit** pool value + modifier from their stance.
-- Ties resolved by the highest Agility value
+For the 1st round of melee the momentum is determined by the highest **AGL** pool value - number of flesh wounds + modifier from their stance and military training.
+- Ties go highest LUCK
 - Ties resolved in favor of the highest Actor level
 - Ties go to the player Actors
 
@@ -161,6 +170,8 @@ Add in the **1Dd** when an actor has adopted a press their attack stance.
 - **Draw**: Both parties the same number of two or more net successes, leading to a draw. A draw is resolved by who currently has momentum.
 	- **Marginal Draw**: Both parties have exactly one net success. The draw is resolved by who currently has momentum. [Optional, otherwise it would be a failure]
 - **Failure**: Neither party gains two net successes. 
+
+>> Winner via Momentum delivers a glancing blow, and keeps momentum into next turn.
 
 #### Level of Success
 The net difference between the two rolls creates the level of success, the greater the different the greater the success. Ties have zero levels of success.
@@ -396,6 +407,36 @@ Shields add a dice pattern match opportunity in the **base** **nBd pool** which 
 - Any Quad adds Shield Bash delivering 1/2/3 Grit damage to the opponent, regardless of if the actor wins the round.
 
 ---
+>[!NEW]
+# Updated Melee Rules
+1. Stance
+2. Momentum
+	1. Compare Luck + modifiers
+3. Opposed rolls
+4. Most success = winner
+	1. Momentum resolves ties, if no successes = glancing blow otherwise normal result
+		1. Luck can be spent to steal momentum to win a tie
+		2. and that can be countered, and countered etc back and forth escalating the Luck cost to win the tie (dice pool results will be known at this point)
+	2. Successes = damage (as opposed to net successes)
+	3. Width could add damage depending on weapon size/strength/damage
+[NOTE: always a winner, no melee rounds ends in a complete miss]
+
+| Stance | 1st turn momentum Mod | Rules | Modifier |
+| :--- | :---: |:---: |:---: |
+| Furious | +4 | Once only | 4Bd + 2Rd <br> & knock-back (2) and Close to Melee|
+| Press Attack | +2 | Only alt turns | 2Bd & easier knock-back (1) |
+| Feint Attack | 0 |  Only alt turns |2Rd all parties & steal Momentum with a reaction |
+| Stand ground | n/a | n/a | No movement |
+| Change range| | | Move in or out Melee distance |
+| Brace for fight | -2 | | 2Rd, Shield/Wpn (0-6)Ad <br> & harder knock-back (2), no option to move as reaction|
+| Defend | Not opposed ||  6Ad + shield/weapon size 1-4 |
+| Evade | +2 | | Oppose with 2xAgility + Agl Ad <br> Option to Step Back |
+| Dramatic Action | +2 | Once only | Unique |
+| Rush | 2 | | Move in to Up Close <br> if success, close to Up Close|
+| Target Weakness | -2 | | 2Rd +1 Wound point on Success |
+| Grab & Hold |-2|||
+
+[No move stances/actions possible when knocked-down (double or triple disadvantaged)]
 
 # **Ranged Attacks**
 Ranged combat is resolved with a form of Unopposed Skill Test, and is resolved in sequence.
@@ -406,29 +447,28 @@ Ranged combat is resolved with a form of Unopposed Skill Test, and is resolved i
 
 ### Who shoots first?
 1. Is it clear who gets 1st shot?
-2. If not resolve in Agility order
+	1. 1-3 beats
+2. If not resolve in Agility order (or DRAW order?)
 	- Ties resolved by the highest Agility value
 	- Ties resolved in favor of the highest Actor level
 	- Ties go to the player Actors
 
-
 ### Resolving a shot
 
-
-Build a dice pool from Base, Resistance, and Drama dice.
+Build a dice pool from Base & Resistance
 1. **Base pool** = Attribute + Skill or background (capped by the attribute)
 2. **Resistance pool** = persistent penalties + difficulty of the challenge + situational modifiers
-3. **Drama pool** = risks, dramatic advantages or passions applicable
 
 #### **Situational modifiers for Ranged Attacks**
 
-|Situation | 0 | 2 Rd | 4 Rd | 6 Rd | 8 Rd |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Range| PB |Close| Mid | Long| Far|
-|Visibility| Clear | Mist/Glare | Rain/Dusk | Fog/Near Dark| Dark|
-|Wind| None| Light|Modest | Strong| Storm|
-|Target Move| Stationary| Walk/Moving| Dash| Run | Gallop|
-|Size of Target||Small Target|Head|Bull's Eye|
+|     Situation      |     0      |     2 Rd     |   4 Rd    |     6 Rd      |  8 Rd   |
+| :----------------: | :--------: | :----------: | :-------: | :-----------: | :-----: |
+|       Range        |     PB     |    Close     |    Mid    |     Long      |   Far   |
+|     Visibility     |   Clear    |  Mist/Glare  | Rain/Dusk | Fog/Near Dark |  Dark   |
+|    Target Move     | Stationary | Walk/Moving  |   Dash    |      Run      | Gallop  |
+|   Size of Target   |            | Small Target |   Head    |  Bull's Eye   |         |
+| Wind <br> Physical |   Light    |    Modest    |  Strong   |     Storm     | Extreme |
+| Wind <br> Powered  |   Strong   |    Storm     |  Extreme  |               |         |
 
 |Situation | +2 Bd |
 | :--- | :--- | 
@@ -437,16 +477,148 @@ Build a dice pool from Base, Resistance, and Drama dice.
 | | Aiming for a turn|
 
 ### **Results of Ranged Combat**
+
 The results of a ranged attack are resolved just like melee;
-- Net two plus successes = Win, calculate the level of success as net successes minus two, plus the weapon damage.
-- Net one success = Marginal Win, apply a max of 1pt of Flesh damage with no level of success.
+- >1 net successes = Success
 - Zero or less success = Miss
 
-> E.g. An accomplished archer with Agl 3, aiming before shooting at a deer walking in light woodland has a skill + attribute of 6Bd + 2Bd for aiming {6,5,5,4,4,2,1,1} + 4Rd for the woods and moving target {4,3,1,1} achieving a net 1 success and a marginal win. The shot wings the deer, inflicting 1F wound... which sends it racing into the trees and out of sight.
+Damage is calculated as
+- number of successes
+- plus weapon modifier dependent on the widest width 
+  (... old notes says... of the lowest, widest number - not sure what this adds, it is used for hit location to avoid hits being in the head)
 
+| Weapon Type | Power | Best <br> Pattern | Outcome |
+| :--- | :--- | :--- |:--- |
+| Light | 0| Quad (4+)| +1 Wound pt |
+| Mid | 2|Trip (3+) | +1 Wound pt |
+| Heavy | 4|Trip (3+) <br> Quad (4+) | +1 Wound pts <br> +2 Wound pts |
+| Very Heavy| 6| Double (2+) <br> Trip (3+) <br> Quad (4+) | +1 Wound pts <br> +2 Wound pts <br> +3 Wound pts|
+
+> Example
+> ![[Pasted image 20231014184301.png]]
+> 10 Bd vs 6Rd = 1 success
+> widest number is 5, and there is a quad
+> firing a light caliber weapon needs a quad to gain a benefit, since there are 4 x 5's a bonus of +1 wound point is added to the 1 success 
+> Assuming no armor, inflicting a 2pt wound
+
+### Damage
+- Fill the damage spaces based on the wound received
+- If there isn't a slot, move up to the higher level
+	- If a 1pt wound is upgraded, mark it as a B bruised would which can be recovered overnight
+- <u>Any 2pt or higher</u> wound is bleeding, and need staunching or treated in some way
+- Depending on location and impact/weapon, option to take a break rather than bleeding. (break doesn't run on, but the healing time is much longer)
+#### Bleeding
+|Wound Received| Blood Loss Cycle |
+| :--- | :--- | 
+| 2pt | 30 minutes|
+| 3pt |20 minutes|
+| 4pt| 10 minutes|
+| 5pt |5 minutes|
+| 6pt |1 minute|
+| 7pt+ |1 moment/turn|
+- Starting value is Flesh/Body, and each cycle will reduce that value by one. 
+- Reaching to zero = death
+- Multiple bleeding wounds can drain the Flesh value in parallel if not treated.
+- Recovery from loss of blood is 1 day per point
+#### Downed
+> KO'ed, pass out or become incapacitated
+- If all damage slots are full, but no overage taken = downed
+- If a single hit is equal or greater than Flesh/Body = downed
+- Unless...
+	- Another 3pt wound slot is unused
+	- A trait or ability indicates the actor should stay up, as long as they have at least a wound slot available
+- If all damage is taken and downed = dead
+#### Use of Luck
+- Luck can be use to reduce a Flesh wound
+- A Luck slot higher than the Flesh slot is required
+	- 2 Luck to reduce by 1 Flesh
+	- 3 Luck to reduce by 2 Flesh
+- E.g. a 5pt wound could be reduced to a 3pt wound with the expenditure of a 3 pt Luck wound, perhaps saving the actor from being downed and bleeding out
+#### Use of Drama
+- Can be used to recover from Downed status
+#### Example
+- An actor with 4 Flesh receives a 4pt wound
+	- They mark a serious wound slot
+	- Are downed 
+	- Take a physical Status Condition
+	- Note that the wound is bleeding, and will lose 1 point of Flesh every 10 minutes.
+	- They will bleed out in 40 minutes
+
+### Knock-down
+- Any hit which is not a glancing blow or winged tests for knock-down
+- Calculate the knock-down power of the hit
+	- Melee
+		- Winner's Knockdown is successes + Physical + knock-down modifiers
+		- Original successes not wounds, wounds can be modified by armor, defenses, weapon type)
+		- Knock-down modifiers from stance
+	- Ranged
+		- Shot's power + successes
+	- Location hit
+		- Can increase or decrease the chance of a knock-down
+	- Specific weapon or Dramatic Action could also modify the knock-down calculation
+- Compare with <u>average</u> of defenders Phy and Agl (round down)
+	- If greater then, the defender is knocked-back and disadvantaged into next round **2Rd**
+	- If greater than double the average of Phy + Agl = knock-down & double disadvantage = **4Rd**
+	- if greater than triple the average of Phy and Agl = knock-flat & triple disadvantage = **6Rd**
+
+- Stance could modify knockdown value by up to +4 to -4
+	- Furious winners adds +2 their knock-down 
+	- Furious loser <u>reduces </u>their knock-down defense by 2
+	- Press attack winner adds +1 to their knock-down
+	- Press attack loser reduces their knock-down defense by 1
+	- Brace winner <u>reduces</u> their knock-down by 2
+	- Brace loser increase their knock-down defense 2
+
+> Example;
+> A melee blow of 2 successes, winner's Press Attack stance (+1) vs a Pressed Attack stance (-1) with a head hit (+1), and Physical of 4 = 9pt knock-down
+> vs a target with an average of 4 Phy & Agl
+> The blow is double the average but less than triple = double disadvantaged and a knock-down to knees with 4Rd next turn
+
+> Alt Example;
+> If the loser had been Braced for the Fight, the result would have been 2 + winner's stance of +1, loser's stance of -2 and winner's Phy of 4 = 5
+> The blow is greater than the average but not greater than double = knock-back and disadvantaged with 2Rd next turn
+##### Recovering from Disadvantage
+- Disadvantage is recovered one step per turns
+- Recovering from Double Disadvantage takes two turns
+
+#### Location
+
+|Widest # | Location | Modifier |
+| :--- | :--- | :--- | 
+| 6 | Head|Knock-down easier (1) | 
+| 5 | Chest/Shoulders| | 
+| 4 | Guts|Knock-down easier (1) | 
+| 3 | Leg| |
+| 2 | Arm | Knock-down harder (1) | 
+| 1 | Winged | max 1pt, no knock-down |
+
+##### Option;
+- In both pools, if there are more even dice then the result is left side, if there are more odd is right side, and if tied it is a central hit.
+
+> Example continued
+> 5 indicates that the target has been hit in the chest/shoulders
+> 9 odd vs 7 even dice results indicates an odd result which means the wound is in the left shoulder
 
 
 ---
 
-  
+# Open topics
 
+- Multiple opponents?
+	- 2Rd on 1st attack and 4Rd on 2nd
+	- Using full pool otherwise
+	- 2nd attack can only a Stand Ground action
+
+
+- Cast/Cameo Flesh pools etc
+	- 2/1 or 3/2/1 or 1/2/2
+
+- Armor
+	- Reduces successes (rather than reducing damage done)
+	- If enough successes blocked to mean the hit is a miss, no damage is done
+	- If still a success, then wound points applied in addition to the flow through successes
+> E.g if 2 successes + 1 wound point is blocked by 2 successful Ad rolled, no damage is done
+> or if 2 successes + 1 wound point is blocked by 1 successful Ad, then 1 success passes through + 1 wound point = 2 damage
+
+
+Shield Wall - locked shields provide additional KD defense

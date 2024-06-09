@@ -1,5 +1,10 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Vicious",
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "#5796b7",
+  "textFontFamily": "PT Mono",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "PT Mono",
+  "monospaceFontFamily": "PT Mono",
+  "baseFontSizeAction": true
 }

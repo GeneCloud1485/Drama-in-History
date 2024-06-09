@@ -266,3 +266,31 @@ Other than this Fortitude takes 1 month per point to recover. This can happen du
 
 ### Recovering Drama Points
 Drama Points are general recovered at the end of the Season.
+
+
+
+---
+# Standardized Pool Tests
+
+## Reactive Test
+- Pool tested with a success or fail outcome
+- 
+- Edge case -> save to pass out from a wound? don't want to lose more of the pool you have lost to trigger the test
+## Pro-active Test
+- Choice to seek an advantage
+
+## Process
+- Test Pool n vs nRd
+	- Luck 2 Test = Luck pool + 2Rd
+	- 2+ net successes = without loss
+	- 1 net success = pass test + incur 1pt LUCK wound
+	- no net successes = pass test + 2pt LUCK wound
+	- negative successes = <u>fail test</u> + 3pt LUCK wound
+- Can add Drama points to help positive dice
+
+
+- Modifiers
+	- situation
+	- friends present
+	- threat seems greater
+	- things at risk

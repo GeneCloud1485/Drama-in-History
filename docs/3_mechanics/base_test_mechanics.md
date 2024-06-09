@@ -15,7 +15,7 @@ A dynamic story will have many moments where the outcome is not clear, or that a
 3. Opposed Skill Test
 - Currency Pool Test [[pool_tests]]
 - Complex Test [[optional_mechanics]]
-- Combat, a deadly opposed test! [[combat]]
+- Combat, a deadly opposed test! [[combat_old]]
 
 The goal is to make each test meaningful, sometimes dramatic but always with something that matters to be resolved. This doesn't need to be life or death, and could be of quite a mundane nature, as long as it matters to the actors and their story.
 
@@ -85,16 +85,16 @@ The Director can ask for a specific skill test or an Actor can request a skill t
 
 Level of difficulty is reflected in the addition of penalty/resistance dice to the pool so that the target number is always 2 success to pass the test.
 
-| Difficulty | Modifier | Example |
-| :--- | :---: | :--- |
-| Very Easy | +4Bd | An average person, untrained has a reasonable chance to succeed |
-| Straightforward| +2Bd | An average person, trained in the skill should succeed most of the time|
-| Some Difficulty | 0 | ...should succeed half of the time |
-| Troublesome | 2Rd | ...will fail more than they succeed |
-| Difficult | 4Rd | A master of the skill should succeed |
-| Very Challenging | 6Rd | A master of the skill may fail more than they succeed |
-| Extremely Hard | 8Rd | Even an expert of the skill may struggle with this challenge |
-| Formidable | 10Rd | Likely to require a talented expert with advantages to succeed  |
+| Difficulty       | Modifier | Example                                                                 |
+| :--------------- | :------: | :---------------------------------------------------------------------- |
+| Very Easy        |   +4Bd   | An average person, untrained has a reasonable chance to succeed         |
+| Straightforward  |   +2Bd   | An average person, trained in the skill should succeed most of the time |
+| Some Difficulty  |    0     | ...should succeed half of the time                                      |
+| Troublesome      |   2Rd    | ...will fail more than they succeed                                     |
+| Difficult        |   4Rd    | A master of the skill should succeed                                    |
+| Very Challenging |   6Rd    | A master of the skill may fail more than they succeed                   |
+| Extremely Hard   |   8Rd    | Even an expert of the skill may struggle with this challenge            |
+| Formidable       |   10Rd   | Likely to require a talented expert with advantages to succeed          |
 
 ## **Unopposed** Skill Tests
 A simple unopposed test pits the skill of a person against the level of difficulty or resistance of a challenge.
@@ -212,5 +212,76 @@ Assuming a reasonable narrative explanation can be made, anyone can contribute a
 
 ---
 
+## Taking Damage
+All Statuses work the same, with a limited number of 1/2/3 pt wound slots available.
+
+### For 1-3 pt wounds
+- When a wound is taken, mark the appropriate wound slot as used (X)
+- If there isn't an available wound of the appropriate size, move up to the next size
+- if there are no more higher wounds, then the character is KO'd
+[TODO]
+- The balance of points must be applied to a second Status
+- If there aren't enough in the slots available
+### For 4+ pt wounds or overflow??
+- Mark the highest available wound slot as used
+- Apply the balance to other wound slots in either the target STATUS or in LUCK
+- The character is immediately downed
+
+[TODO ]
+- 6+ = instant death?
+- What is downed?
+- How does 
+# Recovery
+### Flesh & Fort & Luck & Comp
+- Light -> a day
+- Medium -> a week
+- Heavy -> a month
+- Downed -> 3 months
+
+One Flesh if attended to by medical or first aid
+And one of the other 3 in parallel
+Lift one status, by one stage per day un stress rest
 
 
+|	|Flesh	|Fort	|Comp	| Luck |
+|---	|---	|---	|---	|--- |
+|6	|Head	|Sanity	|Heart	|? |
+|5	|Chest	|Fear	|Ego	|  |
+|4	|Guts	|Memory	|Reputation	|  |
+|3	|Legs	|Passion	|Status	|  |
+|2	|Arms	|Clarity	| Energy	|  |
+|1	|Winged	|Winged	|Winged	| Winged |
+
+## Luck Test
+- Base test = dice pool
+- Ride luck = dice pool + 2Bd
+- Push luck = dice pool + 4Bd
+
+Cost = 1/2/3 minus number of successes
+
+Assisting...
+- Multiple people can assist adding 1Bd per person assisting (up to some reasonable limit)
+- But, everyone who assists will also participate in the outcome/cost
+
+Drama points
+- 1 DP can be spent maximum to add 2Bd
+
+---
+# June 2024 Clarifications
+
+## Skill Tests
+- Any test or challenge which is very easy or without risk/threat, no roll is required for anybody.
+- For a straightforward test, no roll is required for anyone trained or an expert in the skill
+	- Unless there are situational modifiers which make the task less straightforward, in which case a roll is required.
+- Otherwise a skill roll is required with nRd depending on the difficulty
+
+| Difficulty       |                      Modifier                      | Example                                                                                             |
+| :--------------- | :------------------------------------------------: | :-------------------------------------------------------------------------------------------------- |
+| **Very Easy**        |                  no roll required                  | An average person, untrained has a reasonable chance to succeed                                     |
+| **Straightforward**  | no roll for Trained/Expert<br>0 Rd for non trained | An average person, trained in the skill will succeed<br>An untrained person has a reasonable chance |
+| **Some Difficulty**  |                        2Rd                         | ...should succeed half of the time                                                                  |
+| **Troublesome**      |                        4Rd                         | ...will fail more than they succeed                                                                 |
+| **Difficult**        |                        6Rd                         | A master of the skill should succeed                                                                |
+| **Very Challenging** |                        8Rd                         | A master of the skill may fail more than they succeed                                               |
+| **Extremely Hard**   |                        10Rd                        | Even an expert of the skill may struggle with this challenge                                        |
+| **Formidable**       |                        12Rd                        | Likely to require a talented expert with advantages to succeed                                      |

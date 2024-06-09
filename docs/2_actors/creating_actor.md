@@ -33,7 +33,7 @@ The 1st two age bands, baby & child, which take your actor through to age 10. Th
 	- Are they Uneducated or Educated?
 		- If educated roll 10Bd each success is a skill point of common or knowledge skills. 
 		- If uneducated roll 10Bd each success is a common skill point.
-	- Healthy or Sickly
+	- Healthy or  (already including random in the stats)
 		- Test your luck (roll 6Bd and 6Rd)
 		- If net result is a positive +1 to an attribute
 		- If negative then -1 to an attribute otherwise no effect.
@@ -383,3 +383,103 @@ List the main possessions that the actors has available, in keeping with the occ
 
 # Reference
 [Actor Character Sheet](https://docs.google.com/spreadsheets/d/1MlQemuFafaUU84K-_Nkapsf_nrYnwLPwuweegK_m68A/edit?usp=sharing)
+
+
+# Latest Update April 2023
+
+## Formative Years
+- Roll attributes, if penalty it equals an early years scar rather than attribute loss - character forming!
+- Choose a Favor and Disfavors attribute
+- Select some background story elements
+- Boon/Flaw
+- Choose 4 common skills to start as weaknesses
+
+
+### Attributes
+- Each Age band -> base # attributes
+- Roll Bd and Rd for variations
+- Option to take a permanent condition instead of losing an attribute
+- Option to take a permanent condition for an extra attribute point, max once 
+- Points can be saved to future bands if needed
+- Take a scar for any attribute at 5 or higher TBC
+- Favor/Dis-favored lower threshold to cap and deliver average
+
+|Normal | Favored | Dis-favored|
+|--- |--- |--- |
+| 1-3 = 1 pt | 1-4 = 1pt | 1-2 = 1 pt |
+| 4-5 = 2 pts | 5+ = 2 pts | 3-4 = 2 pts |
+| 6+ = 3pts |  |5+ = 3pts |
+
+### Four Status Pools
+= Even at 4, rebalance up/down
+Reduce the attributes down to max 6
+3 types of 'damage'
+1 pt = Minor Wound
+2 pt = Wound
+3 pt = Serious Wound
+
+Attribute pool determines the number of each wound slots that can be taken.
+- 3 can receive 3 wounds, one of each before being 'out'
+- 4 -> 1 minor, 2 wounds and 1 serious
+- 5 -> 1 minor, 2 wounds and 2 serious
+- 6 -> 1 minor, 1 wound and 3 serious
+If there aren't available 'lower' slots available the 'higher' would slots can be used. 
+
+e.g. 
+- Flesh 3 gets hit twice for minor wounds, using up the minor and wound slots, with only one open slot. Another wound of any kind will knock out this person.
+
+Levels of success + 'weapon's' damage factor determines the size of the wound
+
+e.g. A simple success 1pt with a dagger will inflict a minor wound
+a 2pt success difference with the dagger will inflict a wound
+a simple 1 pt success with a sword (+1) will inflict a serious wound
+
+Serious wounds trigger temp conditions
+
+
+### Skills
+Child gets random common skill points?
+
+Add fixed skills back in
+
+1. Common skills = base attribute + modifier, max 6
+	1. One skill in each attribute band starts at -1 or 4 at -1?
+2. Each age band gains 3 pts
+	1. Each 1 pt spend on common skills adds +1
+	2. Trained & Accomplished +2Bd adds to a common skill for 2 pts
+	3. Taking a trained to a master add 4Bd to a common skill base for a further 2 pts
+3. Intense training backgrounds add a further +4 pts for appropriate skills in that age band  - can be used on vocationally related skills
+5. Military background adds + 2 additional pts per age band (a variant on intense training) can be used on vocational and associated skills
+7. Academic add to the academic pool +2 additional pts per age band, but only for academic and can't be used on common skills at all.
+
+
+- Each age band = 3 pts
+- Any age band which has 'intense' training +4 pts
+- Any age band with formal military training +2 additional pts in appropriate skills (up to 3 lifetime)
+- And age band with formal academic training +2 additional pts in appropriate skills (up to 3 lifetime)
+
+
+
+
+
+
+
+|Age| Fixed | Bonus | Phy Penalty | Mental Penalty |
+|---|---|---|---|---|
+| Child | 4 | 2 | 1 | 0 | 
+| Juvenile | 4 | 2 | 1 | 0 |
+| Youth | 3 | 2 | 1 | 0 | 
+| Prime | 1 | 2 | 2 | 0 | 
+| Adult | 1 | 2 | 2 | 1 | 
+| Mature | 0 | 2 | 2 | 2 | 
+| Veteran | 0 | 0 | 2 | 2 | 
+| Senior | 0 | 0 | 3 | 2 | 
+| Aged  | 0 | 0 | 4 | 2 | 
+| Elderly | 0 | 0 | 4 | 4 |
+
+
+Dropdowns with 0 or ~
+Difference between vocational knowledge and skills?
+
+
+[] Add Helpless 1rd

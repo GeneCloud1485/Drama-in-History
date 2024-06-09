@@ -205,6 +205,13 @@ We have become desensitized to the impact of big 'action' scenes, but we are alw
 |Presence Revealed||
 
 
+# NPC Actors
+- Double Actor level = Rd to be resist any skill applied to them
+	- A cameo character defends with 2
+	- Support with 4
+	- Actor with 6
+- This saves creating skills and stats for each NPC
+
 # Connections & Clues
 A 'connection' is a point of understanding in the Story, an insight the players need, a scene with a person or location, and a connective idea between scenes. They make up the fabric of the [[1.0_concepts#Seasons, Stories & Scenes|Story]] and the relationship between information. For players to understand the story or mystery they will need to make the necessary connections. Most connections will be made through clues, some will be made by player instinct or deduction or assumption.
 
@@ -237,7 +244,8 @@ A story’s premise is the foundational idea that expresses the plot in simple t
 
 > E.g. Croyland - question of what you believe, and how much you will risk for what you believe
 
-
+## Timeline
+When there is a series of events prepare a clear timeline for yourself. Player's often build their understanding of situation on the sequence of events, and the Director will need to be consistent and clear.
 
 ## Soaps
 - Cast of characters
@@ -262,3 +270,16 @@ https://www.tumblr.com/dearwriters/627179215445475328/soap-opera-writing-tips
    ...Leaving a plot in suspense is what keeps soap opera lovers coming back for more! It also allows the soap opera writer to shift onto another topic before getting back to the cliff hanger.
 7. _**Wild imagination**_
    ...A soap opera writer should never stop dreaming up absurdities, calamities, romance, melodrama- it is the one genre in which even fantasy elements can be added.
+
+# Classic Gothic Romance
+1. Gothic setting
+2. Troubled Heroine
+3. Castle or Manor
+4. Brooding love interest
+5. Complicating love interest
+6. Tyrannical father
+7. Scheming clergyman
+8. Curses/prophecy and omens
+9. Supernatural menace
+10. Melodrama
+

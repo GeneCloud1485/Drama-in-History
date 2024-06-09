@@ -17,16 +17,16 @@ Four attributes are the basis of the characters statistical description and prov
 -   **Mental** (Mnt)
 -   **Social** (Soc)
 
-Each attribute can range from -3 up to 8
+Each attribute can range from -3 up to 6
 
 -   -3 represents total incapacity and retirement 
 -   0 or less represents a significant weakness or disability
 -   1 is below average and a weakness
--   2 represents average
--   3-4 is above average or good talent
--   5 is superior
--   6 is uniquely talented or blessed
--   7+ is extraordinary and very rare
+-   2 is low average
+-   3 average
+-   4 is above average or good talent
+-   5 is uniquely talented or blessed
+-   6 is extraordinary and very rare
 
 # Currency Pools
 Currency Pools represent a more dynamic value than the primary attributes. They start at Maximum Currency Pool value and the current pool value is tracked separately as the pool can be reduced as a result of the outcome of situations, and recover with the passage of time. 
