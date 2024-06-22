@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4_combat/Concept & Tables.md",
+                "file": "docs/2_actors/creating_actor.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/4_combat/Concept & Tables.md",
+                "file": "docs/2_actors/creating_actor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/4_combat/Concept & Tables.md"
+                "file": "docs/2_actors/creating_actor.md"
               }
             }
           }
@@ -181,8 +181,11 @@
   },
   "active": "c5630c68377e248d",
   "lastOpenFiles": [
-    "docs/2_actors/creating_actor.md",
     "docs/2_actors/actor_stats.md",
+    "docs/3_mechanics/pool_tests.md",
+    "docs/3_mechanics/base_test_mechanics.md",
+    "docs/4_combat/Concept & Tables.md",
+    "docs/2_actors/creating_actor.md",
     "docs/1_concepts/Quick Summary.md",
     "docs/1_concepts/1.0_concepts.md",
     "index.md",
@@ -192,9 +195,6 @@
     "docs/4_combat/combat_v1.md",
     "docs/4_combat/combat_old.md",
     "docs/4_combat/Combat Summary.md",
-    "docs/4_combat/Concept & Tables.md",
-    "docs/3_mechanics/base_test_mechanics.md",
-    "docs/3_mechanics/pool_tests.md",
     "docs/3_mechanics/optional_mechanics.md",
     "docs/4_combat/wounds_fever.md",
     "docs/2_actors/skill_list.md",

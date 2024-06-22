@@ -294,3 +294,12 @@ Drama Points are general recovered at the end of the Season.
 	- friends present
 	- threat seems greater
 	- things at risk
+
+---
+# LUCK
+
+> Used to provide clues, opportunities and moments that improve the drama
+
+- The outcome is determined
+- The cost is to be determined by the roll
+- The ability to keep benefiting from luck is limited by the available pool
