@@ -5,16 +5,17 @@ layout: default
 
 ## Index
 1. [Underlying Concepts](/docs/1_concepts/1.0_concepts.md)
-2. [Actor's Stats](/docs/2_actors/actor_stats.md)
-3. [Creating Your Actor](/docs/2_actors/creating_actor.md)
-4. [Example Skill Lists](/docs/2_actors/skill_list.md)
-5. [Mechanics](pool_tests.md)
+2. [Quick Summary](/docs/1_concepts/Quick Summary.md)
+3. [Actor's Stats](/docs/2_actors/actor_stats.md)
+4. [Creating Your Actor](/docs/2_actors/creating_actor.md)
+5. [Example Skill Lists](/docs/2_actors/skill_list.md)
+6. [Mechanics](pool_tests.md)
 	1. [Base](/docs/3_mechanics/base_test_mechanics.md)
 	2. [Pool](/docs/3_mechanics/pool_tests.md)
 	4. [Optional](/docs/3_mechanics/optional_mechanics.md)
-6. [Combat](/docs/4_combat/Concept & Tables.md)
-7. [Wounds & Fever](docs/4_combat/wounds_fever.md)
-8. [Director's Advice](docs/5_director/directors_advice.md)
+7. [Combat](/docs/4_combat/Concept & Tables.md)
+8. [Wounds & Fever](docs/4_combat/wounds_fever.md)
+9. [Director's Advice](docs/5_director/directors_advice.md)
  
 # Drama in History RPG Rules
 > The **Drama in History** rules provide guidelines on running low fantasy, historically inspired, drama or horror games. They are focused as much on people, social relationships and investigations as physical conflicts.
