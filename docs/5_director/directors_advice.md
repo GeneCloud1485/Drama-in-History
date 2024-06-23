@@ -247,7 +247,7 @@ A story’s premise is the foundational idea that expresses the plot in simple t
 ## Timeline
 When there is a series of events prepare a clear timeline for yourself. Player's often build their understanding of situation on the sequence of events, and the Director will need to be consistent and clear.
 
-## Soaps
+## Longform Narrative Drama: Soaps!
 - Cast of characters
 - With regular stories and changing relationships and perpetual drama
 - Yet nothing really changes
@@ -283,3 +283,11 @@ https://www.tumblr.com/dearwriters/627179215445475328/soap-opera-writing-tips
 9. Supernatural menace
 10. Melodrama
 
+# Storytelling
+> Summarized in 6 Questions!
+- who is it about?
+- what do they want?
+- why can’t they get it?
+- what do they do about that?
+- why doesn’t that work?
+- how does it end?
