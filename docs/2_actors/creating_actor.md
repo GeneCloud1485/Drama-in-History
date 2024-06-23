@@ -48,41 +48,44 @@ Each actor has inherent boons or flaws which could for formative factors in thei
 
 ## Common Skill Favour/Dis-Favour
 
-Roll 1d6 twice to select which common skills are favored or dis-favored. If a common skill is favored and dis-favored, they cancel out.
+Roll 2d6 twice to select which common skills are favored or dis-favored. If a common skill is favored and dis-favored, roll the dis-favor again until it doesn't match.
 
-| ... | 1 | 2 | 3 | 4 | 5 | 6 |
-|:---|:---|:---|:---|:---|:---|:---|
-| Favour | Common Courtesy | Observation | Local Knowledge | Circumspect Movement | Inspiration | Strike |
-| Dis-Favour | Common Courtesy | Observation | Local Knowledge | Circumspect Movement | Inspiration | Strike |
-
-
+| ...        |     | 1                  | 2                | 3                    | 4                  | 5                | 6   |
+| :--------- | :-- | :----------------- | :--------------- | :------------------- | :----------------- | :--------------- | :-- |
+| Favour     | 1-2 | Strike             | Atheltics        | Circ Movement        | Local Know         | Courtesy         | n/a |
+| Favour     | 2-4 | Brawl              | Throw/Ranged     | Basic Edu            | Awareness          | Influence People | n/a |
+| Favour     | 5-6 | Strength & Stamina | Vocational Skill | Vocational Knowledge | Social Observation | Performance      | n/a |
+|            |     |                    |                  |                      |                    |                  |     |
+| Dis-Favour | 1-2 | Strike             | Atheltics        | Circ Movement        | Local Know         | Courtesy         | n/a |
+| Dis-Favour | 2-4 | Brawl              | Throw/Ranged     | Basic Edu            | Awareness          | Influence People | n/a |
+| Dis-Favour | 5-6 | Strength & Stamina | Vocational Skill | Vocational Knowledge | Social Observation | Performance      | n/a |
 
 
 ## Boons
 Roll 2d6 for a Boon, read horizontally for the 1st die result and vertically for the 2nd.
 
-| Boon | Physical | Agility | Mental | Social | Trait | Strength |
-|:---|:---|:---|:---|:---|:---|:---|
-| ... | 1 | 2 | 3 | 4 | 5 | 6 |
-| 1 | Strong as an Ox +1 Phy | Perfect Balance +1 Agl | Quick Witted +1 Mnt | Charismatic +1 Soc | Honest & Fair | Inured to Death |
-| 2 | Brawler (DA) | Steady Hand (DA) | Scholarly Mind (DA) | Extravert (DA) | Abstaining | Strength: Disease |
-|3 | Striking feature +1 Soc | Healthy -2 Aging | Good memory for stories (DA) | Empathy (DA) | Shrewd | Strength: Pain |
-| 4 | Tough looking (DA) | Natural Horseman (DA) | Silver Tongue (DA) | Heard word of God, +Religious | Humble | Strength: phobia |
-| 5 | Great Stamina, ignore 1Pen | Acute Hearing (DA) | Natural Linguist (DA) | Judge of Character (DA) | Forgiving | Social Strength Confident in a crowd |
-| 6 | Resilient +1 Flesh | Quick +2 Grit | Strong Fortitude +1 | Calm Composure +2 | Generous | Strength...|
+| Boon | Physical                | Agility                | Mental                       | Social                  | Trait         | Strength                             |
+| :--- | :---------------------- | :--------------------- | :--------------------------- | :---------------------- | :------------ | :----------------------------------- |
+| ...  | 1                       | 2                      | 3                            | 4                       | 5             | 6                                    |
+| 1    | Strong as an Ox +1 Phy  | Perfect Balance +1 Agl | Quick Witted +1 Mnt          | Charismatic +1 Soc      | Honest & Fair | Inured to Death                      |
+| 2    | Brawler (DA)            | Steady Hand (DA)       | Scholarly Mind (DA)          | Extravert (DA)          | Abstaining    | Strength: Disease                    |
+| 3    | Striking feature +1 Soc | Healthy -2 Aging       | Good memory for stories (DA) | Empathy (DA)            | Shrewd        | Strength: Pain                       |
+| 4    | Tough looking (DA)      | Natural Horseman (DA)  | Silver Tongue (DA)           | Heard word of God, (DA) | Humble        | Strength: phobia                     |
+| 5    | Great Stamina (DA)      | Acute Hearing (DA)     | Natural Linguist (DA)        | Judge of Character (DA) | Forgiving     | Social Strength Confident in a crowd |
+| 6    | Resilient +1 Flesh      | Lucky +1 Luck          | Strong Fortitude +1          | Calm Composure +1       | Generous      | Strength...in something              |
 
 ## Flaws
 Roll 2d6 for a Flaw
 
-| Flaw | Physical | Agility | Mental | Social | Trait | Strength |
-|:---|:---|:---|:---|:---|:---|:---|
-| ... | 1 | 2 | 3 | 4 | 5 | 6 |
-| 1 | Weak constitution -1Phy | Clumsy -1Agl | Slow witted -1Mnt | Displeasing demeanor -1Soc | Untrustworthy | Scar: Death |
-| 2 | Physical impairment | Partially sighted 2Rd for distance | Dsylexic 2Rd written tasks | Gruff/Rude 2Rd on social tests | Indulgent | Scar: Disease |
-| 3 | Weak Grip 2Rd Melee wpn skill | Two left feet 2Rd dance skills | Bad with numbers 2Rd | Illicit Love (bond) | Brash | Scar: Ghosts |
-| 4 | Persistent sickness, aging +2 | Poor balance 2Rd | Unhealthy obsession (passion) | Scar: Religion | Proud | Scar: Phobia |
-| 5 | Quick to bleed, lose additional Flesh on any wounds | Slow -2 Grit | Unstable -1 Fort | Nervous -2 Composure | Cruel | Scar: Introvert |
-| 6 | Phlegmatic 2Rd phy skills | Choleric 2Rd Agl skills | Melancholic 2Rd Mnt skills | Bleak humor 2Rd Soc skills | Greedy | Harboring a dark secret |
+| Flaw | Physical                                            | Agility                            | Mental                        | Social                         | Trait         | Scar<br>(+1 DP)         |
+| :--- | :-------------------------------------------------- | :--------------------------------- | :---------------------------- | :----------------------------- | :------------ | :---------------------- |
+| ...  | 1                                                   | 2                                  | 3                             | 4                              | 5             | 6                       |
+| 1    | Weak constitution -1Phy                             | Clumsy -1Agl                       | Slow witted -1Mnt             | Displeasing demeanor -1Soc     | Untrustworthy | Scar: Death             |
+| 2    | Physical impairment                                 | Partially sighted 2Rd for distance | Dsylexic 2Rd written tasks    | Gruff/Rude 2Rd on social tests | Indulgent     | Scar: Disease           |
+| 3    | Weak Grip 2Rd Melee wpn skill                       | Two left feet 2Rd dance skills     | Bad with numbers 2Rd          | Illicit Love (bond)            | Brash         | Scar: Ghosts            |
+| 4    | Persistent sickness, aging +2                       | Poor balance 2Rd                   | Unhealthy obsession (passion) | Scar: Religion                 | Proud         | Scar: Phobia            |
+| 5    | Quick to bleed, lose additional Flesh on any wounds | Slow -2 Grit                       | Unstable -1 Fort              | Nervous -2 Composure           | Cruel         | Scar: Introvert         |
+| 6    | Phlegmatic -1 Flesh                                 | Choleric /Unlucky -1 Luck          | Melancholic -1 Fort           | Bleak -1 Comp                  | Greedy        | Harboring a dark secret |
 
 Adjust or adapt to fit an actor's story if the Director agrees.
 
@@ -111,7 +114,7 @@ To develop your actor's background follow each of the following steps for **each
 ## A. Attribute Points
 For the age band, add the **net success results** of a dice pool to any fixed value and spend those points on increasing. Any attribute can be increased for age bands through Mature, after that only Mental or Social can be improved.
 
-The effects of Aging appear as Permanent conditions, for each success in the Rd pool take a condition to that attribute.
+The effects of Aging appear as Permanent conditions, for each success in the Rd pool take a condition to that attribute. Each attribute can only be assigned up to 3 conditions, after that the attribute must be reduced.
 
 Any doubles in the Aging Rd pool, equate to a drop in an attribute by -1.
 
@@ -158,28 +161,23 @@ A background provides a summary of the main occupation or emphasis of a period o
 ## D. Calculate Skill Points & Skills Available
 There are three sources of skill points; from life's general lessons, from vocational opportunities or through academic study. Skills points are only gained from Juvenile to Veteran.
 
-1. Life's lessons, **each year that passes** in an age band provides **one point** to be used on common skills.
-2. Vocational opportunities, each year of an age band provides **one point** to be use on common or vocational skills
+1. Life's lessons, **each age band  that passes** in an age band provides **three points** to be used on common skills.
+2. Vocational opportunities, **two points** can be spent on advancing skill to Trained or a trained skill to Expert
 3. Optional academic study, is limited to total of three age bands and provides **ten points per age band** to be spent on academic knowledge skills.
 
 ### Developing Common Skills
-Everyone can learn, practice or improve their training level in common skills, no particular background situation is required to progress.
+Everyone can learn, practice or improve their common skills, no particular background situation is required to progress.
 
 > E.g. In a medieval setting, the 'mature' age band is 5 years long and provides 5 points to spend on common skills
 
 ### Learning Speciality Vocational Skills
-The setting and era will determine how many additional skill points are available to an actor from an age band. Each year provides one point that can be spent on common or specialist vocational skills. These points can only be spent on skills which align with the actor's profession and opportunity during this age band.
-
-> E.g. If the actor was able to gain vocational training or through simple re-enforcement of core skills, or had free time to invest in skill development then they gain additional points to spend on more expert or knowledge skills.
-
-> E.g. A mature actor serving in King Richard II's court gains 5 common skill points and 5 skill points to spend on social or courtly skills.
-
-> E.g. A 49 yr old, veteran actor is a private investigator in modern day London gets 4 additional common skill points and 4 points in vocationally appropriate skills.
+The setting and era may determine how many additional skill points are available to an actor from each age band. 
+Basic: Each band year provides three points that can be spent on common or specialist vocational skills. These points can only be spent on skills which align with the actor's profession and opportunity during this age band.
 
 If the actor's age band is **Senior or Elderly**, no additional skill points are gained.
 
 ### Intense Academic Study
-Up to **three 'academic' age bands** can be spent in intense study during an Actor's life, these should be dedicated periods of study. The actor receives **three points** per year, up to a maximum of fifteen points, to be spent on specialist or academic subjects for each age band. The actor **doesn't gain vocational** skill points during these periods.
+Up to **three 'academic' age bands** can be spent in intense study during an Actor's life, these should be dedicated periods of study. The actor receives **ten points** per band to be spent on specialist or academic subjects for each age band. The actor **doesn't gain common or vocational** skill points during these periods.
 
 > E.g. An actor in the prime of their life attends university, they will receive 5 common skill points, and 15 knowledge skill points from academic study.
 
