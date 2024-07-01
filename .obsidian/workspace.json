@@ -49,9 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_actors/creating_actor.md",
+                "file": "docs/4_combat/Concept & Tables.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5e09a16b246038a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
               }
             }
           }
@@ -129,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2_actors/creating_actor.md",
+                "file": "docs/4_combat/Concept & Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2_actors/creating_actor.md"
+                "file": "docs/4_combat/Concept & Tables.md"
               }
             }
           }
@@ -181,13 +191,13 @@
   },
   "active": "c5630c68377e248d",
   "lastOpenFiles": [
+    "docs/2_actors/creating_actor.md",
     "docs/2_actors/actor_stats.md",
     "docs/5_director/directors_advice.md",
     "docs/5_director/Reference.md",
     "index.md",
     "docs/1_concepts/1.0_concepts.md",
     "docs/1_concepts/Quick Summary.md",
-    "docs/2_actors/creating_actor.md",
     "docs/3_mechanics/pool_tests.md",
     "docs/3_mechanics/base_test_mechanics.md",
     "docs/4_combat/Concept & Tables.md",

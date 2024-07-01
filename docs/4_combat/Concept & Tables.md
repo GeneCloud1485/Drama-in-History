@@ -135,15 +135,15 @@ Dice can only be used <u>once</u> during a round for the following;
 - Sixes used to oppose rolls
 - Patterns at or under <u>PHY</u> can be used for <u>Additional Wounds</u>
 - Patterns at or under <u>AGL</u> can be used for <u>Reactions</u>, the size of the pattern depends on the weapon type
+	- ==Trained & accomplished== fighters can use patterns at ≤AGL+1
+	- ==Expert== fighters can use patterns at up to ≤AGL+2
 - Doubles+ of fives or less can be used as additions to come Reactions outcome results e.g. Double Feint
 - Smaller patterns can be combined to create Larger patterns e.g. two 'Doubles' can be used to count as a 'Triple'
 
-<u>Having a large Resistance dice</u> (Rd) <u>pool</u> will 'use up' dice patterns in the Bd pool
-- Rd pool of 5 or more dice uses one valid dice pattern
-- Rd pool of 10 or more dice uses two valid dice patterns
+<u>Having a large Resistance dice</u> (Rd) <u>pool</u> will reduce the combatant's AGL for generating dice patterns
+- Rd pool of 5 or more Rd dice reduce their AGL by 1 
+- Rd pool of 10 or more dice reduce their AGL by 2 
 - Rd pool are used as priority before any other uses
-e.g. the Bd pool generates two 'triples' under AGL, but the Rd pool is 4 dice, so one of the 'triples' counts as used, and only one is available to be used a boost or reaction.
-
 ### Common Melee Boosts & Additional Damage
 Common melee reactions available to all Actors, and most reactions are applicable to the winner or loser of a contest. Exceptions listed.
 
@@ -588,7 +588,7 @@ Horse vs Foot Melee
 	- Rider skill
 		- Inexperienced -> no skill points = 4Rd in combat, -2 knock-down defense
 		- Untrained -> ≥0 skill points assigned = 2Rd in combat, -1 knock-down defense
-		- Trained
+		- Reliable/Trained
 		- Expert
 	- External situation & context -> Rd
 
@@ -653,7 +653,7 @@ Tripped/collapsed
 - Training of the horse
 	- Inexperienced
 	- Untrained
-	- Trained
+	- Reliable/Trained
 	- Expert
 
 - Ability to stop is influenced by the horse's training experience
