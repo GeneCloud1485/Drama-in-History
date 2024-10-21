@@ -308,6 +308,9 @@ a simple 1 pt success with a sword (+1) will inflict a serious wound
 
 Serious wounds trigger temp conditions
 
+### Action Speed
+
+= AGL-2 plus COMP -2
 
 ### Skills
 Child gets random common skill points?

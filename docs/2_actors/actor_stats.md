@@ -154,20 +154,22 @@ Reputation reflects both notable and notorious acts and stories that are told ab
 
 Maximum of 1 level of rank increased per Year in the Autumn & Winter season
 
-## Reputation Bands
+## (Reputation) Status & Renown Bands
 
 Total reputation determines the rank of the Actor, and has an effect on social status. Improving the Actor Level of the actor will also increase the number of drama points available.
 
-| Total Reputation | Description | Min # Stories | Actor Level | Effect | 
-| :---| :---| :--- |:--- |:--- |
-|0-5 | Little reputation | 1 story | Cast | None|
-| 5-10 | ... | 2 stories| Cameo |  +1 pt status|
-| 10-20 | | 3 stories | Support| +2 pt status|
-| 20-40|| 4 stories | Actor| +4 pt status|
-| 40-70 | | 6 stories | Lead Actor| +6 pt status|
-| 70-120 | | 8 stories | Principal| +8 pt status|
-| 120-180 | | 10 stories | Title Character| +10 pt status|
-| 180+ || 12 stories | Starring Actor| +12 pt status|
+Status + Soc + earned renown
+
+| Total Status + Renown | Description       | Min # Stories | Actor Level     | Effect        |     |
+| :-------------------- | :---------------- | :------------ | :-------------- | :------------ | --- |
+| 0-6                   | Little reputation | 1 story       | Cast            | None          |     |
+| 7-15                  | ...               | 2 stories     | Cameo           | +1 pt status  |     |
+| 16-25                 |                   | 3 stories     | Support         | +2 pt status  |     |
+| 26-45                 |                   | 4 stories     | Actor           | +4 pt status  |     |
+| 46-70                 |                   | 6 stories     | Lead Actor      | +6 pt status  |     |
+| 70-120                |                   | 8 stories     | Principal       | +8 pt status  |     |
+| 120-180               |                   | 10 stories    | Title Character | +10 pt status |     |
+| 180+                  |                   | 12 stories    | Starring Actor  | +12 pt status |     |
 
 The social status addition is calculated by current reputation divided by five.
 

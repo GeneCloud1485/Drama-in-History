@@ -461,6 +461,8 @@ Build a dice pool from Base & Resistance
 
 #### **Situational modifiers for Ranged Attacks**
 
+Cumulative/each situation contributes Rd
+
 |     Situation      |     0      |     2 Rd     |   4 Rd    |     6 Rd      |  8 Rd   |
 | :----------------: | :--------: | :----------: | :-------: | :-----------: | :-----: |
 |       Range        |     PB     |    Close     |    Mid    |     Long      |   Far   |
@@ -479,20 +481,20 @@ Build a dice pool from Base & Resistance
 ### **Results of Ranged Combat**
 
 The results of a ranged attack are resolved just like melee;
-- >1 net successes = Success
+- ≥1 net successes = Success
 - Zero or less success = Miss
 
 Damage is calculated as
 - number of successes
 - plus weapon modifier dependent on the widest width 
-  (... old notes says... of the lowest, widest number - not sure what this adds, it is used for hit location to avoid hits being in the head)
+- (... old notes says... of the lowest, widest number - not sure what this adds, it is used for hit location to avoid hits being in the head)
 
-| Weapon Type | Power | Best <br> Pattern | Outcome |
-| :--- | :--- | :--- |:--- |
-| Light | 0| Quad (4+)| +1 Wound pt |
-| Mid | 2|Trip (3+) | +1 Wound pt |
-| Heavy | 4|Trip (3+) <br> Quad (4+) | +1 Wound pts <br> +2 Wound pts |
-| Very Heavy| 6| Double (2+) <br> Trip (3+) <br> Quad (4+) | +1 Wound pts <br> +2 Wound pts <br> +3 Wound pts|
+| Weapon Type | Power | Best <br> Pattern                         | Outcome                                          |
+| :---------- | :---- | :---------------------------------------- | :----------------------------------------------- |
+| Light       | 2     | Quad (4+)                                 | +1 Wound pt                                      |
+| Mid         | 3     | Trip (3+)                                 | +1 Wound pt                                      |
+| Heavy       | 4     | Trip (3+) <br> Quad (4+)                  | +1 Wound pts <br> +2 Wound pts                   |
+| Very Heavy  | 5     | Double (2+) <br> Trip (3+) <br> Quad (4+) | +1 Wound pts <br> +2 Wound pts <br> +3 Wound pts |
 
 > Example
 > ![[Pasted image 20231014184301.png]]
