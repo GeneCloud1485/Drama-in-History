@@ -182,7 +182,7 @@ Damage is calculated as
 
 ### Additional Wound Points
 
-[[Boosts (from Triples)]]
+[[Boosts]]
 
 Triple <= Power
 

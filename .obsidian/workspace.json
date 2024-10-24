@@ -8,115 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86a249ee0bb077cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/4_combat/Combat Tables/Approach Stances.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Approach Stances"
-            }
-          },
-          {
-            "id": "c5630c68377e248d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/4_combat/Missile Combat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Missile Combat"
-            }
-          },
-          {
-            "id": "2b4a3b45aab26135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/4_combat/Combat Tables/Ladders.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ladders"
-            }
-          },
-          {
-            "id": "6a4b709361e5c9ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/4_combat/Combat Tables/Expert Fighting Styles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expert Fighting Styles"
-            }
-          },
-          {
-            "id": "64cbc648c4ee9013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/4_combat/Combat Tables/Approach Stances.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Approach Stances"
-            }
-          },
-          {
-            "id": "7aedd57474499d30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/4_combat/Combat Tables/Boosts (from Triples).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boosts (from Triples)"
-            }
-          },
-          {
-            "id": "517c8464ec679a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/4_combat/combat_v1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "combat_v1"
-            }
-          },
-          {
             "id": "a43a2ab3cf634be5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4_combat/Updated Combat Summary.md",
+                "file": "docs/4_combat/Combat_Tables/Boosts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Updated Combat Summary"
+              "title": "Boosts"
             }
           },
           {
@@ -133,8 +35,7 @@
               "title": "Weapons"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,31 +172,31 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2b4a3b45aab26135",
+  "active": "a43a2ab3cf634be5",
   "lastOpenFiles": [
-    "docs/4_combat/Combat Tables/Boosts (from Triples).md",
-    "docs/4_combat/Combat Tables/Weapons.md",
-    "docs/4_combat/Updated Combat Summary.md",
-    "docs/4_combat/Combat Tables/Reactions.md",
-    "docs/4_combat/Combat Tables/Approach Stances.md",
-    "docs/4_combat/Combat Tables/Expert Fighting Styles.md",
-    "docs/4_combat/Combat Tables/Ladders.md",
+    "index.md",
+    "docs/4_combat/Combat_Tables/Boosts.md",
+    "docs/4_combat/Combat_Tables/Approach_Stances.md",
+    "docs/4_combat/Updated_Combat_Summary.md",
+    "docs/4_combat/Combat_Tables/Expert Fighting Styles.md",
+    "docs/4_combat/combat_v1.md",
+    "docs/3_mechanics/optional_mechanics.md",
+    "docs/1_concepts/1.0_concepts.md",
+    "docs/4_combat/Combat_Tables/Ladders.md",
+    "docs/4_combat/Combat_Tables/Weapons.md",
+    "docs/4_combat/Combat_Tables/Reactions.md",
     "docs/4_combat/Missile Combat.md",
     "docs/2_actors/actor_stats.md",
     "docs/2_actors/creating_actor.md",
     "docs/4_combat/wip_combat.md",
-    "docs/4_combat/combat_v1.md",
     "docs/4_combat/Combat Summary.md",
     "docs/5_director/directors_advice.md",
     "docs/3_mechanics/base_test_mechanics.md",
     "img/70732.png",
     "docs/3_mechanics/pool_tests.md",
     "docs/3_mechanics/social_encouters.md",
-    "docs/4_combat/Combat Tables",
-    "docs/3_mechanics/optional_mechanics.md",
+    "docs/4_combat/Combat_Tables",
     "docs/5_director/Reference.md",
-    "index.md",
-    "docs/1_concepts/1.0_concepts.md",
     "docs/1_concepts/Quick Summary.md",
     "docs/2_actors/the_cast.md",
     "docs/4_combat/combat_old.md",

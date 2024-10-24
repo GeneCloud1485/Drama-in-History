@@ -24,5 +24,5 @@
 | 4    | Strangled   | *If* chest or head location overpowered, then knocked-out. <br>If chest or head location strangled held for another term, the outcome is fatal<br>Else as Overpowered |        |
 |      |             |                                                                                                                                                                       |        |
 
-. 
+ 
 

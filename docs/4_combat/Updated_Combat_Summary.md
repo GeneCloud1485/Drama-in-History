@@ -30,7 +30,7 @@ Stance represents the approach, tactic and intent of a combatant in that round. 
 - Outcome is a action/condition on the result of the rolls
 	- Next Round is an effect which carries over into next round
 
-[[Approach Stances]]
+[[Approach_Stances]]
 
 ## Momentum
 - Compare ACTION speeds
@@ -142,7 +142,7 @@ Each Boost, Additional Damage or Reaction can only <u>be used ONCE per round.</u
 ### Opposed Pool Common Boosts
 Which modify the main opposed roll and outcomes
 
-[[Boosts (from Triples)]]
+[[Boosts]]
 
 #### Additional Wound Points
 - Add wound points to the outcome of the opposed roll
@@ -154,7 +154,7 @@ Which modify the main opposed roll and outcomes
 - Weapons which are noted as Limited Damage, required one step lighter result to add a wound
 - Max of one pattern can be used for additional wound points
 
-[[Boosts (from Triples)]]
+[[Boosts]]
 
 | Name                    | Condition                      | Outcome                       |
 | ----------------------- | ------------------------------ | ----------------------------- |
@@ -178,7 +178,7 @@ Wounds from secondary or counter attacks are capped by the weapon, and then only
 #### Opposed Roll Trained/Martial Melee Boosts 
 Which modify the main opposed roll and outcomes
 
-[[Boosts (from Triples)]]
+[[Boosts]]
 
 Note: A reaction dice pattern is needed and then if required an additional pattern for benefit
 
