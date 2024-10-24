@@ -2,8 +2,8 @@
 title: Your Actor
 layout: default
 ---
-
 [Back to the Index](https://genecloud1485.github.io/Drama-in-History/)
+
 
 # Creating Your Actor
 > Design goals: to build characters that have rich and interesting personalities and backgrounds. The approach is to build the actor in layers, taking blocks of time that represent their past in turn and building up the attributes, skills and personality details along that journey. The character and story of the actor is revealed as the layers are added on the base. 
