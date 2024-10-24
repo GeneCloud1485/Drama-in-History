@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4_combat/Combat_Tables/Boosts.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boosts"
+              "title": "index"
             }
           },
           {
@@ -174,6 +174,7 @@
   },
   "active": "a43a2ab3cf634be5",
   "lastOpenFiles": [
+    "docs/4_combat/Missile_Combat.md",
     "index.md",
     "docs/4_combat/Combat_Tables/Boosts.md",
     "docs/4_combat/Combat_Tables/Approach_Stances.md",
@@ -185,7 +186,6 @@
     "docs/4_combat/Combat_Tables/Ladders.md",
     "docs/4_combat/Combat_Tables/Weapons.md",
     "docs/4_combat/Combat_Tables/Reactions.md",
-    "docs/4_combat/Missile Combat.md",
     "docs/2_actors/actor_stats.md",
     "docs/2_actors/creating_actor.md",
     "docs/4_combat/wip_combat.md",
