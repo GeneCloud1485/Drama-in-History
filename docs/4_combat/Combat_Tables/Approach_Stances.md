@@ -4,20 +4,56 @@
 # Approach Stances
 or Engagement Actions
 
-| Stance                   |  1st turn momentum Mod   |                                         Conditions                                         |                                    Roll Modifiers                                    |                            Limts/Benefits                            |                                                                                 Outcome                                                                                 |
-| :----------------------- | :----------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Bull Rush**            |            +4            |                                Not held, Melee or Distanced                                |             Use Str & Stamina<br>+1Bd per range<br>+1Bd each PHY/AGL >3              | No Attack<br>+4/-2 knock-down, hit locations 1-3 = guts, 3-6 = chest | Win or lose:<br>Free up to two forward Step boosts and must end Up Close<br>+ free Grab & Hold reaction performed as a boost<br>(unless losing & knocked down or worse) |
-| **Attack**               |            +2            |                                                                                            |                                         -1Rd                                         |       + no Defend or Block boosts<br>+/- 1 knock-down modifier       |                                                                     + option to move forward 1 step                                                                     |
-| **Feint Attack**         |            -2            |                                 Not held<br>Only alt turns                                 |                                      2Rd<br>2Ad                                      |                    All weapons as Limited Damage                     |                                                                            + a free reaction                                                                            |
-|                          |                          |                                                                                            |                                                                                      |                                                                      |                                                                                                                                                                         |
-| **Stand ground**         |           n/a            |                                            n/a                                             |                                         1Ad                                          |                        +1 Knock-down defense                         |                                                                            No Move reactions                                                                            |
-|                          |                          |                                                                                            |                                                                                      |                                                                      |                                                                                                                                                                         |
-| **Defend**               | Defending loses momentum |                                     Req. a prop/weapon                                     |                                    Wpn size in Ad                                    |      No Attack<br>Use Weapon or Shield weight for Reactions<br>      |                                                                            No Move reactions                                                                            |
-| **Evade**                |            -2            |           Not held/holding or ≥ Knocked-down<br>Nor in Heavy Armor or Encumbered           |                          Oppose with Athletics<br>-1Rd<br>                           |            No Attack<br>Opponent misses on Evade success             |                                                                  + free reaction Move<br>(Win or Lose)                                                                  |
-| **Recover**              |            -4            |                    Not held/holding<br>Nor in Heavy Armor or Encumbered                    |                            Oppose witOh Athletics<br>-1Rd                            |            No Attack<br>If winner recover 2 K-d steps<br>            |                                     + free reaction move or mount a horse<br>(or equivalent) if not ≥knocked-down<br>(win or lose)                                      |
-| **Unarmed Grapple**      |            0             |                                       From Up Close                                        | Oppose with Str & Stamina<br>- if vs armed opponent 2Rd<br>- if holding opponent 1Bd |                                                                      |                                                              A Free Grapple 'triple' reaction<br>(Winner)                                                               |
-|                          |                          |                                                                                            |                                                                                      |                                                                      |                                                                                                                                                                         |
-| **Split 2nd/3rd Attack** |            -4            | For any second engagement<br>2nd AGL >3 & trained in skill<br>3rd AGL >4 & expert in skill |                       **1st +2 Rd<br>2nd +6 Rd<br>3rd +8 Rd**                        | Lose momentum ties<br>(Rd pool reduces effective AGL for reactions)  |                                                                              Lose momentum                                                                              |
+| Stance                   |  1st turn momentum Mod  |                                         Conditions                                         |                                    Roll Modifiers                                    |                                   Limts/Benefits                                   |                                                                               Outcome                                                                                |
+| :----------------------- | :---------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Bull Rush**            |           +4            |                            Not held<br>From Melee or Distanced                             |             Use Str & Stamina<br>+1Bd per range<br>+1Bd each PHY/AGL >3              |        No Attack<br>+4/-2 knock-down, hit locations 1-3 = guts, 3-6 = chest        | Win or lose:<br>One or two forward steps (free) & must end “Up Close”<br>+ free Grab & Hold reaction performed as a boost<br>(unless losing & knocked down or worse) |
+| **Aggressive**           |           +2            |                                                                                            |                                         -1Rd                                         |              + no Defend or Block boosts<br>+/- 1 knock-down modifier              |                                                                   + option to move forward 1 step                                                                    |
+| **Attack**               |            0            |                                                                                            |                                         n/a                                          |                                                                                    |                                                                                                                                                                      |
+| **Feint Attack**         |           -2            |                                 Not held<br>Only alt turns                                 |                                      2Rd<br>2Ad                                      |                           All weapons as Limited Damage                            |                                                                          + a free reaction                                                                           |
+|                          |                         |                                                                                            |                                                                                      |                                                                                    |                                                                                                                                                                      |
+| **Stand ground**         |           -1            |                                            n/a                                             |                                         1Ad                                          |                               +1 Knock-down defense                                |                                                                          No Move reactions                                                                           |
+|                          |                         |                                                                                            |                                                                                      |                                                                                    |                                                                                                                                                                      |
+| **Defend**               | Defender loses momentum |                                     Req. a prop/weapon                                     |                         Oppose with Wpn<br>& Wpn size in Ad                          | Roll on skill<br>No Damage on Win<br>Use Weapon or Shield weight for Reactions<br> |                                                                                                                                                                      |
+| **Evade**                |           -2            |  Not held/holding or ≥ Knocked-down<br>Nor in Heavy Armor or Encumbered or with 3pt wound  |                              Oppose with Athletics<br>                               |                   No Attack<br>Opponent misses on Evade success                    |                                                                + free reaction Move<br>(Win or Lose)                                                                 |
+| **Recover**              |           -4            |                    Not held/holding<br>Nor in Heavy Armor or Encumbered                    |                            Oppose witOh Athletics<br>-1Rd                            |                   No Attack<br>If winner recover 2 K-d steps<br>                   |                                    + free reaction move or mount a horse<br>(or equivalent) if not ≥knocked-down<br>(win or lose)                                    |
+| **Unarmed Grapple**      |            0            |                                       From Up Close                                        | Oppose with Str & Stamina<br>- if vs armed opponent 2Rd<br>- if holding opponent 1Bd |                                                                                    |                                                             A Free Grapple 'triple' reaction<br>(Winner)                                                             |
+|                          |                         |                                                                                            |                                                                                      |                                                                                    |                                                                                                                                                                      |
+| **Split 2nd/3rd Attack** |           -4            | For any second engagement<br>2nd AGL >3 & trained in skill<br>3rd AGL >4 & expert in skill |                       **1st +2 Rd<br>2nd +6 Rd<br>3rd +8 Rd**                        |        Lose momentum ties<br>(Rd pool reduces effective AGL for reactions)         |                                                                            Lose momentum                                                                             |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 --- 

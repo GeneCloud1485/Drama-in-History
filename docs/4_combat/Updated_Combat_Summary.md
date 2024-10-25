@@ -170,6 +170,7 @@ Which modify the main opposed roll and outcomes
 | Heavy/Power 4           |                                | plus 2(+) wound pts           |
 | Very Heavy/Power 5      |                                | plus 3(+) wound pts           |
 | Extremely Heavy/Power 6 |                                | plus 4(+) wound pts           |
+
 ### Use of Drama Points in Combat
 Drama points can be spent to trigger additional free trip level boosts or reactions. They can be used to stack or over-stack individual reactions or to trigger multiple reactions. 
 
