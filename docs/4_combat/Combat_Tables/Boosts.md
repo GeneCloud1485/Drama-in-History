@@ -8,12 +8,12 @@ Triple <= AGL
 | Name                 | Condition                                                              | Outcome                                                                                                                          |
 | -------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Lucky Sixes**      | If ≥3 '6's rolled<br>(either party)<br>Not limited by AGL or PHY       | 1 + 1 success per LUCK point spent<br>(e.g. spending a 2pt LUCK 'wound' = +3 successes)                                          |
-| **Bash**             | If <u>BASH</u> capable weapon or Mid or Large shield<br>-> Winner only | +2 to knock-down value                                                                                                           |
-| **Defend**           | If Weapon or Shield<br>-> either loser or winner                       | Convert any <u>unused</u> 'Double+'s from main pool into successful Armor points<br>OR<br>+1 to knock-down defense per 'double+' |
-| **Impale**           | If at Distance & wpn has <u>Impaling Thrust</u><br>-> Winner only      | Add 1(+) wound pt                                                                                                                |
 | **Target**           | If winner                                                              | Adjust hit location by 1                                                                                                         |
 | **Step**             |                                                                        | Move 1 step forward or backwards during opposed roll phase (before reactions)                                                    |
 | **Keep at distance** | If at Melee or Extended range, with a thrusting weapon                 | Hold opponent at current distance                                                                                                |
+| **Bash**             | If <u>BASH</u> capable weapon or Mid or Large shield<br>-> Winner only | +2 to knock-down value                                                                                                           |
+| **Defend**           | If Weapon or Shield<br>-> either loser or winner                       | Convert any <u>unused</u> 'Double+'s from main pool into successful Armor points<br>OR<br>+1 to knock-down defense per 'double+' |
+| **Impale**           | If at Distance & wpn has <u>Impaling Thrust</u><br>-> Winner only      | Add 1(+) wound pt                                                                                                                |
 | Feint                | ??                                                                     |                                                                                                                                  |
 
 # Common PHY Boosts
