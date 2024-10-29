@@ -45,8 +45,11 @@ Examples
 	1. Can be taken from any state, no addition modifiers
 2. Sighted shot
 	1. Can be added from Ready or Zone, modifiers apply
+	2. Target must be visible
 3. Aimed shot
 	1. Can only be taken from Zone, modifiers apply
+	2. Target must be visible, or target point selected
+		1. If target appears nearby, then change target Rd added to the aim bonus
 
 ### Actions per Beat
 Asm = Action Speed modifier
@@ -56,32 +59,49 @@ Asm = Action Speed modifier
 - Option to trigger Response Actions 
 - Or complete Beat
 
-| Non-Triggering Actions | State                     | Modifiers/Outcome                           |
-| ---------------------- | ------------------------- | ------------------------------------------- |
-| Steel Nerves           | Unsettled to Ready        |                                             |
-| Get Eye In/Take breath | From Ready to in Zone     |                                             |
-| Intimidate             | to Ready                  | Comp Reputation +/- 1Rd to opponent         |
-| Persuade               | no change                 | TBC time taken too long<br>-> extend beats? |
-| Aim prepared gun       | From Ready/Zone to aiming | aimed state                                 |
-| Hands up               |                           |                                             |
-|                        |                           |                                             |
+| Non-Triggering Actions | Duration | State                     | Modifiers/Outcome                           |
+| ---------------------- | -------- | ------------------------- | ------------------------------------------- |
+| Steel Nerves           | Beat     | Unsettled to Ready        |                                             |
+| Get Eye In/Take breath | Beat     | From Ready to in Zone     |                                             |
+| Intimidate/threaten    | Min 2    | to Ready                  | Comp Reputation/10 +/- 1Rd to opponent      |
+| Persuade               | Min 2    | no change                 | TBC time taken too long<br>-> extend beats? |
+| Aim prepared gun       | Beat     | From Ready/Zone to aiming | aimed state                                 |
+| Hands up               | Beat     |                           |                                             |
+|                        |          |                           |                                             |
 
 | Perform Dramatic Action |     |
 | ----------------------- | --- |
 
-| Actions                  | Trigger<br>Option? | Action<br>Asm | Response<br>Asm | Shot <br>Modifier | If 1st 'shot'<br>Opponent |
-| ------------------------ | ------------------ | ------------- | --------------- | ----------------- | ------------------------- |
-| Fire a drawn gun         | Yes                | +4            | +2              |                   |                           |
-| Quick Draw & fire        | Yes                | +2            | +1              | +3Rd              |                           |
-| Draw & fire              | Yes                | 0             | -2              | +1Rd              |                           |
-| Draw/Ready, sight & fire | Yes                | -2            | -4              | 1Bd + 1Rd         |                           |
-|                          |                    |               |                 |                   |                           |
-| Dive for cover           | Yes                | 0             | -2              |                   | +2Rd                      |
-| 'Cover' up               | Yes                |               |                 |                   |                           |
-| Draw & hold/sight        | Yes                |               |                 |                   |                           |
+| Actions                                                                    | Duration       | Trigger<br>Option? | Action<br>Asm | Response<br>Asm | Shot <br>Modifier |
+| -------------------------------------------------------------------------- | -------------- | ------------------ | ------------- | --------------- | ----------------- |
+| <u>Shot Actions</u>                                                        |                |                    |               |                 |                   |
+| Fire a drawn gun                                                           | Quick          | Yes                | +4            | 0               |                   |
+| Quick Draw & fire                                                          | Quick          | Yes                | +2            | -2              | +3Rd              |
+| Draw & fire                                                                | Full           | Yes                | 0             | -4              | +1Rd              |
+| Draw/Ready, sight & fire                                                   | Full           | Yes                | -2            | -6              | 1Bd + 1Rd         |
+| Sight and fire a drawn gun                                                 | Full           | Yes                | 2             | -2              | -1Rd              |
+|                                                                            |                |                    |               |                 |                   |
+| <u>Movement Actions</u>                                                    |                |                    |               |                 |                   |
+| Lean from cover, fire drawn                                                | Quick movement | Yes                | -2            | -6              | +2Rd              |
+| Dive for cover                                                             | Min 2 beats    | Yes                | +2            | -2              | 4Rd               |
+| Stand-up from prone                                                        | Full           | Yes                | -2            | -6              | 2Rd               |
+| Spin to face target                                                        | Full           |                    | 0             | -4              | 2Rd               |
+| Move into full cover from partial                                          | Quick          |                    | -2            |                 |                   |
+| Movement combined with action                                              | Full           |                    | -4            |                 |                   |
+|                                                                            |                |                    |               |                 |                   |
+| <u>Secondary Quick Actions</u>                                             |                |                    |               |                 |                   |
+| Addition of a Quick action to a Beat action                                |                |                    | -2            |                 |                   |
+| Drawn/ready, change to close target point & fire                           | Quick          |                    | 0             | -4              | +2Rd              |
+| Drawn/ready, change to further target point & fire                         | Quick          |                    | -2            | -6              | +4Rd              |
+| Snap 2nd shot (if wpn supports)<br>Only possible with another Quick Action | Quick          |                    | -4            |                 | +2Rd              |
+|                                                                            |                |                    |               |                 |                   |
+| Draw & hold/sight                                                          | Full           | Yes                | 0             | -2              |                   |
 
-// note: reactions are 2Asm slower
+// note: Response actions are 4Asm slower
 
+==TBD -> Each Beat can include Movement, a Full action and additional Quick action(s)
+
+2nd shot Asm = Prior action Asm - modifier
 
 
 #### Response Action
@@ -117,27 +137,29 @@ Asm = Action Speed modifier
 #### Situation Modifiers
 ##### Range, Target & Conditions
 
-|       Situation        |    -2Rd     |     0      |            2 Rd             |         4 Rd         |     6 Rd      |  8 Rd   |
-| :--------------------: | :---------: | :--------: | :-------------------------: | :------------------: | :-----------: | :-----: |
-|         Range          | Point Blank |   Close    |            Short            |         Mid          |     Long      |   Far   |
-|       Visibility       |             |   Clear    | Mist/Glare<br>(≥ mid range) |      Rain/Dusk       | Fog/Near Dark |  Dark   |
-|      Target Move       |             | Stationary |         Walk/Moving         | Dash/<br>Zig Zagging |      Run      | Gallop  |
-|     Size of Target     |   ≥Large    |   Torso    |        Small Target         |         Head         |  Bull's Eye   |         |
-| Wind <br> Physical Wpn |             |   Light    |           Modest            |        Strong        |     Storm     | Extreme |
-| Wind <br> Powered Wpn  |             |            |   Strong<br>(≥ mid range)   |        Storm         |    Extreme    |         |
-|    Changing Target     |             |            |           Nearby            |   Far<br>or Aimed    |               |         |
+|                        Situation                        |    -2Rd     |     0      |          2 Rd           |      4 Rd       |        6 Rd         |   8 Rd     |
+| :-----------------------------------------------------: | :---------: | :--------: | :---------------------: | :-------------: | :-----------------: | :--------: |
+|                          Range                          | Point Blank |   Close    |          Short          |       Mid       |        Long         |    Far     |
+| Visibility<br>≥ mid range<br>reduce Rd each step closer |             |   Clear    |       Mist/Glare        |    Rain/Dusk    |    Fog/Near Dark    |    Dark    |
+|               Movement<br>Shooter/Target                |             | Stationary |     Walk<br>Moving      |   Jog<br>Dive   | Dash<br>Zig Zagging | Run/Gallop |
+|                     Size of Target                      |   ≥Large    |   Torso    |      Small Target       |      Head       |     Bull's Eye      |            |
+|                 Wind <br> Physical Wpn                  |             |   Light    |         Modest          |     Strong      |        Storm        |  Extreme   |
+|                  Wind <br> Powered Wpn                  |             |            | Strong<br>(≥ mid range) |      Storm      |       Extreme       |            |
+|                     Changing Target                     |             |            |         Nearby          | Far<br>or Aimed |                     |            |
 
 ##### Under fire
 > been shot at in the <u>last</u> round
 
-- A shot which hits or is net 0 or -1 counts as direct fire
-- A shot which misses at a net -2 or more counts as indirect fire
+- A shot which hits or is net 0 counts as direct fire
+- A shot which misses at a net -1 or -2 or more counts as indirect fire
+- A shot which misses at -3 or more, provides no suppression effect
 
 | Situation                    | Modifier                |
 | ---------------------------- | ----------------------- |
 | Each wound <u>this</u> round | WOUND Rd                |
 | Under direct fire            | (6 - Nerve) Rd          |
 | Under indirect fire          | (4 - Nerve) Rd<br>Max 0 |
+| KO'ed this action            | 2X Wound Rd             |
 > note: for subsequent rounds, the Rd of the wound adds in as a condition. But doesn't count in the turn it happens.
 
 #### Semi & Auto Fire
@@ -177,8 +199,8 @@ Damage is calculated as
 | Name            | Condition                                                             | Benefit                                                                                 |
 | --------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | **Lucky Sixes** | If ≥3 '6's rolled<br>(either party)<br>No additional pattern required | 1 + 1 success per LUCK point spent<br>(e.g. spending a 2pt LUCK 'wound' = +3 successes) |
-| **Target**      | If successful                                                         | Adjust hit location by 1                                                                |
-| Solid Shot      | if successful                                                         | +2 Knock-down                                                                           |
+| **Target**      | If successful                                                         | Adjust hit location by 1(+)<br>(logical not numbers)                                    |
+| Solid Shot      | if successful                                                         | +2(+) Knock-down                                                                        |
 
 ### Additional Wound Points
 
@@ -237,19 +259,20 @@ Triple <= Power
 ### Missile Common Reactions
 Triple <= AGL
 
-| Name                        | Condition          | Benefit                                              |
-| --------------------------- | ------------------ | ---------------------------------------------------- |
-| Hold Aim                    | If aiming          | Improve into next shot -1Rd<br>(on top of aim bonus) |
-| Free sighting               |                    | +1Bd on next shot                                    |
-| Next shot/action            |                    | Move up step on the action order                     |
-| Move/Step                   |                    | Make a short move                                    |
-| Use Cover                   | If cover available | 2Ad while in cover                                   |
-| Duck into Cover             |                    | 4Ad while in cover<br>2Rd on next (immediate) action |
-| Recover footing             |                    | 1 step of Knock-down                                 |
-| Quick action                |                    |                                                      |
-| Punch/Strike<br>Pistol whip | If at Up Close     | Inflict 1pt wound<br>+ if next shot is quick, +2Rd   |
-| Change target               |                    | -2Rd                                                 |
-| Calm Nerves                 |                    | +1 Nerve next shot                                   |
+| Name                        | Condition          | Benefit                                                 |
+| --------------------------- | ------------------ | ------------------------------------------------------- |
+| Hold Aim                    | If aiming          | Improve into next shot -1(+)Rd<br>(on top of aim bonus) |
+| Free sighting               |                    | +1(+)Bd on next shot                                    |
+| Next shot/action            |                    | Move up step on the action order                        |
+| Move/Step                   |                    | Make a short move                                       |
+| Use Cover                   | If cover available | 2Ad while in cover                                      |
+| Duck into Cover             |                    | 4Ad while in cover<br>2Rd on next (immediate) action    |
+| Recover footing             |                    | 1 step of Knock-down                                    |
+| Quick Action: Snap shot     |                    | -0(+)Rd                                                 |
+| Quick action                |                    |                                                         |
+| Punch/Strike<br>Pistol whip | If at Up Close     | Inflict 1pt wound<br>+ if next shot is quick, +2Rd      |
+| Change target               |                    | free quick action, (no modifier)                        |
+| Calm Nerves                 |                    | +1 Nerve next shot                                      |
 
 ### Trained/Expert Reactions
 Triple <= AGL

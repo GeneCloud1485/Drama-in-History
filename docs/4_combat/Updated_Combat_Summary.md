@@ -33,7 +33,7 @@ Stance represents the approach, tactic and intent of a combatant in that round. 
 - Outcome is a action/condition on the result of the rolls
 	- Next Round is an effect which carries over into next round
 
-[[Approach_Stances]]
+[[Actions]]
 
 ## Momentum
 - Compare ACTION speeds
@@ -195,15 +195,16 @@ Winner deals damage = Successes + Wound Pts - opponent's Armor Dice successes
 ### Establishing Hit Location
 
 - widest, lowest number
+- ignore 6s
 
 | Widest # | Location        | Modifier                                                                       |
 | :------: | :-------------- | :----------------------------------------------------------------------------- |
-|    6     | Head            | Knock-down easier (+1)<br>Any ≥2 wound adds +1<br>(e.g a 2 becomes 3 pt wound) |
-|    5     | Arm             | Knock-down harder (-1)                                                         |
-|    4     | Chest/Shoulders | Any ≥4 wound adds +1<br>(e.g a 4 becomes 5 pt wound)                           |
+|    5     | Head            | Knock-down easier (+1)<br>Any ≥2 wound adds +1<br>(e.g a 2 becomes 3 pt wound) |
+|    4     | Leg             | Knock-down easier (+2)                                                         |
 |    3     | Guts            | Knock-down easier (+1)                                                         |
-|    2     | Leg             | Knock-down easier (+1)                                                         |
-|    1     | Winged          | max 1pt wound inficted, no knock-down                                          |
+|    2     | Chest/Shoulders | Any ≥3 wound adds +1                                                           |
+|    1     | Arm             | Knock-down harder (-1)<br>Limited Damage (1 or 2 successes = 1pt)              |
+
 
 ### Fumbled Failures
 
@@ -220,7 +221,13 @@ If <u>negative two (-2) net successes</u> look at the Lowest, Widest pattern for
 |   1    | **Strike self**                          | 2pt wound no armor | 1pt wound no armor |    1pt wound     |
 |        |                                          |                    |                    |                  |
 
-TBC
+==TBC
+
+Missile fumbles
+
+- Misfire
+- Jam
+- Powder burn
 ### Wounds
 
 | Flesh | Light<br>Wounds | Medium<br>Wounds | Serious<br>Wounds | Mortal |
