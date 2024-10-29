@@ -14,7 +14,7 @@ layout: default
 	2. [Pool](/docs/3_mechanics/pool_tests.md)
 	4. [Optional](/docs/3_mechanics/optional_mechanics.md)
 6. [Combat](/docs/4_combat/Updated_Combat_Summary.md)
-	1. [Approach Stances](Actions.md)
+	1. [Actions](Actions.md)
 	2. [Boosts](/docs/4_combat/Combat_Tables/Boosts.md)
 	3. [Ladders](/docs/4_combat/Combat_Tables/Ladders.md)
 	4. [Reactions](/docs/4_combat/Combat_Tables/Reactions.md)

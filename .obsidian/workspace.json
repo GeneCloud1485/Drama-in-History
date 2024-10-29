@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4_combat/Archive/Test.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "index"
             }
           }
         ],
@@ -203,9 +203,9 @@
   },
   "active": "0be60056932819eb",
   "lastOpenFiles": [
+    "docs/4_combat/Archive/Test.md",
     "docs/4_combat/Updated_Combat_Summary.md",
     "docs/4_combat/Missile_Combat.md",
-    "docs/4_combat/Archive/Test.md",
     "docs/4_combat/Combat_Tables/Actions.md",
     "docs/4_combat/wounds_fever.md",
     "docs/4_combat/Archive/wip_combat.md",
