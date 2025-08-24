@@ -10,21 +10,21 @@
 	- 1st round, and then winner keeps
 	- Breaks ties
 	- Reverse order of stance choices in subsequent rounds
-- Stances (tactic)
+- Approach (tactic)
 - Distance (positioning)
 - Rolls...
 	- Net Successes
 	- Boosts
-	- Reactions
 	- Additional Damage
 	- Locations
 - Outcomes
+	- Reactions
 	- Shield/Armor
 	- Damage
 	- Knock-downs
 
 # Summaries
-## Approach & Combat Stance
+## Approach (or Combat Stance)
 Stance represents the approach, tactic and intent of a combatant in that round. Each person selects a stance each combat round, in the 1st round based on lowest AGL declaring 1st. In subsequent rounds, reverse momentum order.
 - 1st Turn Momentum modifier -> when calculating momentum in the 1st turn use this modifier
 - Conditions -> requirements to allow the use of the Stance
@@ -33,7 +33,7 @@ Stance represents the approach, tactic and intent of a combatant in that round. 
 - Outcome is a action/condition on the result of the rolls
 	- Next Round is an effect which carries over into next round
 
-[[Actions]]
+[[Approaches (intent)]]
 
 ## Momentum
 - Compare ACTION speeds
@@ -118,7 +118,7 @@ Dice can only be used <u>once</u> during a round for the following;
 - Patterns at or under <u>AGL</u> can be used for <u>Reactions</u>, the size of the pattern depends on the weapon type
 	- ==Trained & accomplished== fighters can use patterns at ≤AGL+1
 	- ==Expert== fighters can use patterns at up to ≤AGL+2
-- Doubles+ of fives or less can be used as additions to come Reactions outcome results e.g. Double Feint
+- Doubles+ of fives or less can be used as additions to some Reactions outcome results e.g. Double Feint
 - Smaller patterns can be combined to create Larger patterns e.g. two 'Doubles' can be used to count as a 'Triple'
 
 <u>Having a large Resistance dice</u> (Rd) <u>pool</u> will reduce the combatant's AGL for generating dice patterns
@@ -135,12 +135,12 @@ Each Boost, Additional Damage or Reaction can only <u>be used ONCE per round.</u
 
 #### Boost & Reaction pattern requirements
 
-| Melee Weapon Type        | Pattern up to max AGL |
-| :----------------------- | :-------------------: |
-| V. Heavy                 |        'quad+'        |
-| Heavy                    |   'trips+' at AGL-1   |
-| Medium/Improvised        |        'trip+'        |
-| Light/Athletics/Brawling |       'double+'       |
+| Melee Weapon Type        | Pattern up to max AGL | Nudges to Trips |
+| :----------------------- | :-------------------: | --------------- |
+| V. Heavy                 |        'quad+'        | 0               |
+| Heavy                    |   'trips+' at AGL-1   | 0               |
+| Medium/Improvised        |        'trip+'        | 1               |
+| Light/Athletics/Brawling |       'double+'       | 2               |
 
 ### Opposed Pool Common Boosts
 Which modify the main opposed roll and outcomes
@@ -200,10 +200,10 @@ Winner deals damage = Successes + Wound Pts - opponent's Armor Dice successes
 | Widest # | Location        | Modifier                                                                       |
 | :------: | :-------------- | :----------------------------------------------------------------------------- |
 |    5     | Head            | Knock-down easier (+1)<br>Any ≥2 wound adds +1<br>(e.g a 2 becomes 3 pt wound) |
-|    4     | Leg             | Knock-down easier (+2)                                                         |
-|    3     | Guts            | Knock-down easier (+1)                                                         |
-|    2     | Chest/Shoulders | Any ≥3 wound adds +1                                                           |
-|    1     | Arm             | Knock-down harder (-1)<br>Limited Damage (1 or 2 successes = 1pt)              |
+|    4     | Leg             |                                                                                |
+|    3     | Guts            | Knock-down easier (+1)<br>Any ≥2 wound adds +1                                 |
+|    2     | Chest/Shoulders | Any ≥3 wound adds +2                                                           |
+|    1     | Arm             | Knock-down harder (-1)<br>Limited Damage (1,2 or 3 successes = 1pt)            |
 
 
 ### Fumbled Failures
@@ -240,8 +240,8 @@ Missile fumbles
 |   8   |        4        |        3         |         3         |   10   |
 
 ### Knocked-Back, knocked-Down, Knocked-Over, Knocked-Flat, Knocked-Out
-- <u>Knock-down</u> is Strength + successes + modifiers from stance or reactions - Rd pool modifier
-- <u>Knock-down defense</u> is <u>average</u> of defender's Phy and Agl (round down) + modifiers (stance, reactions, location) - Rd pool modifier
+- <u>Knock-down</u> is Physical + successes + modifiers from stance or reactions
+- <u>Knock-down defense</u> is <u>average</u> of defender's Phy and Agl (round down) + modifiers (stance, reactions, location) +/- Rd pool modifier
 
 - Rd Pool Modifier = Check the highest, widest dice pool pattern;
 	- If even +1 (including if zero Rd)
@@ -258,22 +258,37 @@ Missile fumbles
 
 - Any knock-back down the ladder includes moving a single distance apart.
 	1. **Knocked-back** (reeling)
-		1. 2Rd
+		1. Lose momentum
 		3. No other penalties
-	2. **Knocked-down** (staggered)
+	2. **Knocked-back** (staggered)
+		1. 2Rd
+		2. No other penalties
+	3. **Knocked-down** (to knees)
 		1. 4Rd
 		3. No movement reactions in the turn moved into knock-down
-	3. **Knocked-over** (floored)
+	4. **Knocked-over** (floored)
 		1. 6Rd
 		2. No movement reactions or counterattack reactions
 		3. Take 1 wound pt, not blocked by Armor
-	4. **Knocked-flat** (winded)
+	5. **Knocked-flat** (winded)
 		1. 6Rd
 		2. Take <u>one</u> 1 wound point injury, not blocked by Armor
 		3. No movement or any reactions
-	5. **Knocked-out** (KO) (only use if knocked-out from normal or knocked-back, as a result of one move. i.e. isn't used if knocked back from Knocked-down)
+	6. **Knocked-out** (KO) (only use if knocked-out from normal or knocked-back, as a result of one move. i.e. isn't used if knocked back from Knocked-down)
 		1. Knocked-out
-		3. Take <u>two</u> 1 wound pt injuries, not blocked by Armor
+		2. Take <u>two</u> 1 wound pt injuries, not blocked by Armor
+
+
+| Step | Name                                                                      | Consequence                                                                                          |
+| ---- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1    | Knocked-back: Reeling                                                     | 1. Lose Momentum<br>2. No other penalties                                                            |
+| 2    | Knocked-back: Staggered                                                   | 1. 2Rd<br>2. No other penalties                                                                      |
+| 3    | Knocked-down: To knees                                                    | 1. 4Rd<br>2. No movement reactions in turn moved to knees                                            |
+| 4    | Knocked-over: Floored                                                     | 1. 6Rd<br>2. No movement or counterattack reactions<br>3. Take 1pt Flesh wound, not blocked by armor |
+| 5    | Knocked-flat: Winded                                                      | 1. 6Rd<br>2. No movement or any Reactions<br>3. Take 1pt Flesh wound, not blocked by armor           |
+| 6    | Knocked-out: KO<br>Only use if moved to KO from <br>step ≤3 in one action | 1. Knocked out<br>2. Take <u>two</u> 1pt Flesh wounds, not blocked by armor                          |
+
+
 
 - Recovering from knock-back 
 	- One step recovered per turn (the penalty applied is in part the distraction to recover)
@@ -399,11 +414,12 @@ Each combatant can be on the ladder at the same time - both parties can be held 
 1. **Unheld**
 	1. No effect
 2. **Held**
-	1. Partial hold which attracts a 2Rd disadvantage
+	1. Partial hold
 	2. Both parties can be Held
 	3. Holding requires 1+ free hand
+	4. Limits some movement & approach
 3. **Restrained**/Lock
-	1. Firmly held with a 4Rd disadvantage
+	1. Firmly held with a 2Rd disadvantage
 4. **Overpowered**
 	1. Held with a 4Rd disadvantage
 	2. And at a minimum Knocked-Back effect (a further 2Rd)
@@ -423,6 +439,8 @@ Changes in position on the ladder only come as a result of a Stance or Reaction.
 ## Westerns
 ### Quarter Horse
 Renowned for its temperament, the Quarter Horse originally comes from America and its origin traces back to the 1600’s. The name derives from the fact that the Quarter Horse was originally raced over a quarter of a mile. It was bred by crossing Arab, Barb and Turk breeds with English Horses, especially the Thoroughbred, to form a compact, heavily muscled horse.
+
+chestnut, sorrel, black, brown, gray, bay, palomino, buckskin, cremello, perlino, white, dun, red dun, grullo, red roan, bay roan and blue roan
 
 Middleweight horse
 ### Broncos

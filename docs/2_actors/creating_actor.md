@@ -120,15 +120,15 @@ Any doubles in the Aging Rd pool, equate to a drop in an attribute by -1.
 
 | Age Band | Which Attributes | Fixed Gain | nBd Base | Aging P or A | Aging M or S |
 | :------- | :--------------: | :--------: | :------: | :----------: | :----------: |
-| Child    |       PAMS       |     3      |   2Bd    |     1Rd      |      0       |
-| Juvenile |       PAMS       |     3      |   2Bd    |     1Rd      |      0       |
+| Child    |       PAMS       |     2      |   2Bd    |     1Rd      |     2Rd      |
+| Juvenile |       PAMS       |     2      |   3Bd    |     1Rd      |     2Rd      |
 | Youth    |       PAMS       |     2      |   3Bd    |     2Rd      |      0       |
-| Prime    |       PAMS       |     2      |   2Bd    |     2Rd      |      0       |
+| Prime    |       PAMS       |     2      |   3Bd    |     2Rd      |      0       |
 | Adult    |       PAMS       |     1      |   2Bd    |     2Rd      |      0       |
-| Mature   |       PAMS       |            |   2Bd    |     2Rd      |      0       |
+| Mature   |       PAMS       |            |   1Bd    |     2Rd      |      0       |
 | Veteran  |        MS        |            |   1Bd    |      -1      |     1Rd      |
 | Senior   |        MS        |            |   1Bd    |      -1      |     2Rd      |
-| Aged     |        MS        |            |   1Bd    |      -2      |     2Rd      |
+| Aged     |        MS        |            |   1Bd    |      -2      |     3Rd      |
 | Elderly  |        -         |            |     0    |      -2      |     4Rd      |
 
 > E.g. Juvenile = 3 + 2Bd {6,4} for a total of 4 pts

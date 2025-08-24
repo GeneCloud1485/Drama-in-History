@@ -154,12 +154,12 @@ Asm = Action Speed modifier
 - A shot which misses at a net -1 or -2 or more counts as indirect fire
 - A shot which misses at -3 or more, provides no suppression effect
 
-| Situation                    | Modifier                |
-| ---------------------------- | ----------------------- |
-| Each wound <u>this</u> round | WOUND Rd                |
-| Under direct fire            | (6 - Nerve) Rd          |
-| Under indirect fire          | (4 - Nerve) Rd<br>Max 0 |
-| KO'ed this action            | 2X Wound Rd             |
+| Situation                    | Modifier                 |
+| ---------------------------- | ------------------------ |
+| Each wound <u>this</u> round | WOUND Rd                 |
+| Under direct fire            | (6 - Nerve) Rd           |
+| Under indirect fire          | (4 - Nerve) Rd <br>Min 0 |
+| KO'ed this action            | 2X Wound Rd              |
 > note: for subsequent rounds, the Rd of the wound adds in as a condition. But doesn't count in the turn it happens.
 
 #### Semi & Auto Fire

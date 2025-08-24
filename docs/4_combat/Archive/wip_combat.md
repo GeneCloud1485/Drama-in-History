@@ -105,7 +105,7 @@ layout: default
 | Range | Type  | Modifier | Outcome                         |     |
 | :---- | :---- | :------- | :------------------------------ | --- |
 | PB    | Heavy | 2Bd      | +2 Knock-down if gut/chest/head |     |
-| Close | Mid   | 4Bd      | +1 Knock-down if gut/chest/head |     |
+| Close | Mid   | -2Rd     | +1 Knock-down if gut/chest/head |     |
 | Mid   | Light | **4Rd**  | -1 Knock-down                   |     |
 | Long  | Light | **6Rd**  | -2 Knock-down                   |     |
 | Far   | Imp   | 8Rd      | -3 Knock-down                   |     |
@@ -122,12 +122,12 @@ layout: default
 - Number of hits caused is >1 [TBD could be a natural product of large rolls and high type]
 - Protection from blast based on position
 
-| Power | Type |Modifier <br> & Outcome <br> PB | <br><br> Close | <br><br> Mid| <br><br> Long | 
-| :--- | :--- |:----|:----|:----|:----|
-| 1-2 | 6Bd | Light | **2Rd**| **6Rd**| X|
-|3-4 | 10Bd |Mid |Light|**4Rd**|X|
-|5-10 | 14Bd |Heavy |Mid|Light **4Rd**|X|
-|10+ | 18Bd |V Heavy |Heavy|Mid **4Rd**|Light **8Rd**|
+| Power | Type | Modifier <br> & Outcome <br> PB | <br><br> Close | <br><br> Mid  | <br><br> Long |     |
+| :---- | :--- | :------------------------------ | :------------- | :------------ | :------------ | --- |
+| 1-2   | 6Bd  | Light                           | **2Rd**        | **6Rd**       | X             |     |
+| 3-4   | 10Bd | Mid                             | Light          | **4Rd**       | X             |     |
+| 5-10  | 14Bd | Heavy                           | Mid            | Light **4Rd** | X             |     |
+| 10+   | 18Bd | V Heavy                         | Heavy          | Mid **4Rd**   | Light **8Rd** |     |
 
 Knock-down power modifier by Range
 
@@ -149,7 +149,7 @@ Knock-down power modifier by Range
 > 2 net successes, no quads = 2pt wound to one of the target's arms
 > Knock-down power is 9 + 2 successes - 4 for range - 1 for target's arm = 6, likely to disadvantage the target
 
-> If that same target had been at Mid range, with the same roll
+> If that same target had been at Close range, with the same roll
 ![[Pasted image 20231031194040.png]]
 > 3 net successes, a trip = +1 wound pt = 4pt wound to the target's arm
 > Target marks a 3pt wound, plus another 1pt and is downed, as they don't have another 3pt Flesh slot available

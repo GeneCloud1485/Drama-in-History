@@ -1,0 +1,42 @@
+
+[Back to the Index](https://genecloud1485.github.io/Drama-in-History/)
+
+# Boosts
+
+> Note: #Boosts are based on raw rolls before any die nudges are applied (as they are AGL based) all dice 'used' by Boosts are not available for #Reactions.
+> Generally Boosts will be applied to the Winner of the roll, a few Boosts can be used in defense.
+
+# Common Boosts
+Triple <= PHY
+
+| Name                           | Condition                                                              | Outcome                                                                                                                          |
+| ------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Lucky Sixes**                | If ≥3 '6's rolled<br>(either party)<br>Not limited by AGL or PHY       | 1 + 1 success per LUCK point spent<br>(e.g. spending a 2pt LUCK 'wound' = +3 successes)                                          |
+| **Target**                     | If winner                                                              | Adjust hit location by 1(+)                                                                                                      |
+| **Bash**                       | If <u>BASH</u> capable weapon or Mid or Large shield<br>-> Winner only | +2(+) to knock-down value                                                                                                        |
+| **Defend**<br>~Winner or Loser | If Weapon or Shield                                                    | Convert any <u>unused</u> 'Double+'s from main pool into successful Armor points<br>OR<br>+1 to knock-down defense per 'double+' |
+| **Impale**                     | If at Distance & wpn has <u>Impaling Thrust</u><br>-> Winner only      | Add 1(+) wound pt                                                                                                                |
+| Brace<br>~Winner or Loser      |                                                                        | +2(+) Kd defense                                                                                                                 |
+|                                |                                                                        |                                                                                                                                  |
+| Wound                          | Improv/Unarmed Wpn/Power 1                                             | plus 0(+) wound pt, max +2 pt                                                                                                    |
+| Wound                          | Light Wpn/Power 2                                                      | plus 0(+) wound pt                                                                                                               |
+| Wound                          | Mid Wpn/Power 3                                                        | plus 1(+) wound pts                                                                                                              |
+| Wound                          | Heavy/Power 4                                                          | plus 2(+) wound pts                                                                                                              |
+| Wound                          | Very Heavy/Power 5                                                     | plus 3(+) wound pts                                                                                                              |
+| Wound                          | Extremely Heavy/Power 6                                                | plus 4(+) wound pts                                                                                                              |
+
+# Trained+ Boosts
+Triple <= PHY
+
+| Name                                    | Condition                                                                                                                                      | Outcome                                                                                                                                                                                                                  |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Double Feint**                        | If <u>Feint Attack</u> stance, and Mid or lighter weapon                                                                                       | Convert any unused 'double'+ into a success<br>Max once per round                                                                                                                                                        |
+| **Stop Charge**                         | If <u>Standing Ground</u> or <u>Brace for Fight</u>, with a weapon & grip which can Impaling Thrust, and opponent uses Press Attack or Furious | Convert any unused 'double'+ into a success<br>Max once per round                                                                                                                                                        |
+| **Crushing Blow**                       | If winner's weapon has <u>Crush</u> capability                                                                                                 | Add an additional 1(+) pt wound, which isn't blocked by armor.<br>(larger pattern allows greater damage)                                                                                                                 |
+| **Blind Shoulder**                      | If at Melee, and <u>Expert</u> trained wielder, with Flowing Strikes or Master Cut capable weapon<br>Cause mis-direction.                      | Gain 0+ successes<br>Max once per round                                                                                                                                                                                  |
+| **Disarm**                              | If Opponent has <u>negative successes</u> (net) & a knock-back successful                                                                      | Disarm opponent instead of knock-back                                                                                                                                                                                    |
+| **Twist the Blade**                     | If winner's weapon has a blade                                                                                                                 | 0+ additional wound points                                                                                                                                                                                               |
+| <u>Unarmed/Grapple Boost</u>            |                                                                                                                                                |                                                                                                                                                                                                                          |
+| **Throw**                               | If Up Close, <u>Grappling, and already Held</u><br>-> Winner only instead of any regular knock-down                                            | If Physical + grapple successes +/- Rd patterns<br>≥2X Knock-down defense +/- Rd patterns, throw opponent directly to Knocked-Flat.<br>≥4X+ Knock-down defense +/1 Rd patterns, thrown opponent directly to Knocked-Out. |
+| Block                                   | If Up Close or Melee vs Unarmed attack                                                                                                         | Fully blocks a single unarmed attack                                                                                                                                                                                     |
+

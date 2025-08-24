@@ -8,63 +8,80 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a43a2ab3cf634be5",
+            "id": "fafb89c4c8c44fbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "docs/4_combat/Missile_Combat.md",
-                "mode": "source",
-                "source": false
+                "file": "Combat Flow.canvas",
+                "viewState": {
+                  "x": 151,
+                  "y": -196.5,
+                  "zoom": -0.19063201891097542
+                }
               },
-              "icon": "lucide-file",
-              "title": "Missile_Combat"
+              "icon": "lucide-layout-dashboard",
+              "title": "Combat Flow"
             }
           },
           {
-            "id": "b9a66ded56ff757e",
+            "id": "4b459374b01eca8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4_combat/Updated_Combat_Summary.md",
-                "mode": "source",
+                "file": "docs/4_combat/Combat_Tables/Approaches (Aug 2025).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Updated_Combat_Summary"
+              "title": "Approaches (Aug 2025)"
             }
           },
           {
-            "id": "5288474caa9e7140",
+            "id": "b17a3f61b96347e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/4_combat/Combat_Tables/Actions.md",
+                "file": "docs/2_actors/creating_actor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actions"
+              "title": "creating_actor"
             }
           },
           {
-            "id": "0be60056932819eb",
+            "id": "6650bfbcf2a72048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "docs/4_combat/Combat_Tables/Advantages (Aug 2025).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advantages (Aug 2025)"
+            }
+          },
+          {
+            "id": "44ca38d936eb7db2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/4_combat/Combat_Tables/Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Weapons"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "knock down defense",
+                "query": "Block",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +118,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -193,6 +211,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -201,45 +220,51 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0be60056932819eb",
+  "active": "b17a3f61b96347e5",
   "lastOpenFiles": [
-    "docs/4_combat/Archive/Test.md",
-    "docs/4_combat/Updated_Combat_Summary.md",
-    "docs/4_combat/Missile_Combat.md",
-    "docs/4_combat/Combat_Tables/Actions.md",
-    "docs/4_combat/wounds_fever.md",
-    "docs/4_combat/Archive/wip_combat.md",
-    "docs/4_combat/Archive/Combat Summary.md",
-    "docs/4_combat/Combat_Tables/Reactions.md",
-    "docs/4_combat/Archive",
-    "docs/4_combat/Combat_Tables/Weapons.md",
-    "docs/4_combat/Combat_Tables/Boosts.md",
-    "docs/4_combat/Combat_Tables/Ladders.md",
-    "index.md",
-    "docs/1_concepts/Quick.md",
-    "docs/2_actors/creating_actor.md",
-    "docs/4_combat/Combat_Tables/Expert Fighting Styles.md",
-    "docs/4_combat/Archive/combat_v1.md",
-    "docs/3_mechanics/optional_mechanics.md",
-    "docs/1_concepts/1.0_concepts.md",
     "docs/2_actors/actor_stats.md",
+    "docs/4_combat/Streamlining Combat (May & June 2025).md",
+    "docs/4_combat/Combat_Tables/Approaches (Aug 2025).md",
+    "docs/4_combat/Combat_Tables/Weapons.md",
+    "docs/4_combat/Combat_Tables/Advantages (Aug 2025).md",
+    "Combat Flow.canvas",
+    "docs/4_combat/Archive/Updated_Combat_Summary.md",
+    "docs/4_combat/Missile_Combat.md",
+    "Weapons.pdf",
+    "Advantages.pdf",
+    "Approaches (july 2025).pdf",
+    "Streamlining Combat (May & June 2025).pdf",
+    "docs/4_combat/Archive/Approaches (intent).md",
+    "docs/5_director/The Bargain Director and Actors.md",
+    "docs/4_combat/Archive/Boosts.md",
+    "x_Combat Tests/NoBody & NoBody vs Tom.md",
+    "x_Combat Tests",
+    "docs/4_combat/Archive/Reactions.md",
+    "x_Combat Tests/Æthelwold vs Tom.md",
+    "img/Pasted image 20250617194906.png",
+    "img/Pasted image 20250617194807.png",
+    "img/Pasted image 20250617194756.png",
+    "img/Pasted image 20250617165134.png",
+    "x_Combat Tests/NoBody vs NoBody.md",
+    "img/Pasted image 20250617160934.png",
+    "img/Pasted image 20250617160852.png",
+    "img/Pasted image 20250617160850.png",
+    "x_Combat Tests/John vs Tom with momentum & updated armor.md",
+    "img/72687.png",
+    "img/Pasted image 20250616164158.png",
+    "img/Pasted image 20250616163818.png",
+    "x_Combat Tests/Tom and Dan take on Little John at Hathersage.md",
+    "x_Combat Tests/Tom, Dan and John v3.md",
+    "x_Combat Tests/Archived Approach tables.md",
+    "x_Combat Tests/Tom & Dan take on Little John take 2.md",
+    "x_Combat Tests/Little John vs Tom take 2.md",
+    "x_Combat Tests/Test Combat Example Two - Little John vs Sheriff's Man.md",
+    "x_Combat Tests/Test Combat Example.md",
     "docs/5_director/directors_advice.md",
-    "docs/3_mechanics/base_test_mechanics.md",
-    "img/70732.png",
-    "docs/3_mechanics/pool_tests.md",
-    "docs/3_mechanics/social_encouters.md",
-    "docs/4_combat/Combat_Tables",
-    "docs/5_director/Reference.md",
-    "docs/1_concepts/Quick Summary.md",
-    "docs/2_actors/the_cast.md",
-    "img/Pasted image 20240324083451.png",
-    "img/Pasted image 20231202151026.png",
-    "img/Pasted image 20231031195242.png",
-    "img/Pasted image 20231031194040.png",
-    "img/Pasted image 20231031193254.png",
-    "img/Pasted image 20231031192521.png",
-    "img/Pasted image 20231017193255.png",
-    "img/Pasted image 20220723115529.png",
-    "img/Pasted image 20231016200210.png"
+    "docs/2_actors/skill_list.md",
+    "docs/1_concepts/March 2025 Update.md",
+    "docs/4_combat/Combat_Tables/Expert Fighting Styles.md",
+    "docs/4_combat/Archive",
+    "docs/4_combat/Combat_Tables"
   ]
 }
