@@ -13,12 +13,16 @@
 > <u>Wound points</u> = the damage caused
 > <u>Grip</u> = some weapons can be held and used in different ways. A Grip determines the effective reach and weight of the weapon as well as the special effects which it can trigger. e.g. a cutlass could be used 'at guard' grip for 'Melee' distance and as a 'Heavy' weapon, or at a 'pommel' grip for use 'Up Close', and as a 'Light' weight blow.
 
-> Momentum -> 1/2 round up...
+> Momentum -> M0 = win draws, M1 means +1Bd to pool, M2 +2Bd
 > Stagger
+> Actions -> max number of Actions per round = AGL (main roll is 1 action, all other Advantage labeled as actions or Parry's count as actions) Option to take an additional 1 action but adds +1 stagger to self
 
 
 Missile is Unopposed, resolved in Speed sequence
 - Range, target size and movement plus conditions represent the Rd 'effective opposition'
+
+Physical thrown weapons have a min PHY requirement, damage is dropped 1 level for PHY which is less than needed
+
 
 
 # Sequence
@@ -33,7 +37,8 @@ Missile is Unopposed, resolved in Speed sequence
 	3. Establishing who has **Momentum**, if narrative doesn't determine, then calculate combined speed to determine momentum order
 		1. Highest speed wins momentum
 		2. Ties to Actors
-2. Each opponent declares their **Approach** for the round
+2. **Recover** 1 stagger step per round as free action
+3. Each opponent declares their **Approach** for the round
 	1. Declare in speed order or the order which makes sense for the narrative
 	2. Establishing who has **Momentum**, if narrative doesn't determine
 		1. Speed + Approach modifier
@@ -69,24 +74,24 @@ Missile is Unopposed, resolved in Speed sequence
 
 `Table of Approaches`
 
-[[Approaches (july 2025).pdf]]
-
+[[Approaches (Aug 2025)]]
 
 TBD where movement is blocked, e.g. already up close, but someone moves away and you have a pre-move step. Should not lose the step, keep asking until everyone has nothing remaining or both skip.
 
 All momentum changes are applied immediately
 Opponent causes no specials -> crush/cut etc. Evade effectively puts the opponents at a reach which doesn't allow specials...
+When a 'free' optional action is taken it still counts towards the Action limit for a turn
 
 >> add a line to explain the goal and risk/reward for each approach
 
 `Positioning/Range Modifier table`
 
-| <br>At chosen Grip<br>Weapon Reach | Up Close Range | Melee Distance | At Distance Range |
-| :--------------------------------- | :------------: | :------------: | :---------------: |
-| Unarmed                            |      n/a       |    **4Rd**     |      **6Rd**      |
-| Up Close                           |      n/a       |     *1Rd*      |      **4Rd**      |
-| Melee                              |     *2Rd*      |      n/a       |       *2Rd*       |
-| Distanced                          |    **4Rd**     |     *2Rd*      |        n/a        |
+| <br>At chosen Grip<br>Weapon Reach | Up Close | Melee Distance | At Distance | One Step <br>Beyond | Beyond<br>Reach |
+| :--------------------------------- | :------: | :------------: | :---------: | :-----------------: | :-------------: |
+| Unarmed                            |    --    |    **4Rd**     |   **6Rd**   |         n/a         |       n/a       |
+| Up Close                           |    --    |     *1Rd*      |   **4Rd**   |         n/a         |       n/a       |
+| Melee                              |  *2Rd*   |       --       |    *2Rd*    |       **6Rd**       |       n/a       |
+| Distanced                          | **4Rd**  |     *2Rd*      |     n/a     |       **2Rd**       |       n/a       |
 
 # Outcome
 - Calculate Net Successes
@@ -107,47 +112,37 @@ Opponent causes no specials -> crush/cut etc. Evade effectively puts the opponen
 	1. Note: Target Location Advantage can shift the hit location.
 	2. Armor/cover/blockage is determined by coverage on any given location
 2. Calculate wound points inflicted, calculate the steps in this order - ==IN TESTING
-	1. Net Successes TBC
-		1. Weapon 'weight' or 'lethality' translates net successes into wounds
-			1. Unarmed 1-4 successes = 1(+)-3 or (successes-3), min of 1
-			2. Limited 1-3 successes = 1(+)-2 or (successes-2), min of 1
-			3. Light 1-2 successes = 1(+)-1 or (successes-1), min of 1
-			4. Medium 1:1 success = 1(+) 
-			5. High/Heavy = 2(+)
-			6. Very Heavy = 3(+)
-			7. Extreme = 4(+)
-	2. Based damage = stagger value
-	3. Weapon damage
-		1. Unarmed = 0, max 2
+	1. Base damage = stagger value
+	2. Weapon damage
+		1. Unarmed = 0
 		2. Limited = 0
-		3. Limited = 1
+		3. Light = 1
 		4. Mid = 2
 		5. Heavy = 3
 		6. V Heavy = 4
 		7. Extreme = 5
-	4. Plus Special Impacts damage bonus
+	3. Plus Special Impacts damage bonus
 		1. ≥Pair of 5's or 6's can trigger special weapon damage when a weapon is used at its effective reach
-	5. Apply Hit Location modifiers
+	4. Apply Hit Location modifiers
 3. Reduce by any Block pts
-	1. 
-	2. Roll Ad
+	1. Roll Ad
 		1. Note: Parry or Defend Advantages can modify the Ad pool
-	3. Add any modifiers from Approach outcome
-	4. Reduce Wound inflicted by total Block
+	2. Add any modifiers from Approach outcome
+	3. Reduce Wound inflicted by total Block
 4. Net result is the number of wound points inflicted
 
-#### Hit Location Table
+==EDITED OUT Net Successes TBC not required, as the 5/6 successes will generate more outcomes in the Special category. A mix of 5/6 will generate less outcome than a wider 5 or 6, but that might be ok.
+	1. Weapon 'weight' or 'lethality' translates net successes into wounds
+		1. Unarmed 1-4 successes = 1(+)-3 or (successes-3), min of 1
+		2. Limited 1-3 successes = 1(+)-2 or (successes-2), min of 1
+		3. Light 1-2 successes = 1(+)-1 or (successes-1), min of 1
+		4. Medium 1:1 success = 1(+) 
+		5. High/Heavy = 2(+)
+		6. Very Heavy = 3(+)
+		7. Extreme = 4(+) 
 
-|     Widest #     | Location                     | Modifier                                                                                                                                              |
-| :--------------: | :--------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                  |                              | Notes: exclude Unarmed blows from additional wound pts                                                                                                |
-| .<br>5 or 6<br>. | <br>Chest<br>& Shoulders<br> | If width of 6's ≥triple +1(++) wound pts & <br>If width of 5's ≥triple +1(+) wound pts<br>If impact ≥3 then +Stagger(+)                               |
-|   .<br>4<br>.    | <br>Head                     | If width of 4's ≥triple +2(+) wound pts +additional Stagger<br>If impact ≥3 before armor then +Stagger(++)<br>If impact ≥opponent's Flesh Bd, then KO |
-|   .<br>3<br>.    | <br>Guts                     | If width of 3's ≥triple +1(++) wound<br>If impact ≥2 before armor then +Stagger(+)                                                                    |
-|   .<br>2<br>.    | <br>Legs                     | If width of 2's ≥triple +1(++) wound pts & Impale/Cut/Cleave capable weapon & grip<br>If impact ≥4 then + Stagger(+)                                  |
-|   .<br>1<br>.    | <br>Arm                      | Apply <u>max</u> weapon as Medium Damage (1 = 1)<br>Any stagger inflicted reduced by 1 step                                                           |
-Stagger impact from hit location is determined
-- If wound ≥X before armor, AND wound after armor ≥0 then +stagger(+)
+#### Hit Location Table
+[[Damage Inflicted (Aug 2025)]]
 
 #### Weapon Special Impacts
 
@@ -157,35 +152,16 @@ Stagger impact from hit location is determined
 - And when a wound is inflicted before the application of the special TBC
 - Generate's **persistent** Rd associated with wounds
 
-| Special                       | Wound & Persistent Rd Effects                                                                                 | None or<br>Soft/Light                       | Chain or<br>Padded Armor                 | Hard or<br>Solid Protection                      |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------------------------------- | ------------------------------------------------ |
-| <u>≥Pair</u> 5's or 6's       | ==If >0 wound inflicted TBC==                                                                                 | <u>Soft</u>                                 | <u>Flexible</u>                          | <u>Hard</u>                                      |
-| .<br>**Crush**<br>.<br>       | <br>Broken/cracked/chipped bone [2Rd]                                                                         | <br>2(+)Rd                                  | <br>2(+)Rd                               | <br>1(+)Rd                                       |
-| .<br>**Impale**<br>.          | <br>[+1(+) Wound pt]<br>Weapon stuck - Advantage needed to pull out [0(+)Rd]                                  | <br>1(+) Wound pt<br>0(+)Rd stuck           | <br>1(+) Wound pt<br>1(+)Rd stuck        | <br>0(+) Wound pt<br>--                          |
-| .<br>**Stab**<br>.            |                                                                                                               | <br>1 Wound pt<br>1(+)Rd                    | <br>1 Wound pt<br>1(+)Rd                 | <br>1Rd                                          |
-| .<br>**Cut & Slash**<br>.     | <br>Persistent large cut/scar [1(+)Rd]                                                                        | <br>1(+) Wound pt<br>1(+)Rd                 | <br>0(+) Wound pt<br>1(+)Rd              | <br>--<br>0(+)Rd                                 |
-| .<br>**Cleave**<br>.          | <br>Deep cut, or severed...<br>...digit/ear/toe(on a Trip), hand/nose(on Quad), <br>arm/leg(Quin), head!(TBC) | <br>1(++)Rd                                 | <br>1(+)Rd                               | <br>0(+)Rd                                       |
-| .<br>**Stinger**<br>.         | <br>Damaged nerve/impaired<br>**If head** hit 2(+) Stagger                                                    | <br>0(+)Rd                                  | <br>0(+)Rd<br>max 1Rd                    | <br>--                                           |
-| .<br>**Bash**<br>.            | <br>Stagger 0(+)                                                                                              | <br>Stagger 0(+)                            | <br>Stagger 0(+)                         | <br>Stagger 0(+)                                 |
-| .<br>**Impact** (bullet)<br>. | <br>6's Bleed<br>5's Crush                                                                                    | <br>6's: 1(+) Wound pt<br>5's: 2(+)Rd Crush | <br>6's: 1(+) Wound pt<br>5's: 2Rd Crush | Stagger 1(+) &<br>6's: 0(+) Wound pt<br>5's: 1Rd |
-| .<br>Entangle<br>.            |                                                                                                               |                                             |                                          |                                                  |
-| .<br>**Parry**<br>.           | <br>Use weapon/shields parry without an advantage at (Ad)+<br>(<u>once</u> per round)                         |                                             |                                          |                                                  |
-| .<br>Wrestle (grapple)<br>.   | <br>                                                                                                          | <br>Grapple 1(+)                            | <br>Grapple 1(+)                         | <br>Grapple 1(+)                                 |
+[[Damage Inflicted (Aug 2025)]]
+
+
 > TBD should a weapon effect be applied even if you lose the opposed roll? This will make combat more messy & maybe quicker
 
 If wound damage -> breaks, bruises etc equal Flesh Bd = KO
 #### Stagger Ladder
 > Staggered is a progression, from Off-balance to KO'ed
 
-| Staggers |    Stage    | Modifier |  Status  | Special Notes                                                                                 |
-| :------: | :---------: | :------: | :------: | --------------------------------------------------------------------------------------------- |
-|    0     |   Normal    |    --    | On Feet  |                                                                                               |
-|    1     | Off-balance |   1Rd    | On Feet  |                                                                                               |
-|    2     |   Reeling   |   2Rd    | On Feet  |                                                                                               |
-|    3     |  On Knees   | 2Rd/-2Rd | On Knees | Could be bracing, or doubled over<br>(same status and modifier)                               |
-|    4     |   Floored   | 3Rd/-3Rd | On Floor |                                                                                               |
-|    5     |   Winded    | 4Rd/-4Rd | On Floor | Only move to Winded if starting Off of the Floor<br>Unable to Recover footing in next action. |
-|    6     |    KO'd     |          |          | Only if starting Off of the Floor                                                             |
+[[Ladders (Aug 2025)]]
 
 - Outcomes can include +Stagger 
 - Staggers are cumulative over the course of round
@@ -210,7 +186,7 @@ If wound damage -> breaks, bruises etc equal Flesh Bd = KO
 
 ### Recovery
 - Recovering from Stagger
-- You can trade momentum for recovering from stagger
+- You can[[trade momentum for recovering from stagger
 - Penalty for each stage
 
 # Advantages
@@ -244,7 +220,7 @@ If <u>negative two (-2) net successes</u> look at the Lowest, Widest pattern for
 Once held or holding... Grapple Approach can be chosen
 
 
-- What opposes what
+- ==What opposes what, doesn't matter... but results determine which action wins... TBD
 - Symmetric test
 	- TBC is an opposed roll with net successes being used as grapple points = an opposed test unlike melee combat TBC
 - Asymmetric tests
@@ -278,7 +254,7 @@ Held opponents can't use any grip apart from an Up Close (which means no Melee g
 #### Grapple Ladder
 Each combatant can be on the ladder at the same time - both parties can be held and attempting to restrain the other.
 
-1. **Unheld**
+1. **Un-held**
 	1. No effect
 2. **Held**
 	1. Partial hold
@@ -287,7 +263,8 @@ Each combatant can be on the ladder at the same time - both parties can be held 
 	4. Holding requires 1+ free hand
 	5. Takes an Advantage (Grab & Hold)
 	6. Limits some movement & approaches
-	7. Can be broken with enough Grapple points to overcome stagger difference
+	7. When someone is 1st held, their stagger is reduced by 1 step if they are on their feet (stagger ≤3)
+	8. Can be broken with enough Grapple points to overcome stagger difference
 3. **Grappled**
 	1. Firmly held with a 4Rd disadvantage
 	2. Holder also has a 4Rd disadvantage on actions other than Grapple
@@ -310,26 +287,53 @@ Each combatant can be on the ladder at the same time - both parties can be held 
 		2. And at a minimum Knocked-Back effect (a further 2Rd)
 		3. If also Actor who is overpowered is also holding their opponent, reduce by current grapple status on opponent by 1 step (this can mean the hold is released)
 	3. Option to **Strangle**
-		1. Physical X2 pts needed to be applied
+		1. Max Flesh X2 pts needed to be applied
 		2. If Head location locked
 		3. Knocked-out
 		4. Option to complete the job...
 
 
+. Pin arms/grab arm/weapon?
+. Should breaking a grapple break hold? or an additional -1G needed?
+. When grappled, stagger mods cap at 4Rd for Grapple
+
+- an additional 1G break = release hold
+- Effects of overpower last beyond any release
+-
+
+|                                              |
+| -------------------------------------------- |
+| Grapple causes 'grapple' damage              |
+| At stagger + stagger difference + specials   |
+| If Grapple ≥4 held -> grappled               |
+| If Grapple ≥8 held -> Outcome                |
+| Resistance can push the value back down      |
+| Advantages can push up                       |
+| Damage caused changes Grapple by damage done |
+
+
 
 # Misc Question
 
+### Damage & Armor
+==... Is damage generated from successes + weapon -> rolled vs armor? (Streets of Peril?)
 
 
 Grapple vs Weapon/Ranged
 Melee vs Ranged
 
 Multiple Combatants
-- You can save/use Advantages from on combat in the other
+- You can save/use Advantages from one combat in the other
 	- e.g. triggering a Parry vs an unopposed 2nd opponent
 
 TBD - how to soften the impact of unarmed vs limited Flesh points?
 
+## Ramp
+White dice 5/6 -> Red dice 4/5/6 -> Black dice 4/5/6++
+- Capped at 6 dice
+- Trained +2
+- Expert +2
+- Elite +2
 
 ## Momentum
 
@@ -340,8 +344,7 @@ Momentum adds current momentum to successes, but capped by skill/training
 - Trained = max 2
 - Expert = max 3
 
-Using momentum as a currency rather than always accumulating? then it becomes a hold your luck mechanic...
-1,2,3,4,5,6 = +1 momentum?
+
 
 Should there be a reach modifier for the length of weapon even at the effective distances -> maybe modifying momentum
 
@@ -353,8 +356,6 @@ How to reflect the targeted capabilities and weakness of weapons
 - Use Luck to save from death
 	- 3Rd Cheated Death - 3 month recovery
 	- Note: knock on into the Skills... 
-
-- Actors get a free Advantage -> allowing for more specials, more parry/blocks etc
 
 # Armor updated vs 5's & 6's
 
@@ -406,7 +407,7 @@ More recovery in the approaches.
 ---
 
 
-| Combat Ranges |          |       |           |           |       |     |      |     |
-| ------------- | :------: | :---: | :-------: | :-------: | :---: | :-: | :--: | :-: |
-| **Ranges**    |    PB    |  PB   |    PB     |   Close   | Short | Mid | Long | Far |
-| **Reach**     | Up Close | Melee | Distanced | Beyond... |       |     |      |     |
+| Combat Ranges |          |       |           |                 |           |       |     |      |     |
+| ------------- | :------: | :---: | :-------: | :-------------: | :-------: | :---: | :-: | :--: | :-: |
+| **Ranges**    |    PB    |  PB   |    PB     |       PB        |   Close   | Short | Mid | Long | Far |
+| **Reach**     | Up Close | Melee | Distanced | One Step Beyond | Beyond... |       |     |      |     |

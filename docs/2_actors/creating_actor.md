@@ -122,8 +122,8 @@ Any doubles in the Aging Rd pool, equate to a drop in an attribute by -1.
 | :------- | :--------------: | :--------: | :------: | :----------: | :----------: |
 | Child    |       PAMS       |     2      |   2Bd    |     1Rd      |     2Rd      |
 | Juvenile |       PAMS       |     2      |   3Bd    |     1Rd      |     2Rd      |
-| Youth    |       PAMS       |     2      |   3Bd    |     2Rd      |      0       |
-| Prime    |       PAMS       |     2      |   3Bd    |     2Rd      |      0       |
+| Youth    |       PAMS       |     2      |   3Bd    |     1Rd      |      0       |
+| Prime    |       PAMS       |     2      |   3Bd    |     1Rd      |      0       |
 | Adult    |       PAMS       |     1      |   2Bd    |     2Rd      |      0       |
 | Mature   |       PAMS       |            |   1Bd    |     2Rd      |      0       |
 | Veteran  |        MS        |            |   1Bd    |      -1      |     1Rd      |

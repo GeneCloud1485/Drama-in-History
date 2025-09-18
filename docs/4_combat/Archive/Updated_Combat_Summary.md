@@ -347,7 +347,7 @@ A Limited Damage weapon does 1 Wound pt for 1 or 2 net successes, 3 or more succ
 - Winning with 2 net successes causes 1 wound + any wound modifiers. 
 - Winning with 3 net successes causes 3 wounds + any wound modifiers.
 
-[[Weapons]]
+[[Weapons (Aug 2025)]]
 
 ## Shields
 
