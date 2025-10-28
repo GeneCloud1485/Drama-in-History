@@ -13,9 +13,9 @@
 > <u>Wound points</u> = the damage caused
 > <u>Grip</u> = some weapons can be held and used in different ways. A Grip determines the effective reach and weight of the weapon as well as the special effects which it can trigger. e.g. a cutlass could be used 'at guard' grip for 'Melee' distance and as a 'Heavy' weapon, or at a 'pommel' grip for use 'Up Close', and as a 'Light' weight blow.
 
-> Momentum -> M0 = win draws, M1 means +1Bd to pool, M2 +2Bd
-> Stagger
-> Actions -> max number of Actions per round = AGL (main roll is 1 action, all other Advantage labeled as actions or Parry's count as actions) Option to take an additional 1 action but adds +1 stagger to self
+> <u>Momentum</u> -> M0 = win draws, M1 means +2Bd & 1Rd to pool, M2 +4Bd & 2Rd to pool
+> <u>Stagger</u>
+> <u>Actions</u> -> max number of Actions per round = AGL (main roll is 1 action, all other Advantage labeled as actions or Parry's count as actions) Option to take an additional 1 action but adds +1 stagger to self
 
 
 Missile is Unopposed, resolved in Speed sequence
@@ -142,7 +142,7 @@ When a 'free' optional action is taken it still counts towards the Action limit 
 		7. Extreme = 4(+) 
 
 #### Hit Location Table
-[[Damage Inflicted (Aug 2025)]]
+[[Damage Inflicted (Oct 2025)]]
 
 #### Weapon Special Impacts
 
@@ -152,7 +152,7 @@ When a 'free' optional action is taken it still counts towards the Action limit 
 - And when a wound is inflicted before the application of the special TBC
 - Generate's **persistent** Rd associated with wounds
 
-[[Damage Inflicted (Aug 2025)]]
+[[Damage Inflicted (Oct 2025)]]
 
 
 > TBD should a weapon effect be applied even if you lose the opposed roll? This will make combat more messy & maybe quicker
