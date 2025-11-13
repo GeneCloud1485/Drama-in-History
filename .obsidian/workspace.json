@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,10 +262,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4e4ec23a2a888054",
+  "active": "44ca38d936eb7db2",
   "lastOpenFiles": [
-    "docs/4_combat/Combat_Tables/Weapons (Aug 2025).md",
     "docs/4_combat/Combat_Tables/Damage Inflicted (Oct 2025).md",
+    "docs/4_combat/Combat_Tables/Weapons (Aug 2025).md",
     "docs/4_combat/Combat_Tables/Approaches (Aug 2025).md",
     "docs/4_combat/Combat_Tables/Situational Modifiers (Sep 2025).md",
     "docs/4_combat/Combat_Tables/Advantages (Aug 2025).md",
