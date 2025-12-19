@@ -2,15 +2,15 @@
 
 1. Wound damage is
 	1. + Base damage
-	2. + Weapon threat damage
-		1. Rolled 6's + Weapon's <u>Threat</u> when at effective reach, (-1)Threat if not at effective reach.
-			1. Unarmed = 0
-			2. limited = +1
-			3. Light = +2
-			4. Mid = +3
-			5. Heavy = +4
-			6. Extreme = +5
-		2. If Rolled 6s + threat ≥Triple then (1+)Wounds
+	2. + Rolled 6's
+	3. + Weapon threat damage
+		1. + Weapon's <u>Threat</u> when at effective reach, (-1)Threat if not at effective reach.
+			1. Unarmed = -2
+			2. limited = -1
+			3. Light = 0
+			4. Mid = 1
+			5. Heavy = 2
+			6. Extreme = 3
 2. + Hit Location determines special outcomes/modifiers
 	1. ≥Triple of location number can trigger special effects
 
