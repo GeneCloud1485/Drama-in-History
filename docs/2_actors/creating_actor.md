@@ -50,42 +50,42 @@ Each actor has inherent boons or flaws which could for formative factors in thei
 
 Roll 2d6 twice to select which common skills are favored or dis-favored. If a common skill is favored and dis-favored, roll the dis-favor again until it doesn't match.
 
-| ...        |     | 1                  | 2                | 3                    | 4                  | 5                | 6   |
-| :--------- | :-- | :----------------- | :--------------- | :------------------- | :----------------- | :--------------- | :-- |
-| Favour     | 1-2 | Strike             | Atheltics        | Circ Movement        | Local Know         | Courtesy         | n/a |
-| Favour     | 2-4 | Brawl              | Throw/Ranged     | Basic Edu            | Awareness          | Influence People | n/a |
-| Favour     | 5-6 | Strength & Stamina | Vocational Skill | Vocational Knowledge | Social Observation | Performance      | n/a |
+| ...        |     |         1          |        2         |          3           |         4          |        5         |  6  |
+| :--------- | :-- | :----------------: | :--------------: | :------------------: | :----------------: | :--------------: | :-: |
+| Favour     | 1-2 |       Strike       |    Atheltics     |    Circ Movement     |     Local Know     |     Courtesy     | n/a |
+| Favour     | 2-4 |       Brawl        |   Throw/Ranged   |      Basic Edu       |     Awareness      | Influence People | n/a |
+| Favour     | 5-6 | Strength & Stamina | Vocational Skill | Vocational Knowledge | Social Observation |   Performance    | n/a |
 |            |     |                    |                  |                      |                    |                  |     |
-| Dis-Favour | 1-2 | Strike             | Atheltics        | Circ Movement        | Local Know         | Courtesy         | n/a |
-| Dis-Favour | 2-4 | Brawl              | Throw/Ranged     | Basic Edu            | Awareness          | Influence People | n/a |
-| Dis-Favour | 5-6 | Strength & Stamina | Vocational Skill | Vocational Knowledge | Social Observation | Performance      | n/a |
+| Dis-Favour | 1-2 |       Strike       |    Atheltics     |    Circ Movement     |     Local Know     |     Courtesy     | n/a |
+| Dis-Favour | 2-4 |       Brawl        |   Throw/Ranged   |      Basic Edu       |     Awareness      | Influence People | n/a |
+| Dis-Favour | 5-6 | Strength & Stamina | Vocational Skill | Vocational Knowledge | Social Observation |   Performance    | n/a |
 
 
 ## Boons
 Roll 2d6 for a Boon, read horizontally for the 1st die result and vertically for the 2nd.
 
-| Boon | Physical                | Agility                | Mental                       | Social                  | Trait         | Strength                             |
-| :--- | :---------------------- | :--------------------- | :--------------------------- | :---------------------- | :------------ | :----------------------------------- |
-| ...  | 1                       | 2                      | 3                            | 4                       | 5             | 6                                    |
-| 1    | Strong as an Ox +1 Phy  | Perfect Balance +1 Agl | Quick Witted +1 Mnt          | Charismatic +1 Soc      | Honest & Fair | Inured to Death                      |
-| 2    | Brawler (DA)            | Steady Hand (DA)       | Scholarly Mind (DA)          | Extravert (DA)          | Abstaining    | Strength: Disease                    |
-| 3    | Striking feature +1 Soc | Healthy -2 Aging       | Good memory for stories (DA) | Empathy (DA)            | Shrewd        | Strength: Pain                       |
-| 4    | Tough looking (DA)      | Natural Horseman (DA)  | Silver Tongue (DA)           | Heard word of God, (DA) | Humble        | Strength: phobia                     |
-| 5    | Great Stamina (DA)      | Acute Hearing (DA)     | Natural Linguist (DA)        | Judge of Character (DA) | Forgiving     | Social Strength Confident in a crowd |
-| 6    | Resilient +1 Flesh      | Lucky +1 Luck          | Strong Fortitude +1          | Calm Composure +1       | Generous      | Strength...in something              |
+| Boon |        Physical         |        Agility         |            Mental            |         Social          |     Trait     |               Strength               |
+| :--- | :---------------------: | :--------------------: | :--------------------------: | :---------------------: | :-----------: | :----------------------------------: |
+| ...  |            1            |           2            |              3               |            4            |       5       |                  6                   |
+| 1    | Strong as an Ox +1 Phy  | Perfect Balance +1 Agl |     Quick Witted +1 Mnt      |   Charismatic +1 Soc    | Honest & Fair |           Inured to Death            |
+| 2    |      Brawler (DA)       |    Steady Hand (DA)    |     Scholarly Mind (DA)      |     Extravert (DA)      |  Abstaining   |          Strength: Disease           |
+| 3    | Striking feature +1 Soc |    Healthy -2 Aging    | Good memory for stories (DA) |      Empathy (DA)       |    Shrewd     |            Strength: Pain            |
+| 4    |   Tough looking (DA)    | Natural Horseman (DA)  |      Silver Tongue (DA)      | Heard word of God, (DA) |    Humble     |           Strength: phobia           |
+| 5    |   Great Stamina (DA)    |   Acute Hearing (DA)   |    Natural Linguist (DA)     | Judge of Character (DA) |   Forgiving   | Social Strength Confident in a crowd |
+| 6    |   Resilient +1 Flesh    |     Lucky +1 Luck      |     Strong Fortitude +1      |    Calm Composure +1    |   Generous    |       Strength...in something        |
 
 ## Flaws
 Roll 2d6 for a Flaw
 
-| Flaw | Physical                                            | Agility                            | Mental                        | Social                         | Trait         | Scar<br>(+1 DP)         |
-| :--- | :-------------------------------------------------- | :--------------------------------- | :---------------------------- | :----------------------------- | :------------ | :---------------------- |
-| ...  | 1                                                   | 2                                  | 3                             | 4                              | 5             | 6                       |
-| 1    | Weak constitution -1Phy                             | Clumsy -1Agl                       | Slow witted -1Mnt             | Displeasing demeanor -1Soc     | Untrustworthy | Scar: Death             |
-| 2    | Physical impairment                                 | Partially sighted 2Rd for distance | Dsylexic 2Rd written tasks    | Gruff/Rude 2Rd on social tests | Indulgent     | Scar: Disease           |
-| 3    | Weak Grip 2Rd Melee wpn skill                       | Two left feet 2Rd dance skills     | Bad with numbers 2Rd          | Illicit Love (bond)            | Brash         | Scar: Ghosts            |
-| 4    | Persistent sickness, aging +2                       | Poor balance 2Rd                   | Unhealthy obsession (passion) | Scar: Religion                 | Proud         | Scar: Phobia            |
-| 5    | Quick to bleed, lose additional Flesh on any wounds | Slow -2 Grit                       | Unstable -1 Fort              | Nervous -2 Composure           | Cruel         | Scar: Introvert         |
-| 6    | Phlegmatic -1 Flesh                                 | Choleric /Unlucky -1 Luck          | Melancholic -1 Fort           | Bleak -1 Comp                  | Greedy        | Harboring a dark secret |
+| Flaw |                      Physical                       |              Agility               |            Mental             |             Social             |     Trait     |     Scar<br>(+1 DP)     |
+| :--- | :-------------------------------------------------: | :--------------------------------: | :---------------------------: | :----------------------------: | :-----------: | :---------------------: |
+| ...  |                          1                          |                 2                  |               3               |               4                |       5       |            6            |
+| 1    |               Weak constitution -1Phy               |            Clumsy -1Agl            |       Slow witted -1Mnt       |   Displeasing demeanor -1Soc   | Untrustworthy |       Scar: Death       |
+| 2    |                 Physical impairment                 | Partially sighted 2Rd for distance |  Dsylexic 2Rd written tasks   | Gruff/Rude 2Rd on social tests |   Indulgent   |      Scar: Disease      |
+| 3    |            Weak Grip 2Rd Melee wpn skill            |   Two left feet 2Rd dance skills   |     Bad with numbers 2Rd      |      Illicit Love (bond)       |     Brash     |      Scar: Ghosts       |
+| 4    |            Persistent sickness, aging +2            |          Poor balance 2Rd          | Unhealthy obsession (passion) |         Scar: Religion         |     Proud     |      Scar: Phobia       |
+| 5    | Quick to bleed, lose additional Flesh on any wounds |            Slow -2 Grit            |       Unstable -1 Fort        |      Nervous -2 Composure      |     Cruel     |     Scar: Introvert     |
+| 6    |                 Phlegmatic -1 Flesh                 |     Choleric /Unlucky -1 Luck      |      Melancholic -1 Fort      |         Bleak -1 Comp          |    Greedy     | Harboring a dark secret |
 
 Adjust or adapt to fit an actor's story if the Director agrees.
 
