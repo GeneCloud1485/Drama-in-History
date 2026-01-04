@@ -7,6 +7,8 @@ layout: default
 
 All Actors are represented by a number of core attributes, currency pools and a list of skills, bonds, traits, scars & strengths and passions.
 
+TEST CHANGE
+
 [Actor Character Sheet](https://docs.google.com/spreadsheets/d/1MlQemuFafaUU84K-_Nkapsf_nrYnwLPwuweegK_m68A/edit?usp=sharing)
 
 # **Four Core Attributes**

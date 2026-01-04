@@ -114,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_actors/actor_stats.md",
+                "file": "0. System_and_Rules (local)/Brawling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "actor_stats"
+              "title": "Brawling"
             }
           }
         ],
@@ -264,9 +264,10 @@
   },
   "active": "4e4ec23a2a888054",
   "lastOpenFiles": [
+    "0. System_and_Rules (local)/A GAP Rules clarifications/Helping GMs to be Directors.md",
+    "docs/2_actors/actor_stats.md",
     "docs/2_actors/creating_actor.md",
     "docs/2_actors/skill_list.md",
-    "docs/2_actors/actor_stats.md",
     "docs/4_combat/Combat_Tables/Damage Inflicted (Oct 2025).md",
     "docs/4_combat/Combat_Tables/Weapons (Aug 2025).md",
     "docs/4_combat/Combat_Tables/Approaches (Aug 2025).md",
@@ -305,7 +306,6 @@
     "x_Combat Tests/Archived Approach tables.md",
     "x_Combat Tests/Tom & Dan take on Little John take 2.md",
     "x_Combat Tests/Little John vs Tom take 2.md",
-    "x_Combat Tests/Test Combat Example Two - Little John vs Sheriff's Man.md",
     "docs/4_combat/Archive",
     "docs/4_combat/Combat_Tables"
   ]
